@@ -1,0 +1,44 @@
+ranking 03, https://github.com/vuejs/vue
+ranking 04, https://github.com/facebook/react
+ranking 05, https://github.com/twbs/bootstrap
+ranking 06, https://github.com/tensorflow/tensorflow
+ranking 15, https://github.com/d3/d3
+trending 02, https://github.com/bloc97/anime4k
+trending 11, https://github.com/home-assistant/home-assistant
+trending 13, https://github.com/gatsbyjs/gatsby
+trending 20, https://github.com/dotnet/core
+trending 23, https://github.com/vlang/v
+END
+
+Selected from trending list first, then ranking.
+
+Reasons for skipping repositories:
+trending 1: tutorial
+trending 3: tutorial
+trending 4: templates
+trending 5: chinese
+trending 6: chinese
+trending 7: chinese / not open source
+trending 8: tutorial
+trending 9: not open source
+trending 11: chinese
+trending 13: chinese
+trending 14: font
+trending 15: tutorial
+trending 16: template
+trending 17: chinese
+trending 18: tutorial
+trending 19: tutorial
+trenidng 21: not open source
+trending 22: chinese
+trending 24: template
+
+ranking 1: tutorial
+ranking 2: (collection of information on employers that do/don't use 996 scheduling)
+ranking 7: book
+ranking 8: list/tutorial
+ranking 9: tutorial
+ranking 11: tutorial
+ranking 12: template
+ranking 13: tutorial
+ranking 14: tutorial
