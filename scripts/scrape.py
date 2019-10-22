@@ -57,7 +57,7 @@ def parse_inline(qualified):
                     continue
                 line = line.replace('```',"'''")
                 merged += [lines[i]]
-            merged += ['```\n']
+            merged += ['\n```\n']
         merged = ''.join(merged)
         return merged
 

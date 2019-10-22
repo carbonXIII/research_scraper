@@ -25,7 +25,9 @@ def onerror(func, path, exc_info):
     Usage : ``shutil.rmtree(path, onerror=onerror)``
     """
     import stat
-    if not os.access(path, os.W_OK):
+    if not os.path.exists(path):
+        pass
+    elif not os.access(path, os.W_OK):
         # Is the error an access error ?
         os.chmod(path, stat.S_IWUSR)
         func(path)

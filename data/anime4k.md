@@ -5,25 +5,25 @@
 
 [- Markdown](#Markdown)
 
-* [_CODE_OF_CONDUCT_md](#_CODE_OF_CONDUCT_md)
-
 * [_FAQ_Detail_md](#_FAQ_Detail_md)
-
-* [_github_ISSUE_TEMPLATE_feature_request_md](#_github_ISSUE_TEMPLATE_feature_request_md)
-
-* [_Upscaling_md](#_Upscaling_md)
 
 * [_GLSL_Instructions_md](#_GLSL_Instructions_md)
 
-* [_HLSL_Instructions_md](#_HLSL_Instructions_md)
+* [_Preprint_md](#_Preprint_md)
+
+* [_CODE_OF_CONDUCT_md](#_CODE_OF_CONDUCT_md)
+
+* [_Upscaling_md](#_Upscaling_md)
 
 * [_Java_Instructions_md](#_Java_Instructions_md)
 
-* [_github_ISSUE_TEMPLATE_bug_report_md](#_github_ISSUE_TEMPLATE_bug_report_md)
-
-* [_Preprint_md](#_Preprint_md)
+* [_github_ISSUE_TEMPLATE_feature_request_md](#_github_ISSUE_TEMPLATE_feature_request_md)
 
 * [_README_md](#_README_md)
+
+* [_github_ISSUE_TEMPLATE_bug_report_md](#_github_ISSUE_TEMPLATE_bug_report_md)
+
+* [_HLSL_Instructions_md](#_HLSL_Instructions_md)
 
 [- Inline](#Inline)
 
@@ -33,47 +33,47 @@
 
 [- Issues](#Issues)
 
-* [25](#25)
-
-* [40](#40)
-
-* [8](#8)
-
-* [12](#12)
-
-* [6](#6)
-
-* [30](#30)
-
-* [31](#31)
+* [9](#9)
 
 * [20](#20)
 
-* [10](#10)
-
-* [35](#35)
-
-* [26](#26)
+* [23](#23)
 
 * [5](#5)
 
+* [6](#6)
+
+* [21](#21)
+
+* [18](#18)
+
+* [33](#33)
+
+* [51](#51)
+
+* [29](#29)
+
+* [46](#46)
+
 [- Pull](#Pull)
 
-* [38](#38)
+* [48](#48)
 
-* [36](#36)
+* [13](#13)
 
 * [39](#39)
 
-* [14](#14)
-
 * [2](#2)
+
+* [38](#38)
 
 * [45](#45)
 
-* [17](#17)
+* [22](#22)
 
-* [37](#37)
+* [27](#27)
+
+* [17](#17)
 
 <!-- toc -->
 
@@ -82,84 +82,6 @@
 A High-Quality Real Time Upscaler for Anime Video
 
 # Markdown
-## _CODE_OF_CONDUCT_md
-```# Contributor Covenant Code of Conduct
-
-## Our Pledge
-
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, sex characteristics, gender identity and expression,
-level of experience, education, socio-economic status, nationality, personal
-appearance, race, religion, or sexual identity and orientation.
-
-## Our Standards
-
-Examples of behavior that contributes to creating a positive environment
-include:
-
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
-
-Examples of unacceptable behavior by participants include:
-
-* The use of sexualized language or imagery and unwelcome sexual attention or
- advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic
- address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
- professional setting
-
-## Our Responsibilities
-
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
-
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
-
-## Scope
-
-This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
-
-## Enforcement
-
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at anime4k.upscale@gmail.com. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
-
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
-
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
-
-[homepage]: https://www.contributor-covenant.org
-
-For answers to common questions about this code of conduct, see
-https://www.contributor-covenant.org/faq
-```
 ## _FAQ_Detail_md
 ```
 ## Why not do PSNR/SSIM on 480p->720p upscaling
@@ -230,50 +152,6 @@ Only each individual can really judge for themselves (not for others) if our alg
 
 Some people prefer sharp lines and don't really mind the pastel painting look that Anime4K sometime produces, while some will certainly despise sharp lines and the pastel look. We're not here to judge the individual, so please do not judge others' taste and keep it civil.
 ```
-## _github_ISSUE_TEMPLATE_feature_request_md
-```---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
-
----
-
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
-
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
-```
-## _Upscaling_md
-```### Note for those who think this is not a 'upscaling' algorithm.
-
-The word you are actually looking for is "interpolation".
-
-No, this algorithm doesn't do any rigorous interpolation. The interpolation step can be done by Nearest-Neighbor, Bilinear, Bicubic or any of your algorithm of choice. It just happens that the better the interpolation algorithm, the better the final results.
-
-However, it seems that when an upscaling algorithm is very complex (xBR or waifu2x), people tend to not care about the definitions and agree that it is somehow "super-resolution" and not a "sharpening" filter. But when the algorithm is extremely simple, like Anime4K in this case, they immediately assume it is a "sharpening" algorithm.  
-
-Somehow "sharpening" is bad but "super-resolution" is good when they are referring to the same thing?
-
-It is important to understand that De-Blurring/Sharpening (in the specific case of gaussian blur) and Super-Resolution are **equivalent** in signal processing. If your algorithm can do one, it can do the other!
-
-A Super-Resolution algorithm can be used to deblur, by first determining the blur factor, downscaling the image accordingly, and applying the SR algorithm.  
-A deblur algorithm can be used to super-resolve, by first upsampling an low resolution image, applying gaussian blur, and applying the deblur algorithm. (This is what Anime4K does!)
-
-Over-sharpening is usually what people associate with "sharpening" algorithms. But, it is not because they are "sharpening" algorithms that they are somehow "bad", it is simply because they are too simple or used for the wrong purpose. In Anime4K's case, we're sacrificing smoothness by introducing some aliasing, but with the benefit of **zero** ringing artifacts. Ringing is much more noticeable compared to aliasing when watching anime on 4K screens.
-
-Just as how unsharp masking can ruin an image with ringing, Anime4K can do the same with aliasing if not used properly. People who don't mind ringing can keep using unsharp masking while those who don't mind aliasing can use Anime4K.
-
-For those commenting around about sharpening = bad, please, do some research before spreading misinformation.
-```
 ## _GLSL_Instructions_md
 ```
 # Usage Instructions (GLSL / MPV)
@@ -286,106 +164,6 @@ For those commenting around about sharpening = bad, please, do some research bef
 5- Add this line to `mpv.conf` to enable the shaders: `glsl-shaders="~~/shaders/Anime4K_Adaptive.glsl"`  
 
 *Unlike HLSL, the GLSL shader can auto-detect the scaling factor and adjust its strength accordingly.*  
-```
-## _HLSL_Instructions_md
-```
-# Usage Instructions (HLSL)
-*If you wish to use another media player, look at their documentation on how to install HLSL shaders and modify the shader accordingly if needed.*
-
-1. Install [**MPC-HC**](https://github.com/clsid2/mpc-hc) or [**MPC-BE**](https://sourceforge.net/projects/mpcbe/) and [madVR](http://madvr.com/) (Optional, but good for quality)
-1. (MPC-HC Only) Enable Full Floating Point Processing or Half Floating Point Processing in [Renderer Settings](https://trac.mpc-hc.org/wiki/New_Renderer_Settings).
-1. Download the .hlsl shader files [**here**](https://github.com/bloc97/Anime4K/releases)  
-1. (MPC-BE Only) Copy the .hlsl files to `%AppData%\MPC-BE\Shaders`  
-1. Add the shaders **(The order is important!)**   
-
-![Step1](results/Step1.png?raw=true)
-
-**Different screen resolutions need different shaders:**  
-Smaller or equal to 1080p  
-'''
--Anime4K_ComputeLum  
--Anime4K_Push  
--Anime4K_ComputeGradient  
--Anime4K_PushGrad_Weak  
-'''
-Larger than 1080p  
-'''
--Anime4K_ComputeLum  
--Anime4K_Push  
--Anime4K_ComputeGradient  
--Anime4K_PushGrad  
-'''
-
-Note: *Anime4K_Push* is an optional pass that thins lines, it can be removed if the effect is unsatisfactory for certain anime.
-
-![Step2](results/Step2.png?raw=true)
-
-
-### If madVR is installed
-*These are heavy on the GPU, do not use them if rendering times rise above 30ms*  
-
-Settings used for all the comparisons:  
-![Settings1](results/Settings1.png?raw=true)
-
-![Settings1](results/Settings2.png?raw=true)
-```
-## _Java_Instructions_md
-```
-# Usage Instructions (Java)
-
-1- Install Java JDK 12.  
-2- Build the jar with the maven source project using the appropriate cmd/shell script.  
-3- Run as administrator this command `java -jar Anime4K.jar input.png output.png` for 2x scale  
-
-Available parameters:  
-`java -jar Anime4K.jar [File_In] [File_Out] (Scale) (Push_Grad_Strength) (Push_Strength)`  
-
-Default Scale: `2`  
-Default Push_Grad_Strength: `Scale / 2`  
-Default Push_Strength: `Scale / 6`  
-
-Examples:  
-`java -jar Anime4K.jar test.png test_upscaled.png 4`  
-`java -jar Anime4K.jar test.png test_upscaled.png 2 0.6 0`  
-`java -jar Anime4K.jar test.png test_upscaled.png 3 1 1`    
-
-Note to developers:
-For faster batch processing please look at Main.java and modify the code so that the Kernel is not re-created for each picture. (Kernel reuse will accelerate processing greatly.)
-```
-## _github_ISSUE_TEMPLATE_bug_report_md
-```---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
----
-
-**Describe the bug**
-A clear and concise description of what the bug is.
-
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. Windows 10]
- - Version [e.g. 0.9]
- - Media Player (If applicable) [e.g. MPC-BE, MPV]
- - Browser (If applicable) [e.g. chrome, safari]
-
-**Additional context**
-Add any other context about the problem here.
 ```
 ## _Preprint_md
 ```
@@ -577,6 +355,151 @@ In conclusion, while our algorithm is very simple, it is also very good at upsca
 ![Upscale Comparison](results/Comparisons/Art_1.png?raw=true)
 
 ```
+## _CODE_OF_CONDUCT_md
+```# Contributor Covenant Code of Conduct
+
+## Our Pledge
+
+In the interest of fostering an open and welcoming environment, we as
+contributors and maintainers pledge to making participation in our project and
+our community a harassment-free experience for everyone, regardless of age, body
+size, disability, ethnicity, sex characteristics, gender identity and expression,
+level of experience, education, socio-economic status, nationality, personal
+appearance, race, religion, or sexual identity and orientation.
+
+## Our Standards
+
+Examples of behavior that contributes to creating a positive environment
+include:
+
+* Using welcoming and inclusive language
+* Being respectful of differing viewpoints and experiences
+* Gracefully accepting constructive criticism
+* Focusing on what is best for the community
+* Showing empathy towards other community members
+
+Examples of unacceptable behavior by participants include:
+
+* The use of sexualized language or imagery and unwelcome sexual attention or
+ advances
+* Trolling, insulting/derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or electronic
+ address, without explicit permission
+* Other conduct which could reasonably be considered inappropriate in a
+ professional setting
+
+## Our Responsibilities
+
+Project maintainers are responsible for clarifying the standards of acceptable
+behavior and are expected to take appropriate and fair corrective action in
+response to any instances of unacceptable behavior.
+
+Project maintainers have the right and responsibility to remove, edit, or
+reject comments, commits, code, wiki edits, issues, and other contributions
+that are not aligned to this Code of Conduct, or to ban temporarily or
+permanently any contributor for other behaviors that they deem inappropriate,
+threatening, offensive, or harmful.
+
+## Scope
+
+This Code of Conduct applies both within project spaces and in public spaces
+when an individual is representing the project or its community. Examples of
+representing a project or community include using an official project e-mail
+address, posting via an official social media account, or acting as an appointed
+representative at an online or offline event. Representation of a project may be
+further defined and clarified by project maintainers.
+
+## Enforcement
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported by contacting the project team at anime4k.upscale@gmail.com. All
+complaints will be reviewed and investigated and will result in a response that
+is deemed necessary and appropriate to the circumstances. The project team is
+obligated to maintain confidentiality with regard to the reporter of an incident.
+Further details of specific enforcement policies may be posted separately.
+
+Project maintainers who do not follow or enforce the Code of Conduct in good
+faith may face temporary or permanent repercussions as determined by other
+members of the project's leadership.
+
+## Attribution
+
+This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
+available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+
+[homepage]: https://www.contributor-covenant.org
+
+For answers to common questions about this code of conduct, see
+https://www.contributor-covenant.org/faq
+```
+## _Upscaling_md
+```### Note for those who think this is not a 'upscaling' algorithm.
+
+The word you are actually looking for is "interpolation".
+
+No, this algorithm doesn't do any rigorous interpolation. The interpolation step can be done by Nearest-Neighbor, Bilinear, Bicubic or any of your algorithm of choice. It just happens that the better the interpolation algorithm, the better the final results.
+
+However, it seems that when an upscaling algorithm is very complex (xBR or waifu2x), people tend to not care about the definitions and agree that it is somehow "super-resolution" and not a "sharpening" filter. But when the algorithm is extremely simple, like Anime4K in this case, they immediately assume it is a "sharpening" algorithm.  
+
+Somehow "sharpening" is bad but "super-resolution" is good when they are referring to the same thing?
+
+It is important to understand that De-Blurring/Sharpening (in the specific case of gaussian blur) and Super-Resolution are **equivalent** in signal processing. If your algorithm can do one, it can do the other!
+
+A Super-Resolution algorithm can be used to deblur, by first determining the blur factor, downscaling the image accordingly, and applying the SR algorithm.  
+A deblur algorithm can be used to super-resolve, by first upsampling an low resolution image, applying gaussian blur, and applying the deblur algorithm. (This is what Anime4K does!)
+
+Over-sharpening is usually what people associate with "sharpening" algorithms. But, it is not because they are "sharpening" algorithms that they are somehow "bad", it is simply because they are too simple or used for the wrong purpose. In Anime4K's case, we're sacrificing smoothness by introducing some aliasing, but with the benefit of **zero** ringing artifacts. Ringing is much more noticeable compared to aliasing when watching anime on 4K screens.
+
+Just as how unsharp masking can ruin an image with ringing, Anime4K can do the same with aliasing if not used properly. People who don't mind ringing can keep using unsharp masking while those who don't mind aliasing can use Anime4K.
+
+For those commenting around about sharpening = bad, please, do some research before spreading misinformation.
+```
+## _Java_Instructions_md
+```
+# Usage Instructions (Java)
+
+1- Install Java JDK 12.  
+2- Build the jar with the maven source project using the appropriate cmd/shell script.  
+3- Run as administrator this command `java -jar Anime4K.jar input.png output.png` for 2x scale  
+
+Available parameters:  
+`java -jar Anime4K.jar [File_In] [File_Out] (Scale) (Push_Grad_Strength) (Push_Strength)`  
+
+Default Scale: `2`  
+Default Push_Grad_Strength: `Scale / 2`  
+Default Push_Strength: `Scale / 6`  
+
+Examples:  
+`java -jar Anime4K.jar test.png test_upscaled.png 4`  
+`java -jar Anime4K.jar test.png test_upscaled.png 2 0.6 0`  
+`java -jar Anime4K.jar test.png test_upscaled.png 3 1 1`    
+
+Note to developers:
+For faster batch processing please look at Main.java and modify the code so that the Kernel is not re-created for each picture. (Kernel reuse will accelerate processing greatly.)
+```
+## _github_ISSUE_TEMPLATE_feature_request_md
+```---
+name: Feature request
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
+```
 ## _README_md
 ```# Anime4K
 
@@ -728,6 +651,83 @@ Anime4K can de-blur, and is equivalent to a SR algorithm.
 A Super-Resolution algorithm can do upscaling.  
 Thus, Anime4K is an upscaling algorithm.
 ```
+## _github_ISSUE_TEMPLATE_bug_report_md
+```---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Desktop (please complete the following information):**
+ - OS: [e.g. Windows 10]
+ - Version [e.g. 0.9]
+ - Media Player (If applicable) [e.g. MPC-BE, MPV]
+ - Browser (If applicable) [e.g. chrome, safari]
+
+**Additional context**
+Add any other context about the problem here.
+```
+## _HLSL_Instructions_md
+```
+# Usage Instructions (HLSL)
+*If you wish to use another media player, look at their documentation on how to install HLSL shaders and modify the shader accordingly if needed.*
+
+1. Install [**MPC-HC**](https://github.com/clsid2/mpc-hc) or [**MPC-BE**](https://sourceforge.net/projects/mpcbe/) and [madVR](http://madvr.com/) (Optional, but good for quality)
+1. (MPC-HC Only) Enable Full Floating Point Processing or Half Floating Point Processing in [Renderer Settings](https://trac.mpc-hc.org/wiki/New_Renderer_Settings).
+1. Download the .hlsl shader files [**here**](https://github.com/bloc97/Anime4K/releases)  
+1. (MPC-BE Only) Copy the .hlsl files to `%AppData%\MPC-BE\Shaders`  
+1. Add the shaders **(The order is important!)**   
+
+![Step1](results/Step1.png?raw=true)
+
+**Different screen resolutions need different shaders:**  
+Smaller or equal to 1080p  
+'''
+-Anime4K_ComputeLum  
+-Anime4K_Push  
+-Anime4K_ComputeGradient  
+-Anime4K_PushGrad_Weak  
+'''
+Larger than 1080p  
+'''
+-Anime4K_ComputeLum  
+-Anime4K_Push  
+-Anime4K_ComputeGradient  
+-Anime4K_PushGrad  
+'''
+
+Note: *Anime4K_Push* is an optional pass that thins lines, it can be removed if the effect is unsatisfactory for certain anime.
+
+![Step2](results/Step2.png?raw=true)
+
+
+### If madVR is installed
+*These are heavy on the GPU, do not use them if rendering times rise above 30ms*  
+
+Settings used for all the comparisons:  
+![Settings1](results/Settings1.png?raw=true)
+
+![Settings1](results/Settings2.png?raw=true)
+```
 # Inline
 ## _web_main_js
 ### Line 120-129
@@ -742,6 +742,7 @@ void main() {
 `;
 
 const lumFrag = `
+
 ```
 ### Line 151-160
 ```
@@ -755,6 +756,7 @@ varying vec2 v_tex_pos;
 vec4 HOOKED_tex(vec2 pos) {
     return texture2D(u_texture, pos);
 }
+
 ```
 ### Line 199-208
 ```
@@ -768,6 +770,7 @@ vec4 HOOKED_tex(vec2 pos) {
 	float minLight = min3v(tl, t, tr);
 	
 	if (minLight > cc.a && minLight > maxDark) {
+
 ```
 ### Line 213-222
 ```
@@ -781,6 +784,7 @@ vec4 HOOKED_tex(vec2 pos) {
 	minLight = min3v(r, t, tr);
 	
 	if (minLight > maxDark) {
+
 ```
 ### Line 227-236
 ```
@@ -794,6 +798,7 @@ vec4 HOOKED_tex(vec2 pos) {
 	minLight = min3v(r, br, tr);
 	
 	if (minLight > cc.a && minLight > maxDark) {
+
 ```
 ### Line 241-250
 ```
@@ -807,6 +812,7 @@ vec4 HOOKED_tex(vec2 pos) {
 	minLight = min3v(r, br, b);
 	
 	if (minLight > maxDark) {
+
 ```
 ### Line 284-295
 ```
@@ -822,6 +828,7 @@ void main() {
 	vec4 t = getRGBL(HOOKED_pos + vec2(0.0, -d.y));
 	vec4 tl = getRGBL(HOOKED_pos + vec2(-d.x, -d.y));
 	vec4 tr = getRGBL(HOOKED_pos + vec2(d.x, -d.y));
+
 ```
 ### Line 299-317
 ```
@@ -844,6 +851,7 @@ void main() {
     
     gl_FragColor = vec4(1.0 - clamp(sqrt(xgrad * xgrad + ygrad * ygrad), 0.0, 1.0));
 }
+
 ```
 ### Line 325-334
 ```
@@ -857,6 +865,7 @@ varying vec2 v_tex_pos;
 vec4 HOOKED_tex(vec2 pos) {
     return texture2D(u_texture, vec2(pos.x, 1.0 - pos.y));
 }
+
 ```
 ### Line 367-376
 ```
@@ -870,6 +879,7 @@ vec4 HOOKED_tex(vec2 pos) {
 	float minLight = min3v(tl, t, tr);
 	
 	if (minLight > cc.a && minLight > maxDark) {
+
 ```
 ### Line 383-392
 ```
@@ -883,6 +893,7 @@ vec4 HOOKED_tex(vec2 pos) {
 	minLight = min3v(r, t, tr);
 	
 	if (minLight > maxDark) {
+
 ```
 ### Line 399-408
 ```
@@ -896,6 +907,7 @@ vec4 HOOKED_tex(vec2 pos) {
 	minLight = min3v(r, br, tr);
 	
 	if (minLight > cc.a && minLight > maxDark) {
+
 ```
 ### Line 415-424
 ```
@@ -909,6 +921,7 @@ vec4 HOOKED_tex(vec2 pos) {
 	minLight = min3v(r, br, b);
 	
 	if (minLight > maxDark) {
+
 ```
 ### Line 542-551
 ```
@@ -922,6 +935,7 @@ vec4 HOOKED_tex(vec2 pos) {
     bindFramebuffer(gl, this.framebuffer, this.scaleTexture);
 
     gl.useProgram(scalePgm.program);
+
 ```
 ### Line 555-564
 ```
@@ -934,6 +948,7 @@ vec4 HOOKED_tex(vec2 pos) {
 
 
     bindFramebuffer(gl, this.framebuffer, this.tempTexture);
+
 
 ```
 ### Line 568-578
@@ -949,6 +964,7 @@ vec4 HOOKED_tex(vec2 pos) {
 
     bindFramebuffer(gl, this.framebuffer, this.tempTexture2);
 
+
 ```
 ### Line 587-597
 ```
@@ -962,6 +978,7 @@ vec4 HOOKED_tex(vec2 pos) {
 
 
     bindFramebuffer(gl, this.framebuffer, this.tempTexture);
+
 
 ```
 ### Line 601-611
@@ -977,6 +994,7 @@ vec4 HOOKED_tex(vec2 pos) {
 
     bindFramebuffer(gl, this.framebuffer, this.tempTexture3);
 
+
 ```
 ### Line 618-628
 ```
@@ -990,6 +1008,7 @@ vec4 HOOKED_tex(vec2 pos) {
 
 
     bindFramebuffer(gl, this.framebuffer, this.tempTexture);
+
 
 ```
 ### Line 637-647
@@ -1005,6 +1024,7 @@ vec4 HOOKED_tex(vec2 pos) {
 
     bindFramebuffer(gl, null);
 
+
 ```
 
 ## _java_build_sh
@@ -1014,595 +1034,94 @@ vec4 HOOKED_tex(vec2 pos) {
 
 sh -c 'mvn clean compile assembly:single'
 
-mv 'target/Anime4K-static.jar' 'Anime4K.jar'```
+mv 'target/Anime4K-static.jar' 'Anime4K.jar'
+```
 
 # Issues
-## 25
+## 9
 Title:
 ```
 
-        My movies aren't being improved properly
+        Question: MPC-HC install with mad-vr
       
 ```
 Author:
 ```
-0xdeada55
+tirrorex
 ```
 Text:
 ```
 
-Describe the bug
-I passed this over my hentai and it didn't made me nut faster, what the fuck!
-To Reproduce
-Steps to reproduce the behavior:
-
-Get your hentai
-Pass this boi over it
-Watch it and see what you last
-No nut in wanted time range, expected: < 20s got: > 20s
-
-Expected behavior
-A big nut in less than the previous best time
-Screenshots
-If applicable, add screenshots to help explain your problem.
-
-Desktop (please complete the following information):
-
-OS: [e.g. iOS] Arch Linux with some fancy tiling WM
-Browser [e.g. chrome, safari] chrome
-Version [e.g. 22] the one and only latest
-
-Additional context
-inconceivable!
+Hello,
+this is a bit of a noob question but does those shaders work with mpc-hc?
+From what i understand of the install process in mpc-be one only has to add the shaders and add them to the post-resize.
+However after doing this in mpc-hc i don't see any difference :D
+Wondering if there is something special to do or if they simply do not work out of the box with this player.
+Any help would be appreciated, have a good day guys.
 
 ```
 Author:
 ```
-bloc97
+ABDOELSHEMY
 ```
 Text:
 ```
 
-Troll issue.
+@tirrorex
+i use it with mpc-hc normally here, and every thing look like ok, just make sure to use pixel shader 3 in mpc-hc
 
 ```
 Author:
 ```
-0xdeada55
+tirrorex
 ```
 Text:
 ```
 
-how you dare classify the existance of this issue as "troll" :3 uwu
-
-```
-
-## 40
-Title:
-```
-
-        How to use it in potplayer?
-      
-```
-Author:
-```
-Hahaemmm
-```
-Text:
-```
-
-
-No description provided.
-
+@ABDOELSHEMY  mpc-hc and mad-vr?
+Any chance that you could help me out on the install?
+I might be missing something i thought the idea was to get the 4k sized window when launching an anime episode ?
+Not sure how to confirm if the shader is working or not.
+Also what is the use of pixel shader 3 and where do you get it? (didn't find it with google search lol).
+I fail to understand when the engine decides to use the shaders or not, because one wouldn't want those shaders to activate with movies and tvshows right ?
+Anyway :)
 
 ```
 Author:
 ```
-bloc97
+ABDOELSHEMY
 ```
 Text:
 ```
 
-I will check the documentation of potplayer, maybe it is possible.
+right click in mpc-hc... shaders...debug shaders... then chose ps3 and close the menu
+and yes mpc-hc with madvr here
+and this shader will not actually upscall to 4k or even to 1080p res, for my tests it some kind of post procces to enhance the anime, but for my eyes, ngu, or superxbr+ super res still give much better result for me.
 
 ```
 Author:
 ```
-JosephNew
+tirrorex
 ```
 Text:
 ```
 
-I promise it's enable.
-I seen a man user Anime4k in potplayer in china
-
+I see, well all goo then thanks mate.
+I still worry that the shader might change something for other content.
+I assume that either there is some kind of trigger that activates the shader or they are running all the time.
+Would be nice to know either way :D
+I will check the other shaders you talked about.
 
 ```
 Author:
 ```
-Hahaemmm
+azhao12345
 ```
 Text:
 ```
 
+@tirrorex for mpc-hc enable full floating point option in the presentation settings.  MadVR is not required if you enable the full floating point option.
 
-I promise it's enable.
-I seen a man user Anime4k in potplayer in china
-
-
-Yeah, I find it, thanks a lot!
-Here is  author's setting:
-
-Download the attachment in Anime4K_HLSL.zip
-Extract all the files to the C:\Program Files\DAUM\PotPlayer\PxShader directory (the installation directory may be different, change it yourself)
-Open Potlplayer, right click video area Video -> Pixel Shader ->Reload Pixel Shader list
-See the figure below( Video -> Pixel Shader ->Post-Resize Pixel Shaders ->Stack ). If there are no problems in the first three steps, you should be able to see these items starting with Anime4K_ (I have a set of duplicates here, you should have no duplicates when setting them)
-
-
-
-```
-Author:
-```
-lick2016
-```
-Text:
-```
-
-hey thats pretty good    I spent a lot of time trying to figure out what HLSL and shaders is
-
-```
-
-## 8
-Title:
-```
-
-        Question: Type of algorithm
-      
-```
-Author:
-```
-HelpSeeker
-```
-Text:
-```
-
-Why describe this algorithm an as upscaling algorithm and not a sharpening algorithm? From what I understand it doesn't have anything to do with the actual scaling process and relies on conventional scaling algorithms.
-
-```
-Author:
-```
-bloc97
-```
-Text:
-```
-
-We have to define "what is upscaling". If you see bicubic upscaling as an higher order expansion of bilinear, this algorithm can also be seen as an enhancement to bilinear upscaling, as it can be used with it.
-Bilinear is so trivial now that people do not even see it as "upscaling" anymore, so the fact that this algorithm, even used with something as trivial as Bilinear can achieve reasonable results, you can say that the heavy lifting of the upscaling operation was done by Anime4K, and not the bilinear step.
-The main goal is to let users watch 1080p anime on 2160p screens. The most descriptive way of saying that is to call this an upscaling algorithm. But we know that technically, it is an iterative edge refinement algorithm.
-
-```
-Author:
-```
-HelpSeeker
-```
-Text:
-```
-
-
-Bilinear is so trivial now that people do not even see it as "upscaling" anymore
-
-But that is simply wrong and you don't make the situation better by motivating people to use incorrect terminology.
-
-you can say that the heavy lifting of the upscaling operation was done by Anime4K
-
-I don't see the logic behind that statement. Your algorithm has simply nothing to do with the scaling process (the process of increasing the resolution of a video signal). You can chain many operations on a frame to get visually appealing results. That doesn't change the role of each operation.
-
-But we know that technically, it is an iterative edge refinement algorithm.
-
-That is the problem though. Not everyone knows and this will only cause further confusion. Is it really worth it to spread misinformation, just because people tend to be more interested in upscaling than edge refinement algorithms?
-
-```
-Author:
-```
-bloc97
-```
-Text:
-```
-
-By your definition most early neural network upscaling algorithms are not upscaling either.
-Before the discovery of the effectiveness of Transposed Convolutions, most upscaling algorithms such as SRCNN and VDSR take as an input an already upscaled version of the low resolution image, with bilinear/bicubic filtering. The original implementation of waifu2x does this too, however I'm not sure if they still do it now that people are using Transposed Convolutions or PixelShuffle Layers everywhere.
-
-```
-Author:
-```
-HelpSeeker
-```
-Text:
-```
-
-Only if you restrict the definition of resolution to the amount of pixels. Image resolution can also refer to the detail an image holds, which is why super-resolution algorithms can fairly claim to increase the resolution of an image.
-
-```
-Author:
-```
-bloc97
-```
-Text:
-```
-
-Sorry but I just don't see the difference between
-Low Resolution -> Bicubic -> VDSR -> High Resolution
-and
-Low Resolution -> Bicubic -> Anime4K -> High Resolution
-The "Upscaling" algorithm in these two cases is not Bicubic, as its contribution is minimal.
-
-```
-Author:
-```
-HelpSeeker
-```
-Text:
-```
-
-Anime4K in no way increases the resolution (neither pixel- nor detail- wise). Anime4K alters the image in a very specific way, not with the goal to increase the resolution, but to make the content more pleasant for a certain audience (people who like sharp edges over everything else). In fact you destroy a lot of detail when running Anime4K.
-From my perspective you are trying to sell me
-
-Low Resolution -> Bicubic -> High Resolution -> Denoiser -> Altered High Resolution
-
-as
-
-Low Resolution -> Bicubic -> Denoiser -> High Resolution
-
-
-```
-Author:
-```
-bloc97
-```
-Text:
-```
-
-The smoothing of texture is something that can be taken care of with a better line detection algorithm, which is what we're currently working on.
-Other upscalers use those better detection algorithms, and without them they will destroy texture too. The fact that such a simple algorithm that can be described in 5 lines of pseudocode works as well, we can incorporate all the techniques other algorithms use and it will only get better.
-Otherwise even right now, if you take the Anime4K upscales and downscale them to 1080p, you will notice that the detail loss is minimal.
-
-```
-Author:
-```
-marcan
-```
-Text:
-```
-
-The waifu2x neural network actually uses 2x2 pixel duplication for the input (nearest neighbor), so yeah, it's technically a straight filter, not an upscaler.
-
-```
-Author:
-```
-woctezuma
-```
-Text:
-```
-
-
-The waifu2x neural network actually uses 2x2 pixel duplication for the input (nearest neighbor)
-
-Do you have a reference for this?
-If I quickly check the paper, I see that:
-
-and that:
-
-I think it makes sense to call Waifu2x a Super-Resolution algorithm.
-
-As for Anime4k, it depends what the word encompasses. If it is the whole pipeline, then it is an upscaler. If it just the novel part, then it is a sharpening filter, which can be used in a larger pipeline to upscale anime images with a pleasing effect.
-I think the confusion stems from the fact that @HelpSeeker thought Anime4k was claiming to do Super-Resolution, which it does not do because it is not adding information to the image, e.g. by merging several views, or by bringing in information learnt on other images.
-
-```
-Author:
-```
-bloc97
-```
-Text:
-```
-
-Depends on your definition of Super-Resolution too. If you define SR as recovering texture detail, then no, Anime4K is not a texture SR algorithm. However, it can recover lines from blurry upscales, thus can be considered a line SR algorithm.
-I think the real confusion here is between SISR Algorithm and General-Purpose SISR Algorithm.
-Anime4K is not a General-Purpose SISR Algorithm.
-Waifu2x is not a General-Purpose SISR Algorithm since it was only trained on Anime Art. (With the exception of the waifu2x trained on pictures, but that's basically SRCNN with modifications.)
-SRCNN is a General-Purpose SISR Algorithm since it can be trained on any subset of images from our universe.
-Bicubic is a General-Purpose SISR Algorithm as it is not biased towards any kind of spatial data.
-If you apply SR algorithms for MRI scans on real pictures, you would get garbage, yet it is still an SR algorithm. (And if you look carefully in the implementations MRI SR algorithm are similar to denoising algorithms, yet they are called SR.)
-
-```
-Author:
-```
-net2cn
-```
-Text:
-```
-
-Actually I have the same confusion after understanding this algorithm. It seems that it works as a sharpening algorithm like USM but specially designed for anime instead of upscaling algorithm like bicubic interpolation (which actually upscale your image to a bigger size).
-However, it is still a very interesting method in these days when ML-based methods get heated too much. Thank you for sharing this.
-
-```
-Author:
-```
-marcan
-```
-Text:
-```
-
-Re: waifu2x using a box/nearest neighbor filter, see:
-https://github.com/nagadomi/waifu2x/blob/master/lib/reconstruct.lua#L192
-
-```
-Author:
-```
-bloc97
-```
-Text:
-```
-
-After some thought and doing some research online, I finally understood why people thought this is not upscaling. I have added a small paragraph at the end of the FAQ dedicated to those people. Years of working in this field had made me understand the words differently than most people.
-The action of de-blurring (gaussian) and super-resolution is known to be equivalent in this domain, but this was not the case for people less invested in image processing.
-I apologize for any confusion my earlier comments might have given.
-
-```
-
-## 12
-Title:
-```
-
-        Docker Container variant
-      
-```
-Author:
-```
-kirinnee
-```
-Text:
-```
-
-Seems like it requires OpenCL, but is it possible to run it in docker containers for easier deployment on servers or cross-platform development?
-
-```
-Author:
-```
-stefnotch
-```
-Text:
-```
-
-Where did you get the impression that it requires OpenCL?
-
-```
-Author:
-```
-stefnotch
-```
-Text:
-```
-
-Regarding Docker container, yes, it could theoretically run inside a Docker container, however, seeing as how it's a realtime algorithm that can easily run on any platform, most likely even the web, I'm not quite seeing the point of using Docker? Is there some use-case that I'm overlooking.
-
-```
-Author:
-```
-kirinnee
-```
-Text:
-```
-
-Impression was from when I ran everything within docker containers: (I hate to post logs but..)
-PS D:\same> docker run -v ${PWD}:/anime 4kanime ruby 4k.rb Aug 15, 2019 11:44:14 AM com.aparapi.internal.opencl.OpenCLLoader <clinit> SEVERE: Check your environment. Failed to load codegen native library  or possibly failed to locate opencl native library (opencl.dll/opencl.so). Ensure that OpenCL is in your PATH (windows) or in LD_LIBRARY_PATH (linux). Exception in thread "main" javax.imageio.IIOException: Can't read input file! at java.desktop/javax.imageio.ImageIO.read(ImageIO.java:1308) at com.bloc97.anime4k.Main.main(Main.java:36)
-Host OS: Windows 10 Pro
-Docker-image: openjdk:12-alpine
-Perhaps its an alpine problem, I apologize for not checking if its an alpine problem before reporting, but I shall go do that tomorrow.
-For starters, I prefer to not have Java installed on my computer.
-Bu main reason being it makes if I were running servers that use the image to post-process image or anything of that sort, deployments will be much simpler than to write scripts to pre-install FFMPEG and JDK & curling the jar binary for every server spun up. Building it into a static image would make my other service dependent on it more readily.
-
-```
-Author:
-```
-stefnotch
-```
-Text:
-```
-
-Oh, you're right about the OpenCL usage. Anime4k apparently uses Arapi which in turn uses OpenCL to execute Java code on the GPU. This means that you need a Docker image with OpenCL support.
-
-```
-Author:
-```
-ddouglas87
-```
-Text:
-```
-
-It works without OpenCL but complains while running.
-On Docker Ubuntu apt-get install -y ocl-icd-opencl-dev removes the complaining, but I don't notice a speed difference.
-
-```
-Author:
-```
-bloc97
-```
-Text:
-```
-
-The algorithm is so simple that it is easy to be bounded by the memory speed. (Copying the image back and forth from the System Memory to the GPU Buffers) If your CPU is powerful enough (Recent CPUs with 8+ cores) it might even outperform GPUs since PCIe lanes are not as fast as the memory bus.
-
-```
-Author:
-```
-kirinnee
-```
-Text:
-```
-
-I have created a PR for basic Dockerfile, to build an ubuntu image that's portable.
-I also have another one that packs FFMPEG into the image and added a script upscales videos by splitting and merging them (quite slow due to the restart of image kernel each time), should I add a PR for that too?
-
-```
-
-## 6
-Title:
-```
-
-        Add //!DESC Anime4K
-      
-```
-Author:
-```
-GreyWing3
-```
-Text:
-```
-
-Currently when looking at stats in mpv this shader has no proper name
-shows:
-user shader:(unknown)
-By adding //!DESC Anime4K
-shows:
-user shader:Anime4k
-Needs to be added to each set
-//!HOOK SCALED
-//!BIND HOOKED
-//!BIND POSTKERNEL
-//!SAVE POSTKERNEL
-
-
-```
-Author:
-```
-bloc97
-```
-Text:
-```
-
-Accepted merge request, closing issue.
-
-```
-
-## 30
-Title:
-```
-
-        unrecognized option "glsl-shaders" in mpv
-      
-```
-Author:
-```
-madacol
-```
-Text:
-```
-
-Describe the bug
-I followed this Instructions: https://github.com/bloc97/Anime4K/blob/master/GLSL_Instructions.md
-But when i run mpv in the command line, this error is thrown:
-Error parsing option glsl-shaders (option not found) ... setting option glsl-shaders='~~/shaders/Anime4K_Adaptive.glsl' failed.
-Desktop (please complete the following information):
-
-OS: [Ubuntu 18.04]
-Version Anime4K_Adaptive_v1.0RC.glsl
-MPV
-
-
-```
-Author:
-```
-madacol
-```
-Text:
-```
-
-Ahh, nevermind, it seems the distribution's version of mpv does not have that option glsl-shaders
-But it does have the option opengl-shaders.
-It works fine now 👍
-
-```
-
-## 31
-Title:
-```
-
-        web cannot run
-      
-```
-Author:
-```
-lephuhung
-```
-Text:
-```
-
-chrome cannot run with error on console
-Uncaught DOMException: Failed to execute 'texImage2D' on 'WebGLRenderingContext': The image element contains cross-origin data, and may not be loaded. at createTexture (file:///E:/Download/Anime4K-master/Anime4K-master/web/main.js:56:12) at Scaler.inputImage (file:///E:/Download/Anime4K-master/Anime4K-master/web/main.js:487:21) at Image.inputImg.onload (file:///E:/Download/Anime4K-master/Anime4K-master/web/main.js:693:16) createTexture @ main.js:56 Scaler.inputImage @ main.js:487 inputImg.onload @ main.js:693 load (async) onLoad @ main.js:689 onload @ index.html:11
-
-```
-Author:
-```
-stefnotch
-```
-Text:
-```
-
-@lephuhung That's a limitation of some web browsers caused by directly opening the .html file. You would need a web-server to get around this limitation.
-@bloc97
-I think it'd be great if you could set up GitHub pages for this. Setting up GitHub pages just takes a bunch of clicks and ensures that a web demo is always available.
-
-Click on the Settings tab and scroll down to the GitHub Pages section. Then select the master branch source and click on the Save.
-Add an index.html to the root which just redirects you to the other index.html
-
-<!DOCTYPE HTML>
-<html lang="en-US">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="refresh" content="1;url=web">
-        <title>Page Redirection</title>
-    </head>
-    <body>
-        If you are not redirected automatically, <a href="web">click here</a>
-    </body>
-</html>
-
-https://bloc97.github.io/Anime4K should be up after a few minutes
-
-
-```
-Author:
-```
-lephuhung
-```
-Text:
-```
-
-
-@lephuhung That's a limitation of some web browsers caused by directly opening the .html file. You would need a web-server to get around this limitation.
-@bloc97
-I think it'd be great if you could set up GitHub pages for this. Setting up GitHub pages just takes a bunch of clicks and ensures that a web demo is always available.
-
-Click on the Settings tab and scroll down to the GitHub Pages section. Then select the master branch source and click on the Save.
-Add an index.html to the root which just redirects you to the other index.html
-
-<!DOCTYPE HTML>
-<html lang="en-US">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="refresh" content="1;url=web">
-        <title>Page Redirection</title>
-    </head>
-    <body>
-        If you are not redirected automatically, <a href="web">click here</a>
-    </body>
-</html>
-
-
-https://bloc97.github.io/Anime4K should be up after a few minutes
-
-
-many thank to you, i dowloaded xampp and run anime4k perfecterly
 
 ```
 
@@ -1673,72 +1192,67 @@ By building the project myself using maven and retrying the same commands i get 
 
 ```
 
-## 10
+## 23
 Title:
 ```
 
-        PSNR/SSIM selection?
+        Improve performance for stable v1.0 release.
       
 ```
 Author:
 ```
-DonaldTsang
+bloc97
 ```
 Text:
 ```
 
-Please take a look at these algorithm repos:
+Improve line detection speed as it does not need to be pixel precise. The underlying line refinement and FXAA algorithms are already robust enough. False positives are less harmful than false negatives. (eg. use smaller gaussian kernel, or even use lower luma resolution)
+Use line detection to skip processing some parts of the picture all together when the probability of finding a line is lower than some threshold. (eg. 10% when refining and applying FXAA)
+Combine similar passes into a single pass if possible. This will reduce the time needed to copy textures between separate passes. On 4K+ resolutions image processing is often memory-bound and not compute-bound.
+The target should be 4-5ms.
 
-https://github.com/andrewekhalel/sewar
-https://github.com/arcaduf/image_quality_assessment
-https://github.com/slhck/ffmpeg-quality-metrics
-https://github.com/Rolinh/VQMT
-https://github.com/aizvorski/video-quality
-
-Is it possible to do testing will most of them and analyse the differences?
-
-```
-
-## 35
-Title:
-```
-
-        Premier pro or openshot video plugin port?
-      
 ```
 Author:
 ```
-fintogive
+PULU38
 ```
 Text:
 ```
 
-This just came to mind...  can this be ported to be used as a premier pro or vegas plug in?
-or heck openshot or shotcut video plugins if you dont want to deal with pay programs.
-I think it would be really useful to be able to edit video with anime4k up scaling on the fly.  at least i would find it very useful.
+I am Japanese. I can't write English. (Machine translation)
+Thank you for the wonderful software.
+I would like to ask a few questions.
+Please give me an answer if you like.
+1.Are there any plans to develop parameters optimized for [P720 to P1080] and [SD480 to P1080]?
+2. Are there any plans to implement parameters that can be adjusted by the user?
+3. Is there a plan to conduct a wide range of user tests by releasing multiple parameters?
+This software is light, clean and very easy to use
+I can't write a program. As a tester, you may be able to report the results.
+Have a nice day!
 
-```
-
-## 26
-Title:
-```
-
-        Enhanced bob deinterlacing
-      
 ```
 Author:
 ```
-moghingold
+bloc97
 ```
 Text:
 ```
 
-I believe Anime4K can be applied to another use case where a video signal has sharp edges and reduced color spaces: retro video games. Many retro video games were designed to have part or all of their video signal output 480i/576i, a signal that modern displays cannot natively interpret. While complex deinterlacing algorithms exist and may be suitable for full motion video, they introduce too much latency to video games to be desirable.
-The current solution used by enthusiast retro gamers is to use devices like the Retro Tink 2x or the Open Source Scan Converter (OSSC) to perform an operation known as "bob deinterlacing" (so-named because of the noticeable up-and-down bobbing of stationary parts of the screen that have edges changing their height between fields). It is, intentionally, the most naive version of line-doubling, and produces usually-good-enough results with acceptably little image processing time.
-The upscaling method described by Anime4k might be able to noticeably improve the visual quality of line-doubling without introducing a significant amount of signal latency by treating the 240/288 line resolution of each field as the source and the 480/576 line resolution as the target.
-Prior to finding Anime4k, I also investigated alternative methods of deinterlacing. The best quality results, as with anime, were achieved with AI[0]. Unfortunately, the lowest latency achieved for SD content was between 13-14ms (nearly a full frame of delay for 60fps content), and was only possible using a workstation with an Intel i7-5930, 65GiB of RAM, and an Nvidia Titan GPU[0, pg 8]. Like with anime, real-time results will require a more direct approach. The low latency of Anime4k and the consistent edges of video game content may make Anime4k a viable alternative to bob deinterlacing.
-If you decide that you are interested in possibly integrating Anime4k into realtime video game deinterlacing solutions, a good person to contact would be Markus Hiienkari (marqs on the Video Game Perfection forums), as he is the designer of the OSSC.
-[0] Real-time Deep Video Deinterlacing by Zhu, Liu, Mao, and Wong from The Chinese University of Hong Kong
+@PULU38
+1- Yes, we do plan on optimizing lower resolutions. However, we think machine learning would be necessary since we would need to recover texture detail. We plan on using a hybrid approach where ML will be used to optimize this algorithm's hand crafted parameters.
+2- You can already change the parameters in the code, but they are not well documented. I think we should be able to write a small guide for those who want to tweak the settings.
+3- I don't think we have enough time and resources to perform large scale testing.
+Thank you for the questions and suggestions.
+
+```
+Author:
+```
+xuhuahao-gd
+```
+Text:
+```
+
+i have tried simple structure cnn(with resblock) using edge guidance,which looks good on optimizing lower resolutions.
 
 ```
 
@@ -1860,44 +1374,32 @@ Text:
 
 ```
 
-# Pull
-## 38
+## 6
 Title:
 ```
 
-        Fix GPU data fetching issue of ImageKernel.
+        Add //!DESC Anime4K
       
 ```
 Author:
 ```
-Donny-Hikari
+GreyWing3
 ```
 Text:
 ```
 
-It is necessary to update runtype to the GPU after changing its value. The original code will generate unmodified images while running on GPU.
+Currently when looking at stats in mpv this shader has no proper name
+shows:
+user shader:(unknown)
+By adding //!DESC Anime4K
+shows:
+user shader:Anime4k
+Needs to be added to each set
+//!HOOK SCALED
+//!BIND HOOKED
+//!BIND POSTKERNEL
+//!SAVE POSTKERNEL
 
-```
-
-## 36
-Title:
-```
-
-        Reformatted pom.xml & added static assembly option, + build scripts
-      
-```
-Author:
-```
-ImportTaste
-```
-Text:
-```
-
-I wanted a static jar assembly of Anime4K, but the build instructions were minimal. Having never used maven before, I ended up muddling through and I fixed some problems in the process.
-maven-jar-plugin was erroneously claimed twice (at least I think it was, maven sure fussed a lot about it), the groupId was the default value so I changed it to the gmail you have in your code of conduct, and the artifactId was the old name of the project.
-Using static.xml as maven-assembly-plugin's descriptor allows for a nicer filename without having to put up with maven throwing scary looking warnings at you. The warnings were harmless, but not everyone would know that right away.
-Both the Windows and Linux versions of the script run maven inside a subprocess, because maven likes to force-quit when it's finished. I did not actually try the Linux version of the script, but it should function just the same. I also made sure the EOLs on all the files were LF except for the .cmd file which is CRLF.
-Hopefully this proves useful.
 
 ```
 Author:
@@ -1907,7 +1409,271 @@ bloc97
 Text:
 ```
 
-Thank you for the fixes, we appreciate it a lot. Since the Java version was initially only for demonstration/testing purposes, I didn't have much time cleaning the code.
+Accepted merge request, closing issue.
+
+```
+
+## 21
+Title:
+```
+
+        can you update for real movie ?
+      
+```
+Author:
+```
+kurodenjiro
+```
+Text:
+```
+
+hello it is could use for real movie ?
+
+```
+Author:
+```
+bloc97
+```
+Text:
+```
+
+If by real movie you mean movies filmed with a camera, the results won't be good. This is specifically designed for anime and cartoons.
+
+```
+
+## 18
+Title:
+```
+
+        The current HLSL implementation applies the algorithm on subtitles.
+      
+```
+Author:
+```
+bloc97
+```
+Text:
+```
+
+Due to how MPC handles shaders, they are always applied after subtitles. I am not sure if it is changeable.
+For MPV, the user can choose to not apply shaders on subtitles.
+
+```
+
+## 33
+Title:
+```
+
+        Error occured when compile java : Non-parseable POM
+      
+```
+Author:
+```
+AaronFeng753
+```
+Text:
+```
+
+Non-parseable POM C:\Users\73765\Desktop\123\pom.xml: Expected root element 'project' but found 'html' (position: START_TAG seen ...\n... @8:17)  @ line 8, column 17 -> [Help 2]
+
+```
+Author:
+```
+AaronFeng753
+```
+Text:
+```
+
+[INFO] Scanning for projects...
+[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM C:\Users\73765\Desktop\123\pom.xml: Expected root element 'project' but found 'html' (position: START_TAG seen ...\n... @8:17)  @ line 8, column 17
+@
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]
+[ERROR]   The project  (C:\Users\73765\Desktop\123\pom.xml) has 1 error
+[ERROR]     Non-parseable POM C:\Users\73765\Desktop\123\pom.xml: Expected root element 'project' but found 'html' (position: START_TAG seen ...\n... @8:17)  @ line 8, column 17 -> [Help 2]
+[ERROR]
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR]
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+[ERROR] [Help 2] http://cwiki.apache.org/confluence/display/MAVEN/ModelParseException
+PS C:\Users\73765\Desktop\123> mvn package
+[INFO] Scanning for projects...
+[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM C:\Users\73765\Desktop\123\pom.xml: Expected root element 'project' but found 'html' (position: START_TAG seen ...\n... @8:17)  @ line 8, column 17
+@
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]
+[ERROR]   The project  (C:\Users\73765\Desktop\123\pom.xml) has 1 error
+[ERROR]     Non-parseable POM C:\Users\73765\Desktop\123\pom.xml: Expected root element 'project' but found 'html' (position: START_TAG seen ...\n... @8:17)  @ line 8, column 17 -> [Help 2]
+[ERROR]
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR]
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+[ERROR] [Help 2] http://cwiki.apache.org/confluence/display/MAVEN/ModelParseException
+
+```
+
+## 51
+Title:
+```
+
+        Why do I use java to process pictures? The pictures are not clearer.
+      
+```
+Author:
+```
+JerryFlyFly
+```
+Text:
+```
+
+
+No description provided.
+
+
+```
+Author:
+```
+JerryFlyFly
+```
+Text:
+```
+
+I just want to process pictures to make them clearer. What should I do?
+
+```
+
+## 29
+Title:
+```
+
+        Run through ffmpeg (or similar tool)
+      
+```
+Author:
+```
+BeeeQueue
+```
+Text:
+```
+
+I've been googling around but haven't been able to find anything useful about running the shader on a video file and saving the output.
+
+```
+Author:
+```
+BeeeQueue
+```
+Text:
+```
+
+Nevermind, I just found https://github.com/k4yt3x/video2x
+
+```
+Author:
+```
+bloc97
+```
+Text:
+```
+
+I'm not familiar with FFMPEG scripting. We also didn't think of a good use scenario for that. Is there any particular reason you need to re-encode a video with this algorithm?
+This was intended to be used as a on-line algorithm that can be toggled off at will, since we believe re-encoding a video using this is not ideal.
+
+```
+
+## 46
+Title:
+```
+
+        How to use it on bilibili?
+      
+```
+Author:
+```
+Jupiter-king
+```
+Text:
+```
+
+How can i use it on bilibili?
+
+```
+Author:
+```
+net2cn
+```
+Text:
+```
+
+Hi,
+Actually you can.
+In this case, I've made a TamperMonkey script for the purpose based on the WebGL implementation in this repo. You can install TamperMonkey extension on browsers like Chrome and Firefox, load the script and enable it to use this on Bilibili. Currently, I'm still improving the script (like updating the shader to the latest one, implementing easy-to-use control panel, etc).
+FYI, the repo is hosted on GitHub Bilibili_Anime4K
+Best regards.
+
+```
+Author:
+```
+FSpark
+```
+Text:
+```
+
+The script above is perfect for me! If you have to implement it from mpv in Linux, this could give you some help.
+
+```
+
+# Pull
+## 48
+Title:
+```
+
+        Fix sentence error
+      
+```
+Author:
+```
+rjworks
+```
+Text:
+```
+
+Fix sentence error
+
+```
+
+## 13
+Title:
+```
+
+        Add //!DESC Anime4K 
+      
+```
+Author:
+```
+GreyWing3
+```
+Text:
+```
+
+Add //!DESC Anime4K so that stats in mpv show user shader:Anime4k
+Cunentlly shows user shade:unknown
+
+```
+Author:
+```
+bloc97
+```
+Text:
+```
+
+Thanks, we should also add a name for each of the passes.
 
 ```
 
@@ -1941,26 +1707,6 @@ Oops!
 
 ```
 
-## 14
-Title:
-```
-
-        Create CODE_OF_CONDUCT.md
-      
-```
-Author:
-```
-bloc97
-```
-Text:
-```
-
-
-No description provided.
-
-
-```
-
 ## 2
 Title:
 ```
@@ -1979,6 +1725,24 @@ Text:
 
 ```
 
+## 38
+Title:
+```
+
+        Fix GPU data fetching issue of ImageKernel.
+      
+```
+Author:
+```
+Donny-Hikari
+```
+Text:
+```
+
+It is necessary to update runtype to the GPU after changing its value. The original code will generate unmodified images while running on GPU.
+
+```
+
 ## 45
 Title:
 ```
@@ -1994,6 +1758,64 @@ Text:
 ```
 
 Initial phase of adding a dockerfile that will let people spin up the app quickly without configuration
+
+```
+
+## 22
+Title:
+```
+
+        v1.0 Release Candidate
+      
+```
+Author:
+```
+DextroseRe
+```
+Text:
+```
+
+
+No description provided.
+
+
+```
+
+## 27
+Title:
+```
+
+        fixed "Pseudo-Preprint Preview" header
+      
+```
+Author:
+```
+mrstandu33
+```
+Text:
+```
+
+replaced "Psudo-Preprint Preview" by "Pseudo-Preprint Preview" in README.md.
+
+```
+Author:
+```
+bloc97
+```
+Text:
+```
+
+Oops, thank you for noticing and correcting the mistake.
+
+```
+Author:
+```
+mrstandu33
+```
+Text:
+```
+
+You're welcome ! Have a nice day ! 👌
 
 ```
 
@@ -2074,25 +1896,6 @@ Text:
 ```
 
 Approved as an example for possible WebGL shader implementations.
-
-```
-
-## 37
-Title:
-```
-
-        Added Dockerfile
-      
-```
-Author:
-```
-kirinnee
-```
-Text:
-```
-
-Added Dockerfile and dockerignore for more portable (no installation needed) form.
-Uses jdk12 image
 
 ```
 
