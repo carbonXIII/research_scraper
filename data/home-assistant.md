@@ -5,105 +5,125 @@
 
 [- Markdown](#Markdown)
 
-* [_LICENSE_md](#_LICENSE_md)
+* [_README_rst](#_README_rst)
 
 * [_github_PULL_REQUEST_TEMPLATE_md](#_github_PULL_REQUEST_TEMPLATE_md)
 
 * [_CLA_md](#_CLA_md)
 
-* [_github_ISSUE_TEMPLATE_Bug_report_md](#_github_ISSUE_TEMPLATE_Bug_report_md)
+* [_docs_source_api_event_rst](#_docs_source_api_event_rst)
 
-* [_CONTRIBUTING_md](#_CONTRIBUTING_md)
+* [_docs_source_api_homeassistant_rst](#_docs_source_api_homeassistant_rst)
 
 * [_CODE_OF_CONDUCT_md](#_CODE_OF_CONDUCT_md)
 
+* [_CONTRIBUTING_md](#_CONTRIBUTING_md)
+
+* [_docs_source_api_helpers_rst](#_docs_source_api_helpers_rst)
+
 * [_github_ISSUE_TEMPLATE_md](#_github_ISSUE_TEMPLATE_md)
+
+* [_github_ISSUE_TEMPLATE_Bug_report_md](#_github_ISSUE_TEMPLATE_Bug_report_md)
+
+* [_docs_source_api_util_rst](#_docs_source_api_util_rst)
+
+* [_LICENSE_md](#_LICENSE_md)
+
+* [_docs_source_index_rst](#_docs_source_index_rst)
+
+* [_docs_source_api_bootstrap_rst](#_docs_source_api_bootstrap_rst)
+
+* [_docs_source_api_device_tracker_rst](#_docs_source_api_device_tracker_rst)
+
+* [_docs_source_api_entity_rst](#_docs_source_api_entity_rst)
+
+* [_docs_source_api_core_rst](#_docs_source_api_core_rst)
 
 [- Inline](#Inline)
 
-* [_homeassistant_components_openweathermap_sensor_py](#_homeassistant_components_openweathermap_sensor_py)
+* [_homeassistant_components_insteon_binary_sensor_py](#_homeassistant_components_insteon_binary_sensor_py)
 
-* [_homeassistant_components_threshold_binary_sensor_py](#_homeassistant_components_threshold_binary_sensor_py)
+* [_homeassistant_components_tahoma_sensor_py](#_homeassistant_components_tahoma_sensor_py)
 
-* [_homeassistant_components_konnected_sensor_py](#_homeassistant_components_konnected_sensor_py)
+* [_homeassistant_components_fitbit_init_py](#_homeassistant_components_fitbit_init_py)
 
-* [_homeassistant_components_thinkingcleaner_sensor_py](#_homeassistant_components_thinkingcleaner_sensor_py)
+* [_homeassistant_components_zha_core_decorators_py](#_homeassistant_components_zha_core_decorators_py)
 
-* [_homeassistant_components_seven_segments_image_processing_py](#_homeassistant_components_seven_segments_image_processing_py)
+* [_homeassistant_components_bbox_device_tracker_py](#_homeassistant_components_bbox_device_tracker_py)
 
-* [_homeassistant_components_dweet_sensor_py](#_homeassistant_components_dweet_sensor_py)
+* [_homeassistant_components_rmvtransport_init_py](#_homeassistant_components_rmvtransport_init_py)
 
-* [_homeassistant_components_homematic_notify_py](#_homeassistant_components_homematic_notify_py)
+* [_homeassistant_components_ifttt_const_py](#_homeassistant_components_ifttt_const_py)
 
-* [_tests_components_mqtt_test_legacy_vacuum_py](#_tests_components_mqtt_test_legacy_vacuum_py)
+* [_tests_components_seventeentrack_test_sensor_py](#_tests_components_seventeentrack_test_sensor_py)
 
-* [_homeassistant_components_bizkaibus_sensor_py](#_homeassistant_components_bizkaibus_sensor_py)
+* [_tests_components_luftdaten_init_py](#_tests_components_luftdaten_init_py)
 
-* [_docs_source_ext_edit_on_github_py](#_docs_source_ext_edit_on_github_py)
+* [_tests_components_wunderground_test_sensor_py](#_tests_components_wunderground_test_sensor_py)
 
-* [_homeassistant_components_nextbus_init_py](#_homeassistant_components_nextbus_init_py)
+* [_homeassistant_components_ephember_init_py](#_homeassistant_components_ephember_init_py)
 
-* [_homeassistant_components_telegram_init_py](#_homeassistant_components_telegram_init_py)
+* [_tests_components_api_streams_init_py](#_tests_components_api_streams_init_py)
 
-* [_tests_components_islamic_prayer_times_init_py](#_tests_components_islamic_prayer_times_init_py)
-
-* [_homeassistant_components_google_calendar_py](#_homeassistant_components_google_calendar_py)
-
-* [_homeassistant_components_insteon_fan_py](#_homeassistant_components_insteon_fan_py)
-
-* [_tests_components_wake_on_lan_test_switch_py](#_tests_components_wake_on_lan_test_switch_py)
-
-* [_homeassistant_components_fibaro_scene_py](#_homeassistant_components_fibaro_scene_py)
-
-* [_script_hassfest_services_py](#_script_hassfest_services_py)
-
-* [_tests_components_nx584_test_binary_sensor_py](#_tests_components_nx584_test_binary_sensor_py)
+* [_homeassistant_components_pushetta_init_py](#_homeassistant_components_pushetta_init_py)
 
 * [_homeassistant_components_nilu_air_quality_py](#_homeassistant_components_nilu_air_quality_py)
 
+* [_tests_components_workday_test_binary_sensor_py](#_tests_components_workday_test_binary_sensor_py)
+
+* [_homeassistant_components_rmvtransport_sensor_py](#_homeassistant_components_rmvtransport_sensor_py)
+
+* [_homeassistant_components_mopar_lock_py](#_homeassistant_components_mopar_lock_py)
+
+* [_homeassistant_components_egardia_alarm_control_panel_py](#_homeassistant_components_egardia_alarm_control_panel_py)
+
+* [_tests_components_withings_test_init_py](#_tests_components_withings_test_init_py)
+
+* [_homeassistant_components_lametric_notify_py](#_homeassistant_components_lametric_notify_py)
+
 [- Issues](#Issues)
 
-* [11167](#11167)
+* [11045](#11045)
 
-* [3850](#3850)
+* [22582](#22582)
 
-* [8660](#8660)
+* [27959](#27959)
 
-* [1181](#1181)
+* [15188](#15188)
 
-* [2508](#2508)
+* [22352](#22352)
 
-* [5298](#5298)
+* [718](#718)
 
-* [10086](#10086)
+* [5504](#5504)
 
-* [15254](#15254)
+* [16830](#16830)
 
-* [5347](#5347)
+* [23865](#23865)
+
+* [5061](#5061)
+
+* [13635](#13635)
+
+* [19455](#19455)
 
 [- Pull](#Pull)
 
-* [3257](#3257)
+* [18690](#18690)
 
-* [11286](#11286)
+* [17327](#17327)
 
-* [16597](#16597)
+* [67](#67)
 
-* [3909](#3909)
+* [17179](#17179)
 
-* [11423](#11423)
+* [24620](#24620)
 
-* [3210](#3210)
+* [16065](#16065)
 
-* [5745](#5745)
+* [27132](#27132)
 
-* [18336](#18336)
-
-* [5903](#5903)
-
-* [17101](#17101)
-
-* [13748](#13748)
+* [25033](#25033)
 
 <!-- toc -->
 
@@ -112,6 +132,793 @@
 🏡 Open source home automation that puts local control and privacy first
 
 # Markdown
+## _README_rst
+```Home Assistant |Chat Status|
+=================================================================================
+
+Home Assistant is a home automation platform running on Python 3. It is able to track and control all devices at home and offer a platform for automating control.
+
+To get started:
+
+.. code:: bash
+
+    python3 -m pip install homeassistant
+    hass --open-ui
+
+Check out `home-assistant.io <https://home-assistant.io>`__ for `a
+demo <https://home-assistant.io/demo/>`__, `installation instructions <https://home-assistant.io/getting-started/>`__,
+`tutorials <https://home-assistant.io/getting-started/automation-2/>`__ and `documentation <https://home-assistant.io/docs/>`__.
+
+|screenshot-states|
+
+Featured integrations
+---------------------
+
+|screenshot-components|
+
+The system is built using a modular approach so support for other devices or actions can be implemented easily. See also the `section on architecture <https://developers.home-assistant.io/docs/en/architecture_index.html>`__ and the `section on creating your own
+components <https://developers.home-assistant.io/docs/en/creating_component_index.html>`__.
+
+If you run into issues while using Home Assistant or during development
+of a component, check the `Home Assistant help section <https://home-assistant.io/help/>`__ of our website for further help and information.
+
+.. |Chat Status| image:: https://img.shields.io/discord/330944238910963714.svg
+   :target: https://discord.gg/c5DvZ4e
+.. |screenshot-states| image:: https://raw.github.com/home-assistant/home-assistant/master/docs/screenshots.png
+   :target: https://home-assistant.io/demo/
+.. |screenshot-components| image:: https://raw.github.com/home-assistant/home-assistant/dev/docs/screenshot-components.png
+   :target: https://home-assistant.io/integrations/
+```
+## _github_PULL_REQUEST_TEMPLATE_md
+```## Breaking Change:
+
+<!-- What is breaking and why we have to break it. Remove this section only if it was NOT a breaking change. -->
+
+## Description:
+
+
+**Related issue (if applicable):** fixes #<home-assistant issue number goes here>
+
+**Pull request with documentation for [home-assistant.io](https://github.com/home-assistant/home-assistant.io) (if applicable):** home-assistant/home-assistant.io#<home-assistant.io PR number goes here>
+
+## Example entry for `configuration.yaml` (if applicable):
+'''yaml
+
+'''
+
+## Checklist:
+  - [ ] The code change is tested and works locally.
+  - [ ] Local tests pass with `tox`. **Your PR cannot be merged unless tests pass**
+  - [ ] There is no commented out code in this PR.
+  - [ ] I have followed the [development checklist][dev-checklist]
+
+If user exposed functionality or configuration variables are added/changed:
+  - [ ] Documentation added/updated in [home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+
+If the code communicates with devices, web services, or third-party tools:
+  - [ ] [_The manifest file_][manifest-docs] has all fields filled out correctly. Update and include derived files by running `python3 -m script.hassfest`.
+  - [ ] New or updated dependencies have been added to `requirements_all.txt` by running `python3 -m script.gen_requirements_all`.
+  - [ ] Untested files have been added to `.coveragerc`.
+
+If the code does not interact with devices:
+  - [ ] Tests have been added to verify that the new code works.
+
+[dev-checklist]: https://developers.home-assistant.io/docs/en/development_checklist.html
+[manifest-docs]: https://developers.home-assistant.io/docs/en/creating_integration_manifest.html
+```
+## _CLA_md
+```# Contributor License Agreement
+
+'''
+By making a contribution to this project, I certify that:
+
+(a) The contribution was created in whole or in part by me and I
+    have the right to submit it under the Apache 2.0 license; or
+
+(b) The contribution is based upon previous work that, to the best
+    of my knowledge, is covered under an appropriate open source
+    license and I have the right under that license to submit that
+    work with modifications, whether created in whole or in part
+    by me, under the Apache 2.0 license; or
+
+(c) The contribution was provided directly to me by some other
+    person who certified (a), (b) or (c) and I have not modified
+    it.
+
+(d) I understand and agree that this project and the contribution
+    are public and that a record of the contribution (including all
+    personal information I submit with it) is maintained indefinitely
+    and may be redistributed consistent with this project or the open
+    source license(s) involved.
+'''
+
+## Attribution
+
+The text of this license is available under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).  It is based on the Linux [Developer Certificate Of Origin](http://elinux.org/Developer_Certificate_Of_Origin), but is modified to explicitly use the Apache 2.0 license
+and not mention sign-off.
+
+## Signing
+
+To sign this CLA you must first submit a pull request to a repository under the Home Assistant organization.
+
+## Adoption
+
+This Contributor License Agreement (CLA) was first announced on January 21st, 2017 in [this][cla-blog] blog post and adopted January 28th, 2017.
+
+[cla-blog]: https://home-assistant.io/blog/2017/01/21/home-assistant-governance/
+```
+## _docs_source_api_event_rst
+```.. _helpers_event_module:
+
+:mod:`homeassistant.helpers.event`
+----------------------------------
+
+.. automodule:: homeassistant.helpers.event
+
+.. autofunction:: track_state_change
+
+.. autofunction:: track_point_in_time
+
+.. autofunction:: track_point_in_utc_time
+
+.. autofunction:: track_sunrise
+
+.. autofunction:: track_sunset
+
+.. autofunction:: track_utc_time_change
+
+.. autofunction:: track_time_change
+```
+## _docs_source_api_homeassistant_rst
+```homeassistant package
+=====================
+
+Subpackages
+-----------
+
+.. toctree::
+
+    helpers
+    util
+
+Submodules
+----------
+
+bootstrap module
+------------------------------
+
+.. automodule:: homeassistant.bootstrap
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+config module
+---------------------------
+
+.. automodule:: homeassistant.config
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+const module
+--------------------------
+
+.. automodule:: homeassistant.const
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+core module
+-------------------------
+
+.. automodule:: homeassistant.core
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+exceptions module
+-------------------------------
+
+.. automodule:: homeassistant.exceptions
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+loader module
+---------------------------
+
+.. automodule:: homeassistant.loader
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: homeassistant
+    :members:
+    :undoc-members:
+    :show-inheritance:
+```
+## _CODE_OF_CONDUCT_md
+```# Contributor Covenant Code of Conduct
+
+## Our Pledge
+
+In the interest of fostering an open and welcoming environment, we as
+contributors and maintainers pledge to making participation in our project and
+our community a harassment-free experience for everyone, regardless of age, body
+size, disability, ethnicity, gender identity and expression, level of experience,
+nationality, personal appearance, race, religion, or sexual identity and
+orientation.
+
+## Our Standards
+
+Examples of behavior that contributes to creating a positive environment
+include:
+
+* Using welcoming and inclusive language
+* Being respectful of differing viewpoints and experiences
+* Gracefully accepting constructive criticism
+* Focusing on what is best for the community
+* Showing empathy towards other community members
+
+Examples of unacceptable behavior by participants include:
+
+* The use of sexualized language or imagery and unwelcome sexual attention or
+advances
+* Trolling, insulting/derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or electronic
+  address, without explicit permission
+* Other conduct which could reasonably be considered inappropriate in a
+  professional setting
+
+## Our Responsibilities
+
+Project maintainers are responsible for clarifying the standards of acceptable
+behavior and are expected to take appropriate and fair corrective action in
+response to any instances of unacceptable behavior.
+
+Project maintainers have the right and responsibility to remove, edit, or
+reject comments, commits, code, wiki edits, issues, and other contributions
+that are not aligned to this Code of Conduct, or to ban temporarily or
+permanently any contributor for other behaviors that they deem inappropriate,
+threatening, offensive, or harmful.
+
+## Scope
+
+This Code of Conduct applies both within project spaces and in public spaces
+when an individual is representing the project or its community. Examples of
+representing a project or community include using an official project e-mail
+address, posting via an official social media account, or acting as an appointed
+representative at an online or offline event. Representation of a project may be
+further defined and clarified by project maintainers.
+
+## Enforcement
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported by contacting the project team at [safety@home-assistant.io][email]. All
+complaints will be reviewed and investigated and will result in a response that
+is deemed necessary and appropriate to the circumstances. The project team is
+obligated to maintain confidentiality with regard to the reporter of an incident.
+Further details of specific enforcement policies may be posted separately.
+
+Project maintainers who do not follow or enforce the Code of Conduct in good
+faith may face temporary or permanent repercussions as determined by other
+members of the project's leadership.
+
+## Attribution
+
+This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
+available [here][version].
+
+## Adoption
+
+This Code of Conduct was first adopted January 21st, 2017 and announced in [this][coc-blog] blog post.
+
+[homepage]: http://contributor-covenant.org
+[version]: http://contributor-covenant.org/version/1/4/
+[email]: mailto:safety@home-assistant.io
+[coc-blog]: https://home-assistant.io/blog/2017/01/21/home-assistant-governance/
+```
+## _CONTRIBUTING_md
+```# Contributing to Home Assistant
+
+Everybody is invited and welcome to contribute to Home Assistant. There is a lot to do...if you are not a developer perhaps you would like to help with the documentation on [home-assistant.io](https://home-assistant.io/)? If you are a developer and have devices in your home which aren't working with Home Assistant yet, why not spend a couple of hours and help to integrate them?
+
+The process is straight-forward.
+
+ - Read [How to get faster PR reviews](https://github.com/kubernetes/community/blob/master/contributors/guide/pull-requests.md#best-practices-for-faster-reviews) by Kubernetes (but skip step 0)
+ - Fork the Home Assistant [git repository](https://github.com/home-assistant/home-assistant).
+ - Write the code for your device, notification service, sensor, or IoT thing.
+ - Ensure tests work.
+ - Create a Pull Request against the [**dev**](https://github.com/home-assistant/home-assistant/tree/dev) branch of Home Assistant.
+
+Still interested? Then you should take a peek at the [developer documentation](https://developers.home-assistant.io/) to get more details.
+
+```
+## _docs_source_api_helpers_rst
+```homeassistant.helpers package
+=============================
+
+Submodules
+----------
+
+homeassistant.helpers.aiohttp_client module
+-------------------------------------------
+
+.. automodule:: homeassistant.helpers.aiohttp_client
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+homeassistant.helpers.area_registry module
+------------------------------------------
+
+.. automodule:: homeassistant.helpers.area_registry
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.condition module
+--------------------------------------
+
+.. automodule:: homeassistant.helpers.condition
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.config_entry_flow module
+----------------------------------------------
+
+.. automodule:: homeassistant.helpers.config_entry_flow
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.config_validation module
+----------------------------------------------
+
+.. automodule:: homeassistant.helpers.config_validation
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.data_entry_flow module
+--------------------------------------------
+
+.. automodule:: homeassistant.helpers.data_entry_flow
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.deprecation module
+----------------------------------------
+
+.. automodule:: homeassistant.helpers.deprecation
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.device_registry module
+--------------------------------------------
+
+.. automodule:: homeassistant.helpers.device_registry
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.discovery module
+--------------------------------------
+
+.. automodule:: homeassistant.helpers.discovery
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.dispatcher module
+---------------------------------------
+
+.. automodule:: homeassistant.helpers.dispatcher
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.entity module
+-----------------------------------
+
+.. automodule:: homeassistant.helpers.entity
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.entity_component module
+---------------------------------------------
+
+.. automodule:: homeassistant.helpers.entity_component
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.entity_platform module
+--------------------------------------------
+
+.. automodule:: homeassistant.helpers.entity_platform
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.entity_registry module
+--------------------------------------------
+
+.. automodule:: homeassistant.helpers.entity_registry
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.entity_values module
+------------------------------------------
+
+.. automodule:: homeassistant.helpers.entity_values
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.entityfilter module
+-----------------------------------------
+
+.. automodule:: homeassistant.helpers.entityfilter
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.event module
+----------------------------------
+
+.. automodule:: homeassistant.helpers.event
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.icon module
+---------------------------------
+
+.. automodule:: homeassistant.helpers.icon
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.intent module
+-----------------------------------
+
+.. automodule:: homeassistant.helpers.intent
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.json module
+---------------------------------
+
+.. automodule:: homeassistant.helpers.json
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.location module
+-------------------------------------
+
+.. automodule:: homeassistant.helpers.location
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.logging module
+------------------------------------
+
+.. automodule:: homeassistant.helpers.logging
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.restore_state module
+------------------------------------------
+
+.. automodule:: homeassistant.helpers.restore_state
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.script module
+-----------------------------------
+
+.. automodule:: homeassistant.helpers.script
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.service module
+------------------------------------
+
+.. automodule:: homeassistant.helpers.service
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.signal module
+-----------------------------------
+
+.. automodule:: homeassistant.helpers.signal
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.state module
+----------------------------------
+
+.. automodule:: homeassistant.helpers.state
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.storage module
+------------------------------------
+
+.. automodule:: homeassistant.helpers.storage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.sun module
+--------------------------------
+
+.. automodule:: homeassistant.helpers.sun
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.system_info module
+----------------------------------------
+
+.. automodule:: homeassistant.helpers.system_info
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.temperature module
+----------------------------------------
+
+.. automodule:: homeassistant.helpers.temperature
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.template module
+-------------------------------------
+
+.. automodule:: homeassistant.helpers.template
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.translation module
+-----------------------------------------
+
+.. automodule:: homeassistant.helpers.translation
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.helpers.typing module
+-----------------------------------
+
+.. automodule:: homeassistant.helpers.typing
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: homeassistant.helpers
+    :members:
+    :undoc-members:
+    :show-inheritance:
+```
+## _github_ISSUE_TEMPLATE_md
+```<!-- READ THIS FIRST:
+- If you need additional help with this template please refer to https://www.home-assistant.io/help/reporting_issues/
+- Make sure you are running the latest version of Home Assistant before reporting an issue: https://github.com/home-assistant/home-assistant/releases
+- Frontend issues should be submitted to the home-assistant-polymer repository: https://github.com/home-assistant/home-assistant-polymer/issues
+- iOS issues should be submitted to the home-assistant-iOS repository: https://github.com/home-assistant/home-assistant-iOS/issues
+- Do not report issues for integrations if you are using custom integration: files in <config-dir>/custom_components
+- This is for bugs only. Feature and enhancement requests should go in our community forum: https://community.home-assistant.io/c/feature-requests
+- Provide as many details as possible. Paste logs, configuration sample and code into the backticks. Do not delete any text from this template!
+-->
+
+**Home Assistant release with the issue:**
+<!--
+- Frontend -> Developer tools -> Info
+- Or use this command: hass --version
+-->
+
+
+**Last working Home Assistant release (if known):**
+
+
+**Operating environment (Hass.io/Docker/Windows/etc.):**
+<!--
+Please provide details about your environment.
+-->
+
+**Integration:**
+<!--
+Please add the link to the documentation at https://www.home-assistant.io/integrations/ of the integration in question.
+-->
+
+
+**Description of problem:**
+
+
+
+**Problem-relevant `configuration.yaml` entries and (fill out even if it seems unimportant):**
+'''yaml
+
+'''
+
+**Traceback (if applicable):**
+'''
+
+'''
+
+**Additional information:**
+
+```
+## _github_ISSUE_TEMPLATE_Bug_report_md
+```---
+name: Bug report
+about: Create a report to help us improve
+
+---
+
+<!-- READ THIS FIRST:
+- If you need additional help with this template please refer to https://www.home-assistant.io/help/reporting_issues/
+- Make sure you are running the latest version of Home Assistant before reporting an issue: https://github.com/home-assistant/home-assistant/releases
+- Frontend issues should be submitted to the home-assistant-polymer repository: https://github.com/home-assistant/home-assistant-polymer/issues
+- iOS issues should be submitted to the home-assistant-iOS repository: https://github.com/home-assistant/home-assistant-iOS/issues
+- Do not report issues for integrations if you are using a custom integration: files in <config-dir>/custom_components
+- This is for bugs only. Feature and enhancement requests should go in our community forum: https://community.home-assistant.io/c/feature-requests
+- Provide as many details as possible. Paste logs, configuration sample and code into the backticks. Do not delete any text from this template!
+-->
+
+**Home Assistant release with the issue:**
+<!--
+- Frontend -> Developer tools -> Info
+- Or use this command: hass --version
+-->
+
+
+**Last working Home Assistant release (if known):**
+
+
+**Operating environment (Hass.io/Docker/Windows/etc.):**
+<!--
+Please provide details about your environment.
+-->
+
+**Integration:**
+<!--
+Please add the link to the documentation at https://www.home-assistant.io/integrations/ of the integration in question.
+-->
+
+
+**Description of problem:**
+
+
+
+**Problem-relevant `configuration.yaml` entries and (fill out even if it seems unimportant):**
+'''yaml
+
+'''
+
+**Traceback (if applicable):**
+'''
+
+'''
+
+**Additional information:**
+```
+## _docs_source_api_util_rst
+```homeassistant.util package
+==========================
+
+Submodules
+----------
+
+homeassistant.util.async_ module
+-------------------------------
+
+.. automodule:: homeassistant.util.async_
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.util.color module
+-------------------------------
+
+.. automodule:: homeassistant.util.color
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.util.distance module
+----------------------------------
+
+.. automodule:: homeassistant.util.distance
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.util.dt module
+----------------------------
+
+.. automodule:: homeassistant.util.dt
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.util.location module
+----------------------------------
+
+.. automodule:: homeassistant.util.location
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.util.package module
+---------------------------------
+
+.. automodule:: homeassistant.util.package
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.util.temperature module
+-------------------------------------
+
+.. automodule:: homeassistant.util.temperature
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.util.unit_system module
+-------------------------------------
+
+.. automodule:: homeassistant.util.unit_system
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+homeassistant.util.yaml module
+------------------------------
+
+.. automodule:: homeassistant.util.yaml
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: homeassistant.util
+    :members:
+    :undoc-members:
+    :show-inheritance:
+```
 ## _LICENSE_md
 ```                                 Apache License
                            Version 2.0, January 2004
@@ -315,443 +1122,353 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 ```
-## _github_PULL_REQUEST_TEMPLATE_md
-```## Breaking Change:
+## _docs_source_index_rst
+```================================
+Home Assistant API Documentation
+================================
 
-<!-- What is breaking and why we have to break it. Remove this section only if it was NOT a breaking change. -->
+Public API documentation for `Home Assistant developers`_.
 
-## Description:
+Contents:
 
+.. toctree::
+   :maxdepth: 2
+   :glob:
 
-**Related issue (if applicable):** fixes #<home-assistant issue number goes here>
+   api/*
 
-**Pull request with documentation for [home-assistant.io](https://github.com/home-assistant/home-assistant.io) (if applicable):** home-assistant/home-assistant.io#<home-assistant.io PR number goes here>
+Indices and tables
+==================
 
-## Example entry for `configuration.yaml` (if applicable):
-'''yaml
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
 
-'''
-
-## Checklist:
-  - [ ] The code change is tested and works locally.
-  - [ ] Local tests pass with `tox`. **Your PR cannot be merged unless tests pass**
-  - [ ] There is no commented out code in this PR.
-  - [ ] I have followed the [development checklist][dev-checklist]
-
-If user exposed functionality or configuration variables are added/changed:
-  - [ ] Documentation added/updated in [home-assistant.io](https://github.com/home-assistant/home-assistant.io)
-
-If the code communicates with devices, web services, or third-party tools:
-  - [ ] [_The manifest file_][manifest-docs] has all fields filled out correctly. Update and include derived files by running `python3 -m script.hassfest`.
-  - [ ] New or updated dependencies have been added to `requirements_all.txt` by running `python3 -m script.gen_requirements_all`.
-  - [ ] Untested files have been added to `.coveragerc`.
-
-If the code does not interact with devices:
-  - [ ] Tests have been added to verify that the new code works.
-
-[dev-checklist]: https://developers.home-assistant.io/docs/en/development_checklist.html
-[manifest-docs]: https://developers.home-assistant.io/docs/en/creating_integration_manifest.html
+.. _Home Assistant developers: https://developers.home-assistant.io/
 ```
-## _CLA_md
-```# Contributor License Agreement
+## _docs_source_api_bootstrap_rst
+```.. _bootstrap_module:
 
-'''
-By making a contribution to this project, I certify that:
+:mod:`homeassistant.bootstrap`
+-------------------------
 
-(a) The contribution was created in whole or in part by me and I
-    have the right to submit it under the Apache 2.0 license; or
-
-(b) The contribution is based upon previous work that, to the best
-    of my knowledge, is covered under an appropriate open source
-    license and I have the right under that license to submit that
-    work with modifications, whether created in whole or in part
-    by me, under the Apache 2.0 license; or
-
-(c) The contribution was provided directly to me by some other
-    person who certified (a), (b) or (c) and I have not modified
-    it.
-
-(d) I understand and agree that this project and the contribution
-    are public and that a record of the contribution (including all
-    personal information I submit with it) is maintained indefinitely
-    and may be redistributed consistent with this project or the open
-    source license(s) involved.
-'''
-
-## Attribution
-
-The text of this license is available under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).  It is based on the Linux [Developer Certificate Of Origin](http://elinux.org/Developer_Certificate_Of_Origin), but is modified to explicitly use the Apache 2.0 license
-and not mention sign-off.
-
-## Signing
-
-To sign this CLA you must first submit a pull request to a repository under the Home Assistant organization.
-
-## Adoption
-
-This Contributor License Agreement (CLA) was first announced on January 21st, 2017 in [this][cla-blog] blog post and adopted January 28th, 2017.
-
-[cla-blog]: https://home-assistant.io/blog/2017/01/21/home-assistant-governance/
+.. automodule:: homeassistant.bootstrap
+    :members:
 ```
-## _github_ISSUE_TEMPLATE_Bug_report_md
-```---
-name: Bug report
-about: Create a report to help us improve
+## _docs_source_api_device_tracker_rst
+```.. _components_device_tracker_module:
 
----
+:mod:`homeassistant.components.device_tracker`
+----------------------------------------------
 
-<!-- READ THIS FIRST:
-- If you need additional help with this template please refer to https://www.home-assistant.io/help/reporting_issues/
-- Make sure you are running the latest version of Home Assistant before reporting an issue: https://github.com/home-assistant/home-assistant/releases
-- Frontend issues should be submitted to the home-assistant-polymer repository: https://github.com/home-assistant/home-assistant-polymer/issues
-- iOS issues should be submitted to the home-assistant-iOS repository: https://github.com/home-assistant/home-assistant-iOS/issues
-- Do not report issues for integrations if you are using a custom integration: files in <config-dir>/custom_components
-- This is for bugs only. Feature and enhancement requests should go in our community forum: https://community.home-assistant.io/c/feature-requests
-- Provide as many details as possible. Paste logs, configuration sample and code into the backticks. Do not delete any text from this template!
--->
+.. automodule:: homeassistant.components.device_tracker
+    :members:
 
-**Home Assistant release with the issue:**
-<!--
-- Frontend -> Developer tools -> Info
-- Or use this command: hass --version
--->
-
-
-**Last working Home Assistant release (if known):**
-
-
-**Operating environment (Hass.io/Docker/Windows/etc.):**
-<!--
-Please provide details about your environment.
--->
-
-**Integration:**
-<!--
-Please add the link to the documentation at https://www.home-assistant.io/integrations/ of the integration in question.
--->
-
-
-**Description of problem:**
-
-
-
-**Problem-relevant `configuration.yaml` entries and (fill out even if it seems unimportant):**
-'''yaml
-
-'''
-
-**Traceback (if applicable):**
-'''
-
-'''
-
-**Additional information:**
+.. autoclass:: Device
+    :members:
 ```
-## _CONTRIBUTING_md
-```# Contributing to Home Assistant
+## _docs_source_api_entity_rst
+```.. _helpers_entity_module:
 
-Everybody is invited and welcome to contribute to Home Assistant. There is a lot to do...if you are not a developer perhaps you would like to help with the documentation on [home-assistant.io](https://home-assistant.io/)? If you are a developer and have devices in your home which aren't working with Home Assistant yet, why not spend a couple of hours and help to integrate them?
+:mod:`homeassistant.helpers.entity`
+-----------------------------------
 
-The process is straight-forward.
+.. automodule:: homeassistant.helpers.entity
 
- - Read [How to get faster PR reviews](https://github.com/kubernetes/community/blob/master/contributors/guide/pull-requests.md#best-practices-for-faster-reviews) by Kubernetes (but skip step 0)
- - Fork the Home Assistant [git repository](https://github.com/home-assistant/home-assistant).
- - Write the code for your device, notification service, sensor, or IoT thing.
- - Ensure tests work.
- - Create a Pull Request against the [**dev**](https://github.com/home-assistant/home-assistant/tree/dev) branch of Home Assistant.
+.. autoclass:: Entity
+    :members:
 
-Still interested? Then you should take a peek at the [developer documentation](https://developers.home-assistant.io/) to get more details.
-
+.. autoclass:: ToggleEntity
+    :members:
 ```
-## _CODE_OF_CONDUCT_md
-```# Contributor Covenant Code of Conduct
+## _docs_source_api_core_rst
+```.. _core_module:
 
-## Our Pledge
+:mod:`homeassistant.core`
+-------------------------
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-nationality, personal appearance, race, religion, or sexual identity and
-orientation.
+.. automodule:: homeassistant.core
 
-## Our Standards
+.. autoclass:: Config
+    :members:
 
-Examples of behavior that contributes to creating a positive environment
-include:
+.. autoclass:: Event
+    :members:
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+.. autoclass:: EventBus
+    :members:
 
-Examples of unacceptable behavior by participants include:
+.. autoclass:: HomeAssistant
+    :members:
 
-* The use of sexualized language or imagery and unwelcome sexual attention or
-advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic
-  address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+.. autoclass:: State
+    :members:
 
-## Our Responsibilities
+.. autoclass:: StateMachine
+    :members:
 
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
+.. autoclass:: ServiceCall
+    :members:
 
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
+.. autoclass:: ServiceRegistry
+    :members:
 
-## Scope
+Module contents
+---------------
 
-This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
-
-## Enforcement
-
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at [safety@home-assistant.io][email]. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
-
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
-
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available [here][version].
-
-## Adoption
-
-This Code of Conduct was first adopted January 21st, 2017 and announced in [this][coc-blog] blog post.
-
-[homepage]: http://contributor-covenant.org
-[version]: http://contributor-covenant.org/version/1/4/
-[email]: mailto:safety@home-assistant.io
-[coc-blog]: https://home-assistant.io/blog/2017/01/21/home-assistant-governance/
-```
-## _github_ISSUE_TEMPLATE_md
-```<!-- READ THIS FIRST:
-- If you need additional help with this template please refer to https://www.home-assistant.io/help/reporting_issues/
-- Make sure you are running the latest version of Home Assistant before reporting an issue: https://github.com/home-assistant/home-assistant/releases
-- Frontend issues should be submitted to the home-assistant-polymer repository: https://github.com/home-assistant/home-assistant-polymer/issues
-- iOS issues should be submitted to the home-assistant-iOS repository: https://github.com/home-assistant/home-assistant-iOS/issues
-- Do not report issues for integrations if you are using custom integration: files in <config-dir>/custom_components
-- This is for bugs only. Feature and enhancement requests should go in our community forum: https://community.home-assistant.io/c/feature-requests
-- Provide as many details as possible. Paste logs, configuration sample and code into the backticks. Do not delete any text from this template!
--->
-
-**Home Assistant release with the issue:**
-<!--
-- Frontend -> Developer tools -> Info
-- Or use this command: hass --version
--->
-
-
-**Last working Home Assistant release (if known):**
-
-
-**Operating environment (Hass.io/Docker/Windows/etc.):**
-<!--
-Please provide details about your environment.
--->
-
-**Integration:**
-<!--
-Please add the link to the documentation at https://www.home-assistant.io/integrations/ of the integration in question.
--->
-
-
-**Description of problem:**
-
-
-
-**Problem-relevant `configuration.yaml` entries and (fill out even if it seems unimportant):**
-'''yaml
-
-'''
-
-**Traceback (if applicable):**
-'''
-
-'''
-
-**Additional information:**
-
+.. automodule:: homeassistant.core
+    :members:
+    :undoc-members:
+    :show-inheritance:
 ```
 # Inline
-## _homeassistant_components_openweathermap_sensor_py
+## _homeassistant_components_insteon_binary_sensor_py
 
-## _homeassistant_components_threshold_binary_sensor_py
+## _homeassistant_components_tahoma_sensor_py
 
-## _homeassistant_components_konnected_sensor_py
-### Line 32-41
-```
+## _homeassistant_components_fitbit_init_py
 
-    data = hass.data[KONNECTED_DOMAIN]
-    device_id = discovery_info["device_id"]
-    sensors = []
+## _homeassistant_components_zha_core_decorators_py
 
-    # Initialize all DHT sensors.
-    dht_sensors = [
-        sensor
-        for sensor in data[CONF_DEVICES][device_id][CONF_SENSORS]
-        if sensor[CONF_TYPE] == "dht"
-```
-### Line 69-79
-```
-                )
-            ],
-            True,
-        )
+## _homeassistant_components_bbox_device_tracker_py
 
-    # DS18B20 sensors entities are initialized when they report for the first
-    # time. Set up a listener for that signal from the Konnected component.
-    async_dispatcher_connect(hass, SIGNAL_DS18B20_NEW, async_add_ds18b20)
+## _homeassistant_components_rmvtransport_init_py
 
+## _homeassistant_components_ifttt_const_py
 
-class KonnectedSensor(Entity):
-```
-### Line 89-103
-```
-        self._unit_of_measurement = SENSOR_TYPES[sensor_type][1]
-        self._unique_id = addr or "{}-{}-{}".format(
-            device_id, self._pin_num, sensor_type
-        )
+## _tests_components_seventeentrack_test_sensor_py
 
-        # set initial state if known at initialization
-        self._state = initial_state
-        if self._state:
-            self._state = round(float(self._state), 1)
+## _tests_components_luftdaten_init_py
 
-        # set entity name if given
-        self._name = self._data.get(CONF_NAME)
-        if self._name:
-            self._name += " " + SENSOR_TYPES[sensor_type][0]
+## _tests_components_wunderground_test_sensor_py
 
-```
+## _homeassistant_components_ephember_init_py
 
-## _homeassistant_components_thinkingcleaner_sensor_py
+## _tests_components_api_streams_init_py
 
-## _homeassistant_components_seven_segments_image_processing_py
-
-## _homeassistant_components_dweet_sensor_py
-
-## _homeassistant_components_homematic_notify_py
-
-## _tests_components_mqtt_test_legacy_vacuum_py
-### Line 664-682
-```
-    await hass.async_block_till_done()
-    async_fire_mqtt_message(hass, "attr-topic1", '{ "val": "100" }')
-    state = hass.states.get("vacuum.beer")
-    assert state.attributes.get("val") == "100"
-
-    # Change json_attributes_topic
-    async_fire_mqtt_message(hass, "homeassistant/vacuum/bla/config", data2)
-    await hass.async_block_till_done()
-
-    # Verify we are no longer subscribing to the old topic
-    async_fire_mqtt_message(hass, "attr-topic1", '{ "val": "50" }')
-    state = hass.states.get("vacuum.beer")
-    assert state.attributes.get("val") == "100"
-
-    # Verify we are subscribing to the new topic
-    async_fire_mqtt_message(hass, "attr-topic2", '{ "val": "75" }')
-    state = hass.states.get("vacuum.beer")
-    assert state.attributes.get("val") == "75"
-
-```
-### Line 706-715
-```
-    )
-
-    async_fire_mqtt_message(hass, "test-topic", "payload")
-
-    assert len(hass.states.async_entity_ids()) == 2
-    # all vacuums group is 1, unique id created is 1
-
-
-async def test_entity_device_info_with_identifier(hass, mqtt_mock):
-    """Test MQTT vacuum device registry integration."""
-```
-
-## _homeassistant_components_bizkaibus_sensor_py
-
-## _docs_source_ext_edit_on_github_py
-
-## _homeassistant_components_nextbus_init_py
-
-## _homeassistant_components_telegram_init_py
-
-## _tests_components_islamic_prayer_times_init_py
-
-## _homeassistant_components_google_calendar_py
-
-## _homeassistant_components_insteon_fan_py
-
-## _tests_components_wake_on_lan_test_switch_py
-
-## _homeassistant_components_fibaro_scene_py
-
-## _script_hassfest_services_py
-### Line 54-63
-```
-    return False
-
-
-def validate_services(integration: Integration):
-    """Validate services."""
-    # Find if integration uses services
-    has_services = grep_dir(
-        integration.path, "**/*.py", r"hass\.services\.(register|async_register)"
-    )
-
-```
-### Line 83-92
-```
-        )
-
-
-def validate(integrations: Dict[str, Integration], config):
-    """Handle dependencies for integrations."""
-    # check services.yaml is cool
-    for integration in integrations.values():
-        if not integration.manifest:
-            continue
-
-```
-
-## _tests_components_nx584_test_binary_sensor_py
+## _homeassistant_components_pushetta_init_py
 
 ## _homeassistant_components_nilu_air_quality_py
 
+## _tests_components_workday_test_binary_sensor_py
+### Line 16-25
+```
+
+    def setup_method(self):
+        """Set up things to be run when tests are started."""
+        self.hass = get_test_home_assistant()
+
+        # Set valid default config for test
+        self.config_province = {
+            "binary_sensor": {"platform": "workday", "country": "DE", "province": "BW"}
+        }
+
+
+```
+### Line 75-84
+```
+            setup_component(self.hass, "binary_sensor", self.config_province)
+
+        entity = self.hass.states.get("binary_sensor.workday_sensor")
+        assert entity is not None
+
+    # Freeze time to a workday - Mar 15th, 2017
+    @patch(FUNCTION_PATH, return_value=date(2017, 3, 15))
+    def test_workday_province(self, mock_date):
+        """Test if workdays are reported correctly."""
+        with assert_setup_component(1, "binary_sensor"):
+
+```
+### Line 87-96
+```
+        self.hass.start()
+
+        entity = self.hass.states.get("binary_sensor.workday_sensor")
+        assert entity.state == "on"
+
+    # Freeze time to a weekend - Mar 12th, 2017
+    @patch(FUNCTION_PATH, return_value=date(2017, 3, 12))
+    def test_weekend_province(self, mock_date):
+        """Test if weekends are reported correctly."""
+        with assert_setup_component(1, "binary_sensor"):
+
+```
+### Line 99-108
+```
+        self.hass.start()
+
+        entity = self.hass.states.get("binary_sensor.workday_sensor")
+        assert entity.state == "off"
+
+    # Freeze time to a public holiday in province BW - Jan 6th, 2017
+    @patch(FUNCTION_PATH, return_value=date(2017, 1, 6))
+    def test_public_holiday_province(self, mock_date):
+        """Test if public holidays are reported correctly."""
+        with assert_setup_component(1, "binary_sensor"):
+
+```
+### Line 119-128
+```
+            setup_component(self.hass, "binary_sensor", self.config_noprovince)
+
+        entity = self.hass.states.get("binary_sensor.workday_sensor")
+        assert entity is not None
+
+    # Freeze time to a public holiday in province BW - Jan 6th, 2017
+    @patch(FUNCTION_PATH, return_value=date(2017, 1, 6))
+    def test_public_holiday_noprovince(self, mock_date):
+        """Test if public holidays are reported correctly."""
+        with assert_setup_component(1, "binary_sensor"):
+
+```
+### Line 131-140
+```
+        self.hass.start()
+
+        entity = self.hass.states.get("binary_sensor.workday_sensor")
+        assert entity.state == "on"
+
+    # Freeze time to a public holiday in state CA - Mar 31st, 2017
+    @patch(FUNCTION_PATH, return_value=date(2017, 3, 31))
+    def test_public_holiday_state(self, mock_date):
+        """Test if public holidays are reported correctly."""
+        with assert_setup_component(1, "binary_sensor"):
+
+```
+### Line 143-152
+```
+        self.hass.start()
+
+        entity = self.hass.states.get("binary_sensor.workday_sensor")
+        assert entity.state == "off"
+
+    # Freeze time to a public holiday in state CA - Mar 31st, 2017
+    @patch(FUNCTION_PATH, return_value=date(2017, 3, 31))
+    def test_public_holiday_nostate(self, mock_date):
+        """Test if public holidays are reported correctly."""
+        with assert_setup_component(1, "binary_sensor"):
+
+```
+### Line 163-172
+```
+            setup_component(self.hass, "binary_sensor", self.config_invalidprovince)
+
+        entity = self.hass.states.get("binary_sensor.workday_sensor")
+        assert entity is None
+
+    # Freeze time to a public holiday in province BW - Jan 6th, 2017
+    @patch(FUNCTION_PATH, return_value=date(2017, 1, 6))
+    def test_public_holiday_includeholiday(self, mock_date):
+        """Test if public holidays are reported correctly."""
+        with assert_setup_component(1, "binary_sensor"):
+
+```
+### Line 175-184
+```
+        self.hass.start()
+
+        entity = self.hass.states.get("binary_sensor.workday_sensor")
+        assert entity.state == "on"
+
+    # Freeze time to a saturday to test offset - Aug 5th, 2017
+    @patch(FUNCTION_PATH, return_value=date(2017, 8, 5))
+    def test_tomorrow(self, mock_date):
+        """Test if tomorrow are reported correctly."""
+        with assert_setup_component(1, "binary_sensor"):
+
+```
+### Line 187-196
+```
+        self.hass.start()
+
+        entity = self.hass.states.get("binary_sensor.workday_sensor")
+        assert entity.state == "off"
+
+    # Freeze time to a saturday to test offset - Aug 5th, 2017
+    @patch(FUNCTION_PATH, return_value=date(2017, 8, 5))
+    def test_day_after_tomorrow(self, mock_date):
+        """Test if the day after tomorrow are reported correctly."""
+        with assert_setup_component(1, "binary_sensor"):
+
+```
+### Line 199-208
+```
+        self.hass.start()
+
+        entity = self.hass.states.get("binary_sensor.workday_sensor")
+        assert entity.state == "on"
+
+    # Freeze time to a saturday to test offset - Aug 5th, 2017
+    @patch(FUNCTION_PATH, return_value=date(2017, 8, 5))
+    def test_yesterday(self, mock_date):
+        """Test if yesterday are reported correctly."""
+        with assert_setup_component(1, "binary_sensor"):
+
+```
+
+## _homeassistant_components_rmvtransport_sensor_py
+### Line 236-245
+```
+            _LOGGER.warning("Could not retrive data from rmv.de")
+            return
+        self.station = _data.get("station")
+        _deps = []
+        for journey in _data["journeys"]:
+            # find the first departure meeting the criteria
+            _nextdep = {ATTR_ATTRIBUTION: ATTRIBUTION}
+            if self._destinations:
+                dest_found = False
+                for dest in self._destinations:
+
+```
+
+## _homeassistant_components_mopar_lock_py
+
+## _homeassistant_components_egardia_alarm_control_panel_py
+### Line 108-117
+```
+        return status
+
+    def parsestatus(self, status):
+        """Parse the status."""
+        _LOGGER.debug("Parsing status %s", status)
+        # Ignore the statuscode if it is IGNORE
+        if status.lower().strip() != REPORT_SERVER_CODES_IGNORE:
+            _LOGGER.debug("Not ignoring status %s", status)
+            newstatus = STATES.get(status.upper())
+            _LOGGER.debug("newstatus %s", newstatus)
+
+```
+
+## _tests_components_withings_test_init_py
+
+## _homeassistant_components_lametric_notify_py
+### Line 68-77
+```
+        icon = self._icon
+        cycles = self._cycles
+        sound = None
+        priority = self._priority
+
+        # Additional data?
+        if data is not None:
+            if "icon" in data:
+                icon = data["icon"]
+            if "sound" in data:
+
+```
+
 # Issues
-## 11167
+## 11045
 Title:
 ```
 
-        XMPP / Jabber "can't start new thread"
+        Google Assistant, voice comes after command?
       
 ```
 Author:
 ```
-thundergreen
+olskar
 ```
 Text:
 ```
@@ -761,67 +1478,1234 @@ You should only file an issue if you found a bug. Feature and enhancement reques
 Home Assistant release (hass --version):
 0.59.2
 Python release (python3 --version):
-python 3.4
 Component/platform:
-XMPP / Jabber
+google-assistant
 Description of problem:
-Problems with XMPP (unknown)
+When using the google assistant component in hass, the voice of google home comes after the command has been run. E.g I say "Turn of all lights", and then after all lights has been turned off, my google home answers "Ok, turning all lights of"
 Expected:
-it works
+The opposite, E.g I say "Turn of all lights", my google home answer, "ok turning of all lights" then turning of all lights
 Problem-relevant configuration.yaml entries and steps to reproduce:
-  - name: thorsten
-    platform: xmpp 
-    sender: home-assistant@emevth.no-ip.biz 
-    password: home-assistant
-    recipient: thorsten@emevth.no-ip.biz
-    tls: true
-    room: home-assistant@chat.noip.me
-  - name: emilie
-    platform: xmpp
-    sender: home-assistant@emevth.no-ip.biz 
-    password: home-assistant
-    recipient: emilie@emevth.no-ip.biz
-    tls: true
+google_assistant:
+  project_id: XXXXX
+  client_id: XXXXX
+  access_token: XXXXX
+  api_key: XXXXX
+  exposed_domains:
+    - light
+    - climate
+
 
 
 
 
 
 Traceback (if applicable):
-2017-12-16 16:21:25 ERROR (MainThread) [homeassistant.core] Error doing job: Task exception was never retrieved
-Traceback (most recent call last):
-File "/usr/lib/python3.4/asyncio/tasks.py", line 233, in _step
-result = coro.throw(exc)
-File "/srv/hass/hass_venv/lib/python3.4/site-packages/homeassistant/core.py", line 1031, in _event_to_service_call
-yield from service_handler.func(service_call)
-File "/srv/hass/hass_venv/lib/python3.4/site-packages/homeassistant/components/notify/__init__.py", line 143, in async_notify_message
-yield from notify_service.async_send_message(**kwargs)
-File "/usr/lib/python3.4/asyncio/futures.py", line 388, in __iter__
-yield self  # This tells Task to wait for completion.
-File "/usr/lib/python3.4/asyncio/tasks.py", line 286, in _wakeup
-value = future.result()
-File "/usr/lib/python3.4/asyncio/futures.py", line 277, in result
-raise self._exception
-File "/usr/lib/python3.4/concurrent/futures/thread.py", line 54, in run
-result = self.fn(*self.args, **self.kwargs)
-File "/srv/hass/hass_venv/lib/python3.4/site-packages/homeassistant/components/notify/xmpp.py", line 64, in send_message
-self._verify, self._room, data)
-File "/srv/hass/hass_venv/lib/python3.4/site-packages/homeassistant/components/notify/xmpp.py", line 117, in send_message
-SendNotificationBot()
-File "/srv/hass/hass_venv/lib/python3.4/site-packages/homeassistant/components/notify/xmpp.py", line 92, in __init__
-self.process()
-File "/srv/hass/hass_venv/lib/python3.4/site-packages/sleekxmpp/basexmpp.py", line 245, in process
-return XMLStream.process(self, *args, **kwargs)
-File "/srv/hass/hass_venv/lib/python3.4/site-packages/sleekxmpp/xmlstream/xmlstream.py", line 1454, in process
-self._start_thread('event_thread_%s' % t, self._event_runner)
-File "/srv/hass/hass_venv/lib/python3.4/site-packages/sleekxmpp/xmlstream/xmlstream.py", line 1363, in _start_thread
-self.__thread[name].start()
-File "/usr/lib/python3.4/threading.py", line 850, in start
-_start_new_thread(self._bootstrap, ())
-RuntimeError: can't start new thread
 
 Additional info:
 
+```
+Author:
+```
+DubhAd
+```
+Text:
+```
+
+This is something you'd need to raise with Google, since it's down to how they order the actions and not something that Home Assistant can control.
+
+```
+Author:
+```
+dshokouhi
+```
+Text:
+```
+
+I am actually pretty happy that it happens faster than Google can say its been done.  It is actually faster than SmartThings.
+
+```
+Author:
+```
+ferdydek
+```
+Text:
+```
+
+This is intentional (by Google), as it has to first attempt to execute the command to get any potential errors and give them back to the user.
+@olskar you should close the issue.
+
+```
+Author:
+```
+olskar
+```
+Text:
+```
+
+@ferdydek Are you sure about that? With IFTTT and hue bulbs, it is doing the "right order". But if youre sure im closing it
+
+```
+Author:
+```
+ferdydek
+```
+Text:
+```
+
+Let me put it this way - what HA's google assistant integration does is identical to how other smart home hubs (for example Philips hue) are behaving.
+If you feel that we should have an option to choose if the GA behaves in both ways please create a new Feature Requests (https://community.home-assistant.io/c/feature-requests).
+
+```
+
+## 22582
+Title:
+```
+
+        Stream record test is flaky
+      
+```
+Author:
+```
+awarecan
+```
+Text:
+```
+
+Home Assistant release with the issue:
+dev branch (0.91+)
+Last working Home Assistant release (if known):
+Operating environment (Hass.io/Docker/Windows/etc.):
+Component/platform:
+stream
+Description of problem:
+tests/components/stream/test_recorder.py::test_record_stream test randomly failed CI environment
+For example:
+https://circleci.com/gh/home-assistant/home-assistant/1155
+I am not understanding why @hunterjm want to test segments == 3, is segments > 1 enough?
+Problem-relevant configuration.yaml entries and (fill out even if it seems unimportant):
+
+Traceback (if applicable):
+__________________________ test_record_stream[pyloop] __________________________
+
+hass = <homeassistant.core.HomeAssistant object at 0x7fdb80c43be0>
+hass_client = <function hass_client.<locals>.auth_client at 0x7fdb80c488c8>
+
+    async def test_record_stream(hass, hass_client):
+        """
+        Test record stream.
+    
+        Purposefully not mocking anything here to test full
+        integration with the stream component.
+        """
+        await async_setup_component(hass, 'stream', {
+            'stream': {}
+        })
+    
+        with patch(
+                'homeassistant.components.stream.recorder.recorder_save_worker'):
+            # Setup demo track
+            source = generate_h264_video()
+            stream = preload_stream(hass, source)
+            recorder = stream.add_provider('recorder')
+            stream.start()
+    
+            segments = 0
+            while True:
+                segment = await recorder.recv()
+                if not segment:
+                    break
+                segments += 1
+    
+            stream.stop()
+    
+>           assert segments == 3
+E           assert 2 == 3
+E             -2
+E             +3
+
+tests/components/stream/test_recorder.py:44: AssertionError
+---------------------------- Captured stderr setup -----------------------------
+DEBUG:asyncio:Using selector: EpollSelector
+------------------------------ Captured log setup ------------------------------
+selector_events.py          54 DEBUG    Using selector: EpollSelector
+----------------------------- Captured stderr call -----------------------------
+INFO:homeassistant.loader:Loaded stream from homeassistant.components.stream
+INFO:homeassistant.loader:Loaded http from homeassistant.components.http
+INFO:homeassistant.setup:Setting up http
+INFO:homeassistant.setup:Setup of domain http took 0.0 seconds.
+DEBUG:homeassistant.core:Bus:Handling <Event component_loaded[L]: component=http>
+INFO:homeassistant.setup:Setting up stream
+DEBUG:homeassistant.core:Bus:Handling <Event service_registered[L]: domain=stream, service=record>
+INFO:homeassistant.setup:Setup of domain stream took 0.0 seconds.
+DEBUG:homeassistant.core:Bus:Handling <Event component_loaded[L]: component=stream>
+INFO:homeassistant.components.stream:Started stream: <_io.BytesIO object at 0x7fdb80bf2150>
+ERROR:homeassistant.components.stream.worker:Error demuxing stream: No dts in packet
+INFO:homeassistant.components.stream:Stopped stream: <_io.BytesIO object at 0x7fdb80bf2150>
+------------------------------ Captured log call -------------------------------
+loader.py                  197 INFO     Loaded stream from homeassistant.components.stream
+loader.py                  197 INFO     Loaded http from homeassistant.components.http
+setup.py                   137 INFO     Setting up http
+setup.py                   163 INFO     Setup of domain http took 0.0 seconds.
+core.py                    541 DEBUG    Bus:Handling <Event component_loaded[L]: component=http>
+setup.py                   137 INFO     Setting up stream
+core.py                    541 DEBUG    Bus:Handling <Event service_registered[L]: domain=stream, service=record>
+setup.py                   163 INFO     Setup of domain stream took 0.0 seconds.
+core.py                    541 DEBUG    Bus:Handling <Event component_loaded[L]: component=stream>
+__init__.py                175 INFO     Started stream: <_io.BytesIO object at 0x7fdb80bf2150>
+worker.py                   81 ERROR    Error demuxing stream: No dts in packet
+__init__.py                191 INFO     Stopped stream: <_io.BytesIO object at 0x7fdb80bf2150>
+--------------------------- Captured stderr teardown ---------------------------
+DEBUG:homeassistant.core:Bus:Handling <Event homeassistant_stop[L]>
+INFO:homeassistant.components.stream:Stopped stream workers.
+INFO:tests.common:Writing data to auth: {'version': 1, 'key': 'auth', 'data': {'users': [{'id': '4fe1a9e3972d46d6b1c509252f7fe38c', 'group_ids': ['system-admin'], 'is_owner': False, 'is_active': True, 'name': 'Mock User', 'system_generated': False}], 'groups': [{'id': 'system-admin', 'name': 'Administrators'}, {'id': 'system-users', 'name': 'Users'}, {'id': 'system-read-only', 'name': 'Read Only'}], 'credentials': [], 'refresh_tokens': [{'id': 'a2fd577e46c14446becde169c3ade7ea', 'user_id': '4fe1a9e3972d46d6b1c509252f7fe38c', 'client_id': 'https://example.com/app', 'client_name': None, 'client_icon': None, 'token_type': 'normal', 'created_at': '2019-03-31T06:28:29.490927+00:00', 'access_token_expiration': 1800.0, 'token': '51869528854d090511fd8de88807b8ed0c62249ab9558c850e74cc6fca4a9eae479551965378be0803bb73abe546625c1f619854f944c0dc611fdd3fe6e8a5b1', 'jwt_key': 'fb6e4e36b9c618fffad611d6c39f7f8c1c36761a5ad8dcde17512efd19a0e77ff55c865e29657f7821cea5a35435ea62d7fcc9fffeb6fb8fa6fc060960832483', 'last_used_at': '2019-03-31T06:28:29.491045+00:00', 'last_used_ip': None}]}}
+DEBUG:homeassistant.core:Bus:Handling <Event homeassistant_close[L]>
+---------------------------- Captured log teardown -----------------------------
+core.py                    541 DEBUG    Bus:Handling <Event homeassistant_stop[L]>
+__init__.py                108 INFO     Stopped stream workers.
+common.py                  874 INFO     Writing data to auth: {'version': 1, 'key': 'auth', 'data': {'users': [{'id': '4fe1a9e3972d46d6b1c509252f7fe38c', 'group_ids': ['system-admin'], 'is_owner': False, 'is_active': True, 'name': 'Mock User', 'system_generated': False}], 'groups': [{'id': 'system-admin', 'name': 'Administrators'}, {'id': 'system-users', 'name': 'Users'}, {'id': 'system-read-only', 'name': 'Read Only'}], 'credentials': [], 'refresh_tokens': [{'id': 'a2fd577e46c14446becde169c3ade7ea', 'user_id': '4fe1a9e3972d46d6b1c509252f7fe38c', 'client_id': 'https://example.com/app', 'client_name': None, 'client_icon': None, 'token_type': 'normal', 'created_at': '2019-03-31T06:28:29.490927+00:00', 'access_token_expiration': 1800.0, 'token': '51869528854d090511fd8de88807b8ed0c62249ab9558c850e74cc6fca4a9eae479551965378be0803bb73abe546625c1f619854f944c0dc611fdd3fe6e8a5b1', 'jwt_key': 'fb6e4e36b9c618fffad611d6c39f7f8c1c36761a5ad8dcde17512efd19a0e77ff55c865e29657f7821cea5a35435ea62d7fcc9fffeb6fb8fa6fc060960832483', 'last_used_at': '2019-03-31T06:28:29.491045+00:00', 'last_used_ip': None}]}}
+core.py                    541 DEBUG    Bus:Handling <Event homeassistant_close[L]>
+
+Additional information:
+
+```
+Author:
+```
+hunterjm
+```
+Text:
+```
+
+Was 3 locally. Checking >1 is probably fine. Maybe due to differing FFMPEG versions and defaults when generating the test video?
+
+```
+
+## 27959
+Title:
+```
+
+        SolarEdge - Missing connections in power flow data
+      
+```
+Author:
+```
+Beertje135
+```
+Text:
+```
+
+Home Assistant release with the issue:
+0.100.2
+Last working Home Assistant release (if known):
+Before the move of SolarEdge from sensors to its own integration.
+Operating environment (Hass.io/Docker/Windows/etc.):
+Hass.io 
+Integration:
+https://www.home-assistant.io/integrations/solaredge
+Description of problem:
+Error for Missing connections in power flow data appears about 100 times per day.
+Error Log:
+Missing connections in power flow data
+13:06 components/solaredge/sensor.py (ERROR) - message first occured at 18 oktober 2019 21:40 and shows up 230 times
+and/or
+2019-10-18 21:50:43 ERROR (SyncWorker_18) [homeassistant.components.solaredge.sensor] Missing connections in power flow data
+Problem-relevant configuration.yaml entries and (fill out even if it seems unimportant):
+solaredge:
+  api_key: !secret api_key_solar_edge
+  site_id: !secret client_id_solar_edge
+Traceback (if applicable):
+Not Applicable
+
+Additional information:
+https://community.home-assistant.io/t/solaredge-new-top-level-entry-missing-connections-in-power-flow-data/138170?u=bve
+
+```
+
+## 15188
+Title:
+```
+
+        No State History Found
+      
+```
+Author:
+```
+geastman4353
+```
+Text:
+```
+
+As the title reads, none of my devices are registering a state history
+
+```
+Author:
+```
+cgarwood
+```
+Text:
+```
+
+Please fill out the issue template. What version of HomeAssistant are you running? What installation method? What is your recorder: setup? Are there any errors in the HomeAssistant log?
+
+```
+Author:
+```
+geastman4353
+```
+Text:
+```
+
+Running Hassio Version 109 - Homeassistant Verison 0.72.1
+Where would i find the recorder setup? I don't have anything in my configuration file for recorder and I never have but this is a recent issue. There are several errors in the HA log but they all appear to be based around WeatherUnderground or MyQ and seem to be internet related.
+
+```
+Author:
+```
+cgarwood
+```
+Text:
+```
+
+If there's not a recorder: line in your configuration.yaml then that's why there's no state history.
+https://www.home-assistant.io/components/recorder has info on setting up the recorder
+
+```
+Author:
+```
+geastman4353
+```
+Text:
+```
+
+I'll give that a try. I'm not sure when that changed because I never had that line in there and never had an issue with state history before. I've updated the config file and I'll see if that works.
+
+```
+Author:
+```
+geastman4353
+```
+Text:
+```
+
+I've added the recorder line to my configuration and there is no change.
+I have the following lines in my config:
+history:
+logbook:
+recorder: 
+I'm not seeing anything in history or logbook since I think 2 updates ago.
+
+
+
+```
+Author:
+```
+kylerw
+```
+Text:
+```
+
+I have the same issue. 0.73.1
+recorder:
+  purge_interval: 1
+  purge_keep_days: 3
+  db_url: !secret recorder_db_url
+  exclude:
+    domains:
+      - automation
+      - weblink
+      - updater
+    entities:
+      - sun.sun
+
+
+```
+Author:
+```
+jurriaan
+```
+Text:
+```
+
+Same here, latest master, using Postgresql with recorder. Tables are a filled with recent data when looking manually.
+> select max(last_updated) from states;
+             max              
+------------------------------
+ 2018-07-31 20:38:30.28531+00
+(1 row)
+
+
+```
+Author:
+```
+jasonmhite
+```
+Text:
+```
+
+Also have this problem. Clicking on an entity in the frontend to view state history does not pop up the normal window, it only produces a message that the system_log.write service was called. Looking at the log the following message this is there:
+ERROR (MainThread) [frontend.js.es5.201808310] http://x.x.x.x:8123/frontend_es5/app-8dfe9b8d.js:2:801147 Uncaught 
+
+The message is clipped, but I am guessing there is some sort of exception in the frontend when trying to draw the history window.
+My setup is also using postgres with pretty standard configurations for recorder and history. I can see recent updates in the database as well so the connection is fine and HA is logging stuff. It was otherwise working before upgrading from 0.75.3 to 0.77.2, though I definitely had it properly display the history window at least once on 0.77.2.
+Update: this seems to be browser dependent. Works using Firefox, but not Vivaldi (based on Chromium).
+
+```
+Author:
+```
+ktpx
+```
+Text:
+```
+
+I have the same problem in the front end, that is, the history window when clicking entities does not show, only the service called.  Works on all other browsers...should open in issue for this.
+
+```
+Author:
+```
+jasonmhite
+```
+Text:
+```
+
+@ktpx What browser are you using?
+
+```
+Author:
+```
+AlfieJ04
+```
+Text:
+```
+
+I resolved this issue by renaming the home-assistant_v2.db to .old and then restarted HA which rebuilt my database.
+Hope this helps someone.
+A
+
+```
+Author:
+```
+ktpx
+```
+Text:
+```
+
+
+@ktpx What browser are you using?
+
+It's only in vivaldi this happens (no graphs or popups)...which is my main browser, but now back on opera due to this problem.
+
+```
+Author:
+```
+jasonmhite
+```
+Text:
+```
+
+I tried clearing the db as well, no effect. I think we might have two separate issues here.
+@ktpx Do you get any more detail in your log messages? Like I mentioned, mine is cut off in the logfile and I just get "Uncaught". It seems to be something with Vivaldi, but it's weird because Vivaldi's browser engine is the same as Chrome, but it works fine in Chrome for me.
+
+```
+Author:
+```
+jasonmhite
+```
+Text:
+```
+
+I wonder if this perhaps has to do with home-assistant/home-assistant-polymer#1624 ? It seems like a frontend issue since it works for me in other browsers. Unfortunately, I tried adding javascript_version: latest as was suggested over there and it didn't help, but it's a start. I gonna dive into this more and possibly open another issue over there.
+
+```
+Author:
+```
+balloobbot
+```
+Text:
+```
+
+There hasn't been any activity on this issue recently. Due to the high number of incoming GitHub notifications, we have to clean some of the old issues, as many of them have already been resolved with the latest updates.
+Please make sure to update to the latest Home Assistant version and check if that solves the issue. Let us know if that works for you by adding a comment 👍
+
+```
+Author:
+```
+jasonmhite
+```
+Text:
+```
+
+@balloobbot This issue is still present in current versions. There's been no change, it still doesn't work.
+I do think this issue is somehow specific to Vivaldi, which is strange because Vivaldi is reusing Chrome's rendering engine but I do not have this problem on Chrome. I don't really know how to debug this though, because there is no meaningful error message.
+
+```
+Author:
+```
+JuniorGamingTime
+```
+Text:
+```
+
+Is this still an issue you are experiencing? Can you please try upgrading to the latest version of Home Assistant (0.90) and report back if this is still a problem? Thanks!
+
+```
+Author:
+```
+jasonmhite
+```
+Text:
+```
+
+@JuniorGamingTime Yes, still a problem.
+
+```
+Author:
+```
+stale
+```
+Text:
+```
+
+There hasn't been any activity on this issue recently. Due to the high number of incoming GitHub notifications, we have to clean some of the old issues, as many of them have already been resolved with the latest updates.
+Please make sure to update to the latest Home Assistant version and check if that solves the issue. Let us know if that works for you by adding a comment 👍
+This issue now has been marked as stale and will be closed if no further activity occurs. Thank you for your contributions.
+
+```
+Author:
+```
+jasonmhite
+```
+Text:
+```
+
+This issue is still a problem.
+
+```
+Author:
+```
+Geoff571
+```
+Text:
+```
+
+Still a problem. Hassio 0.97.2
+Logbook shows data, individual sensors show history when put into a history-graph card, but nothing on the UI History page.
+It was working up until I switched to using MariaDB, then worked once never to be seen again. I even reverted back from using MariaDB and still no History.
+
+```
+Author:
+```
+lancusfpv
+```
+Text:
+```
+
+Is there any solution to this problem? I have 0.98.2 version and no state history found error on history tab.
+
+```
+Author:
+```
+nekomona
+```
+Text:
+```
+
+Same issue met and fixed on 0.99.2 with stock SQLite.
+The issue happened when I rebooted my Pi for the first time. All the history and logbook are blanked, viewed both from the Lovelace and API, while the db file is still growing.
+Renaming db file didn't work. However, when I renamed the .homeassistant folder and start hass again, the hass cannot automatically install and import certain packages. When I manually installed those packages through pip and renamed back my original folder, the system was back to work.
+The packages I manually installed are netdisco==2.6.0 , hass-nabucasa==0.17 and home-assistant-frontend==20190919.0 .
+I have little idea about the cause since all three packages are shown as "Attempting to install" in the log. Anyway it worked for me and the issue didn't show up again after rebooting.
+
+```
+
+## 22352
+Title:
+```
+
+        Assume this is IP based.
+      
+```
+Author:
+```
+ranunculales
+```
+Text:
+```
+
+Home Assistant release with the issue: 0.90.0 to 0.90.1
+Last working Home Assistant release (if known): 0.89.2
+Operating environment (Hass.io/Docker/Windows/etc.): Hass.io / Docker CE / Intel NUC / Ubuntu Server 18.0.4 LTS
+Component/platform:  Appears to be - homekit_controller?
+Description of problem:
+Upgraded from 0.89.2 to 0.90.0 (and 0.90.1) and on boot, Hass.io fills my logs with about 27 of these tracebacks, all with different "MACs". I put those in quotes because these MACs are nowhere in my wireless controller (first thought, since it says "assuming IP based") and any OUI lookup I've spot checked returns unknown results.
+Nothing seems broken so far, other than my OCD that there are logs I can't explain.
+Problem-relevant configuration.yaml entries and (fill out even if it seems unimportant): Unknown at this point...
+
+Traceback (if applicable):
+8:52 AM components/homekit_controller/__init__.py (WARNING)
+
+Log Details (WARNING)
+Sun Mar 24 2019 08:52:30 GMT-0700 (PDT)
+
+Loaded pairing for 8A:AB:9F:D5:4F:F8 with missing connection type. Assume this is IP based.
+
+Additional information:
+
+```
+Author:
+```
+Jc2k
+```
+Text:
+```
+
+This is just a warning from an upstream library and is not a traceback as such.
+The upstream library now supports IP and BLE connection types, and it assumes existing records are IP based but warns that your pairing.json is in an old format. This warning is completely harmless - it takes the right course of action.
+These are HomeKit ID's no MAC addresses. They change every time you reset a device and are completely random. There will be one for every time you have done a homekit pairing, and you have 27 HomeKit pairings in your system. I'm guessing you don't have that many devices but have done a bunch of hard reset and re-pairs?
+There is no mechanism for cleaning out old pairings through HA - this will be fixed by a branch I have in flight but the HA devs are really busy so getting even small PR's reviewed and merged takes time. In the meantime you can reduce the warnings by removing old records from your pairing.json file. If your configuration.yaml is in /config/ then you should have a /config/.homekit/pairing.json. There will be a bunch of other files in that folder starting with hk - you don't need them any more. Other than that, theres no easy way to tell which pairings are active. I think you can do something like python3 -m homekit.discover to see all active IP accessories on your network with their current homekit id.
+For the remaining records you can totally fix your OCD by adding a "Connection": "IP" entry to each pairing.
+Finally, the nuclear option is to rm (or mv to one side) your .homekit folder to one side and do one more reset and re-pair option. Then you'll only have one pairing per device and it should (i think) have the right Connection type set in pairing.json.
+(Of course a future version will do the migration automatically, this is all purely to help your OCD until all of my outstanding branches are merged)
+
+```
+Author:
+```
+ranunculales
+```
+Text:
+```
+
+As always @Jc2k, you are beyond helpful; thank you for that detailed explanation, it's very much appreciated. I have 24 HomeKit devices (I was going all in before I stumbled on HA), with only a few resets... but no need to keep something open if the only thing that's broken is my OCD.
+
+```
+
+## 718
+Title:
+```
+
+        z-wave fibaro FGMS-001 not added
+      
+```
+Author:
+```
+kmadac
+```
+Text:
+```
+
+Hello, I have my first z-wave device which is fibaro multi sensor (motion, temperature, lux) here and z-wave usb stick Vision ZU 1401 in Raspberry Pi.
+I have home-assistant 0.9.1 installed and following configuration in config file:
+zwave:
+  usb_path: /dev/ttyACM0
+  config_path: /usr/local/share/python-openzwave/config
+
+after I start hass, file OZW_Log.txt is created in .homeassistant directory. I cannot see any error there:
+2015-12-09 20:12:37.863 Detail, 
+2015-12-09 20:12:37.864 Info, Node001, Received reply to FUNC_ID_ZW_GET_ROUTING_INFO
+2015-12-09 20:12:37.864 Info, Node001,     Neighbors of this node are:
+2015-12-09 20:12:37.864 Info, Node001,  (none reported)
+2015-12-09 20:12:37.865 Detail, Node001,   Expected reply was received
+2015-12-09 20:12:37.865 Detail, Node001,   Message transaction complete
+2015-12-09 20:12:37.865 Detail, 
+2015-12-09 20:12:37.865 Detail, Node001, Removing current message
+2015-12-09 20:12:37.866 Detail, Node001, Query Stage Complete (Neighbors)
+2015-12-09 20:12:37.866 Detail, Node001, AdvanceQueries queryPending=0 queryRetries=0 queryStage=Session live=1
+2015-12-09 20:12:37.866 Detail, Node001, QueryStage_Session
+2015-12-09 20:12:37.867 Detail, Node001, QueryStage_Dynamic
+2015-12-09 20:12:37.867 Detail, Node001, QueryStage_Configuration
+2015-12-09 20:12:37.867 Detail, Node001, QueryStage_Complete
+2015-12-09 20:12:37.867 Warning, CheckCompletedNodeQueries m_allNodesQueried=0 m_awakeNodesQueried=0
+2015-12-09 20:12:37.868 Warning, CheckCompletedNodeQueries all=1, deadFound=0 sleepingOnly=1
+2015-12-09 20:12:37.868 Info,          Node query processing complete.
+2015-12-09 20:19:06.714 Info, mgr,     Manager::WriteConfig completed for driver with home ID of 0xdf1e1fc0
+2015-12-09 20:19:07.755 Info, mgr,     Driver for controller /dev/ttyACM0 pending removal
+2015-12-09 20:19:07.755 Always, ***************************************************************************
+2015-12-09 20:19:07.756 Always, *********************  Cumulative Network Statistics  *********************
+2015-12-09 20:19:07.756 Always, *** General
+2015-12-09 20:19:07.756 Always, Driver run time: . .  . 0 days, 0 hours, 6 minutes
+2015-12-09 20:19:07.756 Always, Frames processed: . . . . . . . . . . . . . . . . . . . . 9
+2015-12-09 20:19:07.757 Always, Total messages successfully received: . . . . . . . . . . 9
+2015-12-09 20:19:07.757 Always, Total Messages successfully sent: . . . . . . . . . . . . 10
+2015-12-09 20:19:07.757 Always, ACKs received from controller:  . . . . . . . . . . . . . 10
+2015-12-09 20:19:07.757 Always, *** Errors
+2015-12-09 20:19:07.758 Always, Unsolicited messages received while waiting for ACK:  . . 0
+2015-12-09 20:19:07.758 Always, Reads aborted due to timeouts:  . . . . . . . . . . . . . 0
+2015-12-09 20:19:07.758 Always, Bad checksum errors:  . . . . . . . . . . . . . . . . . . 0
+2015-12-09 20:19:07.758 Always, CANs received from controller:  . . . . . . . . . . . . . 0
+2015-12-09 20:19:07.759 Always, NAKs received from controller:  . . . . . . . . . . . . . 0
+2015-12-09 20:19:07.759 Always, Out of frame data flow errors:  . . . . . . . . . . . . . 0
+2015-12-09 20:19:07.759 Always, Messages retransmitted: . . . . . . . . . . . . . . . . . 0
+2015-12-09 20:19:07.760 Always, Messages dropped and not delivered: . . . . . . . . . . . 0
+2015-12-09 20:19:07.760 Always, ***************************************************************************
+2015-12-09 20:19:07.762 Detail, WriteMsg Wait Timeout m_currentMsg=00000000
+2015-12-09 20:19:09.770 Info, mgr,     Driver for controller /dev/ttyACM0 removed
+
+
+Also in hass log file I see that z-wave controller started and also no errors there.
+INFO:root:Driver ready using library b'Static Controller' version b'Z-Wave 3.41'
+INFO:root:home_id 0xdf1e1fc0, controller node id is 1
+
+I tried to set sensor to inclusion mode and restart home assistant, but even though I cannot see any error, I cannot see any new sensor in web interface of home assistant.
+Should the sensor be added and visible to home assistant automatically or should add new sensor item into config file?
+
+```
+Author:
+```
+balloob
+```
+Text:
+```
+
+Is the sensor set up to report it's status to your controller stick?
+Once the stick picks up a Value being broadcasted it will load the sensor platform and show the sensor in the UI.
+
+```
+Author:
+```
+kmadac
+```
+Text:
+```
+
+Hi, Thanks for info.
+Yes, according to sensor documentation I briefly pushed button 3 times and sensor led shone blue, which should inclusion of sensro to z-wave network. But no new messages appeared in log file. I tried also minozw app from openzwave with the same behavior, so it seems that there something wrong with USB stick or sensor itself. I will do more investigation during weekend.
+
+```
+Author:
+```
+sebasdoes
+```
+Text:
+```
+
+I have a Fibaro Smoke Sensor. If I try to use it with Hass (last I tried is 0.8), it will not work with similar results as you. It works fine in Domoticz though.
+Is this maybe because it's a sleeping sensor for most of the time? I forced it into sending data by triggering the burglary alarm to no avail
+
+```
+Author:
+```
+kmadac
+```
+Text:
+```
+
+It seems like compatibility issue between openzwave and USB Stick Vision ZU1401EU. On openzwave mailing list I found that same behavior was reported in June 2015 - https://groups.google.com/forum/#!searchin/openzwave/vision/openzwave/5FS5s0PsfRo/irVLhwPuDE4J.
+@sebasdoes: What USB stick do you have?
+
+```
+Author:
+```
+sebasdoes
+```
+Text:
+```
+
+To be honest I don't know for certain. Let me give the lsusb:
+Bus 001 Device 008: ID 0658:0200 Sigma Designs, Inc.
+Device Descriptor:
+  bLength                18
+  bDescriptorType         1
+  bcdUSB               2.00
+  bDeviceClass            2 Communications
+  bDeviceSubClass         0
+  bDeviceProtocol         0
+  bMaxPacketSize0         8
+  idVendor           0x0658 Sigma Designs, Inc.
+  idProduct          0x0200
+  bcdDevice            0.00
+  iManufacturer           0
+  iProduct                0
+  iSerial                 1 12345678-9012-3456-7890-123456789012
+  bNumConfigurations      1
+  Configuration Descriptor:
+    bLength                 9
+    bDescriptorType         2
+    wTotalLength           67
+    bNumInterfaces          2
+    bConfigurationValue     1
+    iConfiguration          0
+    bmAttributes         0x80
+      (Bus Powered)
+    MaxPower              100mA
+    Interface Descriptor:
+      bLength                 9
+      bDescriptorType         4
+      bInterfaceNumber        0
+      bAlternateSetting       0
+      bNumEndpoints           1
+      bInterfaceClass         2 Communications
+      bInterfaceSubClass      2 Abstract (modem)
+      bInterfaceProtocol      1 AT-commands (v.25ter)
+      iInterface              0
+      CDC Header:
+        bcdCDC               1.10
+      CDC Call Management:
+        bmCapabilities       0x00
+        bDataInterface          1
+      CDC ACM:
+        bmCapabilities       0x00
+      CDC Union:
+        bMasterInterface        0
+        bSlaveInterface         1
+      Endpoint Descriptor:
+        bLength                 7
+        bDescriptorType         5
+        bEndpointAddress     0x81  EP 1 IN
+        bmAttributes            3
+          Transfer Type            Interrupt
+          Synch Type               None
+          Usage Type               Data
+        wMaxPacketSize     0x0008  1x 8 bytes
+        bInterval              32
+    Interface Descriptor:
+      bLength                 9
+      bDescriptorType         4
+      bInterfaceNumber        1
+      bAlternateSetting       0
+      bNumEndpoints           2
+      bInterfaceClass        10 CDC Data
+      bInterfaceSubClass      0 Unused
+      bInterfaceProtocol      0
+      iInterface              0
+      Endpoint Descriptor:
+        bLength                 7
+        bDescriptorType         5
+        bEndpointAddress     0x82  EP 2 IN
+        bmAttributes            2
+          Transfer Type            Bulk
+          Synch Type               None
+          Usage Type               Data
+        wMaxPacketSize     0x0020  1x 32 bytes
+        bInterval               0
+      Endpoint Descriptor:
+        bLength                 7
+        bDescriptorType         5
+        bEndpointAddress     0x02  EP 2 OUT
+        bmAttributes            2
+          Transfer Type            Bulk
+          Synch Type               None
+          Usage Type               Data
+        wMaxPacketSize     0x0020  1x 32 bytes
+        bInterval               0
+Device Status:     0x0000
+  (Bus Powered)
+
+```
+Author:
+```
+sebasdoes
+```
+Text:
+```
+
+I upgraded to the newest python-openzwave just to rule that out. My logs haven't changed, but might be of use. The OZW_Log.txt file shows this message when I trigger an alarm:
+2015-12-13 09:36:37.252 Detail,
+2015-12-13 09:36:37.254 Info, Node005, ApplicationCommandHandler - Unhandled Command Class 0x71
+2015-12-13 09:36:37.356 Detail, Node005,   Received: 0x01, 0x0d, 0x00, 0x04, 0x08, 0x05, 0x07, 0x9c, 0x02, 0x05, 0x00, 0x00, 0x00, 0x00, 0x67
+2015-12-13 09:36:37.358 Detail,
+2015-12-13 09:36:37.359 Info, Node005, ApplicationCommandHandler - Unhandled Command Class 0x9c
+2015-12-13 09:36:37.371 Detail, Node005,   Received: 0x01, 0x0d, 0x00, 0x04, 0x00, 0x05, 0x07, 0x9c, 0x02, 0x05, 0x00, 0x00, 0x00, 0x00, 0x6f
+2015-12-13 09:36:37.373 Detail,
+2015-12-13 09:36:37.375 Info, Node005, ApplicationCommandHandler - Unhandled Command Class 0x9c
+2015-12-13 09:37:22.518 Detail, Node005,   Received: 0x01, 0x0c, 0x00, 0x04, 0x00, 0x05, 0x06, 0x31, 0x05, 0x01, 0x22, 0x00, 0xe3, 0x00
+2015-12-13 09:37:22.522 Detail,
+2015-12-13 09:37:22.531 Info, Node005, ApplicationCommandHandler - Unhandled Command Class 0x31
+
+```
+Author:
+```
+kmadac
+```
+Text:
+```
+
+Thanks for pasting your logs. It seems that you have different issue than me. In my log, I cannot see any communication of sensor. Only data from Node001, which is controller itself are in log. You have different USB stick than me, and according to openzwave mailing list, Vision USB doesn't work with openzwave correctly. I will return Vision USB and will order other one (Aeon probably).
+I will leave the issue opened and will report situation, once new USB stick will arrive.
+
+```
+Author:
+```
+deisi
+```
+Text:
+```
+
+I also have the fibaro FGMS-001 sensor and besides some other python-openzwave issues it is running.
+
+```
+Author:
+```
+kmadac
+```
+Text:
+```
+
+I exchanged USB sticks. I sent back Vision USB and purchased Aeon Z-Stick Gen5. I had to copy most recent openzwave config directory into /usr/local/share/python-openzwave because reference to commit in openzwave submodule doesn't contain configuration for Gen5 version. Now, I can see all 3 values in HA, so I'm closing the issue.
+Thanks for help guys.
+
+```
+
+## 5504
+Title:
+```
+
+        scrip/setup fails if npm is not installed
+      
+```
+Author:
+```
+xifle
+```
+Text:
+```
+
+Home Assistant release (hass --version):
+0.36.1
+Python release (python3 --version):
+3.4.3
+Component/platform:
+script/setup
+(fails in script/bootstrap_frontend)
+Description of problem:
+setup script won't install home-assistant if npm is not installed (on non-docker setup).
+Introduced with commit  c864ea6
+Expected:
+Shouldn't fail if npm is not installed
+
+```
+
+## 16830
+Title:
+```
+
+        Jewish calendar sensor error in beta
+      
+```
+Author:
+```
+dshokouhi
+```
+Text:
+```
+
+Home Assistant release with the issue:
+0.79.0b0
+Last working Home Assistant release (if known):
+n/a new platform
+Operating environment (Hass.io/Docker/Windows/etc.):
+venv
+Component/platform:
+Jewish Calendar sensor: https://rc--home-assistant-docs.netlify.com/components/sensor.jewish_calendar/
+Description of problem:
+After setting up the platform according to the docs I get an error
+Problem-relevant configuration.yaml entries and (fill out even if it seems unimportant):
+sensor:
+ - platform: jewish_calendar
+   language: english
+   sensors:
+   - date
+   - holiday_name
+   - first_stars
+Traceback (if applicable):
+2018-09-24 14:02:36 ERROR (MainThread) [homeassistant.components.sensor] jewish_calendar: Error on device update!
+Traceback (most recent call last):
+  File "/home/pi/home-assistant/homeassistant/helpers/entity_platform.py", line 251, in _async_add_entity
+    await entity.async_device_update(warning=False)
+  File "/home/pi/home-assistant/homeassistant/helpers/entity.py", line 350, in async_device_update
+    yield from self.async_update()
+  File "/home/pi/home-assistant/homeassistant/components/sensor/jewish_calendar.py", line 121, in async_update
+    for x in hdate.htables.HOLIDAYS
+  File "/home/pi/home-assistant/homeassistant/components/sensor/jewish_calendar.py", line 122, in <genexpr>
+    if x.index == date.get_holyday())
+AttributeError: 'str' object has no attribute 'long'
+
+Additional information:
+
+```
+Author:
+```
+fabaff
+```
+Text:
+```
+
+@tsvi, looks like that the - holiday_name sensor is causing the issue.
+
+```
+Author:
+```
+tsvi
+```
+Text:
+```
+
+Ok, I see the bug. Most of my tests were for Hebrew. In case of setting language to english, the library does not provide a long description. I think this logic should be moved into the library in any case.
+
+```
+
+## 23865
+Title:
+```
+
+        No Weather or HomeCoach devices found
+      
+```
+Author:
+```
+CookieMonster87
+```
+Text:
+```
+
+Home Assistant release with the issue:
+0.93b
+Last working Home Assistant release (if known):
+0.92.2
+Operating environment (Hass.io/Docker/Windows/etc.):
+Docker
+Component/platform:
+Netatmo
+Description of problem:
+After started using 0.93 dev and now 0.93b3 this error apperas on every boot/restart
+No Weather or HomeCoach devices found for None
+1:37 PM components/netatmo/sensor.py (ERROR)
+Netatmo component is working without any issues so only this error log entry.
+
+```
+Author:
+```
+MartinHjelmare
+```
+Text:
+```
+
+Fixed in #23907.
+
+```
+Author:
+```
+jonathanbower
+```
+Text:
+```
+
+I'm still having this issue with 0.94.2
+
+```
+Author:
+```
+CookieMonster87
+```
+Text:
+```
+
+Yes can confirm still same issue on
+0.94.3
+
+```
+Author:
+```
+CookieMonster87
+```
+Text:
+```
+
+@MartinHjelmare
+Can this be opened again? still same problem on 0.94.3
+
+```
+Author:
+```
+maheus
+```
+Text:
+```
+
+same error here #24435
+
+```
+Author:
+```
+cgtobi
+```
+Text:
+```
+
+This is fixed in #24788.
+
+```
+Author:
+```
+CookieMonster87
+```
+Text:
+```
+
+@cgtobi
+Almost fixed in 95.2 :) Now the error is No HomeCoach devices found instead of No Weather or HomeCoach devices found. Is it possible to fix so it does not log error if the netatmo account dont have the HomeCoach device?
+
+```
+Author:
+```
+cgtobi
+```
+Text:
+```
+
+It is just a warning. But I will probably have to work on it as it seems to confuse people.
+
+```
+
+## 5061
+Title:
+```
+
+        Kodi media player status unstable
+      
+```
+Author:
+```
+liquidox
+```
+Text:
+```
+
+Make sure you are running the latest version of Home Assistant before reporting an issue.
+You should only file an issue if you found a bug. Feature and enhancement requests should go in the Feature Requests section of our community forum:
+Home Assistant release (hass --version):
+0.35.0
+Python release (python3 --version):
+Python 3.5.2
+Component/platform:
+Kodi, media player
+Description of problem:
+I use the "playing" status on the Kodi component to dim our lights automatically. This works perfectly fine while playing regular media files. However, when playing Youtube or Twitch for example, the lights will start fading on/off constantly, seemingly thinking Kodi is both on and off all the time.
+Expected:
+No blinking.
+
+```
+Author:
+```
+jchapple
+```
+Text:
+```
+
+This also happens with LiveTV PVR recordings that are still recording while watching.
+
+```
+Author:
+```
+Zac-HD
+```
+Text:
+```
+
+Based on this line of code, I'd guess it's something to do with the live property.  However that's all the troubleshooting I can do without a device of my own!
+
+```
+Author:
+```
+sacotter
+```
+Text:
+```
+
+I am having the same issue.
+hass: 0.35.2
+Python: 3.4.2
+Lights are flashing on/off every 10 s which matches the log below.
+log snip of grep home-assistant.log -e "state automation.media_player":
+
+17-02-05 19:40:41 homeassistant.core: Bus:Handling <Event state_changed[L]: old_state=<state automation.media_player_pausedstopped=on; last_triggered=2017-02-05T19:40:31.706632-05:00, friendly_name=Media player paused/stopped @ 2017-02-05T19:10:04.250068-05:00>, entity_id=automation.media_player_pausedstopped, new_state=<state automation.media_player_pausedstopped=on; last_triggered=2017-02-05T19:40:41.039384-05:00, friendly_name=Media player paused/stopped @ 2017-02-05T19:10:04.250068-05:00>>
+17-02-05 19:40:41 homeassistant.components.websocket_api: WS 140176765522888: Sending {'id': 2, 'event': {'origin': 'LOCAL', 'time_fired': datetime.datetime(2017, 2, 6, 0, 40, 41, 39683, tzinfo=), 'event_type': 'state_changed', 'data': {'old_state': <state automation.media_player_pausedstopped=on; last_triggered=2017-02-05T19:40:31.706632-05:00, friendly_name=Media player paused/stopped @ 2017-02-05T19:10:04.250068-05:00>, 'entity_id': 'automation.media_player_pausedstopped', 'new_state': <state automation.media_player_pausedstopped=on; last_triggered=2017-02-05T19:40:41.039384-05:00, friendly_name=Media player paused/stopped @ 2017-02-05T19:10:04.250068-05:00>}}, 'type': 'event'}
+17-02-05 19:40:41 homeassistant.core: Bus:Handling <Event state_changed[L]: old_state=<state automation.media_player_playing=on; last_triggered=2017-02-05T19:40:31.720079-05:00, friendly_name=Media player playing @ 2017-02-05T19:10:04.277505-05:00>, entity_id=automation.media_player_playing, new_state=<state automation.media_player_playing=on; last_triggered=2017-02-05T19:40:41.071529-05:00, friendly_name=Media player playing @ 2017-02-05T19:10:04.277505-05:00>>
+17-02-05 19:40:41 homeassistant.components.websocket_api: WS 140176765522888: Sending {'id': 2, 'event': {'origin': 'LOCAL', 'time_fired': datetime.datetime(2017, 2, 6, 0, 40, 41, 71710, tzinfo=), 'event_type': 'state_changed', 'data': {'old_state': <state automation.media_player_playing=on; last_triggered=2017-02-05T19:40:31.720079-05:00, friendly_name=Media player playing @ 2017-02-05T19:10:04.277505-05:00>, 'entity_id': 'automation.media_player_playing', 'new_state': <state automation.media_player_playing=on; last_triggered=2017-02-05T19:40:41.071529-05:00, friendly_name=Media player playing @ 2017-02-05T19:10:04.277505-05:00>}}, 'type': 'event'}
+17-02-05 19:40:51 homeassistant.core: Bus:Handling <Event state_changed[L]: old_state=<state automation.media_player_pausedstopped=on; last_triggered=2017-02-05T19:40:41.039384-05:00, friendly_name=Media player paused/stopped @ 2017-02-05T19:10:04.250068-05:00>, entity_id=automation.media_player_pausedstopped, new_state=<state automation.media_player_pausedstopped=on; last_triggered=2017-02-05T19:40:51.160414-05:00, friendly_name=Media player paused/stopped @ 2017-02-05T19:10:04.250068-05:00>>
+17-02-05 19:40:51 homeassistant.components.websocket_api: WS 140176765522888: Sending {'id': 2, 'event': {'origin': 'LOCAL', 'time_fired': datetime.datetime(2017, 2, 6, 0, 40, 51, 160719, tzinfo=), 'event_type': 'state_changed', 'data': {'old_state': <state automation.media_player_pausedstopped=on; last_triggered=2017-02-05T19:40:41.039384-05:00, friendly_name=Media player paused/stopped @ 2017-02-05T19:10:04.250068-05:00>, 'entity_id': 'automation.media_player_pausedstopped', 'new_state': <state automation.media_player_pausedstopped=on; last_triggered=2017-02-05T19:40:51.160414-05:00, friendly_name=Media player paused/stopped @ 2017-02-05T19:10:04.250068-05:00>}}, 'type': 'event'}
+17-02-05 19:40:51 homeassistant.core: Bus:Handling <Event state_changed[L]: old_state=<state automation.media_player_playing=on; last_triggered=2017-02-05T19:40:41.071529-05:00, friendly_name=Media player playing @ 2017-02-05T19:10:04.277505-05:00>, entity_id=automation.media_player_playing, new_state=<state automation.media_player_playing=on; last_triggered=2017-02-05T19:40:51.377762-05:00, friendly_name=Media player playing @ 2017-02-05T19:10:04.277505-05:00>>
+17-02-05 19:40:51 homeassistant.components.websocket_api: WS 140176765522888: Sending {'id': 2, 'event': {'origin': 'LOCAL', 'time_fired': datetime.datetime(2017, 2, 6, 0, 40, 51, 377942, tzinfo=), 'event_type': 'state_changed', 'data': {'old_state': <state automation.media_player_playing=on; last_triggered=2017-02-05T19:40:41.071529-05:00, friendly_name=Media player playing @ 2017-02-05T19:10:04.277505-05:00>, 'entity_id': 'automation.media_player_playing', 'new_state': <state automation.media_player_playing=on; last_triggered=2017-02-05T19:40:51.377762-05:00, friendly_name=Media player playing @ 2017-02-05T19:10:04.277505-05:00>}}, 'type': 'event'}
+
+
+```
+Author:
+```
+balloobbot
+```
+Text:
+```
+
+There hasn't been any activity on this issue recently. Due to the high number of incoming GitHub notifications, we have to clean some of the old issues, as many of them have already been resolved with the latest updates.
+Please make sure to update to the latest Home Assistant version and check if that solves the issue. Let us know if that works for you by adding a comment 👍
+
+```
+Author:
+```
+balloobbot
+```
+Text:
+```
+
+This issue will be auto-closed because there hasn't been any activity for a few months. Feel free to open a new one if you still experience this problem 👍
+
+```
+
+## 13635
+Title:
+```
+
+        [songpal.containers] Got unknowns for Sysinfo [bleID: 858ABB0D & 0B6C7957 & 32EE70A2]
+      
+```
+Author:
+```
+Timple
+```
+Text:
+```
+
+Home Assistant release with the issue:
+0.66.0
+Last working Home Assistant release (if known):
+0.61.1
+Operating environment (Hass.io/Docker/Windows/etc.):
+Docker
+Component/platform:
+Songpal
+Description of problem:
+Error saying I had to open an issue
+Problem-relevant configuration.yaml entries and (fill out even if it seems unimportant):
+# Discover some devices automatically
+discovery:
+Traceback (if applicable):
+home-assistant_1  | 2018-04-02 14:31:12 WARNING (MainThread) [songpal.service] More than on version for {'name': 'connectBluetoothDevice', 'versions': [{'version': '1.0'}, {'version': '1.1'}]}, using the first one
+home-assistant_1  | 2018-04-02 14:31:12 WARNING (MainThread) [songpal.containers] Got unknowns for Sysinfo: {'bleID': '858ABB0D'} - please create an issue!
+home-assistant_1  | 2018-04-02 14:31:21 WARNING (MainThread) [songpal.service] More than on version for {'name': 'connectBluetoothDevice', 'versions': [{'version': '1.0'}, {'version': '1.1'}]}, using the first one
+home-assistant_1  | 2018-04-02 14:31:23 WARNING (MainThread) [homeassistant.components.media_player] Setup of platform songpal is taking over 10 seconds.
+home-assistant_1  | 2018-04-02 14:31:23 WARNING (MainThread) [songpal.containers] Got unknowns for Sysinfo: {'bleID': '0B6C7957'} - please create an issue!
+home-assistant_1  | 2018-04-02 14:36:24 WARNING (MainThread) [songpal.service] More than on version for {'name': 'connectBluetoothDevice', 'versions': [{'version': '1.0'}, {'version': '1.1'}]}, using the first one
+home-assistant_1  | 2018-04-02 14:36:26 WARNING (MainThread) [homeassistant.components.media_player] Setup of platform songpal is taking over 10 seconds.
+home-assistant_1  | 2018-04-02 14:36:27 WARNING (MainThread) [songpal.containers] Got unknowns for Sysinfo: {'bleID': '32EE70A2'} - please create an issue!
+
+Additional information:
+None, feel free to inquire more info
+
+```
+Author:
+```
+rytilahti
+```
+Text:
+```
+
+This has been fixed in upstream (rytilahti/python-songpal@33efa2e) and is part of the currently required python-songpal version (0.0.7), so I'm closing it.
+
+```
+
+## 19455
+Title:
+```
+
+        Add fan mode to climate Lovelace card
+      
 ```
 Author:
 ```
@@ -830,1067 +2714,49 @@ thundergreen
 Text:
 ```
 
-Nobody using xmpp here ?
+Dear all.
+I'm missing hard the fan mode option in climate Lovelace card like here :
+https://community.home-assistant.io/t/dual-thermostat-card/85798
+Is it possible to add those that would make the card complete and perfect.if not I will have to use custom cards
+Cheers and thanks for this awesome projects
 
 ```
 Author:
 ```
-matthewslaney
+move
 ```
 Text:
 ```
 
-Generally this is a system configuration issue and not an application issue. Check that the settings are reasonable for both your number of threads allowed and the stack size for each thread. Sometimes in trying to solve other problems, the stack size gets set unreasonably high, which then means it tries to allocate a huge amount of memory for each thread. FYI, this seems to be a fairly common problem with the default settings some system-on-a-chip systems like Raspberry Pi.
-
-```
-Author:
-```
-balloobbot
-```
-Text:
-```
-
-There hasn't been any activity on this issue recently. Due to the high number of incoming GitHub notifications, we have to clean some of the old issues, as many of them have already been resolved with the latest updates.
-Please make sure to update to the latest Home Assistant version and check if that solves the issue. Let us know if that works for you by adding a comment 👍
-
-```
-Author:
-```
-balloobbot
-```
-Text:
-```
-
-This issue will be auto-closed because there hasn't been any activity for a few months. Feel free to open a new one if you still experience this problem 👍
-
-```
-
-## 3850
-Title:
-```
-
-        nested groups make the gui crash
-      
-```
-Author:
-```
-rbflurry
-```
-Text:
-```
-
-Make sure you are running the latest version of Home Assistant before reporting an issue.
-You should only file an issue if you found a bug. Feature and enhancement requests should go in the Feature Requests section of our community forum:
-Home Assistant release (hass --version):
-0.30.2
-Python release (python3 --version):
-3.5.2
-Component/platform:
-groups and device tracker.
-Description of problem:
-I have two groups of each containing two device_trackers that I then nested into a parent group
-When clicking on the Parents group card (by the name) a long repeating list of the child groups is created and then the webpage crashes.
-Expected:
-I am not sure what the out come should be but I would imagine it should not be crashing.
-Problem-relevant configuration.yaml entries and steps to reproduce:
-  device_family:
-   name: Family
-   view: no
-   entities:
-    - group.device_ryan
-    - group.device_chelsea
-  device_ryan:
-   name: Ryan
-   view: no
-   entities:
-    - device_tracker.ryans_iphone_wifi
-    - device_tracker.ryansiphone
-  device_chelsea:
-   name: Chelsea
-   view: no
-   entities:
-    - device_tracker.chelseasiphone_wifi
-    - device_tracker.chelseasiphone
-
-create two groups containing device trackers
-nest the two groups into a parent group
-in the gui click on the card name of the parent group
-wait for page to crash
-
-Additional info:
-
-
-
-
-```
-Author:
-```
-1accscomm
-```
-Text:
-```
-
-This isn't isolated to device trackers.  Running version 0.32.2 and seeing the same behavior with some lights.
-#####################################################################
-# Kitchen
-#####################################################################
-  kitchen_view:
-    name: Kitchen
-    view: yes
-    entities:
-      - group.kitchen
-      - media_player.kitchen
-
-  kitchen:
-    name: Kitchen
-    entities:
-      - group.kitchen_lights
-
-  kitchen_lights:
-    name: Kitchen Lights
-    entities:
-      - group.kitchen_overhead_light
-
-  kitchen_overhead_light:
-    name: Kitchen Overhead Light
-    entities:
-      - light.kitchen_overhead_1
-      - light.kitchen_overhead_2
-      - light.kitchen_overhead_3
-
-Trying to expand the group group.kitchen_lights in the UI results in the following, as well as an eventual tab crash as seen above.
-
-
-```
-Author:
-```
-andrey-git
-```
-Text:
-```
-
-Nested group displays fine for me.
-@rbflurry @1accscomm
-Could you confirm whether this is still broken for you?
-
-```
-Author:
-```
-rbflurry
-```
-Text:
-```
-
-Yes it still crashes for me.
-
-```
-Author:
-```
-rbflurry
-```
-Text:
-```
-
-Probably not related but an new issue, I also cannot get the child groups to show on the same view. Except on the default view.
-
-```
-Author:
-```
-andrey-git
-```
-Text:
-```
-
-@rbflurry what version are you on?
-Does it crash with lights or just with device trackers?
-
-```
-Author:
-```
-andrey-git
-```
-Text:
-```
-
-@rbflurry friendly ping on the question
-
-```
-Author:
-```
-andrey-git
-```
-Text:
-```
-
-Closing. Please reopen if someone can reproduce this.
-
-```
-
-## 8660
-Title:
-```
-
-        Logbook order issue
-      
-```
-Author:
-```
-abmantis
-```
-Text:
-```
-
-Home Assistant release (hass --version):
-0.49.0
-Python release (python3 --version):
-Python 3.4.2
-Component/platform:
-Logbook
-Description of problem:
-Events that occur in the same second are not sorted by the correct order in the Logbook.
-Not a bug but, displaying the seconds could be a nice improvement.
-Expected:
-Events would appear in their occurrence order even when they happen in the same second.
-
-```
-Author:
-```
-arsaboo
-```
-Text:
-```
-
-Yeah...that is annoying and, sometimes misleading. The Logbook sorting should be improved.
-
-```
-Author:
-```
-bmesuere
-```
-Text:
-```
-
-+1 for including the seconds in the logbook. This would be a great help when debugging scripts and automations.
-
-```
-Author:
-```
-balloobbot
-```
-Text:
-```
-
-There hasn't been any activity on this issue recently. Due to the high number of incoming GitHub notifications, we have to clean some of the old issues, as many of them have already been resolved with the latest updates.
-Please make sure to update to the latest Home Assistant version and check if that solves the issue. Let us know if that works for you by adding a comment 👍
-
-```
-Author:
-```
-fanaticDavid
-```
-Text:
-```
-
-Still an issue...
-
-```
-Author:
-```
-dgomes
-```
-Text:
-```
-
-This is a frontend issue, should be posted in https://github.com/home-assistant/home-assistant-polymer
-
-```
-Author:
-```
-balloobbot
-```
-Text:
-```
-
-There hasn't been any activity on this issue recently. Due to the high number of incoming GitHub notifications, we have to clean some of the old issues, as many of them have already been resolved with the latest updates.
-Please make sure to update to the latest Home Assistant version and check if that solves the issue. Let us know if that works for you by adding a comment 👍
-
-```
-Author:
-```
-balloobbot
-```
-Text:
-```
-
-This issue will be auto-closed because there hasn't been any activity for a few months. Feel free to open a new one if you still experience this problem 👍
-
-```
-
-## 1181
-Title:
-```
-
-        Generalized MQTT switch component(s)
-      
-```
-Author:
-```
-jasonmhite
-```
-Text:
-```
-
-One thing that would really be handy for me is a switch component that is "generalized" in the sense that it can have more than two states. My use case is that I have a thermostat that I built that takes commands over MQTT. I'd like to be able to toggle it between a discrete set of states fan/heat/cool etc and have it send the appropriate MQTT message to set that state. I could write a specialized component for it like with e.g. the Nest, but I think the functionality is generally a lot more useful so I figured I'd suggest it.
-Basically what I imagine is something like:
-switch:
-  general_mqtt_switch:
-     name: thermostat  state  
-     available_states:
-       heat: "heat_on"
-       cool: "cool_on"
-       off: "turn_off"
-       fan: "fan_on"
-     control_topic: thermostat/control/state
-     state_topic: thermostat/info
-     value_template: ...
-
-Then, in the web interface, it'd expose a toggle selector (maybe something like a Bootstrap button group?). When you select one of the values, it then sends the given message to the control_topic. Homeassistant also would monitor state_topic to determine the current state, where the value_template can be given to parse the messages receieved into the states listed as the keys of available_states, which could possibly be indicated by highlighting the current state in the selector.
-The other component that I think might be useful would be similar, basically a text-box input. My use case here would be to let me send an arbitrary payload to a given MQTT topic, namely a temperature setting for the thermostat. I imagine something like:
-switch:
-  mqtt_value_switch:
-    name: thermostat temp
-    topic: thermostat/control/temp
-
-This would render in the webui as a textbox and a "submit" button. When you hit submit, it'd just dump the value in the text box to the specified MQTT topic.
-Thanks for considering this! I really am enjoying using HA and I think these would be quite useful and I could ditch the custom webui I've written and have everything nicely integrated into HA. These are components that are obviously extremely flexible, so I think lots of people might find uses of their own for them.
-
-```
-Author:
-```
-balloob
-```
-Text:
-```
-
-The next release will introduce an input_select component that will get you half way to where you want to be.
-
-```
-Author:
-```
-jasonmhite
-```
-Text:
-```
-
-Indeed, that looks like a good start. I might try and hack on it myself some working from that, if I ever find some of that "free time" thing I keep hearing about.
-
-```
-Author:
-```
-fab33
-```
-Text:
-```
-
-Did you find how to update mqtt topic ? I try with automation without success. But I'm new to hass
-
-```
-Author:
-```
-jasonmhite
-```
-Text:
-```
-
-Closing, as input_select combined with the changes in #1510 make this possible. Short summary is to create an input_select with the entries that you want and add an automation rule that uses data_template to send the selected value whenever the input is changed.
-Also, I missed that feature requests are supposed to go on the forum, so this doesn't belong here anyway.
-
-```
-
-## 2508
-Title:
-```
-
-        utc_offset for recorder
-      
-```
-Author:
-```
-balloob
-```
-Text:
-```
-
-We are no longer storing the UTC offset of when an event was recorded. This has the downside that machine learning algorithms or pattern detection algorithms do not know what the actual time was at the location where the event was fired. Was it 9 in the morning or 5 in the afternoon.
-Home Assistant release (hass --version): 0.24.0.dev0
-CC @rhooper
-
-```
-Author:
-```
-balloobbot
-```
-Text:
-```
-
-There hasn't been any activity on this issue recently. Due to the high number of incoming GitHub notifications, we have to clean some of the old issues, as many of them have already been resolved with the latest updates.
-Please make sure to update to the latest Home Assistant version and check if that solves the issue. Let us know if that works for you by adding a comment 👍
-
-```
-Author:
-```
-balloob
-```
-Text:
-```
-
-It's… still a thing.
-
-```
-Author:
-```
-balloobbot
-```
-Text:
-```
-
-There hasn't been any activity on this issue recently. Due to the high number of incoming GitHub notifications, we have to clean some of the old issues, as many of them have already been resolved with the latest updates.
-Please make sure to update to the latest Home Assistant version and check if that solves the issue. Let us know if that works for you by adding a comment 👍
-
-```
-Author:
-```
-balloobbot
-```
-Text:
-```
-
-This issue will be auto-closed because there hasn't been any activity for a few months. Feel free to open a new one if you still experience this problem 👍
-
-```
-
-## 5298
-Title:
-```
-
-        Ubiquiti AP error connecting to server
-      
-```
-Author:
-```
-compacson
-```
-Text:
-```
-
-Make sure you are running the latest version of Home Assistant before reporting an issue.
-You should only file an issue if you found a bug. Feature and enhancement requests should go in the Feature Requests section of our community forum:
-Home Assistant release (hass --version):
-0.35.3
-Python release (python3 --version):
-Python 3.4.2
-Component/platform:
-device_tracker
-ubiquiti
-Description of problem:
-When trying the device_tracker Ubiquiti component i got an error into home assistant
-Failed to connect to Unifi. Error: HTTP Error 400: Bad Request<br />You will need to restart hass after fixing.
-and in the log
-17-01-12 23:35:47 homeassistant.components.device_tracker.unifi: Failed to connect to Unifi: HTTP Error 400: Bad Request
-Im not so good with python, but from my reading it seems to be a https security error
-Expected:
-Connecting to the server using https
-Problem-relevant configuration.yaml entries and steps to reproduce:
-
-- platform: unifi host: 192.168.1.208 port: 8443 #site_id: default username: !secret device_tracker_unifi_username password: !secret device_tracker_unifi_password 
-Traceback (if applicable):
-
-Additional info:
-Willing to help, i can give access to my config and teamviewer or anything that can help the debugging ^^
-
-```
-Author:
-```
-happyleavesaoc
-```
-Text:
-```
-
-I'm experiencing the same issue.
-
-```
-Author:
-```
-arsaboo
-```
-Text:
-```
-
-I recall seeing something similar....but restarting the Cloud Key took care for me.
-
-```
-Author:
-```
-compacson
-```
-Text:
-```
-
-i have a local server, try to restart it, but still the same problem
-
-```
-Author:
-```
-cgarwood
-```
-Text:
-```
-
-I have the unifi controller running on the same system as my hass install with no issues. What happens if you remove host and port from the config? My config looks like:
-device_tracker:
-  platform: unifi
-  username: !secret unifi_username
-  password: !secret unifi_password
-  track_new_devices: false
-
-```
-Author:
-```
-compacson
-```
-Text:
-```
-
-17-01-13 11:17:46 homeassistant.components.device_tracker: Error setting up platform unifi
-this is a normal error as there is no unifi on the local host ! ^^
-
-```
-Author:
-```
-cgarwood
-```
-Text:
-```
-
-Ah, I was thinking when you said you had a local server it was on the same system as hass, not that it was just local on your network
-
-```
-Author:
-```
-finish06
-```
-Text:
-```
-
-What version of the Unifi Controller are you running?
-
-```
-Author:
-```
-compacson
-```
-Text:
-```
-
-UniFi 5.3.8 Controller for Debian/Ubuntu Linux
-the lastest one
-https://www.ubnt.com/download/unifi/default/default/
-
-```
-Author:
-```
-HBDK
-```
-Text:
-```
-
-Experiencing the same also running 5.3.8.
-i have tried with and without port and ip specified in the config.
-i have no problem logging in with the same credentials from my browser.
-
-```
-Author:
-```
-finish06
-```
-Text:
-```
-
-Maybe try to not use the !secrets and instead place the credentials in the file (unlikely but maybe a special character, etc is involved)... also, did you try restarting the controller?
-
-```
-Author:
-```
-mattthhdp
-```
-Text:
-```
-
-I have try to restart the controller, no sucess same error
-same thing for setting the user and pass directly without the !secret
-the error is http, that make me think that the probleme is  a security error, looks like home assistant cannot connect to the https secure connection ?
-(I am compacson, github from work but both are the same persone, its me :D)
-17-01-13 18:51:02 homeassistant.components.device_tracker.unifi: Failed to connect to Unifi: HTTP Error 400: Bad Request
-something like this maybe ?
-http://stackoverflow.com/questions/33008450/error-downloading-https-webpage
-
-```
-Author:
-```
-finish06
-```
-Text:
-```
-
-I am unable to replicate this error...  the configuration file looks to be setup correctly...  and the unifi API is pconnecting over 'https'...
-
-```
-Author:
-```
-compacson
-```
-Text:
-```
-
-i can give you access over teamviewer if you want to take a look and maybe play around ?
-I am mattthhdp
-git from job the only difference
-
-```
-Author:
-```
-compacson
-```
-Text:
-```
-
-I have talk a lot on gitter and people with local installation dosent seems to have this issue, it's seems that people that have installer it on an other machine have the same problem as i do
-my controler is on a debian vm with the UniFi 5.3.8 Controller. I have try to disable iptables to be sure that the problem wasent that.
-
-```
-Author:
-```
-xnoodle
-```
-Text:
-```
-
-Hm. I tested HA 0.35.3 on my Pi (Raspbian) and on a Ubuntu 16.04.1 virtual machine, against both Unifi controller 4 and 5 on Debian 8.7, with no issues seen.
-Software was obtained from the official Unifi repos, version numbers below.
-unifi_5.3.11-8935_all.deb
-unifi_4.8.20-8422_all.deb
-
-```
-Author:
-```
-compacson
-```
-Text:
-```
-
-i am on a debian 8 ... but should not change anything, i have installed it via the repository ? maybe ??
-
-```
-Author:
-```
-finish06
-```
-Text:
-```
-
-I started to rebuild this API with the requests module, however I am now getting the above error continually when I attempt to connect to the database.  I do not understand it @ all.  However, my home-assistant connection is still alive and strong.  Through perusing the UBNT forums, I would recommend trying to re-install the webUI after purging it, i.e. apt-get purge unifi.
-
-```
-Author:
-```
-compacson
-```
-Text:
-```
-
-Will try this tomorrow after work ! i will give you the details as soons as i have finish
-
-```
-Author:
-```
-mattthhdp
-```
-Text:
-```
-
-@finish06 sorry for the very long delay... so i have try to purge, reboot, reinstall
-same problem here
-
-```
-Author:
-```
-basn
-```
-Text:
-```
-
-Hm i am not getting it to connect either, but i run a newer version of unifi (5.4.9).
-I only get;
-ConnectionRefusedError: [Errno 61] Connection refused
-While the port is open and working.
-
-```
-Author:
-```
-finish06
-```
-Text:
-```
-
-Any update?
-
-```
-Author:
-```
-mattthhdp
-```
-Text:
-```
-
-@finish06 we will have to wait for someone to look at the code/update the code, if nobody can/want this will be deprecated and remove
-
-```
-Author:
-```
-sdague
-```
-Text:
-```
-
-unifi is working mostly fine for me.
-Note, unless you fix all the SSL certs on the controller, you'll also need "verify_ssl: False" as the default SSL certs are snakeoil.
-
-```
-Author:
-```
-sdague
-```
-Text:
-```
-
-Can you try adding "verify_ssl: False" to your stanza?
-
-```
-Author:
-```
-balloobbot
-```
-Text:
-```
-
-There hasn't been any activity on this issue recently. Due to the high number of incoming GitHub notifications, we have to clean some of the old issues, as many of them have already been resolved with the latest updates.
-Please make sure to update to the latest Home Assistant version and check if that solves the issue. Let us know if that works for you by adding a comment 👍
-
-```
-Author:
-```
-balloobbot
-```
-Text:
-```
-
-This issue will be auto-closed because there hasn't been any activity for a few months. Feel free to open a new one if you still experience this problem 👍
-
-```
-
-## 10086
-Title:
-```
-
-        Upgrade to 0.56.1(2) makes Home Assistant hang
-      
-```
-Author:
-```
-augustdipierro
-```
-Text:
-```
-
-Home Assistant release (hass --version):
-0.56.1 and 0.56.2
-Python release (python3 --version):
-3.5.3
-Component/platform:
-Home Assistant on Debian 9 amd64
-Description of problem:
-After trying to startup with systemd after upgrading (in virtualenv), Home Assistant just hangs on these lines in log:
-oct 23 20:57:18 server systemd[1]: Started Home Assistant.
-oct 23 20:57:21 server hass[2268]: 2017-10-23 20:57:21 INFO (Thread-2) [homeassistant.config] Upgrading configuration directory from 0.56.0 to 0.56.2
-oct 23 20:57:21 server hass[2268]: Config directory: /home/homeassistant/.homeassistant
-Nothing more.
-Expected:
-Expected to run as normal, downgrading to 0.56.0 makes it work again with the same config.
-Problem-relevant configuration.yaml entries and steps to reproduce:
-
-
-?
-?
-?
-
-Traceback (if applicable):
-
-Additional info:
-What debug information can I attach?
-
-```
-Author:
-```
-ntalekt
-```
-Text:
-```
-
-Do you have any zwave devices? Sometimes after upgrading my instance will take around 20 minutes to fully come up and display the UI.
-
-```
-Author:
-```
-pvizeli
-```
-Text:
-```
-
-Look like your config folder is locked
-
-```
-Author:
-```
-augustdipierro
-```
-Text:
-```
-
-@pvizeli oh. You are really right! Thank you!) A week ago I moved Home Assistant to another machine... and yes. The problem was caused by rights.
-Files .HA_VERSION, .uuid and .ios_conf had root owner.
-I am fool :).
-
-```
-
-## 15254
-Title:
-```
-
-        Deconz lights not showing correctly in UI
-      
-```
-Author:
-```
-jamesking420
-```
-Text:
-```
-
-Home Assistant release with the issue:
-0.72.1
-Last working Home Assistant release (if known):
-??
-Operating environment
-hassio on raspberry pi 3b with a conbee stick and Deconz add on
-Component/platform:
-https://www.home-assistant.io/components/deconz/
-Description of problem:
-When I change a light colour on the colour wheel for, say kitchen light, and then navigate away from that light in the UI and look at the settings for another light (dining room), the colour wheel will show the current colour for the previous light (kitchen) that was changed, and not the true colour of dining room light.
-I first noticed this when I switched all my lights to zigbee via conbee rather then hue bridge.
-Additional Information
-I know there have recently been some other bugs with Deconz lights, such as transitions to off not working and the lights not reporting their colour state. The second issue (colour state reporting) could be related to this maybe? Just thought I should mention it!
-
-```
-Author:
-```
-Kane610
-```
-Text:
-```
-
-Thanks for reporting! This is fixed in 0.73
-It was a combination of component not being fully updated to use the new common base of Hue and saturation that HASS is employing as well as not taking in to consideration that sometimes xy values reported from lights would not be normalised.
-You can try it out already now with the 0.73 beta, if you'd like.
-
-```
-
-## 5347
-Title:
-```
-
-        Error setting up platform bluetooth_tracker
-      
-```
-Author:
-```
-ianrobrien
-```
-Text:
-```
-
-Make sure you are running the latest version of Home Assistant before reporting an issue.
-You should only file an issue if you found a bug. Feature and enhancement requests should go in the Feature Requests section of our community forum:
-Home Assistant release (hass --version): 0.36.0
-Python release (python3 --version): Python 3.4.2
-Component/platform: Bluetooth Tracker
-Description of problem: Error setting up platform bluetooth_tracker. Bluetooth tracker is not initialized.
-Expected:
-Successful initialization of Bluetooth device tracker
-Problem-relevant configuration.yaml entries and steps to reproduce:
-platform: bluetooth_tracker
-track_new_devices: no
-
-Add Bluetooth tracker
-Start Home Assistant
-View log to see error
-
-Traceback (if applicable):
-17-01-15 13:59:16 homeassistant.components.device_tracker: Error setting up platform bluetooth_tracker
-Traceback (most recent call last):
-  File "/srv/homeassistant/lib/python3.4/site-packages/homeassistant/components/device_tracker/__init__.py", line 164, in async_setup_platform
-    None, platform.setup_scanner, hass, p_config, tracker.see)
-  File "/usr/lib/python3.4/asyncio/futures.py", line 388, in __iter__
-    yield self  # This tells Task to wait for completion.
-  File "/usr/lib/python3.4/asyncio/tasks.py", line 286, in _wakeup
-    value = future.result()
-  File "/usr/lib/python3.4/asyncio/futures.py", line 277, in result
-    raise self._exception
-  File "/usr/lib/python3.4/concurrent/futures/thread.py", line 54, in run
-    result = self.fn(*self.args, **self.kwargs)
-  File "/srv/homeassistant/lib/python3.4/site-packages/homeassistant/components/device_tracker/bluetooth_tracker.py", line 89, in setup_scanner
-    update_bluetooth(dt_util.utcnow())
-  File "/srv/homeassistant/lib/python3.4/site-packages/homeassistant/components/device_tracker/bluetooth_tracker.py", line 87, in update_bluetooth
-    now + timedelta(seconds=interval))
-TypeError: unsupported type for timedelta seconds component: datetime.timedelta
-Additional info:
-
-```
-Author:
-```
-balloob
-```
-Text:
-```
-
-Can you try this fix #5350 ?
-
-```
-Author:
-```
-dnuc
-```
-Text:
-```
-
-Looks like the fix is working for me. Thanks!
-
-```
-Author:
-```
-ianrobrien
-```
-Text:
-```
-
-Fixed in 0.36.1. Thanks!
+This issue was moved by MartinHjelmare to home-assistant/ui-schema#219.
 
 ```
 
 # Pull
-## 3257
+## 18690
 Title:
 ```
 
-        Add voluptuous to ecobee
+        Async cover template tests
       
 ```
 Author:
 ```
-pvizeli
+armills
 ```
 Text:
 ```
 
 Description:
-Last of notify platform:
-
-Add voluptuous to ecobee
-
-
-```
-Author:
-```
-fabaff
-```
-Text:
-```
-
-Looks good to me.
+Async tests for #17270
 
 ```
 
-## 11286
+## 17327
 Title:
 ```
 
-        Monzo
-      
-```
-Author:
-```
-rossdargan
-```
-Text:
-```
-
-Description:
-Add in a monzo bank sensor
-Pull request in home-assistant.github.io with documentation (if applicable): home-assistant/home-assistant.io#4271
-Example entry for configuration.yaml (if applicable):
-(documentation explains how to get a client id and secret)
-sensor:
-  - platform: monzo
-    client_id: '***CLIENT ID***'
-    client_secret: '***SECRET***'
-    name: 'Optional name for the sensor'
-    cache_path: '/.homeassistant/.optional-cache-location-for-token'
-    current_account: true # only if you the current account
-Checklist:
-If user exposed functionality or configuration variables are added/changed:
-
- Documentation added/updated in home-assistant.github.io
-
-If the code communicates with devices, web services, or third-party tools:
-
- Local tests with tox run successfully. Your PR cannot be merged unless tests pass
- New dependencies have been added to the REQUIREMENTS variable (example).
- New dependencies are only imported inside functions that use them (example).
- New dependencies have been added to requirements_all.txt by running script/gen_requirements_all.py.
- New files were added to .coveragerc.
-
-If the code does not interact with devices:
-
- Local tests with tox run successfully. Your PR cannot be merged unless tests pass
- Tests have been added to verify that the new code works.
-
-
-```
-Author:
-```
-rossdargan
-```
-Text:
-```
-
-I don't think the travis build is failing because of my pull request... but I could be wrong!
-
-```
-
-## 16597
-Title:
-```
-
-        Add websocket list APIs for the registries
+        WIP: Add basic suggestion component
       
 ```
 Author:
@@ -1901,9 +2767,10 @@ Text:
 ```
 
 Description:
-This adds two APIs: one to list the device registry entries, one to list the entity registry entries.
-Meant to power a frontend for devices 👍
-CC @Kane610
+Preview of a suggestions component I'm working on. Goal of this component is to provide suggestions to the user on which entities are popular to interact with during a specific period of time. Will be used to power a new lovelace card 😎
+This is the initial implementation and so very limited on purpose. Eventually we can start taking users into account and the location of the users (once we have a component that binds users to device trackers).
+Can be heavy to generate, so plan is to generate it once a day.
+It's smart enough to ignore any service call that results from another service call (ie I call a script that turns on 5 lights, only the script will show in popular list)
 Checklist:
 
  The code change is tested and works locally.
@@ -1917,46 +2784,12 @@ If the code does not interact with devices:
 ```
 Author:
 ```
-Kane610
+balloob
 ```
 Text:
 ```
 
-I don't know too much about this part of Hass, but it looks ok to me!
-
-```
-
-## 3909
-Title:
-```
-
-        Async template
-      
-```
-Author:
-```
-pvizeli
-```
-Text:
-```
-
-Description:
-Porting all Template sensor to async and fix unittest.
-If the code does not interact with devices:
-
- Local tests with tox run successfully. Your PR cannot be merged unless tests pass
- Tests have been added to verify that the new code works.
-
-
-```
-Author:
-```
-mention-bot
-```
-Text:
-```
-
-@pvizeli, thanks for your PR! By analyzing the history of the files in this pull request, we identified @fabaff, @balloob and @pavoni to be potential reviewers.
+I realized when writing this component that we can greatly increase the performance of the logbook by avoiding loading all events into memory at once. Will PR that next.
 
 ```
 Author:
@@ -1966,9 +2799,16 @@ balloob
 Text:
 ```
 
-Awesome 🐬
-Good to merge when comments addressed.
+This PR will be back, once I have a nice use case for it (in Lovelace)
 
+```
+
+## 67
+Title:
+```
+
+        Add a global config object to Home Assistant
+      
 ```
 Author:
 ```
@@ -1977,257 +2817,99 @@ balloob
 Text:
 ```
 
-Oops, looks like some other merged PR introduced a merge conflict 😿 . Ok to merge when you have the conflict resolved.
+This adds a global config object to Home Assistant. It will auto detect location, temperature unit and time zone using the JSON api from freegeoip.net. Devices that have temperature states will have these automatically be converted to the preferred unit.
+Config object contains the following information accessible at hass.config:
 
-```
+location
+temperature unit
+time zone
+name of location where HA is running
 
-## 11423
-Title:
-```
+(last two are not used right now).
+Example configuration.yaml entries:
+homeassistant:
+  # Omitted values in this section will be auto detected using freegeoip.net
 
-        Plex api update
-      
+  # Location required to calculate the time the sun rises and sets
+  latitude: 32.87336
+  longitude: 117.22743
+
+  # C for Celcius, F for Fahrenheit
+  temperature_unit: C
+
+  # Pick yours from here:
+  # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+  time_zone: America/Los_Angeles
+
+  # Name of the location where Home Assistant is running
+  name: Home
+This PR supersedes PR #23 . Thanks to @kangaroo for the idea of auto setting the temperature unit based on location.
+
 ```
 Author:
 ```
-ryanm101
+coveralls
 ```
 Text:
 ```
 
-Updating to plexapi==3.0.5
-Removed removed server obj that was being used for the media URL generation as .url() is available in self._session
-seasons() no longer exists -> renamed to season()
-season() returns obj not list so corrected
-season.index returns int, cast to str to zerofill
-This should also fix the attr log spamming issue
+
+Coverage decreased (-0.41%) to 66.69% when pulling 9b643d5 on ha-config into 569b15d on dev.
+
+```
+Author:
+```
+coveralls
+```
+Text:
+```
+
+
+Coverage decreased (-0.5%) to 66.59% when pulling 7a7f486 on ha-config into 569b15d on dev.
 
 ```
 
-## 3210
+## 17179
 Title:
 ```
 
-        Use voluptuous for Yamaha receiver
+        Add optional "all" parameter for groups
       
 ```
 Author:
 ```
-fabaff
+danielperna84
 ```
 Text:
 ```
 
 Description:
-Migration of the configuration check to voluptuous.
-Related issue (if applicable): fixes 127528299
+The current way groups work as per the documentation
+
+When any member of a group is on then the group will also be on.
+
+This may usually be what people expect. I do believe though, that there are cases where a groups state should only turn to on if all entities are on. I myself once wanted that, forgot what it was though and probably ended up using some workaround.
+One simple example would be monitoring if a group of devices is on. Like: Notify me if not all devices of a particular group are on (alarm system or whatever). If one node goes down, the whole group is considered down. It's pretty straightforward to build an automation based on that single state of the group instead of writing templates or creating helper-entities.
+Marked es WIP because I want to gather opinions on this before I start with the tests and update the documentation
+Essentially this PR keeps using any as the default, but overrides that if all is set to true.
+Pull request in home-assistant.io with documentation (if applicable): home-assistant/home-assistant.io#6557
 Example entry for configuration.yaml (if applicable):
-media_player:
-  platform: yamaha
-  name: 'Basement Receiver'
-@aoakeson @TheRealLink , would be nice if you could take a look at the changes and run a quick test. Thanks.
-
-```
-
-## 5745
-Title:
-```
-
-        Upgrade psutil to 5.1.2
-      
-```
-Author:
-```
-fabaff
-```
-Text:
-```
-
-5.1.2
-Bug fixes
-
-[Linux] sensors_battery().power_plugged may erroneously return None on Python 3.
-[Linux] disk_io_counters() raises TypeError on python 3.
-[Linux] sensors_battery()'s name and label fields on Python 3 are bytes instead of str.
-
-Tested with the following configuration:
-sensor:
-  - platform: systemmonitor
-    resources:
-      - type: load_1m
-      - type: 'disk_use_percent'
-        arg: '/'
-      - type: 'disk_use'
-        arg: '/home'
-      - type: 'disk_free'
-        arg: '/'
-
-```
-Author:
-```
-mention-bot
-```
-Text:
-```
-
-@fabaff, thanks for your PR! By analyzing the history of the files in this pull request, we identified @balloob, @rmkraus and @theolind to be potential reviewers.
-
-```
-
-## 18336
-Title:
-```
-
-        Switchmate library update
-      
-```
-Author:
-```
-Danielhiversen
-```
-Text:
-```
-
-Description:
-Switchmate library update
-https://github.com/Danielhiversen/pySwitchmate/commits/master
-Checklist:
-
- The code change is tested and works locally.
- Local tests pass with tox. Your PR cannot be merged unless tests pass
- There is no commented out code in this PR.
-
-If the code communicates with devices, web services, or third-party tools:
-
- New dependencies have been added to the REQUIREMENTS variable ([example][ex-requir]).
- New dependencies are only imported inside functions that use them ([example][ex-import]).
- New or updated dependencies have been added to requirements_all.txt by running script/gen_requirements_all.py.
- New files were added to .coveragerc.
-
-
-```
-
-## 5903
-Title:
-```
-
-        Fix getters that ignored labels.
-      
-```
-Author:
-```
-andrey-git
-```
-Text:
-```
-
-Description:
-Fix getters that ignored labels.
-Catch possible exception in get_wakeup.
-Checklist:
-If the code does not interact with devices:
-
- Local tests with tox run successfully. Your PR cannot be merged unless tests pass
-
-
-```
-Author:
-```
-mention-bot
-```
-Text:
-```
-
-@andrey-git, thanks for your PR! By analyzing the history of the files in this pull request, we identified @turbokongen, @balloob and @fabaff to be potential reviewers.
-
-```
-Author:
-```
-pvizeli
-```
-Text:
-```
-
-I think the old get_config_value is the reason for slow zwave reports. They can run into recursive loop inside async loop and that is very bad. This solution fix that. What I not know if, should we have a global solution or put that only in this component
-
-```
-Author:
-```
-andrey-git
-```
-Text:
-```
-
-I don't think that was the reason. It would happen only if zwave is updating the dict at the same time. This should be rare.
-
-```
-Author:
-```
-pvizeli
-```
-Text:
-```
-
-You are right the real problem is that python-zwafe is not threadsafe
-
-```
-Author:
-```
-balloob
-```
-Text:
-```
-
-🐬
-Ok to merge when tests pass!
-
-```
-Author:
-```
-balloob
-```
-Text:
-```
-
-Unable to cherry-pick this into 0.38.2 because master does not contain the _get_wakeup method.
-
-```
-Author:
-```
-andrey-git
-```
-Text:
-```
-
-It was a mistake to put 2 fixes in a single PR :(
-
-```
-
-## 17101
-Title:
-```
-
-        Fix counter restore
-      
-```
-Author:
-```
-mvn23
-```
-Text:
-```
-
-Add config option to disable restore (always use initial value on restart).
-Add unit tests for restore config option.
-Description:
-Counter entities did not properly restore their former value upon restart.
-This PR fixes the issue and makes restoring optional (default: True).
-Related issue (if applicable): fixes #10994
-Pull request in home-assistant.io with documentation (if applicable): home-assistant/home-assistant.io#6479
-Example entry for configuration.yaml (if applicable):
-counter:
-  example_counter:
-    restore: True
+group:
+  # Current implementation, group is on when at least one entity is on
+  normal:
+    name: normal
+    entities:
+      - input_boolean.bool1
+      - input_boolean.bool2
+      - input_boolean.bool3
+  # New mode: group is on when all entities are on
+  inverted:
+    name: inverted
+    all: true
+    entities:
+      - input_boolean.bool1
+      - input_boolean.bool2
+      - input_boolean.bool3
 Checklist:
 
  The code change is tested and works locally.
@@ -2237,9 +2919,193 @@ If user exposed functionality or configuration variables are added/changed:
 
  Documentation added/updated in home-assistant.io
 
+If the code does not interact with devices:
+
+ Tests have been added to verify that the new code works.
+
+
+```
+Author:
+```
+frenck
+```
+Text:
+```
+
+If there are just 2 modes (any/all) why make this a string?
+An all: true seems to be more elegant in that case.
+
+```
+Author:
+```
+danielperna84
+```
+Text:
+```
+
+You're right, makes sense.
+
+```
+Author:
+```
+balloob
+```
+Text:
+```
+
+The advantage of a string over a boolean is that it doesn't require a breaking change in the future if another mode would be added. Although I must admit that I can't think of any.
+
+```
+Author:
+```
+balloob
+```
+Text:
+```
+
+Ok to merge when description updated.
+
+```
+Author:
+```
+danielperna84
+```
+Text:
+```
+
+Is the new description ok? It's kind of hard to explain in just a few words. 😆
+
+```
+Author:
+```
+balloob
+```
+Text:
+```
+
+Yesss.
+
+```
+
+## 24620
+Title:
+```
+
+        Add support for opencv wheels
+      
+```
+Author:
+```
+pvizeli
+```
+Text:
+```
+
+Description:
+We solved the problem with opencv-python wheels because we provide now our own:
+https://github.com/home-assistant/hassio-opencv
+In the past we revert this pinning but now we need it.
+
+```
+
+## 16065
+Title:
+```
+
+        Grammar and spelling fixes
+      
+```
+Author:
+```
+scop
+```
+Text:
+```
+
+Description:
+Grammar and spelling fixes; mainly "setup" -> "set up" (the verb), and miscellaneous others.
+As a side bonus, fixes the vast majority of D401's mentioned in PR #14557.
+Checklist:
+
+ The code change is tested and works locally.
+ Local tests pass with tox. Your PR cannot be merged unless tests pass
+
+
+```
+Author:
+```
+fabaff
+```
+Text:
+```
+
+Thanks 🐦
+
+```
+
+## 27132
+Title:
+```
+
+        Fix error on failed Plex setup
+      
+```
+Author:
+```
+jjlawren
+```
+Text:
+```
+
+Description:
+Parameter in log entry refers to incorrect location in config entry.
+Checklist:
+
+ The code change is tested and works locally.
+ Local tests pass with tox. Your PR cannot be merged unless tests pass
+ There is no commented out code in this PR.
+ I have followed the development checklist
+
+
+```
+
+## 25033
+Title:
+```
+
+        Jewish calendar sensor update based on schedule not every 30 seconds
+      
+```
+Author:
+```
+zalke
+```
+Text:
+```
+
+Description:
+Since the sensor values only change on a predictable schedule it does not
+make sense to recalculate every 30 seconds.
+Related issue (if applicable): fixes #
+Pull request with documentation for home-assistant.io (if applicable): home-assistant/home-assistant.io#<home-assistant.io PR number goes here>
+Example entry for configuration.yaml (if applicable):
+
+Checklist:
+
+ The code change is tested and works locally.
+ Local tests pass with tox. Your PR cannot be merged unless tests pass
+ There is no commented out code in this PR.
+ I have followed the development checklist
+
+If user exposed functionality or configuration variables are added/changed:
+
+ Documentation added/updated in home-assistant.io
+
 If the code communicates with devices, web services, or third-party tools:
 
-N/A
+ The manifest file has all fields filled out correctly. Update and include derived files by running python3 -m script.hassfest.
+ New or updated dependencies have been added to requirements_all.txt by running python3 -m script.gen_requirements_all.
+ Untested files have been added to .coveragerc.
 
 If the code does not interact with devices:
 
@@ -2249,90 +3115,13 @@ If the code does not interact with devices:
 ```
 Author:
 ```
-fabaff
+ghost
 ```
 Text:
 ```
 
-We should go the same route as with the input_boolean and the other input components. If initial is missing then use restore.
-
-```
-Author:
-```
-mvn23
-```
-Text:
-```
-
-I have considered that, however with the counter component initial is used for resets as well, which is probably why it has a default value. In my opinion it makes sense to have both an initial state and an option to override it upon start for this component.
-I do appreciate that the current default behaviour goes against the other components where initial is always used during startup, so I'm open to suggestions here.
-
-```
-Author:
-```
-fabaff
-```
-Text:
-```
-
-I can't remember what I was thinking when I wrote the component. Wild guess...I haven't considered the case with restoring a value and being able to reset the counter to the initial value 😉
-Let's move ahead with your fix.
-
-```
-Author:
-```
-fabaff
-```
-Text:
-```
-
-Looks good to me 🐦
-
-```
-Author:
-```
-ajfriesen
-```
-Text:
-```
-
-Is it possible this is still an issue?
-I think it was working no my hassio install on a raspberry pi.
-Today I switched to hassio on ubuntu server with this:
-https://www.home-assistant.io/hassio/installation/#alternative-install-on-generic-linux-server
-When I restart hassio from the webinterface my counter will be reset to 0.
-My counter:
-counter:
-  my_counter:
-    step: 1
-    restore: true
-
-I have enabled the recorder component.
-I also can see the last value from the counter in the entity card but it still will always come up with 0 as wrong value.
-EDIT:
-Nevermind.
-My database got corrupted.
-Had to delete the old one, created a new one and than everything works fine.
-
-```
-
-## 13748
-Title:
-```
-
-        Modify pushover notify to support attachments
-      
-```
-Author:
-```
-brkr19
-```
-Text:
-```
-
-This change removes the dependency on python-pushover since it does not yet support attachments and the Pushover API can be accessed simply using python requests.  I used the 'load_file' function from slack.py as the basis for the work in this module to keep things consistent.
-This implements the feature request found here: https://community.home-assistant.io/t/pushing-images-with-pushover-3-0/40667
-The documentation has been updated with an example (6329a89 - Add example file attachment parameters #5134)
+Hey there @tsvi, mind taking a look at this pull request as its been labeled with a integration (jewish_calendar) you are listed as a codeowner for? Thanks!
+This is a automatic comment generated by codeowners-mention to help ensure issues and pull requests are seen by the right people.
 
 ```
 Author:
@@ -2342,7 +3131,7 @@ homeassistant
 Text:
 ```
 
-Hi @brkr19,
+Hi @zalke,
 It seems you haven't yet signed a CLA. Please do so here.
 Once you do that we will be able to review and accept this pull request.
 Thanks!
@@ -2350,110 +3139,35 @@ Thanks!
 ```
 Author:
 ```
-fabaff
+pvizeli
 ```
 Text:
 ```
 
-python-pushover has support for attachments. It wasn't release yet but there is an open issue for that.
-This change seems to simply move the functionality of python-pushover into Home Assistant. Removing python-pushover as a requirement is not the solution for the problem at hand. We don't want to ship protocol-, service- or device-specific code if there is a module available. If the code lives in Home Assistant third parties can't use it and it increases maintenance for all (we need to maintain it in Home Assistant and python-pushover need to do the same work).
-The way to proceed will be bump python-pushover to 0.4 and update the pushover platform.
+Remove all your change (sorry but look like "I don't know what I do, so I do everything") and add a SCAN_INTERVAL=timedelta(minutes=30) on top of your file
 
 ```
 Author:
 ```
-brkr19
+tsvi
 ```
 Text:
 ```
 
-Ok, thanks for the feedback.  I can certainly understand that point of view, but figured since the API is so simple (requests.post(PUSHOVER_API_URL, data=data, files=attachment)), it seemed more productive to incorporate that into Home Assistant and remove the dependency on another project.
-So as I understand it, we just put this change on hold and wait for the maintainer of python-pushover to release changes?  The changes were committed over two months ago but I don't see a 0.4 release yet.
-I can start preparing for that, as it looks like my code won't change much since they didn't fully implement the image sending by url component, so I would still need to handle downloading, verifying, and clean-up of that as well as checking the validity/accessibility of local images.
+@pvizeli There's merit to what @zalke is trying to do. The sensors calculate times that are part of the Jewish calendar. There's no point in calculating every 30 seconds as the sensors only update values a few times a day. Please see my review.
+Changing to a scan interval of 30 minutes won't help as we might miss the exact time we want the sensors to be updated.
 
 ```
 Author:
 ```
-fabaff
+tsvi
 ```
 Text:
 ```
 
-Working with APIs can be simple...We try to move code out of Home Assistant for platform because if it's a module more people can profit from it, features can be added/tested there first, etc. It doesn't not  matter how simple the code. it's also easier to move a module to asyncio when you only have to deal with one building block.
-
-So as I understand it, we just put this change on hold and wait for the maintainer of python-pushover to release changes? The changes were committed over two months ago but I don't see a 0.4 release yet.
-
-The developer of python-pushover could be busy. Often it helps to get in touch with people outside of GitHub because most are flooded with notifications. As a last resort, if the developer is non-responsive, there is forking.
-
-I can start preparing for that, as it looks like my code won't change much since they didn't fully implement the image sending by url component, so I would still need to handle downloading, verifying, and clean-up of that as well as checking the validity/accessibility of local images.
-
-Again, it helps to improve the module then the code should go upstream.
-
-```
-Author:
-```
-brkr19
-```
-Text:
-```
-
-Got, it - thanks.  I have reached out to their project and will see what the response is.  In the meantime, I'll update my code to work with the latest version of the python-pushover.  Do I just keep this PR open and submit the new version of my code when theirs is ready?
-
-```
-Author:
-```
-fabaff
-```
-Text:
-```
-
-
-Do I just keep this PR open and submit the new version of my code when theirs is ready?
-
-Let's keep that PR open for a couple of days and decide then.
-
-```
-Author:
-```
-Thibauth
-```
-Text:
-```
-
-I have just released a new version (python-pushover v0.4) which contains support for attachments.
-
-```
-Author:
-```
-brkr19
-```
-Text:
-```
-
-Thanks! I'll take a look at incorporating the features into this module later this week.
-
-```
-Author:
-```
-brkr19
-```
-Text:
-```
-
-I must have accidentally closed this somehow - probably when I rest my fork to the latest master.  Anyways, I have my code checked into my fork and will be testing it a bit more before creating a new PR.  In case anyone following this is looking for a preview, my commit can be found here: 6f354e6
-
-```
-Author:
-```
-gitmayer
-```
-Text:
-```
-
-Why are you storing the file in temp and reloading it?  This way didn't work for me, I just modified what you had to return the image data.
-I changed this tofile = self.load_file(...)which now returns req.content instead of filename.
-This would not work for me otherwise and it took me forever to figure out why.  I think my file permissions were not working with the temp file.  Plus it seems redundant to save it to a disk or ram just to load it again.
-I'm still trying to make the changes for local files, but I apparently can't find a path that is allowed.
+@zalke if you have no plans on modifying your code, I suggest this PR be closed.
+I'll try to implement your excellent suggestions in the future, but it's definitely not a priority for me.
+Thank you very much for your insights.
 
 ```
 

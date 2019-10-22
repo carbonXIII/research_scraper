@@ -5,131 +5,131 @@
 
 [- Markdown](#Markdown)
 
+* [_site_content_docs_4_3_components_close_button_md](#_site_content_docs_4_3_components_close_button_md)
+
+* [_site_content_docs_4_3_forms_checks_md](#_site_content_docs_4_3_forms_checks_md)
+
+* [_site_content_docs_4_3_migration_md](#_site_content_docs_4_3_migration_md)
+
+* [_github_CONTRIBUTING_md](#_github_CONTRIBUTING_md)
+
 * [_site_content_docs_4_3_components_pagination_md](#_site_content_docs_4_3_components_pagination_md)
 
-* [_site_content_docs_4_3_components_navbar_md](#_site_content_docs_4_3_components_navbar_md)
-
-* [_site_content_docs_4_3_helpers_text_truncation_md](#_site_content_docs_4_3_helpers_text_truncation_md)
-
-* [_site_layouts_partials_callout_info_mediaqueries_breakpoints_md](#_site_layouts_partials_callout_info_mediaqueries_breakpoints_md)
-
-* [_github_ISSUE_TEMPLATE_bug_report_md](#_github_ISSUE_TEMPLATE_bug_report_md)
-
-* [_site_content_docs_4_3_helpers_position_md](#_site_content_docs_4_3_helpers_position_md)
-
-* [_site_content_docs_4_3_components_icons_md](#_site_content_docs_4_3_components_icons_md)
-
-* [_site_content_docs_4_3_components_carousel_md](#_site_content_docs_4_3_components_carousel_md)
-
-* [_site_content_docs_4_3_forms_layout_md](#_site_content_docs_4_3_forms_layout_md)
-
-* [_site_content_docs_4_3_components_badge_md](#_site_content_docs_4_3_components_badge_md)
-
-* [_site_content_docs_4_3_components_tooltips_md](#_site_content_docs_4_3_components_tooltips_md)
-
-* [_site_content_docs_4_3_components_toasts_md](#_site_content_docs_4_3_components_toasts_md)
-
-* [_site_content_docs_4_3_utilities_position_md](#_site_content_docs_4_3_utilities_position_md)
-
-* [_site_content_docs_4_3_utilities_sizing_md](#_site_content_docs_4_3_utilities_sizing_md)
-
-* [_site_layouts_partials_callout_danger_async_methods_md](#_site_layouts_partials_callout_danger_async_methods_md)
-
-* [_site_content_docs_4_3_utilities_display_md](#_site_content_docs_4_3_utilities_display_md)
-
-* [_site_content_docs_4_3_components_progress_md](#_site_content_docs_4_3_components_progress_md)
-
-* [_site_content_docs_4_3_about_brand_md](#_site_content_docs_4_3_about_brand_md)
+* [_site_content_docs_4_3_components_button_group_md](#_site_content_docs_4_3_components_button_group_md)
 
 * [_site_content_docs_4_3_helpers_stretched_link_md](#_site_content_docs_4_3_helpers_stretched_link_md)
 
-* [_site_content_docs_4_3_forms_file_md](#_site_content_docs_4_3_forms_file_md)
+* [_site_content_docs_4_3_content_typography_md](#_site_content_docs_4_3_content_typography_md)
+
+* [_site_content_docs_4_3_components_breadcrumb_md](#_site_content_docs_4_3_components_breadcrumb_md)
+
+* [_site_content_docs_4_3_helpers_clearfix_md](#_site_content_docs_4_3_helpers_clearfix_md)
+
+* [_site_layouts_partials_callout_info_prefersreducedmotion_md](#_site_layouts_partials_callout_info_prefersreducedmotion_md)
+
+* [_site_content_docs_4_3_getting_started_build_tools_md](#_site_content_docs_4_3_getting_started_build_tools_md)
+
+* [_site_content_docs_4_3_layout_overview_md](#_site_content_docs_4_3_layout_overview_md)
+
+* [_site_content_docs_4_3_helpers_embed_md](#_site_content_docs_4_3_helpers_embed_md)
+
+* [_SECURITY_md](#_SECURITY_md)
+
+* [_site_content_docs_4_3_components_progress_md](#_site_content_docs_4_3_components_progress_md)
+
+* [_site_content_docs_4_3_utilities_api_md](#_site_content_docs_4_3_utilities_api_md)
+
+* [_site_layouts_partials_callout_warning_input_support_md](#_site_layouts_partials_callout_warning_input_support_md)
+
+* [_site_layouts_partials_callout_danger_async_methods_md](#_site_layouts_partials_callout_danger_async_methods_md)
+
+* [_site_content_docs_4_3_utilities_visibility_md](#_site_content_docs_4_3_utilities_visibility_md)
+
+* [_README_md](#_README_md)
 
 [- Inline](#Inline)
 
-* [_js_dist_dom_data_js](#_js_dist_dom_data_js)
-
-* [_build_build_plugins_js](#_build_build_plugins_js)
-
-* [_package_js](#_package_js)
+* [_site_assets_js_vendor_clipboard_min_js](#_site_assets_js_vendor_clipboard_min_js)
 
 * [_js_dist_dom_selector_engine_js](#_js_dist_dom_selector_engine_js)
 
-* [_js_src_dom_event_handler_js](#_js_src_dom_event_handler_js)
+* [_js_tests_unit_dom_data_spec_js](#_js_tests_unit_dom_data_spec_js)
 
-* [_dist_js_bootstrap_esm_js](#_dist_js_bootstrap_esm_js)
+* [_build_postcss_config_js](#_build_postcss_config_js)
 
-* [_js_src_dom_selector_engine_js](#_js_src_dom_selector_engine_js)
-
-* [_js_src_button_js](#_js_src_button_js)
-
-* [_js_tests_browsers_js](#_js_tests_browsers_js)
-
-* [_js_dist_tab_js](#_js_dist_tab_js)
-
-* [_js_dist_modal_js](#_js_dist_modal_js)
-
-* [_js_src_tooltip_js](#_js_src_tooltip_js)
-
-* [_js_dist_dom_manipulator_js](#_js_dist_dom_manipulator_js)
-
-* [_js_src_toast_js](#_js_src_toast_js)
-
-* [_js_tests_integration_bundle_js](#_js_tests_integration_bundle_js)
-
-* [_js_src_tab_js](#_js_src_tab_js)
+* [_site_content_docs_4_3_examples_offcanvas_offcanvas_js](#_site_content_docs_4_3_examples_offcanvas_offcanvas_js)
 
 * [_js_src_dropdown_js](#_js_src_dropdown_js)
 
-* [_dist_js_bootstrap_bundle_js](#_dist_js_bootstrap_bundle_js)
+* [_js_src_carousel_js](#_js_src_carousel_js)
 
-* [_js_tests_helpers_fixture_js](#_js_tests_helpers_fixture_js)
+* [_js_tests_unit_util_sanitizer_spec_js](#_js_tests_unit_util_sanitizer_spec_js)
+
+* [_build_change_version_js](#_build_change_version_js)
+
+* [_js_src_button_js](#_js_src_button_js)
+
+* [_js_src_toast_js](#_js_src_toast_js)
+
+* [_js_dist_collapse_js](#_js_dist_collapse_js)
+
+* [_babelrc_js](#_babelrc_js)
+
+* [_js_tests_unit_toast_spec_js](#_js_tests_unit_toast_spec_js)
+
+* [_js_dist_alert_js](#_js_dist_alert_js)
+
+* [_js_dist_modal_js](#_js_dist_modal_js)
 
 * [_site_content_docs_4_3_examples_checkout_form_validation_js](#_site_content_docs_4_3_examples_checkout_form_validation_js)
 
+* [_js_src_tooltip_js](#_js_src_tooltip_js)
+
+* [_js_src_util_index_js](#_js_src_util_index_js)
+
+* [_js_src_scrollspy_js](#_js_src_scrollspy_js)
+
 [- Issues](#Issues)
 
-* [25110](#25110)
+* [2311](#2311)
 
-* [21851](#21851)
+* [2358](#2358)
 
-* [5035](#5035)
+* [22201](#22201)
 
-* [26506](#26506)
+* [23190](#23190)
 
-* [23545](#23545)
+* [12856](#12856)
 
-* [17784](#17784)
+* [25131](#25131)
 
-* [15963](#15963)
+* [24517](#24517)
 
-* [8496](#8496)
+* [22583](#22583)
 
-* [9348](#9348)
+* [4853](#4853)
 
-* [29204](#29204)
+* [14929](#14929)
 
-* [26711](#26711)
+* [4770](#4770)
 
-* [17943](#17943)
-
-* [18790](#18790)
+* [524](#524)
 
 [- Pull](#Pull)
 
-* [12909](#12909)
+* [29562](#29562)
 
-* [22401](#22401)
+* [27614](#27614)
 
-* [13095](#13095)
+* [28989](#28989)
 
-* [25123](#25123)
+* [10386](#10386)
 
-* [17689](#17689)
+* [28094](#28094)
 
-* [3073](#3073)
+* [10423](#10423)
 
-* [18463](#18463)
+* [17625](#17625)
 
 <!-- toc -->
 
@@ -138,6 +138,618 @@
 The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 # Markdown
+## _site_content_docs_4_3_components_close_button_md
+```---
+layout: docs
+title: Close button
+description: A generic close button for dismissing content like modals and alerts.
+group: components
+---
+
+**Be sure to include text for screen readers**, as we've done with `aria-label`.
+
+{{< example >}}
+<button type="button" class="close" aria-label="Close">
+  <span aria-hidden="true">&times;</span>
+</button>
+{{< /example >}}
+```
+## _site_content_docs_4_3_forms_checks_md
+```---
+layout: docs
+title: Checks
+description: Create consistent cross-browser and cross-device checkboxes and radios with our completely rewritten checks component.
+group: forms
+toc: true
+---
+
+## Approach
+
+Browser default checkboxes and radios are replaced with the help of `.form-check`, a series of classes for both input types that improves the layout and behavior of their HTML elements, that provide greater customization and cross browser consistency. Checkboxes are for selecting one or several options in a list, while radios are for selecting one option from many.
+
+Structurally, our `<input>`s and `<label>`s are sibling elements as opposed to an `<input>` within a `<label>`. This is slightly more verbose as you must specify `id` and `for` attributes to relate the `<input>` and `<label>`. We use the sibling selector (`~`) for all our `<input>` states, like `[checked]` or `[disabled]`. When combined with the `.form-check-label` class, we can easily style the text for each item based on the `<input>`'s state.
+
+Our checks use custom Bootstrap icons to indicate checked or indeterminate states.
+
+## Checks
+
+{{< example >}}
+<div class="form-check">
+  <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+  <label class="form-check-label" for="flexCheckDefault">
+    Default checkbox
+  </label>
+</div>
+<div class="form-check">
+  <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
+  <label class="form-check-label" for="flexCheckChecked">
+    Checked checkbox
+  </label>
+</div>
+{{< /example >}}
+
+### Indeterminate
+
+Checkboxes can utilize the `:indeterminate` pseudo class when manually set via JavaScript (there is no available HTML attribute for specifying it).
+
+{{< example >}}
+<div class="form-check">
+  <input class="form-check-input" type="checkbox" value="" id="flexCheckIndeterminate">
+  <label class="form-check-label" for="flexCheckIndeterminate">
+    Indeterminate checkbox
+  </label>
+</div>
+{{< /example >}}
+
+### Disabled
+
+Add the `disabled` attribute and the associated `<label>`s are automatically styled to match with a lighter color to help indicate the input's state.
+
+{{< example >}}
+<div class="form-check">
+  <input class="form-check-input" type="checkbox" value="" id="flexCheckDisabled" disabled>
+  <label class="form-check-label" for="flexCheckDisabled">
+    Disabled checkbox
+  </label>
+</div>
+<div class="form-check">
+  <input class="form-check-input" type="checkbox" value="" id="flexCheckCheckedDisabled" checked disabled>
+  <label class="form-check-label" for="flexCheckCheckedDisabled">
+    Disabled checked checkbox
+  </label>
+</div>
+{{< /example >}}
+
+## Radios
+
+{{< example >}}
+<div class="form-check">
+  <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+  <label class="form-check-label" for="flexRadioDefault1">
+    Default radio
+  </label>
+</div>
+<div class="form-check">
+  <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+  <label class="form-check-label" for="flexRadioDefault2">
+    Default checked radio
+  </label>
+</div>
+{{< /example >}}
+
+### Disabled
+
+Add the `disabled` attribute and the associated `<label>`s are automatically styled to match with a lighter color to help indicate the input's state.
+
+{{< example >}}
+<div class="form-check">
+  <input class="form-check-input" type="radio" name="flexRadioDisabled" id="flexRadioDisabled" disabled>
+  <label class="form-check-label" for="flexRadioDisabled">
+    Disabled radio
+  </label>
+</div>
+<div class="form-check">
+  <input class="form-check-input" type="radio" name="flexRadioDisabled" id="flexRadioCheckedDisabled" checked disabled>
+  <label class="form-check-label" for="flexRadioCheckedDisabled">
+    Disabled checked radio
+  </label>
+</div>
+{{< /example >}}
+
+## Switches
+
+A switch has the markup of a custom checkbox but uses the `.form-switch` class to render a toggle switch. Switches also support the `disabled` attribute.
+
+{{< example >}}
+<div class="form-check form-switch">
+  <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">
+  <label class="form-check-label" for="flexSwitchCheckDefault">Default switch checkbox input</label>
+</div>
+<div class="form-check form-switch">
+  <input class="form-check-input" type="checkbox" id="flexSwitchCheckChecked" checked>
+  <label class="form-check-label" for="flexSwitchCheckChecked">Checked switch checkbox input</label>
+</div>
+<div class="form-check form-switch">
+  <input class="form-check-input" type="checkbox" id="flexSwitchCheckDisabled" disabled>
+  <label class="form-check-label" for="flexSwitchCheckDisabled">Disabled switch checkbox input</label>
+</div>
+<div class="form-check form-switch">
+  <input class="form-check-input" type="checkbox" id="flexSwitchCheckCheckedDisabled" checked disabled>
+  <label class="form-check-label" for="flexSwitchCheckCheckedDisabled">Disabled checked switch checkbox input</label>
+</div>
+{{< /example >}}
+
+## Default (stacked)
+
+By default, any number of checkboxes and radios that are immediate sibling will be vertically stacked and appropriately spaced with `.form-check`.
+
+{{< example >}}
+<div class="form-check">
+  <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+  <label class="form-check-label" for="defaultCheck1">
+    Default checkbox
+  </label>
+</div>
+<div class="form-check">
+  <input class="form-check-input" type="checkbox" value="" id="defaultCheck2" disabled>
+  <label class="form-check-label" for="defaultCheck2">
+    Disabled checkbox
+  </label>
+</div>
+{{< /example >}}
+
+{{< example >}}
+<div class="form-check">
+  <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
+  <label class="form-check-label" for="exampleRadios1">
+    Default radio
+  </label>
+</div>
+<div class="form-check">
+  <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="option2">
+  <label class="form-check-label" for="exampleRadios2">
+    Second default radio
+  </label>
+</div>
+<div class="form-check">
+  <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios3" value="option3" disabled>
+  <label class="form-check-label" for="exampleRadios3">
+    Disabled radio
+  </label>
+</div>
+{{< /example >}}
+
+## Inline
+
+Group checkboxes or radios on the same horizontal row by adding `.form-check-inline` to any `.form-check`.
+
+{{< example >}}
+<div class="form-check form-check-inline">
+  <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
+  <label class="form-check-label" for="inlineCheckbox1">1</label>
+</div>
+<div class="form-check form-check-inline">
+  <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
+  <label class="form-check-label" for="inlineCheckbox2">2</label>
+</div>
+<div class="form-check form-check-inline">
+  <input class="form-check-input" type="checkbox" id="inlineCheckbox3" value="option3" disabled>
+  <label class="form-check-label" for="inlineCheckbox3">3 (disabled)</label>
+</div>
+{{< /example >}}
+
+{{< example >}}
+<div class="form-check form-check-inline">
+  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
+  <label class="form-check-label" for="inlineRadio1">1</label>
+</div>
+<div class="form-check form-check-inline">
+  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
+  <label class="form-check-label" for="inlineRadio2">2</label>
+</div>
+<div class="form-check form-check-inline">
+  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio3" value="option3" disabled>
+  <label class="form-check-label" for="inlineRadio3">3 (disabled)</label>
+</div>
+{{< /example >}}
+
+## Without labels
+
+Omit the wrapping `.form-check` for checkboxes and radios that have no label text. Remember to still provide some form of label for assistive technologies (for instance, using `aria-label`).
+
+{{< example >}}
+<div>
+  <input class="form-check-input" type="checkbox" id="checkboxNoLabel" value="" aria-label="...">
+</div>
+
+<div>
+  <input class="form-check-input" type="radio" name="radioNoLabel" id="radioNoLabel1" value="" aria-label="...">
+</div>
+{{< /example >}}
+```
+## _site_content_docs_4_3_migration_md
+```---
+layout: docs
+title: Migrating to v5
+description: Track and review changes to the Bootstrap source files, documentation, and components to help you migrate from v4 to v5.
+group: migration
+aliases: "/migration/"
+toc: true
+---
+
+## Browser support
+
+See the browser and devices page for details on what is currently supported in Bootstrap 5. Since v4, here's what's changed to our browser support:
+
+- Dropped support for Internet Explorer NN
+- Dropped support for Firefox NN - MM
+- Dropped support for Safari NN
+- Dropped support for iOS Safari NN
+- Dropped support for Chrome NN
+- Dropped support for Android NN
+
+## Sass
+
+Changes to our source Sass files and compiled CSS.
+
+- Removed `hover`, `hover-focus`, `plain-hover-focus`, and `hover-focus-active` mixins. Use regular CSS syntax for these moving forward. [See #28267](https://github.com/twbs/bootstrap/pull/28267).
+- Remove previously deprecated mixins
+  - `float()`
+  - `form-control-mixin()`
+  - `nav-divider()`
+  - `retina-img()`
+  - `text-hide()` (also dropped the associated utility class, `.text-hide`)
+  - `visibility()`
+- **Todo:** New variables?
+- **Todo:** Rearrange forms source files (under `scss/forms/`)
+- **Todo:** Rearrange grid source files (under `scss/grid/`)
+- Removed print styles and `$enable-print-styles` variable. Print display classes, however, have remained intact. [See #28339](https://github.com/twbs/bootstrap/pull/28339).
+- Dropped `color()`, `theme-color()` & `gray()` functions in favor of variables. [See #29083](https://github.com/twbs/bootstrap/pull/29083)
+- The `theme-color-level()` function is renamed to `color-level()` and now accepts any color you want instead of only `$theme-color` colors. [See #29083](https://github.com/twbs/bootstrap/pull/29083)
+- Line heights are dropped from several components to simplify our codebase. The `button-size()` and `pagination-size()` do not accept line height parameters anymore. [See #29271](https://github.com/twbs/bootstrap/pull/29271)
+- The `button-variant()` mixin now accepts 3 optional color parameters, for each button state, to override the color provided by `color-yiq()`. By default, these parameters will find which color provides more contrast against the button state's background color with `color-yiq()`.
+- The `button-outline-variant()` mixin now accepts an additional argument, `$active-color`, for setting the button's active state text color. By default, this parameter will find which color provides more contrast against the button's active background color with `color-yiq()`.
+
+## JavaScript
+
+Changes to our source and compiled JavaScript files.
+
+- Dropped jQuery dependency and rewrote plugins to be in regular JavaScript.
+- Removed underscore from public static methods like `_getInstance()` → `getInstance()`.
+
+## Grid and layout
+
+Changes to any layout tools and our grid system.
+
+- Dropped `.media` component as it can be built with utility classes. [See #28265](https://github.com/twbs/bootstrap/pull/28265).
+- **Todo:** Remove `position: relative` from grid columns
+- **Todo:** Integrate CSS grid into our grid system
+
+## Content, Reboot, etc
+
+Changes to Reboot, typography, tables, and more.
+
+- **Todo:** Make RFS enabled by default
+- Reset default horizontal `padding-left` on `<ul>` and `<ol>` elements from browser default `40px` to `2rem`.
+- Simplified table styles (no more 2px border on `thead > th` elements) and tightened cell padding.
+- Dropped `.pre-scrollable` class. [See #29135](https://github.com/twbs/bootstrap/pull/29135)
+- `.text-*` utilities do not add hover and focus states to links anymore. `.link-*` helper classes can be used instead. [See #29267](https://github.com/twbs/bootstrap/pull/29267)
+
+## Forms
+
+- Rearranged form documentation under its own top-level section.
+  - Split out old Forms page into several subpages
+  - Moved input groups docs under new Forms section
+- Rearranged source Sass files under `scss/forms/`, including moving over input group styles.
+- Combined native and custom checkboxes and radios into single `.form-check` class.
+  - New checks support sizing via `em`/`font-size` or explicit modifier classes now.
+  - New checks now appear larger by default for improved usability.
+  - Dropped `.custom-control` and associated classes.
+  - Renamed most `$custom-control` variables to `$form-control` ones.
+- Combined native and custom selects into `.form-select`.
+  - Dropped `.custom-select` and associated classes.
+  - Renamed most `$custom-select` variables to `$form-select` ones.
+- Updated file input component with same overall design, but improved HTML.
+  - Refactored `.form-file` markup to resolve some visual bugs while allowing translation and button text changes via HTML instead of CSS.
+  - Dropped native `.form-control-file` and `.form-control-range` components entirely.
+  - Renamed `.custom-file` to `.form-file` (including variables).
+  - Added support for `:focus` and `:disabled` styles.
+- Renamed `.custom-range` to `.form-range` (including variables).
+- Dropped `.form-group` for margin utilities (we've replaced our docs examples with `.mb-3`).
+- Dropped support for `.form-control-plaintext` inside `.input-group`s.
+
+## Components
+
+### Alerts
+
+- **Todo:** Remove auto-darkening of `<hr>` elements in `.alert-*` class variants. `<hr>`s use `rgba()` for their color, so these should naturally blend anyway.
+
+### Badges
+
+Badges were overhauled to better differentiate themselves from buttons and to better utilize utility classes.
+
+- **Todo:** Removed and replaced `.badge` modifier classes with background utility classes (e.g., use `.bg-primary` instead of `.badge-primary`)
+- **Todo:** Removed `.badge-pill` for the `.rounded-pill` utility class
+- **Todo:** Removed badge's hover and focus styles for `a.badge` and `button.badge`.
+
+### Cards
+
+- Removed the card columns in favor of a Masonry grid [See #28922](https://github.com/twbs/bootstrap/pull/28922).
+
+### Jumbotron
+
+- The jumbotron component is removed in favor of utility classes like `.bg-light` for the background color and `.p-*` classes to control padding.
+
+### Pagination
+
+- Pagination links now have customizable `margin-left` that are dynamically rounded on all corners when separated from one another.
+
+### Popovers
+
+- Renamed `.arrow` to `.popover-arrow`
+
+### Tooltips
+
+- Renamed `.arrow` to `.tooltip-arrow`
+
+## Accessibility
+
+- `.sr-only-focusable` does not require `.sr-only` anymore. [See #28720](https://github.com/twbs/bootstrap/pull/28720).
+
+## Utilities
+
+- Renamed `.text-monospace` to `.font-monospace`
+- Decreased the number of responsive order utilities per breakpoint. The highest order utility with a number now is `.order-5` instead of `.order-12`. [See #28874](https://github.com/twbs/bootstrap/pull/28874).
+- New `line-height` utilities: `.lh-1`, `.lh-sm`, `.lh-base` and `.lh-lg`. See [here]({{< docsref "/utilities/text#line-height" >}}).
+- Added `.bg-body` for quickly setting the `<body>`'s background to additional elements.
+- **Todo:** Drop `.text-hide` as it's an antiquated method for hiding text that shouldn't be used anymore
+- **Todo:** Split utilities into property-value utility classes and helpers
+
+## Docs
+
+-  Removed "Wall of browser bugs" page because it has become obsolete
+
+## Build tools
+```
+## _github_CONTRIBUTING_md
+```# Contributing to Bootstrap
+
+Looking to contribute something to Bootstrap? **Here's how you can help.**
+
+Please take a moment to review this document in order to make the contribution
+process easy and effective for everyone involved.
+
+Following these guidelines helps to communicate that you respect the time of
+the developers managing and developing this open source project. In return,
+they should reciprocate that respect in addressing your issue or assessing
+patches and features.
+
+
+## Using the issue tracker
+
+The [issue tracker](https://github.com/twbs/bootstrap/issues) is
+the preferred channel for [bug reports](#bug-reports), [features requests](#feature-requests)
+and [submitting pull requests](#pull-requests), but please respect the following
+restrictions:
+
+* Please **do not** use the issue tracker for personal support requests.  Stack
+  Overflow ([`bootstrap-4`](https://stackoverflow.com/questions/tagged/bootstrap-4) tag),
+  [Slack](https://bootstrap-slack.herokuapp.com/) or [IRC](README.md#community) are better places to get help.
+
+* Please **do not** derail or troll issues. Keep the discussion on topic and
+  respect the opinions of others.
+
+* Please **do not** post comments consisting solely of "+1" or ":thumbsup:".
+  Use [GitHub's "reactions" feature](https://blog.github.com/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/)
+  instead. We reserve the right to delete comments which violate this rule.
+
+* Please **do not** open issues regarding the official themes offered on <https://themes.getbootstrap.com/>.
+  Instead, please email any questions or feedback regarding those themes to `themes AT getbootstrap DOT com`.
+
+
+## Issues and labels
+
+Our bug tracker utilizes several labels to help organize and identify issues. Here's what they represent and how we use them:
+
+- `browser bug` - Issues that are reported to us, but actually are the result of a browser-specific bug. These are diagnosed with reduced test cases and result in an issue opened on that browser's own bug tracker.
+- `confirmed` - Issues that have been confirmed with a reduced test case and identify a bug in Bootstrap.
+- `css` - Issues stemming from our compiled CSS or source Sass files.
+- `docs` - Issues for improving or updating our documentation.
+- `examples` - Issues involving the example templates included in our docs.
+- `feature` - Issues asking for a new feature to be added, or an existing one to be extended or modified. New features require a minor version bump (e.g., `v3.0.0` to `v3.1.0`).
+- `build` - Issues with our build system, which is used to run all our tests, concatenate and compile source files, and more.
+- `help wanted` - Issues we need or would love help from the community to resolve.
+- `js` - Issues stemming from our compiled or source JavaScript files.
+- `meta` - Issues with the project itself or our GitHub repository.
+
+For a complete look at our labels, see the [project labels page](https://github.com/twbs/bootstrap/labels).
+
+
+## Bug reports
+
+A bug is a _demonstrable problem_ that is caused by the code in the repository.
+Good bug reports are extremely helpful, so thanks!
+
+Guidelines for bug reports:
+
+0. **[validate your HTML](https://html5.validator.nu/)** to ensure your
+   problem isn't caused by a simple error in your own code.
+
+1. **Use the GitHub issue search** &mdash; check if the issue has already been
+   reported.
+
+2. **Check if the issue has been fixed** &mdash; try to reproduce it using the
+   latest `master` or development branch in the repository.
+
+3. **Isolate the problem** &mdash; ideally create a [reduced test
+   case](https://css-tricks.com/reduced-test-cases/) and a live example.
+   [This JS Bin](https://jsbin.com/lolome/edit?html,output) is a helpful template.
+
+
+A good bug report shouldn't leave others needing to chase you up for more
+information. Please try to be as detailed as possible in your report. What is
+your environment? What steps will reproduce the issue? What browser(s) and OS
+experience the problem? Do other browsers show the bug differently? What
+would you expect to be the outcome? All these details will help people to fix
+any potential bugs.
+
+Example:
+
+> Short and descriptive example bug report title
+>
+> A summary of the issue and the browser/OS environment in which it occurs. If
+> suitable, include the steps required to reproduce the bug.
+>
+> 1. This is the first step
+> 2. This is the second step
+> 3. Further steps, etc.
+>
+> `<url>` - a link to the reduced test case
+>
+> Any other information you want to share that is relevant to the issue being
+> reported. This might include the lines of code that you have identified as
+> causing the bug, and potential solutions (and your opinions on their
+> merits).
+
+### Reporting upstream browser bugs
+
+Sometimes bugs reported to us are actually caused by bugs in the browser(s) themselves, not bugs in Bootstrap per se.
+
+| Vendor(s)     | Browser(s)                   | Rendering engine | Bug reporting website(s)                                                              | Notes                                                    |
+| ------------- | ---------------------------- | ---------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| Mozilla       | Firefox                      | Gecko            | https://bugzilla.mozilla.org/enter_bug.cgi                                            | "Core" is normally the right product option to choose.   |
+| Apple         | Safari                       | WebKit           | https://bugs.webkit.org/enter_bug.cgi?product=WebKit <br> https://bugreport.apple.com/ | In Apple's bug reporter, choose "Safari" as the product. |
+| Google, Opera | Chrome, Chromium, Opera v15+ | Blink            | https://bugs.chromium.org/p/chromium/issues/list                                      | Click the "New issue" button.                            |
+| Microsoft     | Edge                         | EdgeHTML         | https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/                 |                                                          |
+
+
+## Feature requests
+
+Feature requests are welcome. But take a moment to find out whether your idea
+fits with the scope and aims of the project. It's up to *you* to make a strong
+case to convince the project's developers of the merits of this feature. Please
+provide as much detail and context as possible.
+
+
+## Pull requests
+
+Good pull requests—patches, improvements, new features—are a fantastic
+help. They should remain focused in scope and avoid containing unrelated
+commits.
+
+**Please ask first** before embarking on any significant pull request (e.g.
+implementing features, refactoring code, porting to a different language),
+otherwise you risk spending a lot of time working on something that the
+project's developers might not want to merge into the project.
+
+Please adhere to the [coding guidelines](#code-guidelines) used throughout the
+project (indentation, accurate comments, etc.) and any other requirements
+(such as test coverage).
+
+**Do not edit `bootstrap.css`, or `bootstrap.js`
+directly!** Those files are automatically generated. You should edit the
+source files in [`/bootstrap/scss/`](https://github.com/twbs/bootstrap/tree/master/scss)
+and/or [`/bootstrap/js/src/`](https://github.com/twbs/bootstrap/tree/master/js/src) instead.
+
+Similarly, when contributing to Bootstrap's documentation, you should edit the
+documentation source files in
+[the `/bootstrap/site/content/docs/` directory of the `master` branch](https://github.com/twbs/bootstrap/tree/master/site/content/docs).
+**Do not edit the `gh-pages` branch.** That branch is generated from the
+documentation source files and is managed separately by the Bootstrap Core Team.
+
+Adhering to the following process is the best way to get your work
+included in the project:
+
+1. [Fork](https://help.github.com/articles/fork-a-repo/) the project, clone your fork,
+   and configure the remotes:
+
+   '''bash
+   # Clone your fork of the repo into the current directory
+   git clone https://github.com/<your-username>/bootstrap.git
+   # Navigate to the newly cloned directory
+   cd bootstrap
+   # Assign the original repo to a remote called "upstream"
+   git remote add upstream https://github.com/twbs/bootstrap.git
+   '''
+
+2. If you cloned a while ago, get the latest changes from upstream:
+
+   '''bash
+   git checkout master
+   git pull upstream master
+   '''
+
+3. Create a new topic branch (off the main project development branch) to
+   contain your feature, change, or fix:
+
+   '''bash
+   git checkout -b <topic-branch-name>
+   '''
+
+4. Commit your changes in logical chunks. Please adhere to these [git commit
+   message guidelines](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+   or your code is unlikely be merged into the main project. Use Git's
+   [interactive rebase](https://help.github.com/articles/about-git-rebase/)
+   feature to tidy up your commits before making them public.
+
+5. Locally merge (or rebase) the upstream development branch into your topic branch:
+
+   '''bash
+   git pull [--rebase] upstream master
+   '''
+
+6. Push your topic branch up to your fork:
+
+   '''bash
+   git push origin <topic-branch-name>
+   '''
+
+7. [Open a Pull Request](https://help.github.com/articles/about-pull-requests/)
+    with a clear title and description against the `master` branch.
+
+**IMPORTANT**: By submitting a patch, you agree to allow the project owners to
+license your work under the terms of the [MIT License](../LICENSE) (if it
+includes code changes) and under the terms of the
+[Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/)
+(if it includes documentation changes).
+
+
+## Code guidelines
+
+### HTML
+
+[Adhere to the Code Guide.](https://codeguide.co/#html)
+
+- Use tags and elements appropriate for an HTML5 doctype (e.g., self-closing tags).
+- Use CDNs and HTTPS for third-party JS when possible. We don't use protocol-relative URLs in this case because they break when viewing the page locally via `file://`.
+- Use [WAI-ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA) attributes in documentation examples to promote accessibility.
+
+### CSS
+
+[Adhere to the Code Guide.](https://codeguide.co/#css)
+
+- When feasible, default color palettes should comply with [WCAG color contrast guidelines](https://www.w3.org/TR/WCAG20/#visual-audio-contrast).
+- Except in rare cases, don't remove default `:focus` styles (via e.g. `outline: none;`) without providing alternative styles. See [this A11Y Project post](https://a11yproject.com/posts/never-remove-css-outlines/) for more details.
+
+### JS
+
+- No semicolons (in client-side JS)
+- 2 spaces (no tabs)
+- strict mode
+- "Attractive"
+
+### Checking coding style
+
+Run `npm run test` before committing to ensure your changes follow our coding standards.
+
+
+## License
+
+By contributing your code, you agree to license your contribution under the [MIT License](../LICENSE).
+By contributing to the documentation, you agree to license your contribution under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
+
+Prior to v3.1.0, Bootstrap's code was released under the Apache License v2.0.
+```
 ## _site_content_docs_4_3_components_pagination_md
 ```---
 layout: docs
@@ -306,2443 +918,1119 @@ Change the alignment of pagination components with [flexbox utilities]({{< docsr
 </nav>
 {{< /example >}}
 ```
-## _site_content_docs_4_3_components_navbar_md
+## _site_content_docs_4_3_components_button_group_md
 ```---
 layout: docs
-title: Navbar
-description: Documentation and examples for Bootstrap's powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin.
+title: Button group
+description: Group a series of buttons together on a single line with the button group, and super-power them with JavaScript.
 group: components
 toc: true
 ---
 
-## How it works
+## Basic example
 
-Here's what you need to know before getting started with the navbar:
+Wrap a series of buttons with `.btn` in `.btn-group`. Add on optional JavaScript radio and checkbox style behavior with [our buttons plugin]({{< docsref "/components/buttons#button-plugin" >}}).
 
-- Navbars require a wrapping `.navbar` with `.navbar-expand{-sm|-md|-lg|-xl}` for responsive collapsing and [color scheme](#color-schemes) classes.
-- Navbars and their contents are fluid by default. Use [optional containers](#containers) to limit their horizontal width.
-- Use our [spacing]({{< docsref "/utilities/spacing" >}}) and [flex]({{< docsref "/utilities/flex" >}}) utility classes for controlling spacing and alignment within navbars.
-- Navbars are responsive by default, but you can easily modify them to change that. Responsive behavior depends on our Collapse JavaScript plugin.
-- Ensure accessibility by using a `<nav>` element or, if using a more generic element such as a `<div>`, add a `role="navigation"` to every navbar to explicitly identify it as a landmark region for users of assistive technologies.
+{{< example >}}
+<div class="btn-group" role="group" aria-label="Basic example">
+  <button type="button" class="btn btn-secondary">Left</button>
+  <button type="button" class="btn btn-secondary">Middle</button>
+  <button type="button" class="btn btn-secondary">Right</button>
+</div>
+{{< /example >}}
 
-{{< callout info >}}
-{{< partial "callout-info-prefersreducedmotion.md" >}}
+{{< callout warning >}}
+##### Ensure correct `role` and provide a label
+
+In order for assistive technologies (such as screen readers) to convey that a series of buttons is grouped, an appropriate `role` attribute needs to be provided. For button groups, this would be `role="group"`, while toolbars should have a `role="toolbar"`.
+
+In addition, groups and toolbars should be given an explicit label, as most assistive technologies will otherwise not announce them, despite the presence of the correct role attribute. In the examples provided here, we use `aria-label`, but alternatives such as `aria-labelledby` can also be used.
 {{< /callout >}}
 
-Read on for an example and list of supported sub-components.
+## Button toolbar
 
-## Supported content
-
-Navbars come with built-in support for a handful of sub-components. Choose from the following as needed:
-
-- `.navbar-brand` for your company, product, or project name.
-- `.navbar-nav` for a full-height and lightweight navigation (including support for dropdowns).
-- `.navbar-toggler` for use with our collapse plugin and other [navigation toggling](#responsive-behaviors) behaviors.
-- `.form-inline` for any form controls and actions.
-- `.navbar-text` for adding vertically centered strings of text.
-- `.collapse.navbar-collapse` for grouping and hiding navbar contents by a parent breakpoint.
-
-Here's an example of all the sub-components included in a responsive light-themed navbar that automatically collapses at the `lg` (large) breakpoint.
+Combine sets of button groups into button toolbars for more complex components. Use utility classes as needed to space out groups, buttons, and more.
 
 {{< example >}}
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="#">Navbar</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-
-  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
-      </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">
-          Dropdown
-        </a>
-        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <li><a class="dropdown-item" href="#">Action</a></li>
-          <li><a class="dropdown-item" href="#">Another action</a></li>
-          <li><hr class="dropdown-divider"></li>
-          <li><a class="dropdown-item" href="#">Something else here</a></li>
-        </ul>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-      </li>
-    </ul>
-    <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-    </form>
+<div class="btn-toolbar" role="toolbar" aria-label="Toolbar with button groups">
+  <div class="btn-group mr-2" role="group" aria-label="First group">
+    <button type="button" class="btn btn-secondary">1</button>
+    <button type="button" class="btn btn-secondary">2</button>
+    <button type="button" class="btn btn-secondary">3</button>
+    <button type="button" class="btn btn-secondary">4</button>
   </div>
-</nav>
-{{< /example >}}
-
-This example uses [color]({{< docsref "/utilities/colors" >}}) (`bg-light`) and [spacing]({{< docsref "/utilities/spacing" >}}) (`my-2`, `my-lg-0`, `mr-sm-0`, `my-sm-0`) utility classes.
-
-### Brand
-
-The `.navbar-brand` can be applied to most elements, but an anchor works best as some elements might require utility classes or custom styles.
-
-{{< example >}}
-<!-- As a link -->
-<nav class="navbar navbar-light bg-light">
-  <a class="navbar-brand" href="#">Navbar</a>
-</nav>
-
-<!-- As a heading -->
-<nav class="navbar navbar-light bg-light">
-  <span class="navbar-brand mb-0 h1">Navbar</span>
-</nav>
-{{< /example >}}
-
-Adding images to the `.navbar-brand` will likely always require custom styles or utilities to properly size. Here are some examples to demonstrate.
-
-{{< example >}}
-<!-- Just an image -->
-<nav class="navbar navbar-light bg-light">
-  <a class="navbar-brand" href="#">
-    <img src="/docs/{{< param docs_version >}}/assets/brand/bootstrap-solid.svg" width="30" height="30" alt="">
-  </a>
-</nav>
-{{< /example >}}
-
-{{< example >}}
-<!-- Image and text -->
-<nav class="navbar navbar-light bg-light">
-  <a class="navbar-brand" href="#">
-    <img src="/docs/{{< param docs_version >}}/assets/brand/bootstrap-solid.svg" width="30" height="30" class="d-inline-block align-top" alt="">
-    Bootstrap
-  </a>
-</nav>
-{{< /example >}}
-
-### Nav
-
-Navbar navigation links build on our `.nav` options with their own modifier class and require the use of [toggler classes](#toggler) for proper responsive styling. **Navigation in navbars will also grow to occupy as much horizontal space as possible** to keep your navbar contents securely aligned.
-
-Active states—with `.active`—to indicate the current page can be applied directly to `.nav-link`s or their immediate parent `.nav-item`s.
-
-{{< example >}}
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="#">Navbar</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNav">
-    <ul class="navbar-nav">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Features</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Pricing</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-      </li>
-    </ul>
+  <div class="btn-group mr-2" role="group" aria-label="Second group">
+    <button type="button" class="btn btn-secondary">5</button>
+    <button type="button" class="btn btn-secondary">6</button>
+    <button type="button" class="btn btn-secondary">7</button>
   </div>
-</nav>
+  <div class="btn-group" role="group" aria-label="Third group">
+    <button type="button" class="btn btn-secondary">8</button>
+  </div>
+</div>
 {{< /example >}}
 
-And because we use classes for our navs, you can avoid the list-based approach entirely if you like.
+Feel free to mix input groups with button groups in your toolbars. Similar to the example above, you'll likely need some utilities though to space things properly.
 
 {{< example >}}
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="#">Navbar</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-    <div class="navbar-nav">
-      <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
-      <a class="nav-item nav-link" href="#">Features</a>
-      <a class="nav-item nav-link" href="#">Pricing</a>
-      <a class="nav-item nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+<div class="btn-toolbar mb-3" role="toolbar" aria-label="Toolbar with button groups">
+  <div class="btn-group mr-2" role="group" aria-label="First group">
+    <button type="button" class="btn btn-secondary">1</button>
+    <button type="button" class="btn btn-secondary">2</button>
+    <button type="button" class="btn btn-secondary">3</button>
+    <button type="button" class="btn btn-secondary">4</button>
+  </div>
+  <div class="input-group">
+    <div class="input-group-prepend">
+      <div class="input-group-text" id="btnGroupAddon">@</div>
     </div>
+    <input type="text" class="form-control" placeholder="Input group example" aria-label="Input group example" aria-describedby="btnGroupAddon">
   </div>
-</nav>
-{{< /example >}}
+</div>
 
-You may also utilize dropdowns in your navbar nav. Dropdown menus require a wrapping element for positioning, so be sure to use separate and nested elements for `.nav-item` and `.nav-link` as shown below.
-
-{{< example >}}
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="#">Navbar</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNavDropdown">
-    <ul class="navbar-nav">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Features</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Pricing</a>
-      </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-expanded="false">
-          Dropdown link
-        </a>
-        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <li><a class="dropdown-item" href="#">Action</a></li>
-          <li><a class="dropdown-item" href="#">Another action</a></li>
-          <li><a class="dropdown-item" href="#">Something else here</a></li>
-        </ul>
-      </li>
-    </ul>
+<div class="btn-toolbar justify-content-between" role="toolbar" aria-label="Toolbar with button groups">
+  <div class="btn-group" role="group" aria-label="First group">
+    <button type="button" class="btn btn-secondary">1</button>
+    <button type="button" class="btn btn-secondary">2</button>
+    <button type="button" class="btn btn-secondary">3</button>
+    <button type="button" class="btn btn-secondary">4</button>
   </div>
-</nav>
-{{< /example >}}
-
-### Forms
-
-Place various form controls and components within a navbar with `.form-inline`.
-
-{{< example >}}
-<nav class="navbar navbar-light bg-light">
-  <form class="form-inline">
-    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-  </form>
-</nav>
-{{< /example >}}
-
-Immediate children elements in `.navbar` use flex layout and will default to `justify-content: between`. Use additional [flex utilities]({{< docsref "/utilities/flex" >}}) as needed to adjust this behavior.
-
-{{< example >}}
-<nav class="navbar navbar-light bg-light">
-  <a class="navbar-brand">Navbar</a>
-  <form class="form-inline">
-    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-  </form>
-</nav>
-{{< /example >}}
-
-Input groups work, too:
-
-{{< example >}}
-<nav class="navbar navbar-light bg-light">
-  <form class="form-inline">
-    <div class="input-group">
-      <div class="input-group-prepend">
-        <span class="input-group-text" id="basic-addon1">@</span>
-      </div>
-      <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+  <div class="input-group">
+    <div class="input-group-prepend">
+      <div class="input-group-text" id="btnGroupAddon2">@</div>
     </div>
-  </form>
-</nav>
-{{< /example >}}
-
-Various buttons are supported as part of these navbar forms, too. This is also a great reminder that vertical alignment utilities can be used to align different sized elements.
-
-{{< example >}}
-<nav class="navbar navbar-light bg-light">
-  <form class="form-inline">
-    <button class="btn btn-outline-success" type="button">Main button</button>
-    <button class="btn btn-sm btn-outline-secondary" type="button">Smaller button</button>
-  </form>
-</nav>
-{{< /example >}}
-
-### Text
-
-Navbars may contain bits of text with the help of `.navbar-text`. This class adjusts vertical alignment and horizontal spacing for strings of text.
-
-{{< example >}}
-<nav class="navbar navbar-light bg-light">
-  <span class="navbar-text">
-    Navbar text with an inline element
-  </span>
-</nav>
-{{< /example >}}
-
-Mix and match with other components and utilities as needed.
-
-{{< example >}}
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="#">Navbar w/ text</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarText">
-    <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Features</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Pricing</a>
-      </li>
-    </ul>
-    <span class="navbar-text">
-      Navbar text with an inline element
-    </span>
+    <input type="text" class="form-control" placeholder="Input group example" aria-label="Input group example" aria-describedby="btnGroupAddon2">
   </div>
-</nav>
+</div>
 {{< /example >}}
 
-## Color schemes
+## Sizing
 
-Theming the navbar has never been easier thanks to the combination of theming classes and `background-color` utilities. Choose from `.navbar-light` for use with light background colors, or `.navbar-dark` for dark background colors. Then, customize with `.bg-*` utilities.
+Instead of applying button sizing classes to every button in a group, just add `.btn-group-*` to each `.btn-group`, including each one when nesting multiple groups.
 
 <div class="bd-example">
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <a class="navbar-brand" href="#">Navbar</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse" id="navbarColor01">
-      <ul class="navbar-nav mr-auto">
-        <li class="nav-item active">
-          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Features</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Pricing</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">About</a>
-        </li>
-      </ul>
-      <form class="form-inline">
-        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-info my-2 my-sm-0" type="submit">Search</button>
-      </form>
-    </div>
-  </nav>
-
-  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-    <a class="navbar-brand" href="#">Navbar</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse" id="navbarColor02">
-      <ul class="navbar-nav mr-auto">
-        <li class="nav-item active">
-          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Features</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Pricing</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">About</a>
-        </li>
-      </ul>
-      <form class="form-inline">
-        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-light my-2 my-sm-0" type="submit">Search</button>
-      </form>
-    </div>
-  </nav>
-
-  <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #e3f2fd;">
-    <a class="navbar-brand" href="#">Navbar</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse" id="navbarColor03">
-      <ul class="navbar-nav mr-auto">
-        <li class="nav-item active">
-          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Features</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Pricing</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">About</a>
-        </li>
-      </ul>
-      <form class="form-inline">
-        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-primary my-2 my-sm-0" type="submit">Search</button>
-      </form>
-    </div>
-  </nav>
+  <div class="btn-group btn-group-lg" role="group" aria-label="Large button group">
+    <button type="button" class="btn btn-secondary">Left</button>
+    <button type="button" class="btn btn-secondary">Middle</button>
+    <button type="button" class="btn btn-secondary">Right</button>
+  </div>
+  <br>
+  <div class="btn-group" role="group" aria-label="Default button group">
+    <button type="button" class="btn btn-secondary">Left</button>
+    <button type="button" class="btn btn-secondary">Middle</button>
+    <button type="button" class="btn btn-secondary">Right</button>
+  </div>
+  <br>
+  <div class="btn-group btn-group-sm" role="group" aria-label="Small button group">
+    <button type="button" class="btn btn-secondary">Left</button>
+    <button type="button" class="btn btn-secondary">Middle</button>
+    <button type="button" class="btn btn-secondary">Right</button>
+  </div>
 </div>
 
 {{< highlight html >}}
-<nav class="navbar navbar-dark bg-dark">
-  <!-- Navbar content -->
-</nav>
-
-<nav class="navbar navbar-dark bg-primary">
-  <!-- Navbar content -->
-</nav>
-
-<nav class="navbar navbar-light" style="background-color: #e3f2fd;">
-  <!-- Navbar content -->
-</nav>
+<div class="btn-group btn-group-lg" role="group" aria-label="...">...</div>
+<div class="btn-group" role="group" aria-label="...">...</div>
+<div class="btn-group btn-group-sm" role="group" aria-label="...">...</div>
 {{< /highlight >}}
 
-## Containers
+## Nesting
 
-Although it's not required, you can wrap a navbar in a `.container` to center it on a page or add one within to only center the contents of a [fixed or static top navbar](#placement).
-
-{{< example >}}
-<div class="container">
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="#">Navbar</a>
-  </nav>
-</div>
-{{< /example >}}
-
-When the container is within your navbar, its horizontal padding is removed at breakpoints lower than your specified `.navbar-expand{-sm|-md|-lg|-xl}` class. This ensures we're not doubling up on padding unnecessarily on lower viewports when your navbar is collapsed.
+Place a `.btn-group` within another `.btn-group` when you want dropdown menus mixed with a series of buttons.
 
 {{< example >}}
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <div class="container">
-    <a class="navbar-brand" href="#">Navbar</a>
-  </div>
-</nav>
-{{< /example >}}
+<div class="btn-group" role="group" aria-label="Button group with nested dropdown">
+  <button type="button" class="btn btn-secondary">1</button>
+  <button type="button" class="btn btn-secondary">2</button>
 
-## Placement
-
-Use our [position utilities]({{< docsref "/utilities/position" >}}) to place navbars in non-static positions. Choose from fixed to the top, fixed to the bottom, or stickied to the top (scrolls with the page until it reaches the top, then stays there). Fixed navbars use `position: fixed`, meaning they're pulled from the normal flow of the DOM and may require custom CSS (e.g., `padding-top` on the `<body>`) to prevent overlap with other elements.
-
-Also note that **`.sticky-top` uses `position: sticky`, which [isn't fully supported in every browser](https://caniuse.com/#feat=css-sticky)**.
-
-{{< example >}}
-<nav class="navbar navbar-light bg-light">
-  <a class="navbar-brand" href="#">Default</a>
-</nav>
-{{< /example >}}
-
-{{< example >}}
-<nav class="navbar fixed-top navbar-light bg-light">
-  <a class="navbar-brand" href="#">Fixed top</a>
-</nav>
-{{< /example >}}
-
-{{< example >}}
-<nav class="navbar fixed-bottom navbar-light bg-light">
-  <a class="navbar-brand" href="#">Fixed bottom</a>
-</nav>
-{{< /example >}}
-
-{{< example >}}
-<nav class="navbar sticky-top navbar-light bg-light">
-  <a class="navbar-brand" href="#">Sticky top</a>
-</nav>
-{{< /example >}}
-
-## Responsive behaviors
-
-Navbars can utilize `.navbar-toggler`, `.navbar-collapse`, and `.navbar-expand{-sm|-md|-lg|-xl}` classes to change when their content collapses behind a button. In combination with other utilities, you can easily choose when to show or hide particular elements.
-
-For navbars that never collapse, add the `.navbar-expand` class on the navbar. For navbars that always collapse, don't add any `.navbar-expand` class.
-
-### Toggler
-
-Navbar togglers are left-aligned by default, but should they follow a sibling element like a `.navbar-brand`, they'll automatically be aligned to the far right. Reversing your markup will reverse the placement of the toggler. Below are examples of different toggle styles.
-
-With no `.navbar-brand` shown in lowest breakpoint:
-
-{{< example >}}
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-    <a class="navbar-brand" href="#">Hidden brand</a>
-    <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-      </li>
-    </ul>
-    <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-    </form>
-  </div>
-</nav>
-{{< /example >}}
-
-With a brand name shown on the left and toggler on the right:
-
-{{< example >}}
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="#">Navbar</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-
-  <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-    <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-      </li>
-    </ul>
-    <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="search" placeholder="Search">
-      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-    </form>
-  </div>
-</nav>
-{{< /example >}}
-
-With a toggler on the left and brand name on the right:
-
-{{< example >}}
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <a class="navbar-brand" href="#">Navbar</a>
-
-  <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
-    <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-      </li>
-    </ul>
-    <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-    </form>
-  </div>
-</nav>
-{{< /example >}}
-
-### External content
-
-Sometimes you want to use the collapse plugin to trigger hidden content elsewhere on the page. Because our plugin works on the `id` and `data-target` matching, that's easily done!
-
-{{< example >}}
-<div class="collapse" id="navbarToggleExternalContent">
-  <div class="bg-dark p-4">
-    <h5 class="text-white h4">Collapsed content</h5>
-    <span class="text-muted">Toggleable via the navbar brand.</span>
+  <div class="btn-group" role="group">
+    <button id="btnGroupDrop1" type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+      Dropdown
+    </button>
+    <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+      <a class="dropdown-item" href="#">Dropdown link</a>
+      <a class="dropdown-item" href="#">Dropdown link</a>
+    </div>
   </div>
 </div>
-<nav class="navbar navbar-dark bg-dark">
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-</nav>
 {{< /example >}}
+
+## Vertical variation
+
+Make a set of buttons appear vertically stacked rather than horizontally. **Split button dropdowns are not supported here.**
+
+<div class="bd-example">
+  <div class="btn-group-vertical" role="group" aria-label="Vertical button group">
+    <button type="button" class="btn btn-secondary">Button</button>
+    <button type="button" class="btn btn-secondary">Button</button>
+    <button type="button" class="btn btn-secondary">Button</button>
+    <button type="button" class="btn btn-secondary">Button</button>
+    <button type="button" class="btn btn-secondary">Button</button>
+    <button type="button" class="btn btn-secondary">Button</button>
+  </div>
+</div>
+
+
+<div class="bd-example">
+  <div class="btn-group-vertical" role="group" aria-label="Vertical button group">
+    <button type="button" class="btn btn-secondary">Button</button>
+    <button type="button" class="btn btn-secondary">Button</button>
+    <div class="btn-group" role="group">
+      <button id="btnGroupVerticalDrop1" type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+        Dropdown
+      </button>
+      <div class="dropdown-menu" aria-labelledby="btnGroupVerticalDrop1">
+        <a class="dropdown-item" href="#">Dropdown link</a>
+        <a class="dropdown-item" href="#">Dropdown link</a>
+      </div>
+    </div>
+    <button type="button" class="btn btn-secondary">Button</button>
+    <button type="button" class="btn btn-secondary">Button</button>
+    <div class="btn-group" role="group">
+      <button id="btnGroupVerticalDrop2" type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+        Dropdown
+      </button>
+      <div class="dropdown-menu" aria-labelledby="btnGroupVerticalDrop2">
+        <a class="dropdown-item" href="#">Dropdown link</a>
+        <a class="dropdown-item" href="#">Dropdown link</a>
+      </div>
+    </div>
+    <div class="btn-group" role="group">
+      <button id="btnGroupVerticalDrop3" type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+        Dropdown
+      </button>
+      <div class="dropdown-menu" aria-labelledby="btnGroupVerticalDrop3">
+        <a class="dropdown-item" href="#">Dropdown link</a>
+        <a class="dropdown-item" href="#">Dropdown link</a>
+      </div>
+    </div>
+    <div class="btn-group" role="group">
+      <button id="btnGroupVerticalDrop4" type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+        Dropdown
+      </button>
+      <div class="dropdown-menu" aria-labelledby="btnGroupVerticalDrop4">
+        <a class="dropdown-item" href="#">Dropdown link</a>
+        <a class="dropdown-item" href="#">Dropdown link</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{< highlight html >}}
+<div class="btn-group-vertical">
+  ...
+</div>
+{{< /highlight >}}
 ```
-## _site_content_docs_4_3_helpers_text_truncation_md
+## _site_content_docs_4_3_helpers_stretched_link_md
 ```---
 layout: docs
-title: Text truncation
-description: Truncate long strings of text with an ellipsis.
+title: Stretched link
+description: Make any HTML element or Bootstrap component clickable by "stretching" a nested link via CSS.
 group: helpers
-toc: false
 ---
 
-For longer content, you can add a `.text-truncate` class to truncate the text with an ellipsis. **Requires `display: inline-block` or `display: block`.**
+Add `.stretched-link` to a link to make its [containing block](https://developer.mozilla.org/en-US/docs/Web/CSS/Containing_block) clickable via a `::after` pseudo element. In most cases, this means that an element with `position: relative;` that contains a link with the `.stretched-link` class is clickable.
+
+Cards have `position: relative` by default in Bootstrap, so in this case you can safely add the `.stretched-link` class to a link in the card without any other HTML changes.
+
+Multiple links and tap targets are not recommended with stretched links. However, some `position` and `z-index` styles can help should this be required.
 
 {{< example >}}
-<!-- Block level -->
-<div class="row">
-  <div class="col-2 text-truncate">
-    Praeterea iter est quasdam res quas ex communi.
+<div class="card" style="width: 18rem;">
+  {{< placeholder width="100%" height="180" class="card-img-top" text="false" title="Card image cap" >}}
+  <div class="card-body">
+    <h5 class="card-title">Card with stretched link</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary stretched-link">Go somewhere</a>
   </div>
 </div>
+{{< /example >}}
 
-<!-- Inline level -->
-<span class="d-inline-block text-truncate" style="max-width: 150px;">
-  Praeterea iter est quasdam res quas ex communi.
-</span>
+Most custom components do not have `position: relative` by default, so we need to add the `.position-relative` here to prevent the link from stretching outside the parent element.
+
+{{< example >}}
+<div class="d-flex position-relative">
+  {{< placeholder width="144" height="144" class="flex-shrink-0 mr-3" text="false" title="Generic placeholder image" >}}
+  <div>
+    <h5 class="mt-0">Custom component with stretched link</h5>
+    <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
+    <a href="#" class="stretched-link">Go somewhere</a>
+  </div>
+</div>
+{{< /example >}}
+
+Columns are `position: relative` by default, so clickable columns only require the `.stretched-link` class on a link. However, stretching a link over an entire `.row` requires `.position-static` on the column and `.position-relative` on the row.
+
+{{< example >}}
+<div class="row no-gutters bg-light position-relative">
+  <div class="col-md-6 mb-md-0 p-md-4">
+    {{< placeholder width="100%" height="200" class="w-100" text="false" title="Generic placeholder image" >}}
+  </div>
+  <div class="col-md-6 position-static p-4 pl-md-0">
+    <h5 class="mt-0">Columns with stretched link</h5>
+    <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
+    <a href="#" class="stretched-link">Go somewhere</a>
+  </div>
+</div>
+{{< /example >}}
+
+## Identifying the containing block
+
+If the stretched link doesn't seem to work, the [containing block](https://developer.mozilla.org/en-US/docs/Web/CSS/Containing_block#Identifying_the_containing_block) will probably be the cause. The following CSS properties will make an element the containing block:
+
+- A `position` value other than `static`
+- A `transform` or `perspective` value other than `none`
+- A `will-change` value of `transform` or `perspective`
+- A `filter` value other than `none` or a `will-change` value of `filter` (only works on Firefox)
+
+{{< example >}}
+<div class="card" style="width: 18rem;">
+  {{< placeholder width="100%" height="180" class="card-img-top" text="false" title="Card image cap" >}}
+  <div class="card-body">
+    <h5 class="card-title">Card with stretched links</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">
+      <a href="#" class="stretched-link text-danger" style="position: relative;">Stretched link will not work here, because <code>position: relative</code> is added to the link</a>
+    </p>
+    <p class="card-text bg-light" style="transform: rotate(0);">
+      This <a href="#" class="text-warning stretched-link">stretched link</a> will only be spread over the <code>p</code>-tag, because a transform is applied to it.
+    </p>
+  </div>
+</div>
 {{< /example >}}
 ```
-## _site_layouts_partials_callout_info_mediaqueries_breakpoints_md
-```Note that since browsers do not currently support [range context queries](https://www.w3.org/TR/mediaqueries-4/#range-context), we work around the limitations of [`min-` and `max-` prefixes](https://www.w3.org/TR/mediaqueries-4/#mq-min-max) and viewports with fractional widths (which can occur under certain conditions on high-dpi devices, for instance) by using values with higher precision for these comparisons.
-```
-## _github_ISSUE_TEMPLATE_bug_report_md
-```---
-name: Bug report
-about: Tell us about a bug you may have identified in Bootstrap.
-
----
-
-Before opening:
-
-- [Search for duplicate or closed issues](https://github.com/twbs/bootstrap/issues?utf8=%E2%9C%93&q=is%3Aissue)
-- [Validate](https://html5.validator.nu/) and [lint](https://github.com/twbs/bootlint#in-the-browser) any HTML to avoid common problems
-- Read the [contributing guidelines](https://github.com/twbs/bootstrap/blob/master/.github/CONTRIBUTING.md)
-
-Bug reports must include:
-
-- Operating system and version (Windows, macOS, Android, iOS, Win10 Mobile)
-- Browser and version (Chrome, Firefox, Safari, IE, MS Edge, Opera 15+, Android Browser)
-- [Reduced test case](https://css-tricks.com/reduced-test-cases/) and suggested fix using [CodePen](https://codepen.io/) or [JS Bin](https://jsbin.com/)
-```
-## _site_content_docs_4_3_helpers_position_md
+## _site_content_docs_4_3_content_typography_md
 ```---
 layout: docs
-title: Position
-description: Use these helpers for quickly configuring the position of an element.
-group: helpers
+title: Typography
+description: Documentation and examples for Bootstrap typography, including global settings, headings, body text, lists, and more.
+group: content
 toc: true
 ---
 
-## Fixed top
+## Global settings
 
-Position an element at the top of the viewport, from edge to edge. Be sure you understand the ramifications of fixed position in your project; you may need to add additional CSS.
+Bootstrap sets basic global display, typography, and link styles. When more control is needed, check out the [textual utility classes]({{< docsref "/utilities/text" >}}).
 
-{{< highlight html >}}
-<div class="fixed-top">...</div>
-{{< /highlight >}}
+- Use a [native font stack]({{< docsref "/content/reboot#native-font-stack" >}}) that selects the best `font-family` for each OS and device.
+- For a more inclusive and accessible type scale, we assume the browser default root `font-size` (typically 16px) so visitors can customize their browser defaults as needed.
+- Use the `$font-family-base`, `$font-size-base`, and `$line-height-base` attributes as our typographic base applied to the `<body>`.
+- Set the global link color via `$link-color` and apply link underlines only on `:hover`.
+- Use `$body-bg` to set a `background-color` on the `<body>` (`#fff` by default).
 
-## Fixed bottom
+These styles can be found within `_reboot.scss`, and the global variables are defined in `_variables.scss`. Make sure to set `$font-size-base` in `rem`.
 
-Position an element at the bottom of the viewport, from edge to edge. Be sure you understand the ramifications of fixed position in your project; you may need to add additional CSS.
+## Headings
 
-{{< highlight html >}}
-<div class="fixed-bottom">...</div>
-{{< /highlight >}}
-
-## Sticky top
-
-Position an element at the top of the viewport, from edge to edge, but only after you scroll past it. The `.sticky-top` utility uses CSS's `position: sticky`, which isn't fully supported in all browsers.
-
-**IE11 and IE10 will render `position: sticky` as `position: relative`.** As such, we wrap the styles in a `@supports` query, limiting the stickiness to only browsers that can render it properly.
-
-{{< highlight html >}}
-<div class="sticky-top">...</div>
-{{< /highlight >}}
-
-## Responsive sticky top
-
-Responsive variations also exist for `.sticky-top` utility.
-
-{{< highlight html >}}
-<div class="sticky-sm-top">Stick to the top on viewports sized SM (small) or wider</div>
-<div class="sticky-md-top">Stick to the top on viewports sized MD (medium) or wider</div>
-<div class="sticky-lg-top">Stick to the top on viewports sized LG (large) or wider</div>
-<div class="sticky-xl-top">Stick to the top on viewports sized XL (extra-large) or wider</div>
-{{< /highlight >}}
-```
-## _site_content_docs_4_3_components_icons_md
-```---
-layout: docs
-title: Icons
-description: Custom icons for Bootstrap components.
-group: components
-toc: true
----
-
-<div class="booticons-list">
-<svg class="booticon booticon-chevron-left" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path stroke="currentColor" stroke-width="2" d="M11 2L5 8l6 6" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"/></svg>
-<svg class="booticon booticon-chevron-right" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path stroke="currentColor" stroke-width="2" d="M5 14l6-6-6-6" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"/></svg>
-<svg class="booticon booticon-chevron-up" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path stroke="currentColor" stroke-width="2" d="M2 11l6-6 6 6" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"/></svg>
-<svg class="booticon booticon-chevron-down" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path stroke="currentColor" stroke-width="2" d="M2 5l6 6 6-6" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"/></svg>
-<svg class="booticon booticon-chevron-condensed-left" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path stroke="currentColor" stroke-width="2" d="M9 2L6 8l3 6" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"/></svg>
-<svg class="booticon booticon-chevron-condensed-right" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path stroke="currentColor" stroke-width="2" d="M7 14l3-6-3-6" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"/></svg>
-<svg class="booticon booticon-check" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path stroke="currentColor" stroke-width="2" d="M4 8.5L6.5 11l6-6" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"/></svg>
-<svg class="booticon booticon-x" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="M8 8l-3 3 3-3 3 3-3-3zm0 0l3-3-3 3-3-3 3 3z" stroke="currentColor" stroke-width="2" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"/></svg>
-<svg class="booticon booticon-dash" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="M5 8h6" stroke="currentColor" stroke-width="2" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"/></svg>
-<svg class="booticon booticon-circle" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="M8 14A6 6 0 1 0 8 2a6 6 0 0 0 0 12zm0-2a4 4 0 1 1 0-8 4 4 0 0 1 0 8z" fill="currentColor" fill-rule="nonzero"/></svg>
-<svg class="booticon booticon-dot" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="M8 8v.082" stroke="currentColor" stroke-width="2" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"/></svg>
-</div>
-```
-## _site_content_docs_4_3_components_carousel_md
-```---
-layout: docs
-title: Carousel
-description: A slideshow component for cycling through elements—images or slides of text—like a carousel.
-group: components
-toc: true
----
-
-## How it works
-
-The carousel is a slideshow for cycling through a series of content, built with CSS 3D transforms and a bit of JavaScript. It works with a series of images, text, or custom markup. It also includes support for previous/next controls and indicators.
-
-In browsers where the [Page Visibility API](https://www.w3.org/TR/page-visibility/) is supported, the carousel will avoid sliding when the webpage is not visible to the user (such as when the browser tab is inactive, the browser window is minimized, etc.).
-
-{{< callout info >}}
-{{< partial "callout-info-prefersreducedmotion.md" >}}
-{{< /callout >}}
-
-Please be aware that nested carousels are not supported, and carousels are generally not compliant with accessibility standards.
-
-## Example
-
-Carousels don't automatically normalize slide dimensions. As such, you may need to use additional utilities or custom styles to appropriately size content. While carousels support previous/next controls and indicators, they're not explicitly required. Add and customize as you see fit.
-
-**The `.active` class needs to be added to one of the slides** otherwise the carousel will not be visible. Also be sure to set a unique id on the `.carousel` for optional controls, especially if you're using multiple carousels on a single page. Control and indicator elements must have a `data-target` attribute (or `href` for links) that matches the id of the `.carousel` element.
-
-### Slides only
-
-Here's a carousel with slides only. Note the presence of the `.d-block` and `.w-100` on carousel images to prevent browser default image alignment.
-
-{{< example >}}
-<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      {{< placeholder width="800" height="400" class="bd-placeholder-img-lg d-block w-100" color="#555" background="#777" text="First slide" >}}
-    </div>
-    <div class="carousel-item">
-      {{< placeholder width="800" height="400" class="bd-placeholder-img-lg d-block w-100" color="#444" background="#666" text="Second slide" >}}
-    </div>
-    <div class="carousel-item">
-      {{< placeholder width="800" height="400" class="bd-placeholder-img-lg d-block w-100" color="#333" background="#555" text="Third slide" >}}
-    </div>
-  </div>
-</div>
-{{< /example >}}
-
-### With controls
-
-Adding in the previous and next controls:
-
-{{< example >}}
-<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      {{< placeholder width="800" height="400" class="bd-placeholder-img-lg d-block w-100" color="#555" background="#777" text="First slide" >}}
-    </div>
-    <div class="carousel-item">
-      {{< placeholder width="800" height="400" class="bd-placeholder-img-lg d-block w-100" color="#444" background="#666" text="Second slide" >}}
-    </div>
-    <div class="carousel-item">
-      {{< placeholder width="800" height="400" class="bd-placeholder-img-lg d-block w-100" color="#333" background="#555" text="Third slide" >}}
-    </div>
-  </div>
-  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-{{< /example >}}
-
-### With indicators
-
-You can also add the indicators to the carousel, alongside the controls, too.
-
-{{< example >}}
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-  </ol>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      {{< placeholder width="800" height="400" class="bd-placeholder-img-lg d-block w-100" color="#555" background="#777" text="First slide" >}}
-    </div>
-    <div class="carousel-item">
-      {{< placeholder width="800" height="400" class="bd-placeholder-img-lg d-block w-100" color="#444" background="#666" text="Second slide" >}}
-    </div>
-    <div class="carousel-item">
-      {{< placeholder width="800" height="400" class="bd-placeholder-img-lg d-block w-100" color="#333" background="#555" text="Third slide" >}}
-    </div>
-  </div>
-  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-{{< /example >}}
-
-### With captions
-
-Add captions to your slides easily with the `.carousel-caption` element within any `.carousel-item`. They can be easily hidden on smaller viewports, as shown below, with optional [display utilities]({{< docsref "/utilities/display" >}}). We hide them initially with `.d-none` and bring them back on medium-sized devices with `.d-md-block`.
-
-{{< example >}}
-<div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
-    <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
-  </ol>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      {{< placeholder width="800" height="400" class="bd-placeholder-img-lg d-block w-100" color="#555" background="#777" text="First slide" >}}
-      <div class="carousel-caption d-none d-md-block">
-        <h5>First slide label</h5>
-        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-      </div>
-    </div>
-    <div class="carousel-item">
-      {{< placeholder width="800" height="400" class="bd-placeholder-img-lg d-block w-100" color="#444" background="#666" text="Second slide" >}}
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Second slide label</h5>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-    </div>
-    <div class="carousel-item">
-      {{< placeholder width="800" height="400" class="bd-placeholder-img-lg d-block w-100" color="#333" background="#555" text="Third slide" >}}
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Third slide label</h5>
-        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-      </div>
-    </div>
-  </div>
-  <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-{{< /example >}}
-
-### Crossfade
-
-Add `.carousel-fade` to your carousel to animate slides with a fade transition instead of a slide.
-
-{{< example >}}
-<div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      {{< placeholder width="800" height="400" class="bd-placeholder-img-lg d-block w-100" color="#555" background="#777" text="First slide" >}}
-    </div>
-    <div class="carousel-item">
-      {{< placeholder width="800" height="400" class="bd-placeholder-img-lg d-block w-100" color="#444" background="#666" text="Second slide" >}}
-    </div>
-    <div class="carousel-item">
-      {{< placeholder width="800" height="400" class="bd-placeholder-img-lg d-block w-100" color="#333" background="#555" text="Third slide" >}}
-    </div>
-  </div>
-  <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-{{< /example >}}
-
-### Individual `.carousel-item` interval
-
-Add `data-interval=""` to a `.carousel-item` to change the amount of time to delay between automatically cycling to the next item.
-
-{{< example >}}
-<div id="carouselExampleInterval" class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active" data-interval="10000">
-      {{< placeholder width="800" height="400" class="bd-placeholder-img-lg d-block w-100" color="#555" background="#777" text="First slide" >}}
-    </div>
-    <div class="carousel-item" data-interval="2000">
-      {{< placeholder width="800" height="400" class="bd-placeholder-img-lg d-block w-100" color="#444" background="#666" text="Second slide" >}}
-    </div>
-    <div class="carousel-item">
-      {{< placeholder width="800" height="400" class="bd-placeholder-img-lg d-block w-100" color="#333" background="#555" text="Third slide" >}}
-    </div>
-  </div>
-  <a class="carousel-control-prev" href="#carouselExampleInterval" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleInterval" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-{{< /example >}}
-
-
-## Usage
-
-### Via data attributes
-
-Use data attributes to easily control the position of the carousel. `data-slide` accepts the keywords `prev` or `next`, which alters the slide position relative to its current position. Alternatively, use `data-slide-to` to pass a raw slide index to the carousel `data-slide-to="2"`, which shifts the slide position to a particular index beginning with `0`.
-
-The `data-ride="carousel"` attribute is used to mark a carousel as animating starting at page load. If you don't use `data-ride="carousel"` to initialize your carousel, you have to initialize it yourself. **It cannot be used in combination with (redundant and unnecessary) explicit JavaScript initialization of the same carousel.**
-
-### Via JavaScript
-
-Call carousel manually with:
-
-{{< highlight js >}}
-var myCarousel = document.querySelector('#myCarousel')
-var carousel = new bootstrap.Carousel(myCarousel)
-{{< /highlight >}}
-
-### Options
-
-Options can be passed via data attributes or JavaScript. For data attributes, append the option name to `data-`, as in `data-interval=""`.
+All HTML headings, `<h1>` through `<h6>`, are available.
 
 <table class="table">
   <thead>
     <tr>
-      <th style="width: 100px;">Name</th>
-      <th style="width: 50px;">Type</th>
-      <th style="width: 50px;">Default</th>
-      <th>Description</th>
+      <th>Heading</th>
+      <th>Example</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>interval</td>
-      <td>number</td>
-      <td>5000</td>
-      <td>The amount of time to delay between automatically cycling an item. If false, carousel will not automatically cycle.</td>
+      <td>
+        {{< markdown >}}`<h1></h1>`{{< /markdown >}}
+      </td>
+      <td><span class="h1">h1. Bootstrap heading</span></td>
     </tr>
     <tr>
-      <td>keyboard</td>
-      <td>boolean</td>
-      <td>true</td>
-      <td>Whether the carousel should react to keyboard events.</td>
+      <td>
+        {{< markdown >}}`<h2></h2>`{{< /markdown >}}
+      </td>
+      <td><span class="h2">h2. Bootstrap heading</span></td>
     </tr>
     <tr>
-      <td>pause</td>
-      <td>string | boolean</td>
-      <td>"hover"</td>
-      <td><p>If set to <code>"hover"</code>, pauses the cycling of the carousel on <code>mouseenter</code> and resumes the cycling of the carousel on <code>mouseleave</code>. If set to <code>false</code>, hovering over the carousel won't pause it.</p>
-      <p>On touch-enabled devices, when set to <code>"hover"</code>, cycling will pause on <code>touchend</code> (once the user finished interacting with the carousel) for two intervals, before automatically resuming. Note that this is in addition to the above mouse behavior.</p></td>
+      <td>
+        {{< markdown >}}`<h3></h3>`{{< /markdown >}}
+      </td>
+      <td><span class="h3">h3. Bootstrap heading</span></td>
     </tr>
     <tr>
-      <td>slide</td>
-      <td>string | boolean</td>
-      <td>false</td>
-      <td>Autoplays the carousel after the user manually cycles the first item. If "carousel", autoplays the carousel on load.</td>
+      <td>
+        {{< markdown >}}`<h4></h4>`{{< /markdown >}}
+      </td>
+      <td><span class="h4">h4. Bootstrap heading</span></td>
     </tr>
     <tr>
-      <td>wrap</td>
-      <td>boolean</td>
-      <td>true</td>
-      <td>Whether the carousel should cycle continuously or have hard stops.</td>
+      <td>
+        {{< markdown >}}`<h5></h5>`{{< /markdown >}}
+      </td>
+      <td><span class="h5">h5. Bootstrap heading</span></td>
     </tr>
     <tr>
-      <td>touch</td>
-      <td>boolean</td>
-      <td>true</td>
-      <td>Whether the carousel should support left/right swipe interactions on touchscreen devices.</td>
+      <td>
+        {{< markdown >}}`<h6></h6>`{{< /markdown >}}
+      </td>
+      <td><span class="h6">h6. Bootstrap heading</span></td>
     </tr>
   </tbody>
 </table>
 
-### Methods
-
-{{< callout danger >}}
-{{< partial "callout-danger-async-methods.md" >}}
-{{< /callout >}}
-
-You can create a carousel instance with the carousel constructor, for example, to initialize with additional options and start cycling through items:
-
-{{< highlight js >}}
-var myCarousel = document.querySelector('#myCarousel')
-var carousel = new bootstrap.Carousel(myCarousel, {
-  interval: 2000,
-  wrap: false
-})
+{{< highlight html >}}
+<h1>h1. Bootstrap heading</h1>
+<h2>h2. Bootstrap heading</h2>
+<h3>h3. Bootstrap heading</h3>
+<h4>h4. Bootstrap heading</h4>
+<h5>h5. Bootstrap heading</h5>
+<h6>h6. Bootstrap heading</h6>
 {{< /highlight >}}
 
-<table class="table">
-  <thead>
-    <tr>
-      <th>Method</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><code>cycle</code></td>
-      <td>Cycles through the carousel items from left to right.</td>
-    </tr>
-    <tr>
-      <td><code>pause</code></td>
-      <td>Stops the carousel from cycling through items.</td>
-    </tr>
-    <tr>
-      <td><code>prev</code></td>
-      <td>Cycles to the previous item. <strong>Returns to the caller before the previous item has been shown</strong> (e.g., before the <code>slid.bs.carousel</code> event occurs).</td>
-    </tr>
-    <tr>
-      <td><code>next</code></td>
-      <td>Cycles to the next item. <strong>Returns to the caller before the next item has been shown</strong> (e.g., before the <code>slid.bs.carousel</code> event occurs).</td>
-    </tr>
-    <tr>
-      <td><code>nextWhenVisible</code></td>
-      <td>Cycles the carousel to a particular frame (0 based, similar to an array). <strong>Returns to the caller before the target item has been shown</strong> (e.g., before the <code>slid.bs.carousel</code> event occurs).</td>
-    </tr>
-    <tr>
-      <td><code>dispose</code></td>
-      <td>Destroys an element's carousel.</td>
-    </tr>
-    <tr>
-      <td><code>getInstance</code></td>
-      <td>Static method which allows you to get the carousel instance associated with a DOM element.</td>
-    </tr>
-  </tbody>
-</table>
+`.h1` through `.h6` classes are also available, for when you want to match the font styling of a heading but cannot use the associated HTML element.
 
-### Events
+{{< example >}}
+<p class="h1">h1. Bootstrap heading</p>
+<p class="h2">h2. Bootstrap heading</p>
+<p class="h3">h3. Bootstrap heading</p>
+<p class="h4">h4. Bootstrap heading</p>
+<p class="h5">h5. Bootstrap heading</p>
+<p class="h6">h6. Bootstrap heading</p>
+{{< /example >}}
 
-Bootstrap's carousel class exposes two events for hooking into carousel functionality. Both events have the following additional properties:
+### Customizing headings
 
-- `direction`: The direction in which the carousel is sliding (either `"left"` or `"right"`).
-- `relatedTarget`: The DOM element that is being slid into place as the active item.
-- `from`: The index of the current item
-- `to`: The index of the next item
+Use the included utility classes to recreate the small secondary heading text from Bootstrap 3.
 
-All carousel events are fired at the carousel itself (i.e. at the `<div class="carousel">`).
+{{< example >}}
+<h3>
+  Fancy display heading
+  <small class="text-muted">With faded secondary text</small>
+</h3>
+{{< /example >}}
 
-<table class="table">
-  <thead>
-    <tr>
-      <th style="width: 150px;">Event type</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><code>slide.bs.carousel</code></td>
-      <td>Fires immediately when the <code>slide</code> instance method is invoked.</td>
-    </tr>
-    <tr>
-      <td><code>slid.bs.carousel</code></td>
-      <td>Fired when the carousel has completed its slide transition.</td>
-    </tr>
-  </tbody>
-</table>
+## Display headings
 
-{{< highlight js >}}
-var myCarousel = document.getElementById('myCarousel')
+Traditional heading elements are designed to work best in the meat of your page content. When you need a heading to stand out, consider using a **display heading**—a larger, slightly more opinionated heading style. Keep in mind these headings are not responsive by default, but it's possible to enable [responsive font sizes](#responsive-font-sizes).
 
-myCarousel.addEventListener('slide.bs.carousel', function () {
-  // do something...
-})
+<div class="bd-example">
+  <div class="display-1 pb-3 mb-3 border-bottom">Display 1</div>
+  <div class="display-2 pb-3 mb-3 border-bottom">Display 2</div>
+  <div class="display-3 pb-3 mb-3 border-bottom">Display 3</div>
+  <div class="display-4">Display 4</div>
+</div>
+
+{{< highlight html >}}
+<h1 class="display-1">Display 1</h1>
+<h1 class="display-2">Display 2</h1>
+<h1 class="display-3">Display 3</h1>
+<h1 class="display-4">Display 4</h1>
 {{< /highlight >}}
 
-### Change transition duration
+## Lead
 
-The transition duration of `.carousel-item` can be changed with the `$carousel-transition` Sass variable before compiling or custom styles if you're using the compiled CSS. If multiple transitions are applied, make sure the transform transition is defined first (eg. `transition: transform 2s ease, opacity .5s ease-out`).
+Make a paragraph stand out by adding `.lead`.
+
+{{< example >}}
+<p class="lead">
+  Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus.
+</p>
+{{< /example >}}
+
+## Inline text elements
+
+Styling for common inline HTML5 elements.
+
+{{< example >}}
+<p>You can use the mark tag to <mark>highlight</mark> text.</p>
+<p><del>This line of text is meant to be treated as deleted text.</del></p>
+<p><s>This line of text is meant to be treated as no longer accurate.</s></p>
+<p><ins>This line of text is meant to be treated as an addition to the document.</ins></p>
+<p><u>This line of text will render as underlined</u></p>
+<p><small>This line of text is meant to be treated as fine print.</small></p>
+<p><strong>This line rendered as bold text.</strong></p>
+<p><em>This line rendered as italicized text.</em></p>
+{{< /example >}}
+
+`.mark` and `.small` classes are also available to apply the same styles as `<mark>` and `<small>` while avoiding any unwanted semantic implications that the tags would bring.
+
+While not shown above, feel free to use `<b>` and `<i>` in HTML5. `<b>` is meant to highlight words or phrases without conveying additional importance while `<i>` is mostly for voice, technical terms, etc.
+
+## Text utilities
+
+Change text alignment, transform, style, weight, line-height and color with our [text utilities]({{< docsref "/utilities/text" >}}) and [color utilities]({{< docsref "/utilities/colors" >}}).
+
+## Abbreviations
+
+Stylized implementation of HTML's `<abbr>` element for abbreviations and acronyms to show the expanded version on hover. Abbreviations have a default underline and gain a help cursor to provide additional context on hover and to users of assistive technologies.
+
+Add `.initialism` to an abbreviation for a slightly smaller font-size.
+
+{{< example >}}
+<p><abbr title="attribute">attr</abbr></p>
+<p><abbr title="HyperText Markup Language" class="initialism">HTML</abbr></p>
+{{< /example >}}
+
+## Blockquotes
+
+For quoting blocks of content from another source within your document. Wrap `<blockquote class="blockquote">` around any <abbr title="HyperText Markup Language">HTML</abbr> as the quote.
+
+{{< example >}}
+<blockquote class="blockquote">
+  <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+</blockquote>
+{{< /example >}}
+
+### Naming a source
+
+Add a `<footer class="blockquote-footer">` for identifying the source. Wrap the name of the source work in `<cite>`.
+
+{{< example >}}
+<blockquote class="blockquote">
+  <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+  <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
+</blockquote>
+{{< /example >}}
+
+### Alignment
+
+Use text utilities as needed to change the alignment of your blockquote.
+
+{{< example >}}
+<blockquote class="blockquote text-center">
+  <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+  <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
+</blockquote>
+{{< /example >}}
+
+{{< example >}}
+<blockquote class="blockquote text-right">
+  <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+  <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
+</blockquote>
+{{< /example >}}
+
+## Lists
+
+### Unstyled
+
+Remove the default `list-style` and left margin on list items (immediate children only). **This only applies to immediate children list items**, meaning you will need to add the class for any nested lists as well.
+
+{{< example >}}
+<ul class="list-unstyled">
+  <li>Lorem ipsum dolor sit amet</li>
+  <li>Consectetur adipiscing elit</li>
+  <li>Integer molestie lorem at massa</li>
+  <li>Facilisis in pretium nisl aliquet</li>
+  <li>Nulla volutpat aliquam velit
+    <ul>
+      <li>Phasellus iaculis neque</li>
+      <li>Purus sodales ultricies</li>
+      <li>Vestibulum laoreet porttitor sem</li>
+      <li>Ac tristique libero volutpat at</li>
+    </ul>
+  </li>
+  <li>Faucibus porta lacus fringilla vel</li>
+  <li>Aenean sit amet erat nunc</li>
+  <li>Eget porttitor lorem</li>
+</ul>
+{{< /example >}}
+
+### Inline
+
+Remove a list's bullets and apply some light `margin` with a combination of two classes, `.list-inline` and `.list-inline-item`.
+
+{{< example >}}
+<ul class="list-inline">
+  <li class="list-inline-item">Lorem ipsum</li>
+  <li class="list-inline-item">Phasellus iaculis</li>
+  <li class="list-inline-item">Nulla volutpat</li>
+</ul>
+{{< /example >}}
+
+### Description list alignment
+
+Align terms and descriptions horizontally by using our grid system's predefined classes (or semantic mixins). For longer terms, you can optionally add a `.text-truncate` class to truncate the text with an ellipsis.
+
+{{< example >}}
+<dl class="row">
+  <dt class="col-sm-3">Description lists</dt>
+  <dd class="col-sm-9">A description list is perfect for defining terms.</dd>
+
+  <dt class="col-sm-3">Euismod</dt>
+  <dd class="col-sm-9">
+    <p>Vestibulum id ligula porta felis euismod semper eget lacinia odio sem nec elit.</p>
+    <p>Donec id elit non mi porta gravida at eget metus.</p>
+  </dd>
+
+  <dt class="col-sm-3">Malesuada porta</dt>
+  <dd class="col-sm-9">Etiam porta sem malesuada magna mollis euismod.</dd>
+
+  <dt class="col-sm-3 text-truncate">Truncated term is truncated</dt>
+  <dd class="col-sm-9">Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</dd>
+
+  <dt class="col-sm-3">Nesting</dt>
+  <dd class="col-sm-9">
+    <dl class="row">
+      <dt class="col-sm-4">Nested definition list</dt>
+      <dd class="col-sm-8">Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc.</dd>
+    </dl>
+  </dd>
+</dl>
+{{< /example >}}
+
+## Responsive font sizes
+
+Bootstrap v4.3 ships with the option to enable responsive font sizes, allowing text to scale more naturally across device and viewport sizes. <abbr title="Responsive font sizes">RFS</abbr> can be enabled by changing the `$enable-responsive-font-sizes` Sass variable to `true` and recompiling Bootstrap.
+
+To support <abbr title="Responsive font sizes">RFS</abbr>, we use a Sass mixin to replace our normal `font-size` properties. Responsive font sizes will be compiled into `calc()` functions with a mix of `rem` and viewport units to enable the responsive scaling behavior. More about <abbr title="Responsive font sizes">RFS</abbr> and its configuration can be found on its [GitHub repository](https://github.com/twbs/rfs).
 ```
-## _site_content_docs_4_3_forms_layout_md
+## _site_content_docs_4_3_components_breadcrumb_md
 ```---
 layout: docs
-title: Layout
-description: Give your forms some structure—from inline to horizontal to custom grid implementations—with our form layout options.
-group: forms
-toc: true
----
-
-## Forms
-
-Every group of form fields should reside in a `<form>` element. Bootstrap provides no default styling for the `<form>` element, but there are some powerful browser features that are provided by default.
-
-- New to browser forms? Consider reviewing [the MDN form docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form) for an overview and complete list of available attributes.
-- `<button>`s within a `<form>` default to `type="submit"`, so strive to be specific and always include a `type`.
-- You can disable every form element within a form with the `disabled` attribute on the `<form>`.
-
-Since Bootstrap applies `display: block` and `width: 100%` to almost all our form controls, forms will by default stack vertically. Additional classes can be used to vary this layout on a per-form basis.
-
-## Utilities
-
-[Margin utilities]({{< docsref "/utilities/spacing" >}}) are the easiest way to add some structure to forms. They provide basic grouping of labels, controls, optional help text, and form validation messaging. We recommend sticking to `margin-bottom` utilities, and using a single direction throughout the form for consistency.
-
-Feel free to build your forms however you like, with `<fieldset>`s, `<div>`s, or nearly any other element.
-
-{{< example >}}
-<form>
-  <div class="mb-3">
-    <label for="formGroupExampleInput">Example label</label>
-    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Example input placeholder">
-  </div>
-  <div class="mb-3">
-    <label for="formGroupExampleInput2">Another label</label>
-    <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Another input placeholder">
-  </div>
-</form>
-{{< /example >}}
-
-## Form grid
-
-More complex forms can be built using our grid classes. Use these for form layouts that require multiple columns, varied widths, and additional alignment options. **Requires the `$enable-grid-classes` Sass variable to be enabled** (on by default).
-
-{{< example >}}
-<form>
-  <div class="row">
-    <div class="col">
-      <input type="text" class="form-control" placeholder="First name">
-    </div>
-    <div class="col">
-      <input type="text" class="form-control" placeholder="Last name">
-    </div>
-  </div>
-</form>
-{{< /example >}}
-
-## Form row
-
-You may also swap `.row` for `.form-row`, a variation of our standard grid row that overrides the default column gutters for tighter and more compact layouts. **Also requires the `$enable-grid-classes` Sass variable to be enabled** (on by default).
-
-{{< example >}}
-<form>
-  <div class="form-row">
-    <div class="col">
-      <input type="text" class="form-control" placeholder="First name">
-    </div>
-    <div class="col">
-      <input type="text" class="form-control" placeholder="Last name">
-    </div>
-  </div>
-</form>
-{{< /example >}}
-
-More complex layouts can also be created with the grid system.
-
-{{< example >}}
-<form>
-  <div class="form-row">
-    <div class="mb-3 col-md-6">
-      <label for="inputEmail4">Email</label>
-      <input type="email" class="form-control" id="inputEmail4">
-    </div>
-    <div class="mb-3 col-md-6">
-      <label for="inputPassword4">Password</label>
-      <input type="password" class="form-control" id="inputPassword4">
-    </div>
-  </div>
-  <div class="mb-3">
-    <label for="inputAddress">Address</label>
-    <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
-  </div>
-  <div class="mb-3">
-    <label for="inputAddress2">Address 2</label>
-    <input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor">
-  </div>
-  <div class="form-row">
-    <div class="mb-3 col-md-6">
-      <label for="inputCity">City</label>
-      <input type="text" class="form-control" id="inputCity">
-    </div>
-    <div class="mb-3 col-md-4">
-      <label for="inputState">State</label>
-      <select id="inputState" class="form-select">
-        <option selected>Choose...</option>
-        <option>...</option>
-      </select>
-    </div>
-    <div class="mb-3 col-md-2">
-      <label for="inputZip">Zip</label>
-      <input type="text" class="form-control" id="inputZip">
-    </div>
-  </div>
-  <div class="mb-3">
-    <div class="form-check">
-      <input class="form-check-input" type="checkbox" id="gridCheck">
-      <label class="form-check-label" for="gridCheck">
-        Check me out
-      </label>
-    </div>
-  </div>
-  <button type="submit" class="btn btn-primary">Sign in</button>
-</form>
-{{< /example >}}
-
-## Horizontal form
-
-Create horizontal forms with the grid by adding the `.row` class to form groups and using the `.col-*-*` classes to specify the width of your labels and controls. Be sure to add `.col-form-label` to your `<label>`s as well so they're vertically centered with their associated form controls.
-
-At times, you maybe need to use margin or padding utilities to create that perfect alignment you need. For example, we've removed the `padding-top` on our stacked radio inputs label to better align the text baseline.
-
-{{< example >}}
-<form>
-  <div class="mb-3 row">
-    <label for="inputEmail3" class="col-sm-2 col-form-label">Email</label>
-    <div class="col-sm-10">
-      <input type="email" class="form-control" id="inputEmail3">
-    </div>
-  </div>
-  <div class="mb-3 row">
-    <label for="inputPassword3" class="col-sm-2 col-form-label">Password</label>
-    <div class="col-sm-10">
-      <input type="password" class="form-control" id="inputPassword3">
-    </div>
-  </div>
-  <fieldset class="mb-3">
-    <div class="row">
-      <legend class="col-form-label col-sm-2 pt-0">Radios</legend>
-      <div class="col-sm-10">
-        <div class="form-check">
-          <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios1" value="option1" checked>
-          <label class="form-check-label" for="gridRadios1">
-            First radio
-          </label>
-        </div>
-        <div class="form-check">
-          <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios2" value="option2">
-          <label class="form-check-label" for="gridRadios2">
-            Second radio
-          </label>
-        </div>
-        <div class="form-check disabled">
-          <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios3" value="option3" disabled>
-          <label class="form-check-label" for="gridRadios3">
-            Third disabled radio
-          </label>
-        </div>
-      </div>
-    </div>
-  </fieldset>
-  <div class="mb-3 row">
-    <div class="col-sm-2">Checkbox</div>
-    <div class="col-sm-10">
-      <div class="form-check">
-        <input class="form-check-input" type="checkbox" id="gridCheck1">
-        <label class="form-check-label" for="gridCheck1">
-          Example checkbox
-        </label>
-      </div>
-    </div>
-  </div>
-  <div class="mb-3 row">
-    <div class="col-sm-10">
-      <button type="submit" class="btn btn-primary">Sign in</button>
-    </div>
-  </div>
-</form>
-{{< /example >}}
-
-### Horizontal form label sizing
-
-Be sure to use `.col-form-label-sm` or `.col-form-label-lg` to your `<label>`s or `<legend>`s to correctly follow the size of `.form-control-lg` and `.form-control-sm`.
-
-{{< example >}}
-<form>
-  <div class="mb-3 row">
-    <label for="colFormLabelSm" class="col-sm-2 col-form-label col-form-label-sm">Email</label>
-    <div class="col-sm-10">
-      <input type="email" class="form-control form-control-sm" id="colFormLabelSm" placeholder="col-form-label-sm">
-    </div>
-  </div>
-  <div class="mb-3 row">
-    <label for="colFormLabel" class="col-sm-2 col-form-label">Email</label>
-    <div class="col-sm-10">
-      <input type="email" class="form-control" id="colFormLabel" placeholder="col-form-label">
-    </div>
-  </div>
-  <div class="mb-3 row">
-    <label for="colFormLabelLg" class="col-sm-2 col-form-label col-form-label-lg">Email</label>
-    <div class="col-sm-10">
-      <input type="email" class="form-control form-control-lg" id="colFormLabelLg" placeholder="col-form-label-lg">
-    </div>
-  </div>
-</form>
-{{< /example >}}
-
-## Column sizing
-
-As shown in the previous examples, our grid system allows you to place any number of `.col`s within a `.row` or `.form-row`. They'll split the available width equally between them. You may also pick a subset of your columns to take up more or less space, while the remaining `.col`s equally split the rest, with specific column classes like `.col-7`.
-
-{{< example >}}
-<form>
-  <div class="form-row">
-    <div class="col-7">
-      <input type="text" class="form-control" placeholder="City">
-    </div>
-    <div class="col">
-      <input type="text" class="form-control" placeholder="State">
-    </div>
-    <div class="col">
-      <input type="text" class="form-control" placeholder="Zip">
-    </div>
-  </div>
-</form>
-{{< /example >}}
-
-## Auto-sizing
-
-The example below uses a flexbox utility to vertically center the contents and changes `.col` to `.col-auto` so that your columns only take up as much space as needed. Put another way, the column sizes itself based on the contents.
-
-{{< example >}}
-<form>
-  <div class="form-row align-items-center">
-    <div class="col-auto">
-      <label class="sr-only" for="autoSizingInput">Name</label>
-      <input type="text" class="form-control mb-2" id="autoSizingInput" placeholder="Jane Doe">
-    </div>
-    <div class="col-auto">
-      <label class="sr-only" for="autoSizingInputGroup">Username</label>
-      <div class="input-group mb-2">
-        <div class="input-group-prepend">
-          <div class="input-group-text">@</div>
-        </div>
-        <input type="text" class="form-control" id="autoSizingInputGroup" placeholder="Username">
-      </div>
-    </div>
-    <div class="col-auto">
-      <label class="sr-only" for="autoSizingSelect">Preference</label>
-      <select class="form-select mb-2" id="autoSizingSelect">
-        <option selected>Choose...</option>
-        <option value="1">One</option>
-        <option value="2">Two</option>
-        <option value="3">Three</option>
-      </select>
-    </div>
-    <div class="col-auto">
-      <div class="form-check mb-2">
-        <input class="form-check-input" type="checkbox" id="autoSizingCheck">
-        <label class="form-check-label" for="autoSizingCheck">
-          Remember me
-        </label>
-      </div>
-    </div>
-    <div class="col-auto">
-      <button type="submit" class="btn btn-primary mb-2">Submit</button>
-    </div>
-  </div>
-</form>
-{{< /example >}}
-
-You can then remix that once again with size-specific column classes.
-
-{{< example >}}
-<form>
-  <div class="form-row align-items-center">
-    <div class="col-sm-3 my-1">
-      <label class="sr-only" for="specificSizeInputName">Name</label>
-      <input type="text" class="form-control" id="specificSizeInputName" placeholder="Jane Doe">
-    </div>
-    <div class="col-sm-3 my-1">
-      <label class="sr-only" for="specificSizeInputGroupUsername">Username</label>
-      <div class="input-group">
-        <div class="input-group-prepend">
-          <div class="input-group-text">@</div>
-        </div>
-        <input type="text" class="form-control" id="specificSizeInputGroupUsername" placeholder="Username">
-      </div>
-    </div>
-    <div class="col-sm-3 my-1">
-      <label class="sr-only" for="specificSizeSelect">Preference</label>
-      <select class="form-select" id="specificSizeSelect">
-        <option selected>Choose...</option>
-        <option value="1">One</option>
-        <option value="2">Two</option>
-        <option value="3">Three</option>
-      </select>
-    </div>
-    <div class="col-auto my-1">
-      <div class="form-check">
-        <input class="form-check-input" type="checkbox" id="autoSizingCheck2">
-        <label class="form-check-label" for="autoSizingCheck2">
-          Remember me
-        </label>
-      </div>
-    </div>
-    <div class="col-auto my-1">
-      <button type="submit" class="btn btn-primary">Submit</button>
-    </div>
-  </div>
-</form>
-{{< /example >}}
-
-## Inline forms
-
-Use the `.form-inline` class to display a series of labels, form controls, and buttons on a single horizontal row. Form controls within inline forms vary slightly from their default states.
-
-- Controls are `display: flex`, collapsing any HTML white space and allowing you to provide alignment control with [spacing]({{< docsref "/utilities/spacing" >}}) and [flexbox]({{< docsref "/utilities/flex" >}}) utilities.
-- Controls and input groups receive `width: auto` to override the Bootstrap default `width: 100%`.
-- Controls **only appear inline in viewports that are at least 576px wide** to account for narrow viewports on mobile devices.
-
-You may need to manually address the width and alignment of individual form controls with [spacing utilities]({{< docsref "/utilities/spacing" >}}) (as shown below). Lastly, be sure to always include a `<label>` with each form control, even if you need to hide it from non-screenreader visitors with `.sr-only`.
-
-{{< example >}}
-<form class="form-inline">
-  <label class="sr-only" for="inlineFormInputName">Name</label>
-  <input type="text" class="form-control mb-2 mr-sm-2" id="inlineFormInputName" placeholder="Jane Doe">
-
-  <label class="sr-only" for="inlineFormInputGroupUsername">Username</label>
-  <div class="input-group mb-2 mr-sm-2">
-    <div class="input-group-prepend">
-      <div class="input-group-text">@</div>
-    </div>
-    <input type="text" class="form-control" id="inlineFormInputGroupUsername" placeholder="Username">
-  </div>
-
-  <label class="sr-only" for="inlineFormSelectPref">Preference</label>
-  <select class="form-select mb-2 mr-sm-2" id="inlineFormSelectPref">
-    <option selected>Choose...</option>
-    <option value="1">One</option>
-    <option value="2">Two</option>
-    <option value="3">Three</option>
-  </select>
-
-  <div class="form-check mb-2 mr-sm-2">
-    <input class="form-check-input" type="checkbox" id="inlineFormCheck">
-    <label class="form-check-label" for="inlineFormCheck">
-      Remember me
-    </label>
-  </div>
-
-  <button type="submit" class="btn btn-primary mb-2">Submit</button>
-</form>
-{{< /example >}}
-
-{{< callout warning >}}
-### Alternatives to hidden labels
-
-Assistive technologies such as screen readers will have trouble with your forms if you don't include a label for every input. For these inline forms, you can hide the labels using the `.sr-only` class. There are further alternative methods of providing a label for assistive technologies, such as the `aria-label`, `aria-labelledby` or `title` attribute. If none of these are present, assistive technologies may resort to using the `placeholder` attribute, if present, but note that use of `placeholder` as a replacement for other labeling methods is not advised.
-{{< /callout >}}
-```
-## _site_content_docs_4_3_components_badge_md
-```---
-layout: docs
-title: Badges
-description: Documentation and examples for badges, our small count and labeling component.
+title: Breadcrumb
+description: Indicate the current page's location within a navigational hierarchy that automatically adds separators via CSS.
 group: components
-toc: true
 ---
 
 ## Example
 
-Badges scale to match the size of the immediate parent element by using relative font sizing and `em` units. As of v5, badges no longer have focus or hover styles for links.
-
 {{< example >}}
-<h1>Example heading <span class="badge bg-secondary">New</span></h1>
-<h2>Example heading <span class="badge bg-secondary">New</span></h2>
-<h3>Example heading <span class="badge bg-secondary">New</span></h3>
-<h4>Example heading <span class="badge bg-secondary">New</span></h4>
-<h5>Example heading <span class="badge bg-secondary">New</span></h5>
-<h6>Example heading <span class="badge bg-secondary">New</span></h6>
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item active" aria-current="page">Home</li>
+  </ol>
+</nav>
+
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="#">Home</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Library</li>
+  </ol>
+</nav>
+
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="#">Home</a></li>
+    <li class="breadcrumb-item"><a href="#">Library</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Data</li>
+  </ol>
+</nav>
 {{< /example >}}
 
-Badges can be used as part of links or buttons to provide a counter.
+## Changing the separator
 
-{{< example >}}
-<button type="button" class="btn btn-primary">
-  Notifications <span class="badge bg-secondary">4</span>
-</button>
-{{< /example >}}
+Separators are automatically added in CSS through [`::before`](https://developer.mozilla.org/en-US/docs/Web/CSS/::before) and [`content`](https://developer.mozilla.org/en-US/docs/Web/CSS/content). They can be changed by changing `$breadcrumb-divider`. The [quote](https://sass-lang.com/documentation/functions/string#quote) function is needed to generate the quotes around a string, so if you want `>` as separator, you can use this:
 
-Note that depending on how they are used, badges may be confusing for users of screen readers and similar assistive technologies. While the styling of badges provides a visual cue as to their purpose, these users will simply be presented with the content of the badge. Depending on the specific situation, these badges may seem like random additional words or numbers at the end of a sentence, link, or button.
+'''scss
+$breadcrumb-divider: quote(">");
+'''
 
-Unless the context is clear (as with the "Notifications" example, where it is understood that the "4" is the number of notifications), consider including additional context with a visually hidden piece of additional text.
+It's also possible to use an **embedded SVG icon**:
 
-{{< example >}}
-<button type="button" class="btn btn-primary">
-  Profile <span class="badge bg-secondary">9</span>
-  <span class="sr-only">unread messages</span>
-</button>
-{{< /example >}}
+'''scss
+$breadcrumb-divider: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='currentColor'/%3E%3C/svg%3E");
+'''
 
-## Background colors
+The separator can be removed by setting `$breadcrumb-divider` to `none`:
 
-Use our background utility classes to quickly change the appearance of a badge. Please note that when using Bootstrap's default `.bg-light`, you'll likely need a text color utility like `.text-dark` for proper styling. This is because background utilities do not set anything but `background-color`.
-
-{{< example >}}
-{{< badge.inline >}}
-{{- range (index $.Site.Data "theme-colors") }}
-<span class="badge bg-{{ .name }}{{ if or (eq .name "light") (eq .name "warning") }} text-dark{{ end }}">{{ .name | title }}</span>{{- end -}}
-{{< /badge.inline >}}
-{{< /example >}}
-
-{{< callout info >}}
-{{< partial "callout-warning-color-assistive-technologies.md" >}}
-{{< /callout >}}
-
-## Pill badges
-
-Use the `.rounded-pill` utility class to make badges more rounded with a larger `border-radius`.
-
-{{< example >}}
-{{< badge.inline >}}
-{{- range (index $.Site.Data "theme-colors") }}
-<span class="badge rounded-pill bg-{{ .name }}{{ if or (eq .name "light") (eq .name "warning") }} text-dark{{ end }}">{{ .name | title }}</span>{{- end -}}
-{{< /badge.inline >}}
-{{< /example >}}
-```
-## _site_content_docs_4_3_components_tooltips_md
-```---
-layout: docs
-title: Tooltips
-description: Documentation and examples for adding custom Bootstrap tooltips with CSS and JavaScript using CSS3 for animations and data-attributes for local title storage.
-group: components
-toc: true
----
-
-## Overview
-
-Things to know when using the tooltip plugin:
-
-- Tooltips rely on the 3rd party library [Popper.js](https://popper.js.org/) for positioning. You must include [popper.min.js]({{< param "cdn.popper" >}}) before bootstrap.js or use `bootstrap.bundle.min.js` / `bootstrap.bundle.js` which contains Popper.js in order for tooltips to work!
-- Tooltips are opt-in for performance reasons, so **you must initialize them yourself**.
-- Tooltips with zero-length titles are never displayed.
-- Specify `container: 'body'` to avoid rendering problems in more complex components (like our input groups, button groups, etc).
-- Triggering tooltips on hidden elements will not work.
-- Tooltips for `.disabled` or `disabled` elements must be triggered on a wrapper element.
-- When triggered from hyperlinks that span multiple lines, tooltips will be centered. Use `white-space: nowrap;` on your `<a>`s to avoid this behavior.
-- Tooltips must be hidden before their corresponding elements have been removed from the DOM.
-- Tooltips can be triggered thanks to an element inside a shadow DOM.
-
-{{< callout info >}}
-{{< partial "callout-info-prefersreducedmotion.md" >}}
-{{< /callout >}}
-
-Got all that? Great, let's see how they work with some examples.
-
-## Example: Enable tooltips everywhere
-
-One way to initialize all tooltips on a page would be to select them by their `data-toggle` attribute:
-
-{{< highlight js >}}
-var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-toggle="tooltip"]'))
-var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
-  return new bootstrap.Tooltip(tooltipTriggerEl)
-})
-{{< /highlight >}}
-
-## Examples
-
-Hover over the links below to see tooltips:
-
-<div class="bd-example tooltip-demo">
-  <p class="muted">Tight pants next level keffiyeh <a href="#" data-toggle="tooltip" title="Default tooltip">you probably</a> haven't heard of them. Photo booth beard raw denim letterpress vegan messenger bag stumptown. Farm-to-table seitan, mcsweeney's fixie sustainable quinoa 8-bit american apparel <a href="#" data-toggle="tooltip" title="Another tooltip">have a</a> terry richardson vinyl chambray. Beard stumptown, cardigans banh mi lomo thundercats. Tofu biodiesel williamsburg marfa, four loko mcsweeney's cleanse vegan chambray. A really ironic artisan <a href="#" data-toggle="tooltip" title="Another one here too">whatever keytar</a>, scenester farm-to-table banksy Austin <a href="#" data-toggle="tooltip" title="The last tip!">twitter handle</a> freegan cred raw denim single-origin coffee viral.
-  </p>
-</div>
-
-Hover over the buttons below to see the four tooltips directions: top, right, bottom, and left.
-
-<div class="bd-example tooltip-demo">
-  <div class="bd-example-tooltips">
-    <button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="top" title="Tooltip on top">Tooltip on top</button>
-    <button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="right" title="Tooltip on right">Tooltip on right</button>
-    <button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="bottom" title="Tooltip on bottom">Tooltip on bottom</button>
-    <button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="left" title="Tooltip on left">Tooltip on left</button>
-    <button type="button" class="btn btn-secondary" data-toggle="tooltip" data-html="true" title="<em>Tooltip</em> <u>with</u> <b>HTML</b>">Tooltip with HTML</button>
-  </div>
-</div>
-
-{{< highlight html >}}
-<button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="top" title="Tooltip on top">
-  Tooltip on top
-</button>
-<button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="right" title="Tooltip on right">
-  Tooltip on right
-</button>
-<button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="bottom" title="Tooltip on bottom">
-  Tooltip on bottom
-</button>
-<button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="left" title="Tooltip on left">
-  Tooltip on left
-</button>
-{{< /highlight >}}
-
-And with custom HTML added:
-
-{{< highlight html >}}
-<button type="button" class="btn btn-secondary" data-toggle="tooltip" data-html="true" title="<em>Tooltip</em> <u>with</u> <b>HTML</b>">
-  Tooltip with HTML
-</button>
-{{< /highlight >}}
-
-## Usage
-
-The tooltip plugin generates content and markup on demand, and by default places tooltips after their trigger element.
-
-Trigger the tooltip via JavaScript:
-
-{{< highlight js >}}
-var exampleEl = document.getElementById('example')
-var tooltip = new bootstrap.Tooltip(exampleEl, options)
-{{< /highlight >}}
-
-{{< callout warning >}}
-##### Overflow `auto` and `scroll`
-
-Tooltip position attempts to automatically change when a parent container has `overflow: auto` or `overflow: scroll` like our `.table-responsive`, but still keeps the original placement's positioning. To resolve, set the `boundary` option to anything other than default value, `'scrollParent'`, such as `'window'`:
-
-{{< highlight js >}}
-var exampleEl = document.getElementById('example')
-var tooltip = new bootstrap.Tooltip(exampleEl, {
-  boundary: 'window'
-})
-{{< /highlight >}}
-{{< /callout >}}
-
-### Markup
-
-The required markup for a tooltip is only a `data` attribute and `title` on the HTML element you wish to have a tooltip. The generated markup of a tooltip is rather simple, though it does require a position (by default, set to `top` by the plugin).
-
-{{< callout warning >}}
-##### Making tooltips work for keyboard and assistive technology users
-
-You should only add tooltips to HTML elements that are traditionally keyboard-focusable and interactive (such as links or form controls). Although arbitrary HTML elements (such as `<span>`s) can be made focusable by adding the `tabindex="0"` attribute, this will add potentially annoying and confusing tab stops on non-interactive elements for keyboard users, and most assistive technologies currently do not announce the tooltip in this situation. Additionally, do not rely solely on `hover` as the trigger for your tooltip, as this will make your tooltips impossible to trigger for keyboard users.
-{{< /callout >}}
-
-{{< highlight html >}}
-<!-- HTML to write -->
-<a href="#" data-toggle="tooltip" title="Some tooltip text!">Hover over me</a>
-
-<!-- Generated markup by the plugin -->
-<div class="tooltip bs-tooltip-top" role="tooltip">
-  <div class="tooltip-arrow"></div>
-  <div class="tooltip-inner">
-    Some tooltip text!
-  </div>
-</div>
-{{< /highlight >}}
-
-### Disabled elements
-
-Elements with the `disabled` attribute aren't interactive, meaning users cannot focus, hover, or click them to trigger a tooltip (or popover). As a workaround, you'll want to trigger the tooltip from a wrapper `<div>` or `<span>`, ideally made keyboard-focusable using `tabindex="0"`, and override the `pointer-events` on the disabled element.
-
-<div class="tooltip-demo">
-{{< example >}}
-<span class="d-inline-block" tabindex="0" data-toggle="tooltip" title="Disabled tooltip">
-  <button class="btn btn-primary" style="pointer-events: none;" type="button" disabled>Disabled button</button>
-</span>
-{{< /example >}}
-</div>
-
-### Options
-
-Options can be passed via data attributes or JavaScript. For data attributes, append the option name to `data-`, as in `data-animation=""`.
-
-{{< callout warning >}}
-Note that for security reasons the `sanitize`, `sanitizeFn` and `whiteList` options cannot be supplied using data attributes.
-{{< /callout >}}
-
-<table class="table">
-  <thead>
-    <tr>
-      <th style="width: 100px;">Name</th>
-      <th style="width: 100px;">Type</th>
-      <th style="width: 50px;">Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>animation</td>
-      <td>boolean</td>
-      <td>true</td>
-      <td>Apply a CSS fade transition to the tooltip</td>
-    </tr>
-    <tr>
-      <td>container</td>
-      <td>string | element | false</td>
-      <td>false</td>
-      <td>
-        <p>Appends the tooltip to a specific element. Example: <code>container: 'body'</code>. This option is particularly useful in that it allows you to position the tooltip in the flow of the document near the triggering element - which will prevent the tooltip from floating away from the triggering element during a window resize.</p>
-      </td>
-    </tr>
-    <tr>
-      <td>delay</td>
-      <td>number | object</td>
-      <td>0</td>
-      <td>
-        <p>Delay showing and hiding the tooltip (ms) - does not apply to manual trigger type</p>
-        <p>If a number is supplied, delay is applied to both hide/show</p>
-        <p>Object structure is: <code>delay: { "show": 500, "hide": 100 }</code></p>
-      </td>
-    </tr>
-    <tr>
-      <td>html</td>
-      <td>boolean</td>
-      <td>false</td>
-      <td>
-        <p>Allow HTML in the tooltip.</p>
-        <p>If true, HTML tags in the tooltip's <code>title</code> will be rendered in the tooltip. If false, <code>innerText</code> property will be used to insert content into the DOM.</p>
-        <p>Use text if you're worried about XSS attacks.</p>
-      </td>
-    </tr>
-    <tr>
-      <td>placement</td>
-      <td>string | function</td>
-      <td>'top'</td>
-      <td>
-        <p>How to position the tooltip - auto | top | bottom | left | right.<br>When <code>auto</code> is specified, it will dynamically reorient the tooltip.</p>
-        <p>When a function is used to determine the placement, it is called with the tooltip DOM node as its first argument and the triggering element DOM node as its second. The <code>this</code> context is set to the tooltip instance.</p>
-      </td>
-    </tr>
-    <tr>
-      <td>selector</td>
-      <td>string | false</td>
-      <td>false</td>
-      <td>If a selector is provided, tooltip objects will be delegated to the specified targets. In practice, this is used to also apply tooltips to dynamically added DOM elements (<code>jQuery.on</code> support). See <a href="{{< param repo >}}/issues/4215">this</a> and <a href="https://codepen.io/Johann-S/pen/djJYPb">an informative example</a>.</td>
-    </tr>
-    <tr>
-      <td>template</td>
-      <td>string</td>
-      <td><code>'&lt;div class="tooltip" role="tooltip"&gt;&lt;div class="tooltip-arrow"&gt;&lt;/div&gt;&lt;div class="tooltip-inner"&gt;&lt;/div&gt;&lt;/div&gt;'</code></td>
-      <td>
-        <p>Base HTML to use when creating the tooltip.</p>
-        <p>The tooltip's <code>title</code> will be injected into the <code>.tooltip-inner</code>.</p>
-        <p><code>.tooltip-arrow</code> will become the tooltip's arrow.</p>
-        <p>The outermost wrapper element should have the <code>.tooltip</code> class and <code>role="tooltip"</code>.</p>
-      </td>
-    </tr>
-    <tr>
-      <td>title</td>
-      <td>string | element | function</td>
-      <td>''</td>
-      <td>
-        <p>Default title value if <code>title</code> attribute isn't present.</p>
-        <p>If a function is given, it will be called with its <code>this</code> reference set to the element that the tooltip is attached to.</p>
-      </td>
-    </tr>
-    <tr>
-      <td>trigger</td>
-      <td>string</td>
-      <td>'hover focus'</td>
-      <td>
-        <p>How tooltip is triggered - click | hover | focus | manual. You may pass multiple triggers; separate them with a space.</p>
-        <p><code>'manual'</code> indicates that the tooltip will be triggered programmatically via the <code>.tooltip('show')</code>, <code>.tooltip('hide')</code> and <code>.tooltip('toggle')</code> methods; this value cannot be combined with any other trigger.</p>
-        <p><code>'hover'</code> on its own will result in tooltips that cannot be triggered via the keyboard, and should only be used if alternative methods for conveying the same information for keyboard users is present.</p>
-      </td>
-    </tr>
-    <tr>
-      <td>offset</td>
-      <td>number | string | function</td>
-      <td>0</td>
-      <td>
-        <p>Offset of the tooltip relative to its target.</p>
-        <p>When a function is used to determine the offset, it is called with an object containing the offset data as its first argument. The function must return an object with the same structure. The triggering element DOM node is passed as the second argument.</p>
-        <p>For more information refer to Popper.js's <a href="https://popper.js.org/popper-documentation.html#modifiers..offset.offset">offset docs</a>.</p>
-      </td>
-    </tr>
-    <tr>
-      <td>fallbackPlacement</td>
-      <td>string | array</td>
-      <td>'flip'</td>
-      <td>Allow to specify which position Popper will use on fallback. For more information refer to
-      Popper.js's <a href="https://popper.js.org/popper-documentation.html#modifiers..flip.behavior">behavior docs</a></td>
-    </tr>
-    <tr>
-      <td>boundary</td>
-      <td>string | element</td>
-      <td>'scrollParent'</td>
-      <td>Overflow constraint boundary of the tooltip. Accepts the values of <code>'viewport'</code>, <code>'window'</code>, <code>'scrollParent'</code>, or an HTMLElement reference (JavaScript only). For more information refer to Popper.js's <a href="https://popper.js.org/popper-documentation.html#modifiers..preventOverflow.boundariesElement">preventOverflow docs</a>.</td>
-    </tr>
-    <tr>
-      <td>sanitize</td>
-      <td>boolean</td>
-      <td>true</td>
-      <td>Enable or disable the sanitization. If activated <code>'template'</code> and <code>'title'</code> options will be sanitized.</td>
-    </tr>
-    <tr>
-      <td>whiteList</td>
-      <td>object</td>
-      <td><a href="{{< docsref "/getting-started/javascript#sanitizer" >}}">Default value</a></td>
-      <td>Object which contains allowed attributes and tags</td>
-    </tr>
-    <tr>
-      <td>sanitizeFn</td>
-      <td>null | function</td>
-      <td>null</td>
-      <td>Here you can supply your own sanitize function. This can be useful if you prefer to use a dedicated library to perform sanitization.</td>
-    </tr>
-    <tr>
-      <td>popperConfig</td>
-      <td>null | object</td>
-      <td>null</td>
-      <td>To change Bootstrap's default Popper.js config, see <a href="https://popper.js.org/popper-documentation.html#Popper.Defaults">Popper.js's configuration</a></td>
-    </tr>
-  </tbody>
-</table>
-
-{{< callout info >}}
-#### Data attributes for individual tooltips
-
-Options for individual tooltips can alternatively be specified through the use of data attributes, as explained above.
-{{< /callout >}}
-
-### Methods
-
-{{< callout danger >}}
-{{< partial "callout-danger-async-methods.md" >}}
-{{< /callout >}}
-
-#### show
-
-Reveals an element's tooltip. **Returns to the caller before the tooltip has actually been shown** (i.e. before the `shown.bs.tooltip` event occurs). This is considered a "manual" triggering of the tooltip. Tooltips with zero-length titles are never displayed.
-
-{{< highlight js >}}tooltip.show(){{< /highlight >}}
-
-#### hide
-
-Hides an element's tooltip. **Returns to the caller before the tooltip has actually been hidden** (i.e. before the `hidden.bs.tooltip` event occurs). This is considered a "manual" triggering of the tooltip.
-
-{{< highlight js >}}tooltip.hide(){{< /highlight >}}
-
-#### toggle
-
-Toggles an element's tooltip. **Returns to the caller before the tooltip has actually been shown or hidden** (i.e. before the `shown.bs.tooltip` or `hidden.bs.tooltip` event occurs). This is considered a "manual" triggering of the tooltip.
-
-{{< highlight js >}}tooltip.toggle(){{< /highlight >}}
-
-#### dispose
-
-Hides and destroys an element's tooltip. Tooltips that use delegation (which are created using [the `selector` option](#options)) cannot be individually destroyed on descendant trigger elements.
-
-{{< highlight js >}}tooltip.dispose(){{< /highlight >}}
-
-#### enable
-
-Gives an element's tooltip the ability to be shown. **Tooltips are enabled by default.**
-
-{{< highlight js >}}tooltip.enable(){{< /highlight >}}
-
-#### disable
-
-Removes the ability for an element's tooltip to be shown. The tooltip will only be able to be shown if it is re-enabled.
-
-{{< highlight js >}}tooltip.disable(){{< /highlight >}}
-
-#### toggleEnabled
-
-Toggles the ability for an element's tooltip to be shown or hidden.
-
-{{< highlight js >}}tooltip.toggleEnabled(){{< /highlight >}}
-
-#### update
-
-Updates the position of an element's tooltip.
-
-{{< highlight js >}}tooltip.update(){{< /highlight >}}
-
-### Events
-
-<table class="table">
-  <thead>
-    <tr>
-      <th style="width: 150px;">Event type</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>show.bs.tooltip</td>
-      <td>This event fires immediately when the <code>show</code> instance method is called.</td>
-    </tr>
-    <tr>
-      <td>shown.bs.tooltip</td>
-      <td>This event is fired when the tooltip has been made visible to the user (will wait for CSS transitions to complete).</td>
-    </tr>
-    <tr>
-      <td>hide.bs.tooltip</td>
-      <td>This event is fired immediately when the <code>hide</code> instance method has been called.</td>
-    </tr>
-    <tr>
-      <td>hidden.bs.tooltip</td>
-      <td>This event is fired when the tooltip has finished being hidden from the user (will wait for CSS transitions to complete).</td>
-    </tr>
-    <tr>
-      <td>inserted.bs.tooltip</td>
-      <td>This event is fired after the <code>show.bs.tooltip</code> event when the tooltip template has been added to the DOM.</td>
-    </tr>
-  </tbody>
-</table>
-
-{{< highlight js >}}
-var myTooltipEl = document.getElementById('myTooltip')
-var tooltip = new bootstrap.Tooltip(myTooltipEl)
-
-myTooltipEl.addEventListener('hidden.bs.tooltip', function () {
-  // do something...
-})
-
-tooltip.hide()
-{{< /highlight >}}
-```
-## _site_content_docs_4_3_components_toasts_md
-```---
-layout: docs
-title: Toasts
-description: Push notifications to your visitors with a toast, a lightweight and easily customizable alert message.
-group: components
-toc: true
----
-
-Toasts are lightweight notifications designed to mimic the push notifications that have been popularized by mobile and desktop operating systems. They're built with flexbox, so they're easy to align and position.
-
-## Overview
-
-Things to know when using the toast plugin:
-
-- Toasts are opt-in for performance reasons, so **you must initialize them yourself**.
-- **Please note that you are responsible for positioning toasts.**
-- Toasts will automatically hide if you do not specify `autohide: false`.
-
-{{< callout info >}}
-{{< partial "callout-info-prefersreducedmotion.md" >}}
-{{< /callout >}}
-
-## Examples
-
-### Basic
-
-To encourage extensible and predictable toasts, we recommend a header and body. Toast headers use `display: flex`, allowing easy alignment of content thanks to our margin and flexbox utilities.
-
-Toasts are as flexible as you need and have very little required markup. At a minimum, we require a single element to contain your "toasted" content and strongly encourage a dismiss button.
-
-{{< example class="bg-light" >}}
-<div class="toast" role="alert" aria-live="assertive" aria-atomic="true">
-  <div class="toast-header">
-    {{< placeholder width="20" height="20" background="#007aff" class="rounded mr-2" text="false" title="false" >}}
-    <strong class="mr-auto">Bootstrap</strong>
-    <small>11 mins ago</small>
-    <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close">
-      <span aria-hidden="true">&times;</span>
-    </button>
-  </div>
-  <div class="toast-body">
-    Hello, world! This is a toast message.
-  </div>
-</div>
-{{< /example >}}
-
-### Translucent
-
-Toasts are slightly translucent, too, so they blend over whatever they might appear over. For browsers that support the `backdrop-filter` CSS property, we'll also attempt to blur the elements under a toast.
-
-{{< example class="bg-dark" >}}
-<div class="toast" role="alert" aria-live="assertive" aria-atomic="true">
-  <div class="toast-header">
-    {{< placeholder width="20" height="20" background="#007aff" class="rounded mr-2" text="false" title="false" >}}
-    <strong class="mr-auto">Bootstrap</strong>
-    <small class="text-muted">11 mins ago</small>
-    <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close">
-      <span aria-hidden="true">&times;</span>
-    </button>
-  </div>
-  <div class="toast-body">
-    Hello, world! This is a toast message.
-  </div>
-</div>
-{{< /example >}}
-
-### Stacking
-
-When you have multiple toasts, we default to vertically stacking them in a readable manner.
-
-{{< example class="bg-light" >}}
-<div class="toast" role="alert" aria-live="assertive" aria-atomic="true">
-  <div class="toast-header">
-    {{< placeholder width="20" height="20" background="#007aff" class="rounded mr-2" text="false" title="false" >}}
-    <strong class="mr-auto">Bootstrap</strong>
-    <small class="text-muted">just now</small>
-    <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close">
-      <span aria-hidden="true">&times;</span>
-    </button>
-  </div>
-  <div class="toast-body">
-    See? Just like this.
-  </div>
-</div>
-
-<div class="toast" role="alert" aria-live="assertive" aria-atomic="true">
-  <div class="toast-header">
-    {{< placeholder width="20" height="20" background="#007aff" class="rounded mr-2" text="false" title="false" >}}
-    <strong class="mr-auto">Bootstrap</strong>
-    <small class="text-muted">2 seconds ago</small>
-    <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close">
-      <span aria-hidden="true">&times;</span>
-    </button>
-  </div>
-  <div class="toast-body">
-    Heads up, toasts will stack automatically
-  </div>
-</div>
-{{< /example >}}
-
-## Placement
-
-Place toasts with custom CSS as you need them. The top right is often used for notifications, as is the top middle. If you're only ever going to show one toast at a time, put the positioning styles right on the `.toast`.
-
-{{< example class="bg-dark" >}}
-<div aria-live="polite" aria-atomic="true" style="position: relative; min-height: 200px;">
-  <div class="toast" style="position: absolute; top: 0; right: 0;">
-    <div class="toast-header">
-      {{< placeholder width="20" height="20" background="#007aff" class="rounded mr-2" text="false" title="false" >}}
-      <strong class="mr-auto">Bootstrap</strong>
-      <small>11 mins ago</small>
-      <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close">
-        <span aria-hidden="true">&times;</span>
-      </button>
-    </div>
-    <div class="toast-body">
-      Hello, world! This is a toast message.
-    </div>
-  </div>
-</div>
-{{< /example >}}
-
-For systems that generate more notifications, consider using a wrapping element so they can easily stack.
-
-{{< example class="bg-dark" >}}
-<div aria-live="polite" aria-atomic="true" style="position: relative; min-height: 200px;">
-  <!-- Position it -->
-  <div style="position: absolute; top: 0; right: 0;">
-
-    <!-- Then put toasts within -->
-    <div class="toast" role="alert" aria-live="assertive" aria-atomic="true">
-      <div class="toast-header">
-        {{< placeholder width="20" height="20" background="#007aff" class="rounded mr-2" text="false" title="false" >}}
-        <strong class="mr-auto">Bootstrap</strong>
-        <small class="text-muted">just now</small>
-        <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="toast-body">
-        See? Just like this.
-      </div>
-    </div>
-
-    <div class="toast" role="alert" aria-live="assertive" aria-atomic="true">
-      <div class="toast-header">
-        {{< placeholder width="20" height="20" background="#007aff" class="rounded mr-2" text="false" title="false" >}}
-        <strong class="mr-auto">Bootstrap</strong>
-        <small class="text-muted">2 seconds ago</small>
-        <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="toast-body">
-        Heads up, toasts will stack automatically
-      </div>
-    </div>
-  </div>
-</div>
-{{< /example >}}
-
-You can also get fancy with flexbox utilities to align toasts horizontally and/or vertically.
-
-{{< example class="bg-dark" >}}
-<!-- Flexbox container for aligning the toasts -->
-<div aria-live="polite" aria-atomic="true" class="d-flex justify-content-center align-items-center" style="min-height: 200px;">
-
-  <!-- Then put toasts within -->
-  <div class="toast" role="alert" aria-live="assertive" aria-atomic="true">
-    <div class="toast-header">
-      {{< placeholder width="20" height="20" background="#007aff" class="rounded mr-2" text="false" title="false" >}}
-      <strong class="mr-auto">Bootstrap</strong>
-      <small>11 mins ago</small>
-      <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close">
-        <span aria-hidden="true">&times;</span>
-      </button>
-    </div>
-    <div class="toast-body">
-      Hello, world! This is a toast message.
-    </div>
-  </div>
-</div>
-{{< /example >}}
+'''scss
+$breadcrumb-divider: none;
+'''
 
 ## Accessibility
 
-Toasts are intended to be small interruptions to your visitors or users, so to help those with screen readers and similar assistive technologies, you should wrap your toasts in an [`aria-live` region](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Live_Regions). Changes to live regions (such as injecting/updating a toast component) are automatically announced by screen readers without needing to move the user's focus or otherwise interrupt the user. Additionally, include `aria-atomic="true"` to ensure that the entire toast is always announced as a single (atomic) unit, rather than announcing what was changed (which could lead to problems if you only update part of the toast's content, or if displaying the same toast content at a later point in time). If the information needed is important for the process, e.g. for a list of errors in a form, then use the [alert component]({{< docsref "/components/alerts" >}}) instead of toast.
+Since breadcrumbs provide a navigation, it's a good idea to add a meaningful label such as `aria-label="breadcrumb"` to describe the type of navigation provided in the `<nav>` element, as well as applying an `aria-current="page"` to the last item of the set to indicate that it represents the current page.
 
-Note that the live region needs to be present in the markup *before* the toast is generated or updated. If you dynamically generate both at the same time and inject them into the page, they will generally not be announced by assistive technologies.
+For more information, see the [WAI-ARIA Authoring Practices for the breadcrumb pattern](https://www.w3.org/TR/wai-aria-practices/#breadcrumb).
+```
+## _site_content_docs_4_3_helpers_clearfix_md
+```---
+layout: docs
+title: Clearfix
+description: Quickly and easily clear floated content within a container by adding a clearfix utility.
+group: helpers
+aliases: "/docs/4.3/helpers/"
+---
 
-You also need to adapt the `role` and `aria-live` level depending on the content. If it's an important message like an error, use `role="alert" aria-live="assertive"`, otherwise use `role="status" aria-live="polite"` attributes.
-
-As the content you're displaying changes, be sure to update the [`delay` timeout](#options) to ensure people have enough time to read the toast.
+Easily clear `float`s by adding `.clearfix` **to the parent element**. Can also be used as a mixin.
 
 {{< highlight html >}}
-<div class="toast" role="alert" aria-live="polite" aria-atomic="true" data-delay="10000">
-  <div role="alert" aria-live="assertive" aria-atomic="true">...</div>
-</div>
+<div class="clearfix">...</div>
 {{< /highlight >}}
 
-When using `autohide: false`, you must add a close button to allow users to dismiss the toast.
+{{< highlight scss >}}
+// Mixin itself
+@mixin clearfix() {
+  &::after {
+    display: block;
+    content: "";
+    clear: both;
+  }
+}
 
-{{< example class="bg-light" >}}
-<div role="alert" aria-live="assertive" aria-atomic="true" class="toast" data-autohide="false">
-  <div class="toast-header">
-    {{< placeholder width="20" height="20" background="#007aff" class="rounded mr-2" text="false" title="false" >}}
-    <strong class="mr-auto">Bootstrap</strong>
-    <small>11 mins ago</small>
-    <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close">
-      <span aria-hidden="true">&times;</span>
-    </button>
-  </div>
-  <div class="toast-body">
-    Hello, world! This is a toast message.
-  </div>
+// Usage as a mixin
+.element {
+  @include clearfix;
+}
+{{< /highlight >}}
+
+The following example shows how the clearfix can be used. Without the clearfix the wrapping div would not span around the buttons which would cause a broken layout.
+
+{{< example >}}
+<div class="bg-info clearfix">
+  <button type="button" class="btn btn-secondary float-left">Example Button floated left</button>
+  <button type="button" class="btn btn-secondary float-right">Example Button floated right</button>
 </div>
 {{< /example >}}
+```
+## _site_layouts_partials_callout_info_prefersreducedmotion_md
+```The animation effect of this component is dependent on the `prefers-reduced-motion` media query. See the [reduced motion section of our accessibility documentation](/docs/{{ .Site.Params.docs_version }}/getting-started/accessibility/#reduced-motion).
+```
+## _site_content_docs_4_3_getting_started_build_tools_md
+```---
+layout: docs
+title: Build tools
+description: Learn how to use Bootstrap's included npm scripts to build our documentation, compile source code, run tests, and more.
+group: getting-started
+toc: true
+---
 
-## JavaScript behavior
+## Tooling setup
 
-### Usage
+Bootstrap uses [npm scripts](https://docs.npmjs.com/misc/scripts) for its build system. Our [package.json]({{< param repo >}}/blob/v{{< param current_version >}}/package.json) includes convenient methods for working with the framework, including compiling code, running tests, and more.
 
-Initialize toasts via JavaScript:
+To use our build system and run our documentation locally, you'll need a copy of Bootstrap's source files and Node. Follow these steps and you should be ready to rock:
 
-{{< highlight js >}}
-var toastElList = [].slice.call(document.querySelectorAll('.toast'))
-var toastList = toastElList.map(function (toastEl) {
-  return new bootstrap.Toast(toastEl, option)
-})
-{{< /highlight >}}
+1. [Download and install Node.js](https://nodejs.org/en/download/), which we use to manage our dependencies.
+2. Navigate to the root `/bootstrap` directory and run `npm install` to install our local dependencies listed in [package.json]({{< param repo >}}/blob/v{{< param current_version >}}/package.json).
 
-### Options
+When completed, you'll be able to run the various commands provided from the command line.
 
-Options can be passed via data attributes or JavaScript. For data attributes, append the option name to `data-`, as in `data-animation=""`.
+## Using npm scripts
+
+Our [package.json]({{< param repo >}}/blob/v{{< param current_version >}}/package.json) includes numerous tasks for developing the project. Run `npm run` to see all the npm scripts in your terminal. **Primary tasks include:**
 
 <table class="table">
   <thead>
     <tr>
-      <th style="width: 100px;">Name</th>
-      <th style="width: 100px;">Type</th>
-      <th style="width: 50px;">Default</th>
+      <th>Task</th>
       <th>Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>animation</td>
-      <td>boolean</td>
-      <td>true</td>
-      <td>Apply a CSS fade transition to the toast</td>
-    </tr>
-    <tr>
-      <td>autohide</td>
-      <td>boolean</td>
-      <td>true</td>
-      <td>Auto hide the toast</td>
-    </tr>
-    <tr>
-      <td>delay</td>
-      <td>number</td>
       <td>
-        <code>500</code>
+        <code>npm start</code>
       </td>
-      <td>Delay hiding the toast (ms)</td>
+      <td>
+        Compiles CSS and JavaScript, builds the documentation, and starts a local server.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <code>npm run dist</code>
+      </td>
+      <td>
+       Creates the <code>dist/</code> directory with compiled files. Requires <a href="https://sass-lang.com/">Sass</a>, <a href="https://github.com/postcss/autoprefixer">Autoprefixer</a>, and <a href="https://github.com/terser/terser">terser</a>.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <code>npm test</code>
+      </td>
+      <td>
+        Runs tests locally after running <code>npm run dist</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <code>npm run docs-serve</code>
+      </td>
+      <td>
+        Builds and runs the documentation locally.
+      </td>
     </tr>
   </tbody>
 </table>
 
-### Methods
+## Autoprefixer
 
-{{< callout danger >}}
-{{< partial "callout-danger-async-methods.md" >}}
+Bootstrap uses [Autoprefixer][autoprefixer] (included in our build process) to automatically add vendor prefixes to some CSS properties at build time. Doing so saves us time and code by allowing us to write key parts of our CSS a single time while eliminating the need for vendor mixins like those found in v3.
+
+We maintain the list of browsers supported through Autoprefixer in a separate file within our GitHub repository. See [.browserslistrc]({{< param repo >}}/blob/v{{< param current_version >}}/.browserslistrc) for details.
+
+## Local documentation
+
+Running our documentation locally requires the use of Hugo, which gets installed via the [hugo-bin](https://www.npmjs.com/package/hugo-bin) npm package. Hugo is a blazingly fast and quite extensible static site generator that provides us: basic includes, Markdown-based files, templates, and more. Here's how to get it started:
+
+1. Run through the [tooling setup](#tooling-setup) above to install all dependencies.
+2. From the root `/bootstrap` directory, run `npm run docs-serve` in the command line.
+3. Open `http://localhost:9001/` in your browser, and voilà.
+
+Learn more about using Hugo by reading its [documentation](https://gohugo.io/documentation/).
+
+## Troubleshooting
+
+Should you encounter problems with installing dependencies, uninstall all previous dependency versions (global and local). Then, rerun `npm install`.
+
+[autoprefixer]: https://github.com/postcss/autoprefixer
+```
+## _site_content_docs_4_3_layout_overview_md
+```---
+layout: docs
+title: Overview
+description: Components and options for laying out your Bootstrap project, including wrapping containers, a powerful grid system, and responsive utility classes.
+group: layout
+aliases: "/docs/4.3/layout/"
+toc: true
+---
+
+## Containers
+
+Containers are the most basic layout element in Bootstrap and are **required when using our default grid system**. Containers are used to contain, pad, and (sometimes) center the content within them. While containers *can* be nested, most layouts do not require a nested container.
+
+Bootstrap comes with three different containers:
+
+- `.container`, which sets a `max-width` at each responsive breakpoint
+- `.container-fluid`, which is `width: 100%` at all breakpoints
+- `.container-{breakpoint}`, which is `width: 100%` until the specified breakpoint
+
+The table below illustrates how each container's `max-width` compares to the original `.container` and `.container-fluid` across each breakpoint.
+
+See them in action and compare them in our [Grid example]({{< docsref "/examples/grid#containers" >}}).
+
+<table class="table text-left">
+  <thead>
+    <tr>
+      <th></th>
+      <th>
+        Extra small<br>
+        <span class="font-weight-normal">&lt;576px</span>
+      </th>
+      <th>
+        Small<br>
+        <span class="font-weight-normal">&ge;576px</span>
+      </th>
+      <th>
+        Medium<br>
+        <span class="font-weight-normal">&ge;768px</span>
+      </th>
+      <th>
+        Large<br>
+        <span class="font-weight-normal">&ge;992px</span>
+      </th>
+      <th>
+        Extra large<br>
+        <span class="font-weight-normal">&ge;1200px</span>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>.container</code></td>
+      <td class="text-muted">100%</td>
+      <td>540px</td>
+      <td>720px</td>
+      <td>960px</td>
+      <td>1140px</td>
+    </tr>
+    <tr>
+      <td><code>.container-sm</code></td>
+      <td class="text-muted">100%</td>
+      <td>540px</td>
+      <td>720px</td>
+      <td>960px</td>
+      <td>1140px</td>
+    </tr>
+    <tr>
+      <td><code>.container-md</code></td>
+      <td class="text-muted">100%</td>
+      <td class="text-muted">100%</td>
+      <td>720px</td>
+      <td>960px</td>
+      <td>1140px</td>
+    </tr>
+    <tr>
+      <td><code>.container-lg</code></td>
+      <td class="text-muted">100%</td>
+      <td class="text-muted">100%</td>
+      <td class="text-muted">100%</td>
+      <td>960px</td>
+      <td>1140px</td>
+    </tr>
+    <tr>
+      <td><code>.container-xl</code></td>
+      <td class="text-muted">100%</td>
+      <td class="text-muted">100%</td>
+      <td class="text-muted">100%</td>
+      <td class="text-muted">100%</td>
+      <td>1140px</td>
+    </tr>
+    <tr>
+      <td><code>.container-fluid</code></td>
+      <td class="text-muted">100%</td>
+      <td class="text-muted">100%</td>
+      <td class="text-muted">100%</td>
+      <td class="text-muted">100%</td>
+      <td class="text-muted">100%</td>
+    </tr>
+  </tbody>
+</table>
+
+### All-in-one
+
+Our default `.container` class is a responsive, fixed-width container, meaning its `max-width` changes at each breakpoint.
+
+{{< highlight html >}}
+<div class="container">
+  <!-- Content here -->
+</div>
+{{< /highlight >}}
+
+### Fluid
+
+Use `.container-fluid` for a full width container, spanning the entire width of the viewport.
+
+{{< highlight html >}}
+<div class="container-fluid">
+  ...
+</div>
+{{< /highlight >}}
+
+### Responsive
+
+Responsive containers are new in Bootstrap v4.4. They allow you to specify a class that is 100% wide until the specified breakpoint is reached, after which we apply `max-width`s for each of the higher breakpoints. For example, `.container-sm` is 100% wide to start until the `sm` breakpoint is reached, where it will scale up with `md`, `lg`, and `xl`.
+
+{{< highlight html >}}
+<div class="container-sm">100% wide until small breakpoint</div>
+<div class="container-md">100% wide until medium breakpoint</div>
+<div class="container-lg">100% wide until large breakpoint</div>
+<div class="container-xl">100% wide until extra large breakpoint</div>
+{{< /highlight >}}
+
+## Responsive breakpoints
+
+Since Bootstrap is developed to be mobile first, we use a handful of [media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries) to create sensible breakpoints for our layouts and interfaces. These breakpoints are mostly based on minimum viewport widths and allow us to scale up elements as the viewport changes.
+
+Bootstrap primarily uses the following media query ranges—or breakpoints—in our source Sass files for our layout, grid system, and components.
+
+{{< highlight scss >}}
+// Extra small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+{{< /highlight >}}
+
+Since we write our source CSS in Sass, all our media queries are available via Sass mixins:
+
+{{< highlight scss >}}
+// No media query necessary for xs breakpoint as it's effectively `@media (min-width: 0) { ... }`
+@include media-breakpoint-up(sm) { ... }
+@include media-breakpoint-up(md) { ... }
+@include media-breakpoint-up(lg) { ... }
+@include media-breakpoint-up(xl) { ... }
+
+// Example: Hide starting at `min-width: 0`, and then show at the `sm` breakpoint
+.custom-class {
+  display: none;
+}
+@include media-breakpoint-up(sm) {
+  .custom-class {
+    display: block;
+  }
+}
+{{< /highlight >}}
+
+We occasionally use media queries that go in the other direction (the given screen size *or smaller*):
+
+{{< highlight scss >}}
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) { ... }
+
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) { ... }
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991.98px) { ... }
+
+// Large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px) { ... }
+
+// Extra large devices (large desktops)
+// No media query since the extra-large breakpoint has no upper bound on its width
+{{< /highlight >}}
+
+{{< callout info >}}
+{{< partial "callout-info-mediaqueries-breakpoints.md" >}}
 {{< /callout >}}
 
-#### show
+Once again, these media queries are also available via Sass mixins:
 
-Reveals an element's toast. **Returns to the caller before the toast has actually been shown** (i.e. before the `shown.bs.toast` event occurs).
-You have to manually call this method, instead your toast won't show.
+{{< highlight scss >}}
+@include media-breakpoint-down(xs) { ... }
+@include media-breakpoint-down(sm) { ... }
+@include media-breakpoint-down(md) { ... }
+@include media-breakpoint-down(lg) { ... }
+// No media query necessary for xl breakpoint as it has no upper bound on its width
 
-{{< highlight js >}}toast.show(){{< /highlight >}}
-
-#### hide
-
-Hides an element's toast. **Returns to the caller before the toast has actually been hidden** (i.e. before the `hidden.bs.toast` event occurs). You have to manually call this method if you made `autohide` to `false`.
-
-{{< highlight js >}}toast.hide(){{< /highlight >}}
-
-#### dispose
-
-Hides an element's toast. Your toast will remain on the DOM but won't show anymore.
-
-{{< highlight js >}}toast.dispose(){{< /highlight >}}
-
-### Events
-
-<table class="table">
-  <thead>
-    <tr>
-      <th style="width: 150px;">Event type</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>show.bs.toast</td>
-      <td>This event fires immediately when the <code>show</code> instance method is called.</td>
-    </tr>
-    <tr>
-      <td>shown.bs.toast</td>
-      <td>This event is fired when the toast has been made visible to the user.</td>
-    </tr>
-    <tr>
-      <td>hide.bs.toast</td>
-      <td>This event is fired immediately when the <code>hide</code> instance method has been called.</td>
-    </tr>
-    <tr>
-      <td>hidden.bs.toast</td>
-      <td>This event is fired when the toast has finished being hidden from the user.</td>
-    </tr>
-  </tbody>
-</table>
-
-{{< highlight js >}}
-var myToastEl = document.getElementById('myToast')
-myToastEl.addEventListener('hidden.bs.toast', function () {
-  // do something...
-})
+// Example: Style from medium breakpoint and down
+@include media-breakpoint-down(md) {
+  .custom-class {
+    display: block;
+  }
+}
 {{< /highlight >}}
+
+There are also media queries and mixins for targeting a single segment of screen sizes using the minimum and maximum breakpoint widths.
+
+{{< highlight scss >}}
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) { ... }
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) and (max-width: 767.98px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) and (max-width: 991.98px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+{{< /highlight >}}
+
+These media queries are also available via Sass mixins:
+
+{{< highlight scss >}}
+@include media-breakpoint-only(xs) { ... }
+@include media-breakpoint-only(sm) { ... }
+@include media-breakpoint-only(md) { ... }
+@include media-breakpoint-only(lg) { ... }
+@include media-breakpoint-only(xl) { ... }
+{{< /highlight >}}
+
+Similarly, media queries may span multiple breakpoint widths:
+
+{{< highlight scss >}}
+// Example
+// Apply styles starting from medium devices and up to extra large devices
+@media (min-width: 768px) and (max-width: 1199.98px) { ... }
+{{< /highlight >}}
+
+The Sass mixin for targeting the same screen size range would be:
+
+{{< highlight scss >}}
+@include media-breakpoint-between(md, xl) { ... }
+{{< /highlight >}}
+
+## Z-index
+
+Several Bootstrap components utilize `z-index`, the CSS property that helps control layout by providing a third axis to arrange content. We utilize a default z-index scale in Bootstrap that's been designed to properly layer navigation, tooltips and popovers, modals, and more.
+
+These higher values start at an arbitrary number, high and specific enough to ideally avoid conflicts. We need a standard set of these across our layered components—tooltips, popovers, navbars, dropdowns, modals—so we can be reasonably consistent in the behaviors. There's no reason we couldn't have used `100`+ or `500`+.
+
+We don't encourage customization of these individual values; should you change one, you likely need to change them all.
+
+{{< highlight scss >}}
+$zindex-dropdown:          1000 !default;
+$zindex-sticky:            1020 !default;
+$zindex-fixed:             1030 !default;
+$zindex-modal-backdrop:    1040 !default;
+$zindex-modal:             1050 !default;
+$zindex-popover:           1060 !default;
+$zindex-tooltip:           1070 !default;
+{{< /highlight >}}
+
+To handle overlapping borders within components (e.g., buttons and inputs in input groups), we use low single digit `z-index` values of `1`, `2`, and `3` for default, hover, and active states. On hover/focus/active, we bring a particular element to the forefront with a higher `z-index` value to show their border over the sibling elements.
 ```
-## _site_content_docs_4_3_utilities_position_md
+## _site_content_docs_4_3_helpers_embed_md
 ```---
 layout: docs
-title: Position
-description: Use these shorthand utilities for quickly configuring the position of an element.
-group: utilities
+title: Embeds
+description: Create responsive video or slideshow embeds based on the width of the parent by creating an intrinsic ratio that scales on any device.
+group: helpers
 toc: true
 ---
 
-## Common values
+## About
 
-Quick positioning classes are available, though they are not responsive.
+Rules are directly applied to `<iframe>`, `<embed>`, `<video>`, and `<object>` elements; optionally use an explicit descendant class `.embed-responsive-item` when you want to match the styling for other attributes.
 
-{{< highlight html >}}
-<div class="position-static">...</div>
-<div class="position-relative">...</div>
-<div class="position-absolute">...</div>
-<div class="position-fixed">...</div>
-<div class="position-sticky">...</div>
-{{< /highlight >}}
-```
-## _site_content_docs_4_3_utilities_sizing_md
-```---
-layout: docs
-title: Sizing
-description: Easily make an element as wide or as tall with our width and height utilities.
-group: utilities
-toc: true
----
+**Pro-Tip!** You don't need to include `frameborder="0"` in your `<iframe>`s as we override that for you.
 
-## Relative to the parent
+## Example
 
-Width and height utilities are generated from the `$sizes` Sass map in `_variables.scss`. Includes support for `25%`, `50%`, `75%`, `100%`, and `auto` by default. Modify those values as you need to generate different utilities here.
+Wrap any embed like an `<iframe>` in a parent element with `.embed-responsive` and an aspect ratio. The `.embed-responsive-item` isn't strictly required, but we encourage it.
 
 {{< example >}}
-<div class="w-25 p-3" style="background-color: #eee;">Width 25%</div>
-<div class="w-50 p-3" style="background-color: #eee;">Width 50%</div>
-<div class="w-75 p-3" style="background-color: #eee;">Width 75%</div>
-<div class="w-100 p-3" style="background-color: #eee;">Width 100%</div>
-<div class="w-auto p-3" style="background-color: #eee;">Width auto</div>
-{{< /example >}}
-
-{{< example >}}
-<div style="height: 100px; background-color: rgba(255,0,0,0.1);">
-  <div class="h-25 d-inline-block" style="width: 120px; background-color: rgba(0,0,255,.1)">Height 25%</div>
-  <div class="h-50 d-inline-block" style="width: 120px; background-color: rgba(0,0,255,.1)">Height 50%</div>
-  <div class="h-75 d-inline-block" style="width: 120px; background-color: rgba(0,0,255,.1)">Height 75%</div>
-  <div class="h-100 d-inline-block" style="width: 120px; background-color: rgba(0,0,255,.1)">Height 100%</div>
-  <div class="h-auto d-inline-block" style="width: 120px; background-color: rgba(0,0,255,.1)">Height auto</div>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
 </div>
 {{< /example >}}
 
-You can also use `max-width: 100%;` and `max-height: 100%;` utilities as needed.
+## Aspect ratios
 
-{{< example >}}
-{{< placeholder width="100%" height="100" class="mw-100" text="Max-width 100%" >}}
-{{< /example >}}
-
-{{< example >}}
-<div style="height: 100px; background-color: rgba(255,0,0,.1);">
-  <div class="mh-100" style="width: 100px; height: 200px; background-color: rgba(0,0,255,.1);">Max-height 100%</div>
-</div>
-{{< /example >}}
-
-## Relative to the viewport
-
-You can also use utilities to set the width and height relative to the viewport.
+Aspect ratios can be customized with modifier classes. By default the following ratio classes are provided:
 
 {{< highlight html >}}
-<div class="min-vw-100">Min-width 100vw</div>
-<div class="min-vh-100">Min-height 100vh</div>
-<div class="vw-100">Width 100vw</div>
-<div class="vh-100">Height 100vh</div>
+<!-- 21:9 aspect ratio -->
+<div class="embed-responsive embed-responsive-21by9">
+  <iframe class="embed-responsive-item" src="..."></iframe>
+</div>
+
+<!-- 16:9 aspect ratio -->
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="..."></iframe>
+</div>
+
+<!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="..."></iframe>
+</div>
+
+<!-- 1:1 aspect ratio -->
+<div class="embed-responsive embed-responsive-1by1">
+  <iframe class="embed-responsive-item" src="..."></iframe>
+</div>
+{{< /highlight >}}
+
+Within `_variables.scss`, you can change the aspect ratios you want to use. Here's an example of the `$embed-responsive-aspect-ratios` map:
+
+{{< highlight scss >}}
+$embed-responsive-aspect-ratios: (
+  "21by9": (
+    x: 21,
+    y: 9
+  ),
+  "16by9": (
+    x: 16,
+    y: 9
+  ),
+  "4by3": (
+    x: 4,
+    y: 3
+  ),
+  "1by1": (
+    x: 1,
+    y: 1
+  )
+);
 {{< /highlight >}}
 ```
-## _site_layouts_partials_callout_danger_async_methods_md
-```#### Asynchronous methods and transitions
+## _SECURITY_md
+```# Reporting Security Issues
 
-All API methods are **asynchronous** and start a **transition**. They return to the caller as soon as the transition is started but **before it ends**. In addition, a method call on a **transitioning component will be ignored**.
+The Bootstrap team and community take security issues in Bootstrap seriously. We appreciate your efforts to responsibly disclose your findings, and will make every effort to acknowledge your contributions.
 
-[See our JavaScript documentation for more information](/docs/{{ .Site.Params.docs_version }}/getting-started/javascript/).
-```
-## _site_content_docs_4_3_utilities_display_md
-```---
-layout: docs
-title: Display property
-description: Quickly and responsively toggle the display value of components and more with our display utilities. Includes support for some of the more common values, as well as some extras for controlling display when printing.
-group: utilities
-toc: true
----
+To report a security issue, email [security@getbootstrap.com](mailto:security@getbootstrap.com) and include the word "SECURITY" in the subject line.
 
-## How it works
-
-Change the value of the [`display` property](https://developer.mozilla.org/en-US/docs/Web/CSS/display) with our responsive display utility classes. We purposely support only a subset of all possible values for `display`. Classes can be combined for various effects as you need.
-
-## Notation
-
-Display utility classes that apply to all [breakpoints]({{< docsref "/layout/overview#responsive-breakpoints" >}}), from `xs` to `xl`, have no breakpoint abbreviation in them. This is because those classes are applied from `min-width: 0;` and up, and thus are not bound by a media query. The remaining breakpoints, however, do include a breakpoint abbreviation.
-
-As such, the classes are named using the format:
-
-* `.d-{value}` for `xs`
-* `.d-{breakpoint}-{value}` for `sm`, `md`, `lg`, and `xl`.
-
-Where *value* is one of:
-
-* `none`
-* `inline`
-* `inline-block`
-* `block`
-* `table`
-* `table-cell`
-* `table-row`
-* `flex`
-* `inline-flex`
-
-The display values can be altered by changing the `$displays` variable and recompiling the SCSS.
-
-The media queries effect screen widths with the given breakpoint *or larger*. For example, `.d-lg-none` sets `display: none;` on both `lg` and `xl` screens.
-
-## Examples
-
-{{< example >}}
-<div class="d-inline p-2 bg-primary text-white">d-inline</div>
-<div class="d-inline p-2 bg-dark text-white">d-inline</div>
-{{< /example >}}
-
-{{< example >}}
-<span class="d-block p-2 bg-primary text-white">d-block</span>
-<span class="d-block p-2 bg-dark text-white">d-block</span>
-{{< /example >}}
-
-## Hiding elements
-
-For faster mobile-friendly development, use responsive display classes for showing and hiding elements by device. Avoid creating entirely different versions of the same site, instead hide elements responsively for each screen size.
-
-To hide elements simply use the `.d-none` class or one of the `.d-{sm,md,lg,xl}-none` classes for any responsive screen variation.
-
-To show an element only on a given interval of screen sizes you can combine one `.d-*-none` class with a `.d-*-*` class, for example `.d-none .d-md-block .d-xl-none` will hide the element for all screen sizes except on medium and large devices.
-
-<table class="table">
-  <thead>
-    <tr>
-      <th>Screen size</th>
-      <th>Class</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Hidden on all</td>
-      <td><code>.d-none</code></td>
-    </tr>
-    <tr>
-      <td>Hidden only on xs</td>
-      <td><code>.d-none .d-sm-block</code></td>
-    </tr>
-    <tr>
-      <td>Hidden only on sm</td>
-      <td><code>.d-sm-none .d-md-block</code></td>
-    </tr>
-    <tr>
-      <td>Hidden only on md</td>
-      <td><code>.d-md-none .d-lg-block</code></td>
-    </tr>
-    <tr>
-      <td>Hidden only on lg</td>
-      <td><code>.d-lg-none .d-xl-block</code></td>
-    </tr>
-    <tr>
-      <td>Hidden only on xl</td>
-      <td><code>.d-xl-none</code></td>
-    </tr>
-    <tr>
-      <td>Visible on all</td>
-      <td><code>.d-block</code></td>
-    </tr>
-    <tr>
-      <td>Visible only on xs</td>
-      <td><code>.d-block .d-sm-none</code></td>
-    </tr>
-    <tr>
-      <td>Visible only on sm</td>
-      <td><code>.d-none .d-sm-block .d-md-none</code></td>
-    </tr>
-    <tr>
-      <td>Visible only on md</td>
-      <td><code>.d-none .d-md-block .d-lg-none</code></td>
-    </tr>
-    <tr>
-      <td>Visible only on lg</td>
-      <td><code>.d-none .d-lg-block .d-xl-none</code></td>
-    </tr>
-    <tr>
-      <td>Visible only on xl</td>
-      <td><code>.d-none .d-xl-block</code></td>
-    </tr>
-  </tbody>
-</table>
-
-{{< example >}}
-<div class="d-lg-none">hide on lg and wider screens</div>
-<div class="d-none d-lg-block">hide on screens smaller than lg</div>
-{{< /example >}}
-
-## Display in print
-
-Change the `display` value of elements when printing with our print display utility classes. Includes support for the same `display` values as our responsive `.d-*` utilities.
-
-- `.d-print-none`
-- `.d-print-inline`
-- `.d-print-inline-block`
-- `.d-print-block`
-- `.d-print-table`
-- `.d-print-table-row`
-- `.d-print-table-cell`
-- `.d-print-flex`
-- `.d-print-inline-flex`
-
-The print and display classes can be combined.
-
-{{< example >}}
-<div class="d-print-none">Screen Only (Hide on print only)</div>
-<div class="d-none d-print-block">Print Only (Hide on screen only)</div>
-<div class="d-none d-lg-block d-print-block">Hide up to large on screen, but always show on print</div>
-{{< /example >}}
+We'll endeavor to respond quickly, and will keep you updated throughout the process.
 ```
 ## _site_content_docs_4_3_components_progress_md
 ```---
@@ -2885,251 +2173,528 @@ The striped gradient can also be animated. Add `.progress-bar-animated` to `.pro
 </div>
 {{< /highlight >}}
 ```
-## _site_content_docs_4_3_about_brand_md
+## _site_content_docs_4_3_utilities_api_md
 ```---
 layout: docs
-title: Brand guidelines
-description: Documentation and examples for Bootstrap's logo and brand usage guidelines.
-group: about
+title: Utility API
+description: The utility API is a Sass based tool to generate utility classes.
+group: utilities
+aliases: "/docs/4.3/utilities/"
 toc: true
 ---
 
-Have a need for Bootstrap's brand resources? Great! We have only a few guidelines we follow, and in turn ask you to follow as well. These guidelines were inspired by MailChimp's [Brand Assets](https://mailchimp.com/about/brand-assets/).
+The bootstrap utilities are generated with the utility API which can be used to change or extend Bootstraps utility classes. If you don't have any idea what Sass maps are, you can consult the [official docs](https://sass-lang.com/documentation/values/maps) to get started.
 
-## Mark and logo
+The `$utilities` map contains all utilities and is later merged with your custom `$utilities` map if present. The utility map contains a keyed list of utility groups which accept the following options:
 
-Use either the Bootstrap mark (a capital **B**) or the standard logo (just **Bootstrap**). It should always appear in San Francisco Display Semibold. **Do not use the Twitter bird** in association with Bootstrap.
+- `property`: Name of the property, this can be a string or an array of strings (needed for eg. horizontal paddings or margins).
+- `responsive` _(optional)_: Boolean indicating if responsive classes need to be generated. `false` by default.
+- `class` _(optional)_: Variable to change the class name if you don't want it to be the same as the property. In case you don't provide the `class` key and `property` key is an array of strings, the class name will be the first element of the `property` array.
+- `values`: This can be a list of values or a map if you don't want the class name to be the same as the value. If null is used as map key, it isn't rendered.
+- `print` _(optional)_: Boolean indicating if print classes need to be generated. `false` by default.
 
-<div class="bd-brand-logos d-sm-flex text-center bg-light rounded overflow-hidden w-100 mb-3">
-  <div class="bd-brand-item">
-    <img src="/docs/{{< param docs_version >}}/assets/brand/bootstrap-solid.svg" alt="Bootstrap" width="144" height="144">
-  </div>
-  <div class="bd-brand-item inverse">
-    <img src="/docs/{{< param docs_version >}}/assets/brand/bootstrap-outline.svg" alt="Bootstrap" width="144" height="144">
-  </div>
-</div>
-<div class="bd-brand-logos d-sm-flex text-center bg-light rounded overflow-hidden w-100 mb-3">
-  <div class="bd-brand-item">
-    <span class="h1">Bootstrap</span>
-  </div>
-  <div class="bd-brand-item inverse">
-    <span class="h1">Bootstrap</span>
-  </div>
-</div>
 
-## Download mark
+## Adding utilities to the utility API
 
-Download the Bootstrap mark in one of three styles, each available as an SVG file. **Click to download the logos**.
+All utility variables are added to the `$utilities` variable. Custom utility groups can added like this:
 
-<div class="bd-brand-logos d-sm-flex text-center bg-light rounded overflow-hidden w-100 mb-3">
-  <a href="/docs/{{< param docs_version >}}/assets/brand/bootstrap-solid.svg" download class="bd-brand-item" title="Download solid logo">
-    <img src="/docs/{{< param docs_version >}}/assets/brand/bootstrap-solid.svg" alt="Bootstrap" width="144" height="144">
-  </a>
-  <a href="/docs/{{< param docs_version >}}/assets/brand/bootstrap-outline.svg" download class="bd-brand-item inverse" title="Download outlined logo">
-    <img src="/docs/{{< param docs_version >}}/assets/brand/bootstrap-outline.svg" alt="Bootstrap" width="144" height="144">
-  </a>
-  <a href="/docs/{{< param docs_version >}}/assets/brand/bootstrap-punchout.svg" download class="bd-brand-item inverse" title="Download inverted logo">
-    <img src="/docs/{{< param docs_version >}}/assets/brand/bootstrap-punchout.svg" alt="Bootstrap" width="144" height="144">
-  </a>
-</div>
+'''scss
+$utilities: (
+  "opacity": (
+    property: opacity,
+    values: (
+      0: 0,
+      25: .25,
+      50: .5,
+      100: 1,
+    )
+  )
+ );
+'''
 
-## Name
+Output:
 
-The project and framework should always be referred to as **Bootstrap**. No Twitter before it, no capital _s_, and no abbreviations except for one, a capital **B**.
+'''css
+.opacity-0 {
+  opacity: 0;
+}
+.opacity-25 {
+  opacity: .25;
+}
+.opacity-75 {
+  opacity: .75;
+}
+.opacity-100 {
+  opacity: 1;
+}
+'''
 
-<div class="bd-brand-logos d-sm-flex text-center bg-light rounded overflow-hidden w-100 mb-3">
-  <div class="bd-brand-item">
-    <span class="h3">Bootstrap</span>
-    <strong class="text-success">Right</strong>
-  </div>
-  <div class="bd-brand-item">
-    <span class="h3 text-muted">BootStrap</span>
-    <strong class="text-warning">Wrong</strong>
-  </div>
-  <div class="bd-brand-item">
-    <span class="h3 text-muted">Twitter Bootstrap</span>
-    <strong class="text-warning">Wrong</strong>
-  </div>
-</div>
 
-## Colors
+## Changing the class prefix
 
-Our docs and branding use a handful of primary colors to differentiate what *is* Bootstrap from what *is in* Bootstrap. In other words, if it's purple, it's representative of Bootstrap.
+With the `class` option, the class prefix can be changed:
 
-<div class="color-swatches">
-  <div class="color-swatch bd-purple"></div>
-  <div class="color-swatch bd-purple-light"></div>
-  <div class="color-swatch bd-purple-lighter"></div>
-  <div class="color-swatch bd-gray"></div>
-</div>
+'''scss
+$utilities: (
+  "opacity": (
+    property: opacity,
+    class: o,
+    values: (
+      0: 0,
+      25: .25,
+      50: .5,
+      100: 1,
+    )
+  )
+ );
+'''
+
+Output:
+
+'''css
+.o-0 {
+  opacity: 0;
+}
+.o-25 {
+  opacity: .25;
+}
+.o-75 {
+  opacity: .75;
+}
+.o-100 {
+  opacity: 1;
+}
+'''
+
+## Responsive utilities
+
+With the `responsive` option, responsive utility classes can be generated:
+
+'''scss
+$utilities: (
+  "opacity": (
+    property: opacity,
+    responsive: true,
+    values: (
+      0: 0,
+      25: .25,
+      50: .5,
+      100: 1,
+    )
+  )
+ );
+'''
+
+Output:
+
+'''css
+.opacity-0 {
+  opacity: 0;
+}
+.opacity-25 {
+  opacity: .25;
+}
+.opacity-75 {
+  opacity: .75;
+}
+.opacity-100 {
+  opacity: 1;
+}
+@media (min-width: 576px) {
+  .opacity-sm-0 {
+    opacity: 0;
+  }
+  .opacity-sm-25 {
+    opacity: .25;
+  }
+  .opacity-sm-75 {
+    opacity: .75;
+  }
+  .opacity-sm-100 {
+    opacity: 1;
+  }
+}
+@media (min-width: 768px) {
+  .opacity-md-0 {
+    opacity: 0;
+  }
+  .opacity-md-25 {
+    opacity: .25;
+  }
+  .opacity-md-75 {
+    opacity: .75;
+  }
+  .opacity-md-100 {
+    opacity: 1;
+  }
+}
+@media (min-width: 992px) {
+  .opacity-lg-0 {
+    opacity: 0;
+  }
+  .opacity-lg-25 {
+    opacity: .25;
+  }
+  .opacity-lg-75 {
+    opacity: .75;
+  }
+  .opacity-lg-100 {
+    opacity: 1;
+  }
+}
+@media (min-width: 1200px) {
+  .opacity-xl-0 {
+    opacity: 0;
+  }
+  .opacity-xl-25 {
+    opacity: .25;
+  }
+  .opacity-xl-75 {
+    opacity: .75;
+  }
+  .opacity-xl-100 {
+    opacity: 1;
+  }
+}
+'''
+
+## Changing utilities
+
+Overriding excising utilities is possible by using the same key. For example if you want more responsive overflow
+utility classes you can do this:
+
+'''scss
+$utilities: (
+  "overflow": (
+    responsive: true,
+    property: overflow,
+    values: visible hidden scroll auto,
+  ),
+);
+'''
+
+
+## Print utilities
+
+Enabling the `print` option will **also** generate utility classes for print.
+
+'''scss
+$utilities: (
+  "opacity": (
+    property: opacity,
+    class: o,
+    print: true,
+    values: (
+      0: 0,
+      25: .25,
+      50: .5,
+      100: 1,
+    )
+  )
+ );
+'''
+
+Output:
+
+'''css
+.o-0 {
+  opacity: 0;
+}
+.o-25 {
+  opacity: .25;
+}
+.o-75 {
+  opacity: .75;
+}
+.o-100 {
+  opacity: 1;
+}
+
+@media print {
+  .o-print-0 {
+    opacity: 0;
+  }
+  .o-print-25 {
+    opacity: .25;
+  }
+  .o-print-75 {
+    opacity: .75;
+  }
+  .o-print-100 {
+    opacity: 1;
+  }
+}
+'''
+
+## Removing utilities
+
+Utilities can also be removed by changing the group key to `null`:
+
+'''scss
+$utilities: (
+  "float": null,
+);
+'''
 ```
-## _site_content_docs_4_3_helpers_stretched_link_md
+## _site_layouts_partials_callout_warning_input_support_md
+```##### Date & color input support
+
+Keep in mind date inputs are [not fully supported](https://caniuse.com/#feat=input-datetime) by IE and Safari. Color inputs also [lack support](https://caniuse.com/#feat=input-color) on IE.
+```
+## _site_layouts_partials_callout_danger_async_methods_md
+```#### Asynchronous methods and transitions
+
+All API methods are **asynchronous** and start a **transition**. They return to the caller as soon as the transition is started but **before it ends**. In addition, a method call on a **transitioning component will be ignored**.
+
+[See our JavaScript documentation for more information](/docs/{{ .Site.Params.docs_version }}/getting-started/javascript/).
+```
+## _site_content_docs_4_3_utilities_visibility_md
 ```---
 layout: docs
-title: Stretched link
-description: Make any HTML element or Bootstrap component clickable by "stretching" a nested link via CSS.
-group: helpers
+title: Visibility
+description: Control the visibility, without modifying the display, of elements with visibility utilities.
+group: utilities
 ---
 
-Add `.stretched-link` to a link to make its [containing block](https://developer.mozilla.org/en-US/docs/Web/CSS/Containing_block) clickable via a `::after` pseudo element. In most cases, this means that an element with `position: relative;` that contains a link with the `.stretched-link` class is clickable.
+Set the `visibility` of elements with our visibility utilities. These utility classes do not modify the `display` value at all and do not affect layout – `.invisible` elements still take up space in the page. Content will be hidden both visually and for assistive technology/screen reader users.
 
-Cards have `position: relative` by default in Bootstrap, so in this case you can safely add the `.stretched-link` class to a link in the card without any other HTML changes.
+Apply `.visible` or `.invisible` as needed.
 
-Multiple links and tap targets are not recommended with stretched links. However, some `position` and `z-index` styles can help should this be required.
+{{< highlight html >}}
+<div class="visible">...</div>
+<div class="invisible">...</div>
+{{< /highlight >}}
 
-{{< example >}}
-<div class="card" style="width: 18rem;">
-  {{< placeholder width="100%" height="180" class="card-img-top" text="false" title="Card image cap" >}}
-  <div class="card-body">
-    <h5 class="card-title">Card with stretched link</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary stretched-link">Go somewhere</a>
-  </div>
-</div>
-{{< /example >}}
-
-Most custom components do not have `position: relative` by default, so we need to add the `.position-relative` here to prevent the link from stretching outside the parent element.
-
-{{< example >}}
-<div class="d-flex position-relative">
-  {{< placeholder width="144" height="144" class="flex-shrink-0 mr-3" text="false" title="Generic placeholder image" >}}
-  <div>
-    <h5 class="mt-0">Custom component with stretched link</h5>
-    <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
-    <a href="#" class="stretched-link">Go somewhere</a>
-  </div>
-</div>
-{{< /example >}}
-
-Columns are `position: relative` by default, so clickable columns only require the `.stretched-link` class on a link. However, stretching a link over an entire `.row` requires `.position-static` on the column and `.position-relative` on the row.
-
-{{< example >}}
-<div class="row no-gutters bg-light position-relative">
-  <div class="col-md-6 mb-md-0 p-md-4">
-    {{< placeholder width="100%" height="200" class="w-100" text="false" title="Generic placeholder image" >}}
-  </div>
-  <div class="col-md-6 position-static p-4 pl-md-0">
-    <h5 class="mt-0">Columns with stretched link</h5>
-    <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
-    <a href="#" class="stretched-link">Go somewhere</a>
-  </div>
-</div>
-{{< /example >}}
-
-## Identifying the containing block
-
-If the stretched link doesn't seem to work, the [containing block](https://developer.mozilla.org/en-US/docs/Web/CSS/Containing_block#Identifying_the_containing_block) will probably be the cause. The following CSS properties will make an element the containing block:
-
-- A `position` value other than `static`
-- A `transform` or `perspective` value other than `none`
-- A `will-change` value of `transform` or `perspective`
-- A `filter` value other than `none` or a `will-change` value of `filter` (only works on Firefox)
-
-{{< example >}}
-<div class="card" style="width: 18rem;">
-  {{< placeholder width="100%" height="180" class="card-img-top" text="false" title="Card image cap" >}}
-  <div class="card-body">
-    <h5 class="card-title">Card with stretched links</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <p class="card-text">
-      <a href="#" class="stretched-link text-danger" style="position: relative;">Stretched link will not work here, because <code>position: relative</code> is added to the link</a>
-    </p>
-    <p class="card-text bg-light" style="transform: rotate(0);">
-      This <a href="#" class="text-warning stretched-link">stretched link</a> will only be spread over the <code>p</code>-tag, because a transform is applied to it.
-    </p>
-  </div>
-</div>
-{{< /example >}}
+{{< highlight scss >}}
+// Class
+.visible {
+  visibility: visible !important;
+}
+.invisible {
+  visibility: hidden !important;
+}
+{{< /highlight >}}
 ```
-## _site_content_docs_4_3_forms_file_md
-```---
-layout: docs
-title: File browser
-description: Use our custom file inputs for consistent cross-browser styling, built-in customization, and lightweight JavaScript.
-group: forms
-toc: false
----
+## _README_md
+```<p align="center">
+  <a href="https://getbootstrap.com/">
+    <img src="https://getbootstrap.com/docs/4.3/assets/brand/bootstrap-solid.svg" alt="Bootstrap logo" width="72" height="72">
+  </a>
+</p>
 
-{{< callout info >}}
-The recommended plugin to animate custom file input: [bs-custom-file-input](https://www.npmjs.com/package/bs-custom-file-input), that's what we are using currently here in our docs.
-{{< /callout >}}
+<h3 align="center">Bootstrap</h3>
 
-The file input is the most gnarly of the bunch and requires additional JavaScript if you'd like to hook them up with functional *Choose file...* and selected file name text.
+<p align="center">
+  Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+  <br>
+  <a href="https://getbootstrap.com/docs/4.3/"><strong>Explore Bootstrap docs »</strong></a>
+  <br>
+  <br>
+  <a href="https://github.com/twbs/bootstrap/issues/new?template=bug.md">Report bug</a>
+  ·
+  <a href="https://github.com/twbs/bootstrap/issues/new?template=feature.md&labels=feature">Request feature</a>
+  ·
+  <a href="https://themes.getbootstrap.com/">Themes</a>
+  ·
+  <a href="https://blog.getbootstrap.com/">Blog</a>
+</p>
 
-{{< example >}}
-<div class="form-file">
-  <input type="file" class="form-file-input" id="customFile">
-  <label class="form-file-label" for="customFile">
-    <span class="form-file-text">Choose file...</span>
-    <span class="form-file-button">Browse</span>
-  </label>
-</div>
-{{< /example >}}
 
-Add the `disabled` attribute to the `<input>` and the custom markup will be updated to appear disabled.
+## Table of contents
 
-{{< example >}}
-<div class="form-file">
-  <input type="file" class="form-file-input" id="customFileDisabled" disabled>
-  <label class="form-file-label" for="customFileDisabled">
-    <span class="form-file-text">Choose file...</span>
-    <span class="form-file-button">Browse</span>
-  </label>
-</div>
-{{< /example >}}
+- [Quick start](#quick-start)
+- [Status](#status)
+- [What's included](#whats-included)
+- [Bugs and feature requests](#bugs-and-feature-requests)
+- [Documentation](#documentation)
+- [Contributing](#contributing)
+- [Community](#community)
+- [Versioning](#versioning)
+- [Creators](#creators)
+- [Thanks](#thanks)
+- [Copyright and license](#copyright-and-license)
 
-Longer placeholder text is truncated and an ellipsis is added when there's not enough space.
 
-{{< example >}}
-<div class="form-file">
-  <input type="file" class="form-file-input" id="customFileLong">
-  <label class="form-file-label" for="customFileLong">
-    <span class="form-file-text">Lorem ipsum posuere consectetur est at lobortis nulla vitae elit libero a pharetra augue fusce dapibus tellus ac cursus commodo tortor mauris condimentum nibh ut fermentum massa justo sit amet risus cras mattis consectetur purus sit amet fermentum</span>
-    <span class="form-file-button">Browse</span>
-  </label>
-</div>
-{{< /example >}}
+## Quick start
 
-We hide the default file `<input>` via `opacity` and instead style the `<label>`, and declare a `width` and `height` on the `<input>` for proper spacing for surrounding content.
+Several quick start options are available:
+
+- [Download the latest release.](https://github.com/twbs/bootstrap/archive/v4.3.1.zip)
+- Clone the repo: `git clone https://github.com/twbs/bootstrap.git`
+- Install with [npm](https://www.npmjs.com/): `npm install bootstrap`
+- Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap@4.3.1`
+- Install with [Composer](https://getcomposer.org/): `composer require twbs/bootstrap:4.3.1`
+- Install with [NuGet](https://www.nuget.org/): CSS: `Install-Package bootstrap` Sass: `Install-Package bootstrap.sass`
+
+Read the [Getting started page](https://getbootstrap.com/docs/4.3/getting-started/introduction/) for information on the framework contents, templates and examples, and more.
+
+
+## Status
+
+[![Build Status](https://github.com/twbs/bootstrap/workflows/Tests/badge.svg)](https://github.com/twbs/bootstrap/actions?workflow=Tests)
+[![npm version](https://img.shields.io/npm/v/bootstrap.svg)](https://www.npmjs.com/package/bootstrap)
+[![Gem version](https://img.shields.io/gem/v/bootstrap.svg)](https://rubygems.org/gems/bootstrap)
+[![Meteor Atmosphere](https://img.shields.io/badge/meteor-twbs%3Abootstrap-blue.svg)](https://atmospherejs.com/twbs/bootstrap)
+[![Packagist Prerelease](https://img.shields.io/packagist/vpre/twbs/bootstrap.svg)](https://packagist.org/packages/twbs/bootstrap)
+[![NuGet](https://img.shields.io/nuget/vpre/bootstrap.svg)](https://www.nuget.org/packages/bootstrap/absoluteLatest)
+[![peerDependencies Status](https://img.shields.io/david/peer/twbs/bootstrap.svg)](https://david-dm.org/twbs/bootstrap?type=peer)
+[![devDependency Status](https://img.shields.io/david/dev/twbs/bootstrap.svg)](https://david-dm.org/twbs/bootstrap?type=dev)
+[![Coverage Status](https://img.shields.io/coveralls/github/twbs/bootstrap/master.svg)](https://coveralls.io/github/twbs/bootstrap?branch=master)
+[![CSS gzip size](https://img.badgesize.io/twbs/bootstrap/master/dist/css/bootstrap.min.css?compression=gzip&label=CSS+gzip+size)](https://github.com/twbs/bootstrap/tree/master/dist/css/bootstrap.min.css)
+[![JS gzip size](https://img.badgesize.io/twbs/bootstrap/master/dist/js/bootstrap.min.js?compression=gzip&label=JS+gzip+size)](https://github.com/twbs/bootstrap/tree/master/dist/js/bootstrap.min.js)
+[![BrowserStack Status](https://www.browserstack.com/automate/badge.svg?badge_key=SkxZcStBeExEdVJqQ2hWYnlWckpkNmNEY213SFp6WHFETWk2bGFuY3pCbz0tLXhqbHJsVlZhQnRBdEpod3NLSDMzaHc9PQ==--3d0b75245708616eb93113221beece33e680b229)](https://www.browserstack.com/automate/public-build/SkxZcStBeExEdVJqQ2hWYnlWckpkNmNEY213SFp6WHFETWk2bGFuY3pCbz0tLXhqbHJsVlZhQnRBdEpod3NLSDMzaHc9PQ==--3d0b75245708616eb93113221beece33e680b229)
+[![Backers on Open Collective](https://img.shields.io/opencollective/backers/bootstrap.svg)](#backers)
+[![Sponsors on Open Collective](https://img.shields.io/opencollective/sponsors/bootstrap.svg)](#sponsors)
+
+
+## What's included
+
+Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
+
+'''text
+bootstrap/
+└── dist/
+    ├── css/
+    │   ├── bootstrap-grid.css
+    │   ├── bootstrap-grid.css.map
+    │   ├── bootstrap-grid.min.css
+    │   ├── bootstrap-grid.min.css.map
+    │   ├── bootstrap-reboot.css
+    │   ├── bootstrap-reboot.css.map
+    │   ├── bootstrap-reboot.min.css
+    │   ├── bootstrap-reboot.min.css.map
+    │   ├── bootstrap-utilities.css
+    │   ├── bootstrap-utilities.css.map
+    │   ├── bootstrap-utilities.min.css
+    │   ├── bootstrap-utilities.min.css.map
+    │   ├── bootstrap.css
+    │   ├── bootstrap.css.map
+    │   ├── bootstrap.min.css
+    │   └── bootstrap.min.css.map
+    └── js/
+        ├── bootstrap.bundle.js
+        ├── bootstrap.bundle.js.map
+        ├── bootstrap.bundle.min.js
+        ├── bootstrap.bundle.min.js.map
+        ├── bootstrap.esm.js
+        ├── bootstrap.esm.js.map
+        ├── bootstrap.esm.min.js
+        ├── bootstrap.esm.min.js.map
+        ├── bootstrap.js
+        ├── bootstrap.js.map
+        ├── bootstrap.min.js
+        └── bootstrap.min.js.map
+'''
+
+We provide compiled CSS and JS (`bootstrap.*`), as well as compiled and minified CSS and JS (`bootstrap.min.*`). [source maps](https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps) (`bootstrap.*.map`) are available for use with certain browsers' developer tools. Bundled JS files (`bootstrap.bundle.js` and minified `bootstrap.bundle.min.js`) include [Popper](https://popper.js.org/).
+
+
+## Bugs and feature requests
+
+Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/twbs/bootstrap/blob/master/.github/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/twbs/bootstrap/issues/new).
+
+
+## Documentation
+
+Bootstrap's documentation, included in this repo in the root directory, is built with [Hugo](https://gohugo.io/) and publicly hosted on GitHub Pages at <https://getbootstrap.com/>. The docs may also be run locally.
+
+Documentation search is powered by [Algolia's DocSearch](https://community.algolia.com/docsearch/). Working on our search? Be sure to set `debug: true` in `site/assets/js/src/search.js` file.
+
+### Running documentation locally
+
+1. Run `npm install` to install the Node.js dependencies, including Hugo (the site builder).
+2. Run `npm run test` (or a specific npm script) to rebuild distributed CSS and JavaScript files, as well as our docs assets.
+3. From the root `/bootstrap` directory, run `npm run docs-serve` in the command line.
+4. Open `http://localhost:9001/` in your browser, and voilà.
+
+Learn more about using Hugo by reading its [documentation](https://gohugo.io/documentation/).
+
+### Documentation for previous releases
+
+You can find all our previous releases docs on <https://getbootstrap.com/docs/versions/>.
+
+[Previous releases](https://github.com/twbs/bootstrap/releases) and their documentation are also available for download.
+
+
+## Contributing
+
+Please read through our [contributing guidelines](https://github.com/twbs/bootstrap/blob/master/.github/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+
+Moreover, if your pull request contains JavaScript patches or features, you must include [relevant unit tests](https://github.com/twbs/bootstrap/tree/master/js/tests). All HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Mark Otto](https://github.com/mdo).
+
+Editor preferences are available in the [editor config](https://github.com/twbs/bootstrap/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
+
+
+## Community
+
+Get updates on Bootstrap's development and chat with the project maintainers and community members.
+
+- Follow [@getbootstrap on Twitter](https://twitter.com/getbootstrap).
+- Read and subscribe to [The Official Bootstrap Blog](https://blog.getbootstrap.com/).
+- Join [the official Slack room](https://bootstrap-slack.herokuapp.com/).
+- Chat with fellow Bootstrappers in IRC. On the `irc.freenode.net` server, in the `##bootstrap` channel.
+- Implementation help may be found at Stack Overflow (tagged [`bootstrap-4`](https://stackoverflow.com/questions/tagged/bootstrap-4)).
+- Developers should use the keyword `bootstrap` on packages which modify or add to the functionality of Bootstrap when distributing through [npm](https://www.npmjs.com/browse/keyword/bootstrap) or similar delivery mechanisms for maximum discoverability.
+
+
+## Versioning
+
+For transparency into our release cycle and in striving to maintain backward compatibility, Bootstrap is maintained under [the Semantic Versioning guidelines](https://semver.org/). Sometimes we screw up, but we adhere to those rules whenever possible.
+
+See [the Releases section of our GitHub project](https://github.com/twbs/bootstrap/releases) for changelogs for each release version of Bootstrap. Release announcement posts on [the official Bootstrap blog](https://blog.getbootstrap.com/) contain summaries of the most noteworthy changes made in each release.
+
+
+## Creators
+
+**Mark Otto**
+
+- <https://twitter.com/mdo>
+- <https://github.com/mdo>
+
+**Jacob Thornton**
+
+- <https://twitter.com/fat>
+- <https://github.com/fat>
+
+
+## Thanks
+
+<a href="https://www.browserstack.com/">
+  <img src="https://live.browserstack.com/images/opensource/browserstack-logo.svg" alt="BrowserStack Logo" width="192" height="42">
+</a>
+
+Thanks to [BrowserStack](https://www.browserstack.com/) for providing the infrastructure that allows us to test in real browsers!
+
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/bootstrap#backer)]
+
+[![Bakers](https://opencollective.com/bootstrap/backers.svg?width=890)](https://opencollective.com/bootstrap#backers)
+
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/bootstrap#sponsor)]
+
+[![](https://opencollective.com/bootstrap/sponsor/0/avatar.svg)](https://opencollective.com/bootstrap/sponsor/0/website)
+[![](https://opencollective.com/bootstrap/sponsor/1/avatar.svg)](https://opencollective.com/bootstrap/sponsor/1/website)
+[![](https://opencollective.com/bootstrap/sponsor/2/avatar.svg)](https://opencollective.com/bootstrap/sponsor/2/website)
+[![](https://opencollective.com/bootstrap/sponsor/3/avatar.svg)](https://opencollective.com/bootstrap/sponsor/3/website)
+[![](https://opencollective.com/bootstrap/sponsor/4/avatar.svg)](https://opencollective.com/bootstrap/sponsor/4/website)
+[![](https://opencollective.com/bootstrap/sponsor/5/avatar.svg)](https://opencollective.com/bootstrap/sponsor/5/website)
+[![](https://opencollective.com/bootstrap/sponsor/6/avatar.svg)](https://opencollective.com/bootstrap/sponsor/6/website)
+[![](https://opencollective.com/bootstrap/sponsor/7/avatar.svg)](https://opencollective.com/bootstrap/sponsor/7/website)
+[![](https://opencollective.com/bootstrap/sponsor/8/avatar.svg)](https://opencollective.com/bootstrap/sponsor/8/website)
+[![](https://opencollective.com/bootstrap/sponsor/9/avatar.svg)](https://opencollective.com/bootstrap/sponsor/9/website)
+
+
+## Copyright and license
+
+Code and documentation copyright 2011-2019 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors) and [Twitter, Inc.](https://twitter.com) Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
 ```
 # Inline
-## _js_dist_dom_data_js
-### Line 77-82
-```
-  };
-
-  return Data;
-
-}));
-//# sourceMappingURL=data.js.map
-```
-
-## _build_build_plugins_js
-### Line 12-23
-```
-const babel = require('rollup-plugin-babel')
-const banner = require('./banner.js')
-
-const plugins = [
-  babel({
-    // Only transpile our source code
-    exclude: 'node_modules/**',
-    // Include only required helpers
-    externalHelpersWhitelist: [
-      'defineProperties',
-      'createClass',
-      'inheritsLoose',
-```
-
-## _package_js
-### Line 1-5
-```
-// package metadata file for Meteor.js
-
-Package.describe({
-  name: 'twbs:bootstrap', // https://atmospherejs.com/twbs/bootstrap
-  summary: 'The most popular front-end framework for developing responsive, mobile first projects on the web.',
-```
+## _site_assets_js_vendor_clipboard_min_js
 
 ## _js_dist_dom_selector_engine_js
 ### Line 97-102
@@ -3140,981 +2705,14 @@ Package.describe({
 
 }));
 //# sourceMappingURL=selector-engine.js.map
-```
-
-## _js_src_dom_event_handler_js
-### Line 92-101
-```
-
-  return eventRegistry[uid]
-}
-
-function fixEvent(event, element) {
-  // Add which for key events
-  if (event.which === null && keyEventRegex.test(event.type)) {
-    event.which = event.charCode === null ? event.keyCode : event.charCode
-  }
-
-```
-### Line 129-138
-```
-          return fn.apply(target, [event])
-        }
-      }
-    }
-
-    // To please ESLint
-    return null
-  }
-}
-
-```
-### Line 152-161
-```
-
-function normalizeParams(originalTypeEvent, handler, delegationFn) {
-  const delegation = typeof handler === 'string'
-  const originalHandler = delegation ? delegationFn : handler
-
-  // allow to get the native events from namespaced events ('click.bs.button' --> 'click')
-  let typeEvent = originalTypeEvent.replace(stripNameRegex, '')
-  const custom = customEvents[typeEvent]
-
-  if (custom) {
-```
-### Line 248-257
-```
-    const inNamespace = typeEvent !== originalTypeEvent
-    const events = getEvent(element)
-    const isNamespace = originalTypeEvent.charAt(0) === '.'
-
-    if (typeof originalHandler !== 'undefined') {
-      // Simplest case: handler is passed, remove that listener ONLY.
-      if (!events || !events[typeEvent]) {
-        return
-      }
-
-```
-### Line 311-320
-```
-        bubbles,
-        cancelable: true
-      })
-    }
-
-    // merge custom informations in our event
-    if (typeof args !== 'undefined') {
-      Object.keys(args)
-        .forEach(key => {
-          Object.defineProperty(evt, key, {
-```
-
-## _dist_js_bootstrap_esm_js
-### Line 502-511
-```
-  eventRegistry[uid] = eventRegistry[uid] || {};
-  return eventRegistry[uid];
-}
-
-function fixEvent(event, element) {
-  // Add which for key events
-  if (event.which === null && keyEventRegex.test(event.type)) {
-    event.which = event.charCode === null ? event.keyCode : event.charCode;
-  }
-
-```
-### Line 660-669
-```
-    var inNamespace = typeEvent !== originalTypeEvent;
-    var events = getEvent(element);
-    var isNamespace = originalTypeEvent.charAt(0) === '.';
-
-    if (typeof originalHandler !== 'undefined') {
-      // Simplest case: handler is passed, remove that listener ONLY.
-      if (!events || !events[typeEvent]) {
-        return;
-      }
-
-```
-### Line 868-877
-```
-  } // Getters
-
-
-  var _proto = Alert.prototype;
-
-  // Public
-  _proto.close = function close(element) {
-    var rootElement = this._element;
-
-    if (element) {
-```
-### Line 1043-1052
-```
-  } // Getters
-
-
-  var _proto = Button.prototype;
-
-  // Public
-  _proto.toggle = function toggle() {
-    var triggerChangeEvent = true;
-    var addAriaPressed = true;
-    var rootElement = SelectorEngine.closest(this._element, Selector$1.DATA_TOGGLE);
-```
-### Line 1369-1387
-```
-  } // Getters
-
-
-  var _proto = Carousel.prototype;
-
-  // Public
-  _proto.next = function next() {
-    if (!this._isSliding) {
-      this._slide(Direction.NEXT);
-    }
-  };
-
-  _proto.nextWhenVisible = function nextWhenVisible() {
-    // Don't call next when the page isn't visible
-    // or the carousel or its parent isn't visible
-    if (!document.hidden && isVisible(this._element)) {
-      this.next();
-    }
-  };
-```
-### Line 1523-1532
-```
-        _this3.touchStartX = event.touches[0].clientX;
-      }
-    };
-
-    var move = function move(event) {
-      // ensure swiping with one touch and not pinching
-      if (event.touches && event.touches.length > 1) {
-        _this3.touchDeltaX = 0;
-      } else {
-        _this3.touchDeltaX = event.touches[0].clientX - _this3.touchStartX;
-```
-### Line 1539-1554
-```
-      }
-
-      _this3._handleSwipe();
-
-      if (_this3._config.pause === 'hover') {
-        // If it's a touch-enabled device, mouseenter/leave are fired as
-        // part of the mouse compatibility events on first tap - the carousel
-        // would stop cycling until user tapped out of it;
-        // here, we listen for touchend, explicitly pause the carousel
-        // (as if it's the second time we tap on it, mouseenter compat event
-        // is NOT fired) and after a timeout (to allow for mouse compatibility
-        // events to fire) we explicitly restart cycling
-        _this3.pause();
-
-        if (_this3.touchTimeout) {
-          clearTimeout(_this3.touchTimeout);
-```
-### Line 1696-1705
-```
-    if (slideEvent.defaultPrevented) {
-      return;
-    }
-
-    if (!activeElement || !nextElement) {
-      // Some weirdness is happening, so we bail
-      return;
-    }
-
-    this._isSliding = true;
-```
-### Line 1958-1967
-```
-  } // Getters
-
-
-  var _proto = Collapse.prototype;
-
-  // Public
-  _proto.toggle = function toggle() {
-    if (this._element.classList.contains(ClassName$3.SHOW)) {
-      this.hide();
-    } else {
-```
-### Line 2151-2160
-```
-    var _this3 = this;
-
-    var parent = this._config.parent;
-
-    if (isElement(parent)) {
-      // it's a jQuery object
-      if (typeof parent.jquery !== 'undefined' || typeof parent[0] !== 'undefined') {
-        parent = parent[0];
-      }
-    } else {
-```
-### Line 2241-2250
-```
- * ------------------------------------------------------------------------
- */
-
-
-EventHandler.on(document, Event$4.CLICK_DATA_API, Selector$3.DATA_TOGGLE, function (event) {
-  // preventDefault only for <a> elements (which change the URL) not inside the collapsible element
-  if (event.target.tagName === 'A') {
-    event.preventDefault();
-  }
-
-```
-### Line 2254-2263
-```
-  selectorElements.forEach(function (element) {
-    var data = Data.getData(element, DATA_KEY$3);
-    var config;
-
-    if (data) {
-      // update parent attribute
-      if (data._parent === null && typeof triggerData.parent === 'string') {
-        data._config.parent = triggerData.parent;
-        data._parent = data._getParent();
-      }
-```
-### Line 2389-2398
-```
-  } // Getters
-
-
-  var _proto = Dropdown.prototype;
-
-  // Public
-  _proto.toggle = function toggle() {
-    if (this._element.disabled || this._element.classList.contains(ClassName$4.DISABLED)) {
-      return;
-    }
-```
-### Line 2438-2459
-```
-
-        if (typeof this._config.reference.jquery !== 'undefined') {
-          referenceElement = this._config.reference[0];
-        }
-      } // If boundary is not `scrollParent`, then set position to `static`
-      // to allow the menu to "escape" the scroll parent's boundaries
-      // https://github.com/twbs/bootstrap/issues/24251
-
-
-      if (this._config.boundary !== 'scrollParent') {
-        parent.classList.add(ClassName$4.POSITION_STATIC);
-      }
-
-      this._popper = new Popper(referenceElement, this._menu, this._getPopperConfig());
-    } // If this is a touch-enabled device we add extra
-    // empty mouseover listeners to the body's immediate children;
-    // only needed because of broken event delegation on iOS
-    // https://www.quirksmode.org/blog/archives/2014/02/mouse_event_bub.html
-
-
-    if ('ontouchstart' in document.documentElement && !makeArray(SelectorEngine.closest(parent, Selector$4.NAVBAR_NAV)).length) {
-      makeArray(document.body.children).forEach(function (elem) {
-```
-### Line 2663-2672
-```
-      var hideEvent = EventHandler.trigger(parent, Event$5.HIDE, relatedTarget);
-
-      if (hideEvent.defaultPrevented) {
-        continue;
-      } // If this is a touch-enabled device we remove the extra
-      // empty mouseover listeners we added for iOS support
-
-
-      if ('ontouchstart' in document.documentElement) {
-        makeArray(document.body.children).forEach(function (elem) {
-```
-### Line 2689-2704
-```
-  Dropdown.getParentFromElement = function getParentFromElement(element) {
-    return getElementFromSelector(element) || element.parentNode;
-  };
-
-  Dropdown.dataApiKeydownHandler = function dataApiKeydownHandler(event) {
-    // If not input/textarea:
-    //  - And not a key in REGEXP_KEYDOWN => not a dropdown command
-    // If input/textarea:
-    //  - If space key => not a dropdown command
-    //  - If key is other than escape
-    //    - If key is not up or down => not a dropdown command
-    //    - If trigger inside the menu => not a dropdown command
-    if (/input|textarea/i.test(event.target.tagName) ? event.which === SPACE_KEYCODE || event.which !== ESCAPE_KEYCODE && (event.which !== ARROW_DOWN_KEYCODE && event.which !== ARROW_UP_KEYCODE || SelectorEngine.closest(event.target, Selector$4.MENU)) : !REGEXP_KEYDOWN.test(event.which)) {
-      return;
-    }
-
-```
-### Line 2728-2742
-```
-    }
-
-    var index = items.indexOf(event.target);
-
-    if (event.which === ARROW_UP_KEYCODE && index > 0) {
-      // Up
-      index--;
-    }
-
-    if (event.which === ARROW_DOWN_KEYCODE && index < items.length - 1) {
-      // Down
-      index++;
-    }
-
-    if (index < 0) {
-```
-### Line 2886-2895
-```
-  } // Getters
-
-
-  var _proto = Modal.prototype;
-
-  // Public
-  _proto.toggle = function toggle(relatedTarget) {
-    return this._isShown ? this.hide() : this.show(relatedTarget);
-  };
-
-```
-### Line 3027-3036
-```
-    var transition = this._element.classList.contains(ClassName$5.FADE);
-
-    var modalBody = SelectorEngine.findOne(Selector$5.MODAL_BODY, this._dialog);
-
-    if (!this._element.parentNode || this._element.parentNode.nodeType !== Node.ELEMENT_NODE) {
-      // Don't move modal's DOM position
-      document.body.appendChild(this._element);
-    }
-
-    this._element.style.display = 'block';
-```
-### Line 3207-3217
-```
-      }
-    } else {
-      callback();
-    }
-  } // ----------------------------------------------------------------------
-  // the following methods are used to handle overflowing modals
-  // ----------------------------------------------------------------------
-  ;
-
-  _proto._adjustDialog = function _adjustDialog() {
-    var isModalOverflowing = this._element.scrollHeight > document.documentElement.clientHeight;
-```
-### Line 3238-3249
-```
-
-  _proto._setScrollbar = function _setScrollbar() {
-    var _this9 = this;
-
-    if (this._isBodyOverflowing) {
-      // Note: DOMNode.style.paddingRight returns the actual value or '' if not set
-      //   while $(DOMNode).css('padding-right') returns the calculated value or 0 if not set
-      // Adjust fixed content padding
-      makeArray(SelectorEngine.find(Selector$5.FIXED_CONTENT)).forEach(function (element) {
-        var actualPadding = element.style.paddingRight;
-        var calculatedPadding = window.getComputedStyle(element)['padding-right'];
-        Manipulator.setDataAttribute(element, 'padding-right', actualPadding);
-```
-### Line 3265-3274
-```
-
-    document.body.classList.add(ClassName$5.OPEN);
-  };
-
-  _proto._resetScrollbar = function _resetScrollbar() {
-    // Restore fixed content padding
-    makeArray(SelectorEngine.find(Selector$5.FIXED_CONTENT)).forEach(function (element) {
-      var padding = Manipulator.getDataAttribute(element, 'padding-right');
-
-      if (typeof padding !== 'undefined') {
-```
-### Line 3295-3304
-```
-      document.body.style.paddingRight = padding;
-    }
-  };
-
-  _proto._getScrollbarWidth = function _getScrollbarWidth() {
-    // thx d.walsh
-    var scrollDiv = document.createElement('div');
-    scrollDiv.className = ClassName$5.SCROLLBAR_MEASURER;
-    document.body.appendChild(scrollDiv);
-    var scrollbarWidth = scrollDiv.getBoundingClientRect().width - scrollDiv.clientWidth;
-```
-### Line 3363-3372
-```
-    event.preventDefault();
-  }
-
-  EventHandler.one(target, Event$6.SHOW, function (showEvent) {
-    if (showEvent.defaultPrevented) {
-      // only register focus restorer if modal will actually get shown
-      return;
-    }
-
-    EventHandler.one(target, Event$6.HIDDEN, function () {
-```
-### Line 3452-3461
-```
-
-  return false;
-};
-
-var DefaultWhitelist = {
-  // Global attributes allowed on any supplied element below.
-  '*': ['class', 'dir', 'id', 'lang', 'role', ARIA_ATTRIBUTE_PATTERN],
-  a: ['target', 'href', 'title', 'rel'],
-  area: [],
-  b: [],
-```
-### Line 3643-3652
-```
-  } // Getters
-
-
-  var _proto = Tooltip.prototype;
-
-  // Public
-  _proto.enable = function enable() {
-    this._isEnabled = true;
-  };
-
-```
-### Line 3756-3767
-```
-      }
-
-      EventHandler.trigger(this.element, this.constructor.Event.INSERTED);
-      this._popper = new Popper(this.element, tip, this._getPopperConfig(attachment));
-      tip.classList.add(ClassName$6.SHOW); // If this is a touch-enabled device we add extra
-      // empty mouseover listeners to the body's immediate children;
-      // only needed because of broken event delegation on iOS
-      // https://www.quirksmode.org/blog/archives/2014/02/mouse_event_bub.html
-
-      if ('ontouchstart' in document.documentElement) {
-        makeArray(document.body.children).forEach(function (element) {
-          EventHandler.on(element, 'mouseover', noop());
-```
-### Line 3816-3825
-```
-    if (hideEvent.defaultPrevented) {
-      return;
-    }
-
-    tip.classList.remove(ClassName$6.SHOW); // If this is a touch-enabled device we remove the extra
-    // empty mouseover listeners we added for iOS support
-
-    if ('ontouchstart' in document.documentElement) {
-      makeArray(document.body.children).forEach(function (element) {
-        return EventHandler.off(element, 'mouseover', noop);
-```
-### Line 4342-4351
-```
-    return _Tooltip.apply(this, arguments) || this;
-  }
-
-  var _proto = Popover.prototype;
-
-  // Overrides
-  _proto.isWithContent = function isWithContent() {
-    return this.getTitle() || this._getContent();
-  };
-
-```
-### Line 4417-4426
-```
-    return Data.getData(element, DATA_KEY$7);
-  };
 
-  _createClass(Popover, null, [{
-    key: "VERSION",
-    // Getters
-    get: function get() {
-      return VERSION$7;
-    }
-  }, {
 ```
-### Line 4552-4561
-```
-  } // Getters
-
-
-  var _proto = ScrollSpy.prototype;
-
-  // Public
-  _proto.refresh = function refresh() {
-    var _this2 = this;
-
-    var autoMethod = this._scrollElement === this._scrollElement.window ? OffsetMethod.OFFSET : OffsetMethod.POSITION;
-```
-### Line 4690-4703
-```
-
-    if (link.classList.contains(ClassName$8.DROPDOWN_ITEM)) {
-      SelectorEngine.findOne(Selector$8.DROPDOWN_TOGGLE, SelectorEngine.closest(link, Selector$8.DROPDOWN)).classList.add(ClassName$8.ACTIVE);
-      link.classList.add(ClassName$8.ACTIVE);
-    } else {
-      // Set triggered link as active
-      link.classList.add(ClassName$8.ACTIVE);
-      SelectorEngine.parents(link, Selector$8.NAV_LIST_GROUP).forEach(function (listGroup) {
-        // Set triggered links parents as active
-        // With both <ul> and <nav> markup a parent is the previous sibling of any nav ancestor
-        SelectorEngine.prev(listGroup, Selector$8.NAV_LINKS + ", " + Selector$8.LIST_ITEMS).forEach(function (item) {
-          return item.classList.add(ClassName$8.ACTIVE);
-        }); // Handle special case when .nav-link is inside .nav-item
-
-```
-### Line 4842-4851
-```
-  } // Getters
-
-
-  var _proto = Tab.prototype;
-
-  // Public
-  _proto.show = function show() {
-    var _this = this;
-
-    if (this._element.parentNode && this._element.parentNode.nodeType === Node.ELEMENT_NODE && this._element.classList.contains(ClassName$9.ACTIVE) || this._element.classList.contains(ClassName$9.DISABLED)) {
-```
-### Line 5083-5092
-```
-  } // Getters
-
-
-  var _proto = Toast.prototype;
-
-  // Public
-  _proto.show = function show() {
-    var _this = this;
-
-    var showEvent = EventHandler.trigger(this._element, Event$b.SHOW);
-```
-### Line 5252-5257
-```
-    return Toast.jQueryInterface;
-  };
-}
-
-export { Alert, Button, Carousel, Collapse, Dropdown, Modal, Popover, ScrollSpy, Tab, Toast, Tooltip };
-//# sourceMappingURL=bootstrap.esm.js.map
-```
-
-## _js_src_dom_selector_engine_js
-
-## _js_src_button_js
-### Line 52-67
-```
-  constructor(element) {
-    this._element = element
-    Data.setData(element, DATA_KEY, this)
-  }
-
-  // Getters
-
-  static get VERSION() {
-    return VERSION
-  }
-
-  // Public
-
-  toggle() {
-    let triggerChangeEvent = true
-    let addAriaPressed = true
-```
-### Line 116-125
-```
-  dispose() {
-    Data.removeData(this._element, DATA_KEY)
-    this._element = null
-  }
-
-  // Static
-
-  static jQueryInterface(config) {
-    return this.each(function () {
-      let data = Data.getData(this, DATA_KEY)
-```
-
-## _js_tests_browsers_js
-
-## _js_dist_tab_js
-### Line 173-182
-```
-    } // Getters
-
-
-    var _proto = Tab.prototype;
-
-    // Public
-    _proto.show = function show() {
-      var _this = this;
-
-      if (this._element.parentNode && this._element.parentNode.nodeType === Node.ELEMENT_NODE && this._element.classList.contains(ClassName.ACTIVE) || this._element.classList.contains(ClassName.DISABLED)) {
-```
-### Line 359-364
-```
-  }
-
-  return Tab;
-
-}));
-//# sourceMappingURL=tab.js.map
-```
-
-## _js_dist_modal_js
-### Line 283-292
-```
-    } // Getters
-
-
-    var _proto = Modal.prototype;
-
-    // Public
-    _proto.toggle = function toggle(relatedTarget) {
-      return this._isShown ? this.hide() : this.show(relatedTarget);
-    };
-
-```
-### Line 424-433
-```
-      var transition = this._element.classList.contains(ClassName.FADE);
-
-      var modalBody = SelectorEngine.findOne(Selector.MODAL_BODY, this._dialog);
-
-      if (!this._element.parentNode || this._element.parentNode.nodeType !== Node.ELEMENT_NODE) {
-        // Don't move modal's DOM position
-        document.body.appendChild(this._element);
-      }
-
-      this._element.style.display = 'block';
-```
-### Line 604-614
-```
-        }
-      } else {
-        callback();
-      }
-    } // ----------------------------------------------------------------------
-    // the following methods are used to handle overflowing modals
-    // ----------------------------------------------------------------------
-    ;
-
-    _proto._adjustDialog = function _adjustDialog() {
-      var isModalOverflowing = this._element.scrollHeight > document.documentElement.clientHeight;
-```
-### Line 635-646
-```
-
-    _proto._setScrollbar = function _setScrollbar() {
-      var _this9 = this;
-
-      if (this._isBodyOverflowing) {
-        // Note: DOMNode.style.paddingRight returns the actual value or '' if not set
-        //   while $(DOMNode).css('padding-right') returns the calculated value or 0 if not set
-        // Adjust fixed content padding
-        makeArray(SelectorEngine.find(Selector.FIXED_CONTENT)).forEach(function (element) {
-          var actualPadding = element.style.paddingRight;
-          var calculatedPadding = window.getComputedStyle(element)['padding-right'];
-          Manipulator.setDataAttribute(element, 'padding-right', actualPadding);
-```
-### Line 662-671
-```
-
-      document.body.classList.add(ClassName.OPEN);
-    };
-
-    _proto._resetScrollbar = function _resetScrollbar() {
-      // Restore fixed content padding
-      makeArray(SelectorEngine.find(Selector.FIXED_CONTENT)).forEach(function (element) {
-        var padding = Manipulator.getDataAttribute(element, 'padding-right');
-
-        if (typeof padding !== 'undefined') {
-```
-### Line 692-701
-```
-        document.body.style.paddingRight = padding;
-      }
-    };
-
-    _proto._getScrollbarWidth = function _getScrollbarWidth() {
-      // thx d.walsh
-      var scrollDiv = document.createElement('div');
-      scrollDiv.className = ClassName.SCROLLBAR_MEASURER;
-      document.body.appendChild(scrollDiv);
-      var scrollbarWidth = scrollDiv.getBoundingClientRect().width - scrollDiv.clientWidth;
-```
-### Line 760-769
-```
-      event.preventDefault();
-    }
-
-    EventHandler.one(target, Event.SHOW, function (showEvent) {
-      if (showEvent.defaultPrevented) {
-        // only register focus restorer if modal will actually get shown
-        return;
-      }
-
-      EventHandler.one(target, Event.HIDDEN, function () {
-```
-### Line 804-809
-```
-  }
-
-  return Modal;
-
-}));
-//# sourceMappingURL=modal.js.map
-```
-
-## _js_src_tooltip_js
-### Line 133-158
-```
-  constructor(element, config) {
-    if (typeof Popper === 'undefined') {
-      throw new TypeError('Bootstrap\'s tooltips require Popper.js (https://popper.js.org)')
-    }
-
-    // private
-    this._isEnabled = true
-    this._timeout = 0
-    this._hoverState = ''
-    this._activeTrigger = {}
-    this._popper = null
-
-    // Protected
-    this.element = element
-    this.config = this._getConfig(config)
-    this.tip = null
-
-    this._setListeners()
-    Data.setData(element, this.constructor.DATA_KEY, this)
-  }
-
-  // Getters
-
-  static get VERSION() {
-    return VERSION
-  }
-```
-### Line 179-188
-```
-
-  static get DefaultType() {
-    return DefaultType
-  }
-
-  // Public
-
-  enable() {
-    this._isEnabled = true
-  }
-```
-### Line 301-313
-```
-
-      this._popper = new Popper(this.element, tip, this._getPopperConfig(attachment))
-
-      tip.classList.add(ClassName.SHOW)
-
-      // If this is a touch-enabled device we add extra
-      // empty mouseover listeners to the body's immediate children;
-      // only needed because of broken event delegation on iOS
-      // https://www.quirksmode.org/blog/archives/2014/02/mouse_event_bub.html
-      if ('ontouchstart' in document.documentElement) {
-        makeArray(document.body.children).forEach(element => {
-          EventHandler.on(element, 'mouseover', noop())
-        })
-```
-### Line 356-366
-```
-      return
-    }
-
-    tip.classList.remove(ClassName.SHOW)
-
-    // If this is a touch-enabled device we remove the extra
-    // empty mouseover listeners we added for iOS support
-    if ('ontouchstart' in document.documentElement) {
-      makeArray(document.body.children)
-        .forEach(element => EventHandler.off(element, 'mouseover', noop))
-    }
-```
-### Line 385-394
-```
-    if (this._popper !== null) {
-      this._popper.scheduleUpdate()
-    }
-  }
-
-  // Protected
-
-  isWithContent() {
-    return Boolean(this.getTitle())
-  }
-```
-### Line 420-429
-```
-    if (typeof content === 'object' && isElement(content)) {
-      if (content.jquery) {
-        content = content[0]
-      }
-
-      // content is a DOM node or a jQuery
-      if (this.config.html) {
-        if (content.parentNode !== element) {
-          element.innerHTML = ''
-          element.appendChild(content)
-```
-### Line 456-465
-```
-    }
-
-    return title
-  }
-
-  // Private
-
-  _getPopperConfig(attachment) {
-    const defaultBsConfig = {
-      placement: attachment,
-```
-### Line 773-782
-```
-    this.hide()
-    this.show()
-    this.config.animation = initConfigAnimation
-  }
-
-  // Static
 
-  static jQueryInterface(config) {
-    return this.each(function () {
-      let data = Data.getData(this, DATA_KEY)
-```
-
-## _js_dist_dom_manipulator_js
-### Line 139-144
-```
-  };
-
-  return Manipulator;
-
-}));
-//# sourceMappingURL=manipulator.js.map
-```
-
-## _js_src_toast_js
-### Line 72-81
-```
-    this._timeout = null
-    this._setListeners()
-    Data.setData(element, DATA_KEY, this)
-  }
-
-  // Getters
-
-  static get VERSION() {
-    return VERSION
-  }
-```
-### Line 86-95
-```
-
-  static get Default() {
-    return Default
-  }
-
-  // Public
-
-  show() {
-    const showEvent = EventHandler.trigger(this._element, Event.SHOW)
-
-```
-### Line 167-176
-```
-
-    this._element = null
-    this._config = null
-  }
-
-  // Private
+## _js_tests_unit_dom_data_spec_js
 
-  _getConfig(config) {
-    config = {
-      ...Default,
-```
-### Line 194-203
-```
-      Selector.DATA_DISMISS,
-      () => this.hide()
-    )
-  }
-
-  // Static
-
-  static jQueryInterface(config) {
-    return this.each(function () {
-      let data = Data.getData(this, DATA_KEY)
-```
-
-## _js_tests_integration_bundle_js
-
-## _js_src_tab_js
-### Line 67-82
-```
-    this._element = element
-
-    Data.setData(this._element, DATA_KEY, this)
-  }
-
-  // Getters
+## _build_postcss_config_js
 
-  static get VERSION() {
-    return VERSION
-  }
-
-  // Public
-
-  show() {
-    if ((this._element.parentNode &&
-      this._element.parentNode.nodeType === Node.ELEMENT_NODE &&
-```
-### Line 136-145
-```
-  dispose() {
-    Data.removeData(this._element, DATA_KEY)
-    this._element = null
-  }
-
-  // Private
-
-  _activate(element, container, callback) {
-    const activeElements = container && (container.nodeName === 'UL' || container.nodeName === 'OL') ?
-      SelectorEngine.find(Selector.ACTIVE_UL, container) :
-```
-### Line 206-215
-```
-    if (callback) {
-      callback()
-    }
-  }
-
-  // Static
-
-  static jQueryInterface(config) {
-    return this.each(function () {
-      const data = Data.getData(this, DATA_KEY) || new Tab(this)
-```
+## _site_content_docs_4_3_examples_offcanvas_offcanvas_js
 
 ## _js_src_dropdown_js
 ### Line 113-122
@@ -4129,6 +2727,7 @@ export { Alert, Button, Carousel, Collapse, Dropdown, Modal, Popover, ScrollSpy,
   static get VERSION() {
     return VERSION
   }
+
 ```
 ### Line 127-136
 ```
@@ -4142,6 +2741,7 @@ export { Alert, Button, Carousel, Collapse, Dropdown, Modal, Popover, ScrollSpy,
   toggle() {
     if (this._element.disabled || this._element.classList.contains(ClassName.DISABLED)) {
       return
+
 ```
 ### Line 161-170
 ```
@@ -4155,6 +2755,7 @@ export { Alert, Button, Carousel, Collapse, Dropdown, Modal, Popover, ScrollSpy,
       if (typeof Popper === 'undefined') {
         throw new TypeError('Bootstrap\'s dropdowns require Popper.js (https://popper.js.org)')
       }
+
 ```
 ### Line 174-202
 ```
@@ -4187,6 +2788,7 @@ export { Alert, Button, Carousel, Collapse, Dropdown, Modal, Popover, ScrollSpy,
       !makeArray(SelectorEngine.closest(parent, Selector.NAVBAR_NAV)).length) {
       makeArray(document.body.children)
         .forEach(elem => EventHandler.on(elem, 'mouseover', null, noop()))
+
 ```
 ### Line 251-260
 ```
@@ -4200,6 +2802,7 @@ export { Alert, Button, Carousel, Collapse, Dropdown, Modal, Popover, ScrollSpy,
   _addEventListeners() {
     EventHandler.on(this._element, Event.CLICK, event => {
       event.preventDefault()
+
 ```
 ### Line 287-296
 ```
@@ -4213,6 +2816,7 @@ export { Alert, Button, Carousel, Collapse, Dropdown, Modal, Popover, ScrollSpy,
       placement = AttachmentMap.TOP
       if (this._menu.classList.contains(ClassName.MENURIGHT)) {
         placement = AttachmentMap.TOPEND
+
 ```
 ### Line 341-350
 ```
@@ -4226,6 +2830,7 @@ export { Alert, Button, Carousel, Collapse, Dropdown, Modal, Popover, ScrollSpy,
       popperConfig.modifiers.applyStyle = {
         enabled: false
       }
+
 ```
 ### Line 354-363
 ```
@@ -4239,6 +2844,7 @@ export { Alert, Button, Carousel, Collapse, Dropdown, Modal, Popover, ScrollSpy,
   static dropdownInterface(element, config) {
     let data = Data.getData(element, DATA_KEY)
     const _config = typeof config === 'object' ? config : null
+
 ```
 ### Line 418-428
 ```
@@ -4253,6 +2859,7 @@ export { Alert, Button, Carousel, Collapse, Dropdown, Modal, Popover, ScrollSpy,
         makeArray(document.body.children)
           .forEach(elem => EventHandler.off(elem, 'mouseover', null, noop()))
       }
+
 ```
 ### Line 442-457
 ```
@@ -4272,129 +2879,281 @@ export { Alert, Button, Carousel, Collapse, Dropdown, Modal, Popover, ScrollSpy,
       event.which === SPACE_KEYCODE || (event.which !== ESCAPE_KEYCODE &&
       ((event.which !== ARROW_DOWN_KEYCODE && event.which !== ARROW_UP_KEYCODE) ||
         SelectorEngine.closest(event.target, Selector.MENU))) :
+
 ```
 
-## _dist_js_bootstrap_bundle_js
-### Line 506-515
+## _js_src_carousel_js
+### Line 131-140
 ```
-    eventRegistry[uid] = eventRegistry[uid] || {};
-    return eventRegistry[uid];
+
+    this._addEventListeners()
+    Data.setData(element, DATA_KEY, this)
   }
 
-  function fixEvent(event, element) {
-    // Add which for key events
-    if (event.which === null && keyEventRegex.test(event.type)) {
-      event.which = event.charCode === null ? event.keyCode : event.charCode;
+  // Getters
+
+  static get VERSION() {
+    return VERSION
+  }
+
+```
+### Line 141-160
+```
+
+  static get Default() {
+    return Default
+  }
+
+  // Public
+
+  next() {
+    if (!this._isSliding) {
+      this._slide(Direction.NEXT)
+    }
+  }
+
+  nextWhenVisible() {
+    // Don't call next when the page isn't visible
+    // or the carousel or its parent isn't visible
+    if (!document.hidden && isVisible(this._element)) {
+      this.next()
+    }
+  }
+
+```
+### Line 235-244
+```
+    this._isSliding = null
+    this._activeElement = null
+    this._indicatorsElement = null
+  }
+
+  // Private
+
+  _getConfig(config) {
+    config = {
+      ...Default,
+
+```
+### Line 257-271
+```
+
+    const direction = absDeltax / this.touchDeltaX
+
+    this.touchDeltaX = 0
+
+    // swipe left
+    if (direction > 0) {
+      this.prev()
     }
 
-```
-### Line 664-673
-```
-      var inNamespace = typeEvent !== originalTypeEvent;
-      var events = getEvent(element);
-      var isNamespace = originalTypeEvent.charAt(0) === '.';
-
-      if (typeof originalHandler !== 'undefined') {
-        // Simplest case: handler is passed, remove that listener ONLY.
-        if (!events || !events[typeEvent]) {
-          return;
-        }
+    // swipe right
+    if (direction < 0) {
+      this.next()
+    }
+  }
 
 ```
-### Line 872-881
+### Line 296-305
 ```
-    } // Getters
-
-
-    var _proto = Alert.prototype;
-
-    // Public
-    _proto.close = function close(element) {
-      var rootElement = this._element;
-
-      if (element) {
-```
-### Line 1047-1056
-```
-    } // Getters
-
-
-    var _proto = Button.prototype;
-
-    // Public
-    _proto.toggle = function toggle() {
-      var triggerChangeEvent = true;
-      var addAriaPressed = true;
-      var rootElement = SelectorEngine.closest(this._element, Selector$1.DATA_TOGGLE);
-```
-### Line 1373-1391
-```
-    } // Getters
-
-
-    var _proto = Carousel.prototype;
-
-    // Public
-    _proto.next = function next() {
-      if (!this._isSliding) {
-        this._slide(Direction.NEXT);
+        this.touchStartX = event.touches[0].clientX
       }
-    };
+    }
 
-    _proto.nextWhenVisible = function nextWhenVisible() {
-      // Don't call next when the page isn't visible
-      // or the carousel or its parent isn't visible
-      if (!document.hidden && isVisible(this._element)) {
-        this.next();
-      }
-    };
-```
-### Line 1527-1536
-```
-          _this3.touchStartX = event.touches[0].clientX;
-        }
-      };
+    const move = event => {
+      // ensure swiping with one touch and not pinching
+      if (event.touches && event.touches.length > 1) {
+        this.touchDeltaX = 0
+      } else {
+        this.touchDeltaX = event.touches[0].clientX - this.touchStartX
 
-      var move = function move(event) {
-        // ensure swiping with one touch and not pinching
-        if (event.touches && event.touches.length > 1) {
-          _this3.touchDeltaX = 0;
-        } else {
-          _this3.touchDeltaX = event.touches[0].clientX - _this3.touchStartX;
 ```
-### Line 1543-1558
+### Line 311-326
 ```
-        }
-
-        _this3._handleSwipe();
-
-        if (_this3._config.pause === 'hover') {
-          // If it's a touch-enabled device, mouseenter/leave are fired as
-          // part of the mouse compatibility events on first tap - the carousel
-          // would stop cycling until user tapped out of it;
-          // here, we listen for touchend, explicitly pause the carousel
-          // (as if it's the second time we tap on it, mouseenter compat event
-          // is NOT fired) and after a timeout (to allow for mouse compatibility
-          // events to fire) we explicitly restart cycling
-          _this3.pause();
-
-          if (_this3.touchTimeout) {
-            clearTimeout(_this3.touchTimeout);
-```
-### Line 1700-1709
-```
-      if (slideEvent.defaultPrevented) {
-        return;
+        this.touchDeltaX = event.clientX - this.touchStartX
       }
 
-      if (!activeElement || !nextElement) {
-        // Some weirdness is happening, so we bail
-        return;
-      }
+      this._handleSwipe()
+      if (this._config.pause === 'hover') {
+        // If it's a touch-enabled device, mouseenter/leave are fired as
+        // part of the mouse compatibility events on first tap - the carousel
+        // would stop cycling until user tapped out of it;
+        // here, we listen for touchend, explicitly pause the carousel
+        // (as if it's the second time we tap on it, mouseenter compat event
+        // is NOT fired) and after a timeout (to allow for mouse compatibility
+        // events to fire) we explicitly restart cycling
 
-      this._isSliding = true;
+        this.pause()
+        if (this.touchTimeout) {
+          clearTimeout(this.touchTimeout)
+
 ```
-### Line 1962-1971
+### Line 453-462
+```
+    if (slideEvent.defaultPrevented) {
+      return
+    }
+
+    if (!activeElement || !nextElement) {
+      // Some weirdness is happening, so we bail
+      return
+    }
+
+    this._isSliding = true
+
+```
+### Line 524-533
+```
+    if (isCycling) {
+      this.cycle()
+    }
+  }
+
+  // Static
+
+  static carouselInterface(element, config) {
+    let data = Data.getData(element, DATA_KEY)
+    let _config = {
+
+```
+
+## _js_tests_unit_util_sanitizer_spec_js
+
+## _build_change_version_js
+### Line 1-5
+```
+#!/usr/bin/env node
+
+/*!
+ * Script to update version number references in the project.
+ * Copyright 2017-2019 The Bootstrap Authors
+
+```
+### Line 13-22
+```
+const path = require('path')
+const sh = require('shelljs')
+
+sh.config.fatal = true
+
+// Blame TC39... https://github.com/benjamingr/RegExp.escape/issues/37
+function regExpQuote(string) {
+  return string.replace(/[-\\^$*+?.()|[\]{}]/g, '\\$&')
+}
+
+
+```
+### Line 93-102
+```
+    '_gh_pages',
+    'node_modules',
+    'vendor'
+  ])
+  const INCLUDED_EXTENSIONS = new Set([
+    // This extension whitelist is how we avoid modifying binary files
+    '',
+    '.css',
+    '.html',
+    '.js',
+
+```
+
+## _js_src_button_js
+### Line 52-67
+```
+  constructor(element) {
+    this._element = element
+    Data.setData(element, DATA_KEY, this)
+  }
+
+  // Getters
+
+  static get VERSION() {
+    return VERSION
+  }
+
+  // Public
+
+  toggle() {
+    let triggerChangeEvent = true
+    let addAriaPressed = true
+
+```
+### Line 116-125
+```
+  dispose() {
+    Data.removeData(this._element, DATA_KEY)
+    this._element = null
+  }
+
+  // Static
+
+  static jQueryInterface(config) {
+    return this.each(function () {
+      let data = Data.getData(this, DATA_KEY)
+
+```
+
+## _js_src_toast_js
+### Line 72-81
+```
+    this._timeout = null
+    this._setListeners()
+    Data.setData(element, DATA_KEY, this)
+  }
+
+  // Getters
+
+  static get VERSION() {
+    return VERSION
+  }
+
+```
+### Line 86-95
+```
+
+  static get Default() {
+    return Default
+  }
+
+  // Public
+
+  show() {
+    const showEvent = EventHandler.trigger(this._element, Event.SHOW)
+
+
+```
+### Line 167-176
+```
+
+    this._element = null
+    this._config = null
+  }
+
+  // Private
+
+  _getConfig(config) {
+    config = {
+      ...Default,
+
+```
+### Line 194-203
+```
+      Selector.DATA_DISMISS,
+      () => this.hide()
+    )
+  }
+
+  // Static
+
+  static jQueryInterface(config) {
+    return this.each(function () {
+      let data = Data.getData(this, DATA_KEY)
+
+```
+
+## _js_dist_collapse_js
+### Line 288-297
 ```
     } // Getters
 
@@ -4403,11 +3162,12 @@ export { Alert, Button, Carousel, Collapse, Dropdown, Modal, Popover, ScrollSpy,
 
     // Public
     _proto.toggle = function toggle() {
-      if (this._element.classList.contains(ClassName$3.SHOW)) {
+      if (this._element.classList.contains(ClassName.SHOW)) {
         this.hide();
       } else {
+
 ```
-### Line 2155-2164
+### Line 481-490
 ```
       var _this3 = this;
 
@@ -4419,24 +3179,26 @@ export { Alert, Button, Carousel, Collapse, Dropdown, Modal, Popover, ScrollSpy,
           parent = parent[0];
         }
       } else {
+
 ```
-### Line 2245-2254
+### Line 571-580
 ```
    * ------------------------------------------------------------------------
    */
 
 
-  EventHandler.on(document, Event$4.CLICK_DATA_API, Selector$3.DATA_TOGGLE, function (event) {
+  EventHandler.on(document, Event.CLICK_DATA_API, Selector.DATA_TOGGLE, function (event) {
     // preventDefault only for <a> elements (which change the URL) not inside the collapsible element
     if (event.target.tagName === 'A') {
       event.preventDefault();
     }
 
+
 ```
-### Line 2258-2267
+### Line 584-593
 ```
     selectorElements.forEach(function (element) {
-      var data = Data.getData(element, DATA_KEY$3);
+      var data = Data.getData(element, DATA_KEY);
       var config;
 
       if (data) {
@@ -4445,1099 +3207,51 @@ export { Alert, Button, Carousel, Collapse, Dropdown, Modal, Popover, ScrollSpy,
           data._config.parent = triggerData.parent;
           data._parent = data._getParent();
         }
-```
-### Line 2391-2400
-```
-   */
-  function getStyleComputedProperty(element, property) {
-    if (element.nodeType !== 1) {
-      return [];
-    }
-    // NOTE: 1 DOM access here
-    var window = element.ownerDocument.defaultView;
-    var css = window.getComputedStyle(element, null);
-    return property ? css[property] : css;
-  }
-```
-### Line 2419-2428
-```
-   * @memberof Popper.Utils
-   * @argument {Element} element
-   * @returns {Element} scroll parent
-   */
-  function getScrollParent(element) {
-    // Return body, `getScroll` will take care to get the correct `scrollTop` from it
-    if (!element) {
-      return document.body;
-    }
 
 ```
-### Line 2432-2441
+### Line 622-627
 ```
-        return element.ownerDocument.body;
-      case '#document':
-        return element.body;
-    }
-
-    // Firefox want us to check `-x` and `-y` variations as well
-
-    var _getStyleComputedProp = getStyleComputedProperty(element),
-        overflow = _getStyleComputedProp.overflow,
-        overflowX = _getStyleComputedProp.overflowX,
-```
-### Line 2480-2491
-```
-      return document.documentElement;
-    }
-
-    var noOffsetParent = isIE(10) ? document.body : null;
-
-    // NOTE: 1 DOM access here
-    var offsetParent = element.offsetParent || null;
-    // Skip hidden elements which don't have an offsetParent
-    while (offsetParent === noOffsetParent && element.nextElementSibling) {
-      offsetParent = (element = element.nextElementSibling).offsetParent;
-    }
-
-```
-### Line 2493-2503
-```
-
-    if (!nodeName || nodeName === 'BODY' || nodeName === 'HTML') {
-      return element ? element.ownerDocument.documentElement : document.documentElement;
-    }
-
-    // .offsetParent will return the closest TH, TD or TABLE in case
-    // no offsetParent is present, I hate this job...
-    if (['TH', 'TD', 'TABLE'].indexOf(offsetParent.nodeName) !== -1 && getStyleComputedProperty(offsetParent, 'position') === 'static') {
-      return getOffsetParent(offsetParent);
-    }
-
-```
-### Line 2535-2560
-```
-   * @argument {Element} element1
-   * @argument {Element} element2
-   * @returns {Element} common offset parent
-   */
-  function findCommonOffsetParent(element1, element2) {
-    // This check is needed to avoid errors in case one of the elements isn't defined for any reason
-    if (!element1 || !element1.nodeType || !element2 || !element2.nodeType) {
-      return document.documentElement;
-    }
-
-    // Here we make sure to give as "start" the element that comes first in the DOM
-    var order = element1.compareDocumentPosition(element2) & Node.DOCUMENT_POSITION_FOLLOWING;
-    var start = order ? element1 : element2;
-    var end = order ? element2 : element1;
-
-    // Get common ancestor container
-    var range = document.createRange();
-    range.setStart(start, 0);
-    range.setEnd(end, 0);
-    var commonAncestorContainer = range.commonAncestorContainer;
-
-    // Both nodes are inside #document
-
-    if (element1 !== commonAncestorContainer && element2 !== commonAncestorContainer || start.contains(end)) {
-      if (isOffsetContainer(commonAncestorContainer)) {
-        return commonAncestorContainer;
-```
-### Line 2561-2570
-```
-      }
-
-      return getOffsetParent(commonAncestorContainer);
-    }
-
-    // one of the nodes is inside shadowDOM, find which one
-    var element1root = getRoot(element1);
-    if (element1root.host) {
-      return findCommonOffsetParent(element1root.host, element2);
-    } else {
-```
-### Line 2728-2739
-```
-   * @return {Object} client rect
-   */
-  function getBoundingClientRect(element) {
-    var rect = {};
-
-    // IE10 10 FIX: Please, don't ask, the element isn't
-    // considered in DOM in some circumstances...
-    // This isn't reproducible in IE10 compatibility mode of IE11
-    try {
-      if (isIE(10)) {
-        rect = element.getBoundingClientRect();
-        var scrollTop = getScroll(element, 'top');
-```
-### Line 2752-2770
-```
-      top: rect.top,
-      width: rect.right - rect.left,
-      height: rect.bottom - rect.top
-    };
-
-    // subtract scrollbar size from sizes
-    var sizes = element.nodeName === 'HTML' ? getWindowSizes(element.ownerDocument) : {};
-    var width = sizes.width || element.clientWidth || result.right - result.left;
-    var height = sizes.height || element.clientHeight || result.bottom - result.top;
-
-    var horizScrollbar = element.offsetWidth - width;
-    var vertScrollbar = element.offsetHeight - height;
-
-    // if an hypothetical scrollbar is detected, we must be sure it's not a `border`
-    // we make this check conditional for performance reasons
-    if (horizScrollbar || vertScrollbar) {
-      var styles = getStyleComputedProperty(element);
-      horizScrollbar -= getBordersSize(styles, 'x');
-      vertScrollbar -= getBordersSize(styles, 'y');
-```
-### Line 2787-2796
-```
-
-    var styles = getStyleComputedProperty(parent);
-    var borderTopWidth = parseFloat(styles.borderTopWidth, 10);
-    var borderLeftWidth = parseFloat(styles.borderLeftWidth, 10);
-
-    // In cases where the parent is fixed, we must ignore negative scroll in offset calc
-    if (fixedPosition && isHTML) {
-      parentRect.top = Math.max(parentRect.top, 0);
-      parentRect.left = Math.max(parentRect.left, 0);
-    }
-```
-### Line 2801-2813
-```
-      height: childrenRect.height
-    });
-    offsets.marginTop = 0;
-    offsets.marginLeft = 0;
-
-    // Subtract margins of documentElement in case it's being used as parent
-    // we do this only on HTML because it's the only element that behaves
-    // differently when margins are applied to it. The margins are included in
-    // the box of the documentElement, in the other cases not.
-    if (!isIE10 && isHTML) {
-      var marginTop = parseFloat(styles.marginTop, 10);
-      var marginLeft = parseFloat(styles.marginLeft, 10);
-
-```
-### Line 2814-2823
-```
-      offsets.top -= borderTopWidth - marginTop;
-      offsets.bottom -= borderTopWidth - marginTop;
-      offsets.left -= borderLeftWidth - marginLeft;
-      offsets.right -= borderLeftWidth - marginLeft;
-
-      // Attach marginTop and marginLeft because in some circumstances we may need them
-      offsets.marginTop = marginTop;
-      offsets.marginLeft = marginLeft;
-    }
-
-```
-### Line 2879-2888
-```
-   * @argument {Element} element
-   * @returns {Element} first transformed parent or documentElement
-   */
-
-  function getFixedPositionOffsetParent(element) {
-    // This check is needed to avoid errors in case one of the elements isn't defined for any reason
-    if (!element || !element.parentElement || isIE()) {
-      return document.documentElement;
-    }
-    var el = element.parentElement;
-```
-### Line 2904-2922
-```
-   * @returns {Object} Coordinates of the boundaries
-   */
-  function getBoundaries(popper, reference, padding, boundariesElement) {
-    var fixedPosition = arguments.length > 4 && arguments[4] !== undefined ? arguments[4] : false;
-
-    // NOTE: 1 DOM access here
-
-    var boundaries = { top: 0, left: 0 };
-    var offsetParent = fixedPosition ? getFixedPositionOffsetParent(popper) : findCommonOffsetParent(popper, reference);
-
-    // Handle viewport case
-    if (boundariesElement === 'viewport') {
-      boundaries = getViewportOffsetRectRelativeToArtbitraryNode(offsetParent, fixedPosition);
-    } else {
-      // Handle other cases based on DOM element used as boundaries
-      var boundariesNode = void 0;
-      if (boundariesElement === 'scrollParent') {
-        boundariesNode = getScrollParent(getParentNode(reference));
-        if (boundariesNode.nodeName === 'BODY') {
-```
-### Line 2928-2937
-```
-        boundariesNode = boundariesElement;
-      }
-
-      var offsets = getOffsetRectRelativeToArbitraryNode(boundariesNode, offsetParent, fixedPosition);
-
-      // In case of HTML, we need a different computation
-      if (boundariesNode.nodeName === 'HTML' && !isFixed(offsetParent)) {
-        var _getWindowSizes = getWindowSizes(popper.ownerDocument),
-            height = _getWindowSizes.height,
-            width = _getWindowSizes.width;
-```
-### Line 2939-2953
-```
-        boundaries.top += offsets.top - offsets.marginTop;
-        boundaries.bottom = height + offsets.top;
-        boundaries.left += offsets.left - offsets.marginLeft;
-        boundaries.right = width + offsets.left;
-      } else {
-        // for all the other DOM elements, this one is good
-        boundaries = offsets;
-      }
-    }
-
-    // Add paddings
-    padding = padding || 0;
-    var isPaddingNumber = typeof padding === 'number';
-    boundaries.left += isPaddingNumber ? padding : padding.left || 0;
-    boundaries.top += isPaddingNumber ? padding : padding.top || 0;
-```
-### Line 3085-3103
-```
-   * @returns {Object} popperOffsets - An object containing the offsets which will be applied to the popper
-   */
-  function getPopperOffsets(popper, referenceOffsets, placement) {
-    placement = placement.split('-')[0];
-
-    // Get popper node sizes
-    var popperRect = getOuterSizes(popper);
-
-    // Add position, width and height to our offsets object
-    var popperOffsets = {
-      width: popperRect.width,
-      height: popperRect.height
-    };
-
-    // depending by the popper placement we have to compute its offsets slightly differently
-    var isHoriz = ['right', 'left'].indexOf(placement) !== -1;
-    var mainSide = isHoriz ? 'top' : 'left';
-    var secondarySide = isHoriz ? 'left' : 'top';
-    var measurement = isHoriz ? 'height' : 'width';
-```
-### Line 3121-3135
-```
-   * @argument prop
-   * @argument value
-   * @returns index or -1
-   */
-  function find$1(arr, check) {
-    // use native find if supported
-    if (Array.prototype.find) {
-      return arr.find(check);
-    }
-
-    // use `filter` to obtain the same behavior of `find`
-    return arr.filter(check)[0];
   }
 
-  /**
-```
-### Line 3140-3156
-```
-   * @argument prop
-   * @argument value
-   * @returns index or -1
-   */
-  function findIndex(arr, prop, value) {
-    // use native findIndex if supported
-    if (Array.prototype.findIndex) {
-      return arr.findIndex(function (cur) {
-        return cur[prop] === value;
-      });
-    }
-
-    // use `find` + `indexOf` if `findIndex` isn't supported
-    var match = find$1(arr, function (obj) {
-      return obj[prop] === value;
-    });
-    return arr.indexOf(match);
-```
-### Line 3169-3185
-```
-  function runModifiers(modifiers, data, ends) {
-    var modifiersToRun = ends === undefined ? modifiers : modifiers.slice(0, findIndex(modifiers, 'name', ends));
-
-    modifiersToRun.forEach(function (modifier) {
-      if (modifier['function']) {
-        // eslint-disable-line dot-notation
-        console.warn('`modifier.function` is deprecated, use `modifier.fn`!');
-      }
-      var fn = modifier['function'] || modifier.fn; // eslint-disable-line dot-notation
-      if (modifier.enabled && isFunction(fn)) {
-        // Add properties to offsets to make them a complete clientRect object
-        // we do this before each modifier to make sure the previous one doesn't
-        // mess with these values
-        data.offsets.popper = getClientRect(data.offsets.popper);
-        data.offsets.reference = getClientRect(data.offsets.reference);
-
-        data = fn(data, modifier);
-```
-### Line 3195-3204
-```
-   * Prefer `scheduleUpdate` over `update` because of performance reasons.
-   * @method
-   * @memberof Popper
-   */
-  function update() {
-    // if popper is destroyed, don't perform any further update
-    if (this.state.isDestroyed) {
-      return;
-    }
-
-```
-### Line 3209-3240
-```
-      attributes: {},
-      flipped: false,
-      offsets: {}
-    };
-
-    // compute reference element offsets
-    data.offsets.reference = getReferenceOffsets(this.state, this.popper, this.reference, this.options.positionFixed);
-
-    // compute auto placement, store placement inside the data object,
-    // modifiers will be able to edit `placement` if needed
-    // and refer to originalPlacement to know the original value
-    data.placement = computeAutoPlacement(this.options.placement, data.offsets.reference, this.popper, this.reference, this.options.modifiers.flip.boundariesElement, this.options.modifiers.flip.padding);
-
-    // store the computed placement inside `originalPlacement`
-    data.originalPlacement = data.placement;
-
-    data.positionFixed = this.options.positionFixed;
-
-    // compute the popper offsets
-    data.offsets.popper = getPopperOffsets(this.popper, data.offsets.reference, data.placement);
-
-    data.offsets.popper.position = this.options.positionFixed ? 'fixed' : 'absolute';
-
-    // run the modifiers
-    data = runModifiers(this.modifiers, data);
-
-    // the first `update` will call `onCreate` callback
-    // the other ones will call `onUpdate` callback
-    if (!this.state.isCreated) {
-      this.state.isCreated = true;
-      this.options.onCreate(data);
-    } else {
-```
-### Line 3283-3292
-```
-   * @memberof Popper
-   */
-  function destroy() {
-    this.state.isDestroyed = true;
-
-    // touch DOM only if `applyStyle` modifier is enabled
-    if (isModifierEnabled(this.modifiers, 'applyStyle')) {
-      this.popper.removeAttribute('x-placement');
-      this.popper.style.position = '';
-      this.popper.style.top = '';
-```
-### Line 3297-3307
-```
-      this.popper.style[getSupportedPropertyName('transform')] = '';
-    }
-
-    this.disableEventListeners();
-
-    // remove the popper if user explicity asked for the deletion on destroy
-    // do not use `remove` because IE11 doesn't support it
-    if (this.options.removeOnDestroy) {
-      this.popper.parentNode.removeChild(this.popper);
-    }
-    return this;
-```
-### Line 3333-3346
-```
-   * @method
-   * @memberof Popper.Utils
-   * @private
-   */
-  function setupEventListeners(reference, options, state, updateBound) {
-    // Resize event listener on window
-    state.updateBound = updateBound;
-    getWindow(reference).addEventListener('resize', state.updateBound, { passive: true });
-
-    // Scroll event listener on scroll parents
-    var scrollElement = getScrollParent(reference);
-    attachToScrollParents(scrollElement, 'scroll', state.updateBound, state.scrollParents);
-    state.scrollElement = scrollElement;
-    state.eventsEnabled = true;
-```
-### Line 3365-3382
-```
-   * @method
-   * @memberof Popper.Utils
-   * @private
-   */
-  function removeEventListeners(reference, state) {
-    // Remove resize event listener on window
-    getWindow(reference).removeEventListener('resize', state.updateBound);
-
-    // Remove scroll event listener on scroll parents
-    state.scrollParents.forEach(function (target) {
-      target.removeEventListener('scroll', state.updateBound);
-    });
-
-    // Reset state
-    state.updateBound = null;
-    state.scrollParents = [];
-    state.scrollElement = null;
-    state.eventsEnabled = false;
-```
-### Line 3417-3426
-```
-   * Object with a list of properties and values which will be applied to the element
-   */
-  function setStyles(element, styles) {
-    Object.keys(styles).forEach(function (prop) {
-      var unit = '';
-      // add unit if the value is numeric and is one of the following
-      if (['width', 'height', 'top', 'right', 'bottom', 'left'].indexOf(prop) !== -1 && isNumeric(styles[prop])) {
-        unit = 'px';
-      }
-      element.style[prop] = styles[prop] + unit;
-```
-### Line 3454-3473
-```
-   * @argument {Object} data.attributes - List of attribute properties - values to apply to popper element
-   * @argument {Object} options - Modifiers configuration and options
-   * @returns {Object} The same data object
-   */
-  function applyStyle(data) {
-    // any property present in `data.styles` will be applied to the popper,
-    // in this way we can make the 3rd party modifiers add custom styles to it
-    // Be aware, modifiers could override the properties defined in the previous
-    // lines of this modifier!
-    setStyles(data.instance.popper, data.styles);
-
-    // any property present in `data.attributes` will be applied to the popper,
-    // they will be set as HTML attributes of the element
-    setAttributes(data.instance.popper, data.attributes);
-
-    // if arrowElement is defined and arrowStyles has some properties
-    if (data.arrowElement && Object.keys(data.arrowStyles).length) {
-      setStyles(data.arrowElement, data.arrowStyles);
-    }
-
-```
-### Line 3483-3503
-```
-   * @param {HTMLElement} reference - The reference element used to position the popper
-   * @param {HTMLElement} popper - The HTML element used as popper
-   * @param {Object} options - Popper.js options
-   */
-  function applyStyleOnLoad(reference, popper, options, modifierOptions, state) {
-    // compute reference element offsets
-    var referenceOffsets = getReferenceOffsets(state, popper, reference, options.positionFixed);
-
-    // compute auto placement, store placement inside the data object,
-    // modifiers will be able to edit `placement` if needed
-    // and refer to originalPlacement to know the original value
-    var placement = computeAutoPlacement(options.placement, referenceOffsets, popper, reference, options.modifiers.flip.boundariesElement, options.modifiers.flip.padding);
-
-    popper.setAttribute('x-placement', placement);
-
-    // Apply `position` to popper before anything else because
-    // without the position applied we can't guarantee correct computations
-    setStyles(popper, { position: options.positionFixed ? 'fixed' : 'absolute' });
-
-    return options;
-  }
-```
-### Line 3563-3572
-```
-  function computeStyle(data, options) {
-    var x = options.x,
-        y = options.y;
-    var popper = data.offsets.popper;
-
-    // Remove this legacy support in Popper.js v2
-
-    var legacyGpuAccelerationOption = find$1(data.instance.modifiers, function (modifier) {
-      return modifier.name === 'applyStyle';
-    }).gpuAcceleration;
-```
-### Line 3576-3585
-```
-    var gpuAcceleration = legacyGpuAccelerationOption !== undefined ? legacyGpuAccelerationOption : options.gpuAcceleration;
-
-    var offsetParent = getOffsetParent(data.instance.popper);
-    var offsetParentRect = getBoundingClientRect(offsetParent);
-
-    // Styles
-    var styles = {
-      position: popper.position
-    };
-
-```
-### Line 3586-3613
-```
-    var offsets = getRoundedOffsets(data, window.devicePixelRatio < 2 || !isFirefox);
-
-    var sideA = x === 'bottom' ? 'top' : 'bottom';
-    var sideB = y === 'right' ? 'left' : 'right';
-
-    // if gpuAcceleration is set to `true` and transform is supported,
-    //  we use `translate3d` to apply the position to the popper we
-    // automatically use the supported prefixed version if needed
-    var prefixedProperty = getSupportedPropertyName('transform');
-
-    // now, let's make a step back and look at this code closely (wtf?)
-    // If the content of the popper grows once it's been positioned, it
-    // may happen that the popper gets misplaced because of the new content
-    // overflowing its reference element
-    // To avoid this problem, we provide two options (x and y), which allow
-    // the consumer to define the offset origin.
-    // If we position a popper on top of a reference element, we can set
-    // `x` to `top` to make the popper grow towards its top instead of
-    // its bottom.
-    var left = void 0,
-        top = void 0;
-    if (sideA === 'bottom') {
-      // when offsetParent is <html> the positioning is relative to the bottom of the screen (excluding the scrollbar)
-      // and not the bottom of the html element
-      if (offsetParent.nodeName === 'HTML') {
-        top = -offsetParent.clientHeight + offsets.bottom;
-      } else {
-        top = -offsetParentRect.height + offsets.bottom;
-```
-### Line 3628-3650
-```
-      styles[prefixedProperty] = 'translate3d(' + left + 'px, ' + top + 'px, 0)';
-      styles[sideA] = 0;
-      styles[sideB] = 0;
-      styles.willChange = 'transform';
-    } else {
-      // othwerise, we use the standard `top`, `left`, `bottom` and `right` properties
-      var invertTop = sideA === 'bottom' ? -1 : 1;
-      var invertLeft = sideB === 'right' ? -1 : 1;
-      styles[sideA] = top * invertTop;
-      styles[sideB] = left * invertLeft;
-      styles.willChange = sideA + ', ' + sideB;
-    }
-
-    // Attributes
-    var attributes = {
-      'x-placement': data.placement
-    };
-
-    // Update `data` attributes, styles and arrowStyles
-    data.attributes = _extends({}, attributes, data.attributes);
-    data.styles = _extends({}, styles, data.styles);
-    data.arrowStyles = _extends({}, data.offsets.arrow, data.arrowStyles);
-
-```
-### Line 3687-3713
-```
-   * @returns {Object} The data object, properly modified
-   */
-  function arrow(data, options) {
-    var _data$offsets$arrow;
-
-    // arrow depends on keepTogether in order to work
-    if (!isModifierRequired(data.instance.modifiers, 'arrow', 'keepTogether')) {
-      return data;
-    }
-
-    var arrowElement = options.element;
-
-    // if arrowElement is a string, suppose it's a CSS selector
-    if (typeof arrowElement === 'string') {
-      arrowElement = data.instance.popper.querySelector(arrowElement);
-
-      // if arrowElement is not found, don't run the modifier
-      if (!arrowElement) {
-        return data;
-      }
-    } else {
-      // if the arrowElement isn't a query selector we must check that the
-      // provided DOM node is child of its popper node
-      if (!data.instance.popper.contains(arrowElement)) {
-        console.warn('WARNING: `arrow.element` must be child of its popper element!');
-        return data;
-      }
-```
-### Line 3725-3759
-```
-    var side = sideCapitalized.toLowerCase();
-    var altSide = isVertical ? 'left' : 'top';
-    var opSide = isVertical ? 'bottom' : 'right';
-    var arrowElementSize = getOuterSizes(arrowElement)[len];
-
-    //
-    // extends keepTogether behavior making sure the popper and its
-    // reference have enough pixels in conjunction
-    //
-
-    // top/left side
-    if (reference[opSide] - arrowElementSize < popper[side]) {
-      data.offsets.popper[side] -= popper[side] - (reference[opSide] - arrowElementSize);
-    }
-    // bottom/right side
-    if (reference[side] + arrowElementSize > popper[opSide]) {
-      data.offsets.popper[side] += reference[side] + arrowElementSize - popper[opSide];
-    }
-    data.offsets.popper = getClientRect(data.offsets.popper);
-
-    // compute center of the popper
-    var center = reference[side] + reference[len] / 2 - arrowElementSize / 2;
-
-    // Compute the sideValue using the updated popper offsets
-    // take popper margin in account because we don't have this info available
-    var css = getStyleComputedProperty(data.instance.popper);
-    var popperMarginSide = parseFloat(css['margin' + sideCapitalized], 10);
-    var popperBorderSide = parseFloat(css['border' + sideCapitalized + 'Width'], 10);
-    var sideValue = center - data.offsets.popper[side] - popperMarginSide - popperBorderSide;
+  return Collapse;
 
-    // prevent arrowElement from being placed not contiguously to its popper
-    sideValue = Math.max(Math.min(popper[len] - arrowElementSize, sideValue), 0);
+}));
+//# sourceMappingURL=collapse.js.map
 
-    data.arrowElement = arrowElement;
-    data.offsets.arrow = (_data$offsets$arrow = {}, defineProperty(_data$offsets$arrow, side, Math.round(sideValue)), defineProperty(_data$offsets$arrow, altSide, ''), _data$offsets$arrow);
 ```
-### Line 3808-3817
-```
-   * @method placements
-   * @memberof Popper
-   */
-  var placements = ['auto-start', 'auto', 'auto-end', 'top-start', 'top', 'top-end', 'right-start', 'right', 'right-end', 'bottom-end', 'bottom', 'bottom-start', 'left-end', 'left', 'left-start'];
-
-  // Get rid of `auto` `auto-start` and `auto-end`
-  var validPlacements = placements.slice(3);
-
-  /**
-   * Given an initial placement, returns all the subsequent placements
-```
-### Line 3843-3858
-```
-   * @argument {Object} data - The data object generated by update method
-   * @argument {Object} options - Modifiers configuration and options
-   * @returns {Object} The data object, properly modified
-   */
-  function flip(data, options) {
-    // if `inner` modifier is enabled, we can't use the `flip` modifier
-    if (isModifierEnabled(data.instance.modifiers, 'inner')) {
-      return data;
-    }
-
-    if (data.flipped && data.placement === data.originalPlacement) {
-      // seems like flip is trying to loop, probably there's not enough space on any of the flippable sides
-      return data;
-    }
-
-    var boundaries = getBoundaries(data.instance.popper, data.instance.reference, options.padding, options.boundariesElement, data.positionFixed);
-```
-### Line 3886-3895
-```
-      placementOpposite = getOppositePlacement(placement);
-
-      var popperOffsets = data.offsets.popper;
-      var refOffsets = data.offsets.reference;
-
-      // using floor because the reference offsets may contain decimals we are not going to consider here
-      var floor = Math.floor;
-      var overlapsRef = placement === 'left' && floor(popperOffsets.right) > floor(refOffsets.left) || placement === 'right' && floor(popperOffsets.left) < floor(refOffsets.right) || placement === 'top' && floor(popperOffsets.bottom) > floor(refOffsets.top) || placement === 'bottom' && floor(popperOffsets.top) < floor(refOffsets.bottom);
-
-      var overflowsLeft = floor(popperOffsets.left) < floor(boundaries.left);
-```
-### Line 3897-3918
-```
-      var overflowsTop = floor(popperOffsets.top) < floor(boundaries.top);
-      var overflowsBottom = floor(popperOffsets.bottom) > floor(boundaries.bottom);
-
-      var overflowsBoundaries = placement === 'left' && overflowsLeft || placement === 'right' && overflowsRight || placement === 'top' && overflowsTop || placement === 'bottom' && overflowsBottom;
-
-      // flip the variation if required
-      var isVertical = ['top', 'bottom'].indexOf(placement) !== -1;
-
-      // flips variation if reference element overflows boundaries
-      var flippedVariationByRef = !!options.flipVariations && (isVertical && variation === 'start' && overflowsLeft || isVertical && variation === 'end' && overflowsRight || !isVertical && variation === 'start' && overflowsTop || !isVertical && variation === 'end' && overflowsBottom);
-
-      // flips variation if popper content overflows boundaries
-      var flippedVariationByContent = !!options.flipVariationsByContent && (isVertical && variation === 'start' && overflowsRight || isVertical && variation === 'end' && overflowsLeft || !isVertical && variation === 'start' && overflowsBottom || !isVertical && variation === 'end' && overflowsTop);
-
-      var flippedVariation = flippedVariationByRef || flippedVariationByContent;
-
-      if (overlapsRef || overflowsBoundaries || flippedVariation) {
-        // this boolean to detect any flip loop
-        data.flipped = true;
-
-        if (overlapsRef || overflowsBoundaries) {
-          placement = flipOrder[index + 1];
-```
-### Line 3922-3932
-```
-          variation = getOppositeVariation(variation);
-        }
-
-        data.placement = placement + (variation ? '-' + variation : '');
-
-        // this object contains `position`, we want to preserve it along with
-        // any additional property we may add in the future
-        data.offsets.popper = _extends({}, data.offsets.popper, getPopperOffsets(data.instance.popper, data.offsets.reference, data.placement));
-
-        data = runModifiers(data.instance.modifiers, data, 'flip');
-      }
-```
-### Line 3974-3988
-```
-   * @argument {Object} referenceOffsets
-   * @returns {Number|String}
-   * Value in pixels, or original string if no values were extracted
-   */
-  function toValue(str, measurement, popperOffsets, referenceOffsets) {
-    // separate value from unit
-    var split = str.match(/((?:\-|\+)?\d*\.?\d*)(.*)/);
-    var value = +split[1];
-    var unit = split[2];
-
-    // If it's not a number it's an operator, I guess
-    if (!value) {
-      return str;
-    }
-
-```
-### Line 3999-4018
-```
-      }
-
-      var rect = getClientRect(element);
-      return rect[measurement] / 100 * value;
-    } else if (unit === 'vh' || unit === 'vw') {
-      // if is a vh or vw, we calculate the size based on the viewport
-      var size = void 0;
-      if (unit === 'vh') {
-        size = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
-      } else {
-        size = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
-      }
-      return size / 100 * value;
-    } else {
-      // if is an explicit pixel unit, we get rid of the unit and keep the value
-      // if is an implicit unit, it's px, and we return just the value
-      return value;
-    }
-  }
-
-```
-### Line 4028-4070
-```
-   * @returns {Array} a two cells array with x and y offsets in numbers
-   */
-  function parseOffset(offset, popperOffsets, referenceOffsets, basePlacement) {
-    var offsets = [0, 0];
-
-    // Use height if placement is left or right and index is 0 otherwise use width
-    // in this way the first offset will use an axis and the second one
-    // will use the other one
-    var useHeight = ['right', 'left'].indexOf(basePlacement) !== -1;
-
-    // Split the offset string to obtain a list of values and operands
-    // The regex addresses values with the plus or minus sign in front (+10, -20, etc)
-    var fragments = offset.split(/(\+|\-)/).map(function (frag) {
-      return frag.trim();
-    });
-
-    // Detect if the offset string contains a pair of values or a single one
-    // they could be separated by comma or space
-    var divider = fragments.indexOf(find$1(fragments, function (frag) {
-      return frag.search(/,|\s/) !== -1;
-    }));
 
-    if (fragments[divider] && fragments[divider].indexOf(',') === -1) {
-      console.warn('Offsets separated by white space(s) are deprecated, use a comma (,) instead.');
-    }
+## _babelrc_js
 
-    // If divider is found, we divide the list of values and operands to divide
-    // them by ofset X and Y.
-    var splitRegex = /\s*,\s*|\s+/;
-    var ops = divider !== -1 ? [fragments.slice(0, divider).concat([fragments[divider].split(splitRegex)[0]]), [fragments[divider].split(splitRegex)[1]].concat(fragments.slice(divider + 1))] : [fragments];
+## _js_tests_unit_toast_spec_js
 
-    // Convert the values with units to absolute pixels to allow our computations
-    ops = ops.map(function (op, index) {
-      // Most of the units rely on the orientation of the popper
-      var measurement = (index === 1 ? !useHeight : useHeight) ? 'height' : 'width';
-      var mergeWithPrevious = false;
-      return op
-      // This aggregates any `+` or `-` sign that aren't considered operators
-      // e.g.: 10 + +5 => [10, +, +5]
-      .reduce(function (a, b) {
-        if (a[a.length - 1] === '' && ['+', '-'].indexOf(b) !== -1) {
-          a[a.length - 1] = b;
-          mergeWithPrevious = true;
-```
-### Line 4075-4090
-```
-          return a;
-        } else {
-          return a.concat(b);
-        }
-      }, [])
-      // Here we convert the string values into number values (in px)
-      .map(function (str) {
-        return toValue(str, measurement, popperOffsets, referenceOffsets);
-      });
-    });
-
-    // Loop trough the offsets arrays and execute the operations
-    ops.forEach(function (op, index) {
-      op.forEach(function (frag, index2) {
-        if (isNumeric(frag)) {
-          offsets[index] += frag * (op[index2 - 1] === '-' ? -1 : 1);
-```
-### Line 4145-4163
-```
-   * @returns {Object} The data object, properly modified
-   */
-  function preventOverflow(data, options) {
-    var boundariesElement = options.boundariesElement || getOffsetParent(data.instance.popper);
-
-    // If offsetParent is the reference element, we really want to
-    // go one step up and use the next offsetParent as reference to
-    // avoid to make this modifier completely useless and look like broken
-    if (data.instance.reference === boundariesElement) {
-      boundariesElement = getOffsetParent(boundariesElement);
-    }
-
-    // NOTE: DOM access here
-    // resets the popper's position so that the document size can be calculated excluding
-    // the size of the popper element itself
-    var transformProp = getSupportedPropertyName('transform');
-    var popperStyles = data.instance.popper.style; // assignment to help minification
-    var top = popperStyles.top,
-        left = popperStyles.left,
-```
-### Line 4167-4177
-```
-    popperStyles.left = '';
-    popperStyles[transformProp] = '';
-
-    var boundaries = getBoundaries(data.instance.popper, data.instance.reference, options.padding, boundariesElement, data.positionFixed);
-
-    // NOTE: DOM access here
-    // restores the original style properties after the offsets have been computed
-    popperStyles.top = top;
-    popperStyles.left = left;
-    popperStyles[transformProp] = transform;
-
-```
-### Line 4218-4227
-```
-  function shift(data) {
-    var placement = data.placement;
-    var basePlacement = placement.split('-')[0];
-    var shiftvariation = placement.split('-')[1];
-
-    // if shift shiftvariation is specified, run the modifier
-    if (shiftvariation) {
-      var _data$offsets = data.offsets,
-          reference = _data$offsets.reference,
-          popper = _data$offsets.popper;
-```
-### Line 4257-4274
-```
-    var bound = find$1(data.instance.modifiers, function (modifier) {
-      return modifier.name === 'preventOverflow';
-    }).boundaries;
-
-    if (refRect.bottom < bound.top || refRect.left > bound.right || refRect.top > bound.bottom || refRect.right < bound.left) {
-      // Avoid unnecessary DOM access if visibility hasn't changed
-      if (data.hide === true) {
-        return data;
-      }
-
-      data.hide = true;
-      data.attributes['x-out-of-boundaries'] = '';
-    } else {
-      // Avoid unnecessary DOM access if visibility hasn't changed
-      if (data.hide === false) {
-        return data;
-      }
-
-```
-### Line 4740-4750
-```
-  /**
-   * @callback onUpdate
-   * @param {dataObject} data
-   */
-
-  // Utils
-  // Methods
-  var Popper = function () {
-    /**
-     * Creates a new Popper.js instance.
-     * @class Popper
-```
-### Line 4761-4827
-```
-
-      this.scheduleUpdate = function () {
-        return requestAnimationFrame(_this.update);
-      };
-
-      // make update() debounced, so that it only runs at most once-per-tick
-      this.update = debounce(this.update.bind(this));
-
-      // with {} we create a new object with the options inside it
-      this.options = _extends({}, Popper.Defaults, options);
-
-      // init state
-      this.state = {
-        isDestroyed: false,
-        isCreated: false,
-        scrollParents: []
-      };
-
-      // get reference and popper elements (allow jQuery wrappers)
-      this.reference = reference && reference.jquery ? reference[0] : reference;
-      this.popper = popper && popper.jquery ? popper[0] : popper;
-
-      // Deep merge modifiers options
-      this.options.modifiers = {};
-      Object.keys(_extends({}, Popper.Defaults.modifiers, options.modifiers)).forEach(function (name) {
-        _this.options.modifiers[name] = _extends({}, Popper.Defaults.modifiers[name] || {}, options.modifiers ? options.modifiers[name] : {});
-      });
-
-      // Refactoring modifiers' list (Object => Array)
-      this.modifiers = Object.keys(this.options.modifiers).map(function (name) {
-        return _extends({
-          name: name
-        }, _this.options.modifiers[name]);
-      })
-      // sort the modifiers by order
-      .sort(function (a, b) {
-        return a.order - b.order;
-      });
-
-      // modifiers have the ability to execute arbitrary code when Popper.js get inited
-      // such code is executed in the same order of its modifier
-      // they could add new properties to their options configuration
-      // BE AWARE: don't add options to `options.modifiers.name` but to `modifierOptions`!
-      this.modifiers.forEach(function (modifierOptions) {
-        if (modifierOptions.enabled && isFunction(modifierOptions.onLoad)) {
-          modifierOptions.onLoad(_this.reference, _this.popper, _this.options, modifierOptions, _this.state);
-        }
-      });
-
-      // fire the first update to position the popper in the right place
-      this.update();
-
-      var eventsEnabled = this.options.eventsEnabled;
-      if (eventsEnabled) {
-        // setup event listeners, they will take care of update the position in specific situations
-        this.enableEventListeners();
-      }
-
-      this.state.eventsEnabled = eventsEnabled;
-    }
-
-    // We can't use class properties because they don't get listed in the
-    // class prototype and break stuff like Sinon stubs
-
-
-    createClass(Popper, [{
-      key: 'update',
-```
-### Line 4995-5004
+## _js_dist_alert_js
+### Line 154-163
 ```
     } // Getters
 
 
-    var _proto = Dropdown.prototype;
+    var _proto = Alert.prototype;
 
     // Public
-    _proto.toggle = function toggle() {
-      if (this._element.disabled || this._element.classList.contains(ClassName$4.DISABLED)) {
-        return;
-      }
-```
-### Line 5044-5065
-```
+    _proto.close = function close(element) {
+      var rootElement = this._element;
 
-          if (typeof this._config.reference.jquery !== 'undefined') {
-            referenceElement = this._config.reference[0];
-          }
-        } // If boundary is not `scrollParent`, then set position to `static`
-        // to allow the menu to "escape" the scroll parent's boundaries
-        // https://github.com/twbs/bootstrap/issues/24251
-
-
-        if (this._config.boundary !== 'scrollParent') {
-          parent.classList.add(ClassName$4.POSITION_STATIC);
-        }
-
-        this._popper = new Popper(referenceElement, this._menu, this._getPopperConfig());
-      } // If this is a touch-enabled device we add extra
-      // empty mouseover listeners to the body's immediate children;
-      // only needed because of broken event delegation on iOS
-      // https://www.quirksmode.org/blog/archives/2014/02/mouse_event_bub.html
-
-
-      if ('ontouchstart' in document.documentElement && !makeArray(SelectorEngine.closest(parent, Selector$4.NAVBAR_NAV)).length) {
-        makeArray(document.body.children).forEach(function (elem) {
-```
-### Line 5269-5278
-```
-        var hideEvent = EventHandler.trigger(parent, Event$5.HIDE, relatedTarget);
-
-        if (hideEvent.defaultPrevented) {
-          continue;
-        } // If this is a touch-enabled device we remove the extra
-        // empty mouseover listeners we added for iOS support
-
-
-        if ('ontouchstart' in document.documentElement) {
-          makeArray(document.body.children).forEach(function (elem) {
-```
-### Line 5295-5310
-```
-    Dropdown.getParentFromElement = function getParentFromElement(element) {
-      return getElementFromSelector(element) || element.parentNode;
-    };
-
-    Dropdown.dataApiKeydownHandler = function dataApiKeydownHandler(event) {
-      // If not input/textarea:
-      //  - And not a key in REGEXP_KEYDOWN => not a dropdown command
-      // If input/textarea:
-      //  - If space key => not a dropdown command
-      //  - If key is other than escape
-      //    - If key is not up or down => not a dropdown command
-      //    - If trigger inside the menu => not a dropdown command
-      if (/input|textarea/i.test(event.target.tagName) ? event.which === SPACE_KEYCODE || event.which !== ESCAPE_KEYCODE && (event.which !== ARROW_DOWN_KEYCODE && event.which !== ARROW_UP_KEYCODE || SelectorEngine.closest(event.target, Selector$4.MENU)) : !REGEXP_KEYDOWN.test(event.which)) {
-        return;
-      }
+      if (element) {
 
 ```
-### Line 5334-5348
+### Line 287-292
 ```
-      }
+  }
 
-      var index = items.indexOf(event.target);
+  return Alert;
 
-      if (event.which === ARROW_UP_KEYCODE && index > 0) {
-        // Up
-        index--;
-      }
+}));
+//# sourceMappingURL=alert.js.map
 
-      if (event.which === ARROW_DOWN_KEYCODE && index < items.length - 1) {
-        // Down
-        index++;
-      }
-
-      if (index < 0) {
 ```
-### Line 5492-5501
+
+## _js_dist_modal_js
+### Line 283-292
 ```
     } // Getters
 
@@ -5549,12 +3263,13 @@ export { Alert, Button, Carousel, Collapse, Dropdown, Modal, Popover, ScrollSpy,
       return this._isShown ? this.hide() : this.show(relatedTarget);
     };
 
-```
-### Line 5633-5642
-```
-      var transition = this._element.classList.contains(ClassName$5.FADE);
 
-      var modalBody = SelectorEngine.findOne(Selector$5.MODAL_BODY, this._dialog);
+```
+### Line 424-433
+```
+      var transition = this._element.classList.contains(ClassName.FADE);
+
+      var modalBody = SelectorEngine.findOne(Selector.MODAL_BODY, this._dialog);
 
       if (!this._element.parentNode || this._element.parentNode.nodeType !== Node.ELEMENT_NODE) {
         // Don't move modal's DOM position
@@ -5562,8 +3277,9 @@ export { Alert, Button, Carousel, Collapse, Dropdown, Modal, Popover, ScrollSpy,
       }
 
       this._element.style.display = 'block';
+
 ```
-### Line 5813-5823
+### Line 604-614
 ```
         }
       } else {
@@ -5576,8 +3292,9 @@ export { Alert, Button, Carousel, Collapse, Dropdown, Modal, Popover, ScrollSpy,
 
     _proto._adjustDialog = function _adjustDialog() {
       var isModalOverflowing = this._element.scrollHeight > document.documentElement.clientHeight;
+
 ```
-### Line 5844-5855
+### Line 635-646
 ```
 
     _proto._setScrollbar = function _setScrollbar() {
@@ -5587,25 +3304,27 @@ export { Alert, Button, Carousel, Collapse, Dropdown, Modal, Popover, ScrollSpy,
         // Note: DOMNode.style.paddingRight returns the actual value or '' if not set
         //   while $(DOMNode).css('padding-right') returns the calculated value or 0 if not set
         // Adjust fixed content padding
-        makeArray(SelectorEngine.find(Selector$5.FIXED_CONTENT)).forEach(function (element) {
+        makeArray(SelectorEngine.find(Selector.FIXED_CONTENT)).forEach(function (element) {
           var actualPadding = element.style.paddingRight;
           var calculatedPadding = window.getComputedStyle(element)['padding-right'];
           Manipulator.setDataAttribute(element, 'padding-right', actualPadding);
+
 ```
-### Line 5871-5880
+### Line 662-671
 ```
 
-      document.body.classList.add(ClassName$5.OPEN);
+      document.body.classList.add(ClassName.OPEN);
     };
 
     _proto._resetScrollbar = function _resetScrollbar() {
       // Restore fixed content padding
-      makeArray(SelectorEngine.find(Selector$5.FIXED_CONTENT)).forEach(function (element) {
+      makeArray(SelectorEngine.find(Selector.FIXED_CONTENT)).forEach(function (element) {
         var padding = Manipulator.getDataAttribute(element, 'padding-right');
 
         if (typeof padding !== 'undefined') {
+
 ```
-### Line 5901-5910
+### Line 692-701
 ```
         document.body.style.paddingRight = padding;
       }
@@ -5614,170 +3333,35 @@ export { Alert, Button, Carousel, Collapse, Dropdown, Modal, Popover, ScrollSpy,
     _proto._getScrollbarWidth = function _getScrollbarWidth() {
       // thx d.walsh
       var scrollDiv = document.createElement('div');
-      scrollDiv.className = ClassName$5.SCROLLBAR_MEASURER;
+      scrollDiv.className = ClassName.SCROLLBAR_MEASURER;
       document.body.appendChild(scrollDiv);
       var scrollbarWidth = scrollDiv.getBoundingClientRect().width - scrollDiv.clientWidth;
+
 ```
-### Line 5969-5978
+### Line 760-769
 ```
       event.preventDefault();
     }
 
-    EventHandler.one(target, Event$6.SHOW, function (showEvent) {
+    EventHandler.one(target, Event.SHOW, function (showEvent) {
       if (showEvent.defaultPrevented) {
         // only register focus restorer if modal will actually get shown
         return;
       }
 
-      EventHandler.one(target, Event$6.HIDDEN, function () {
-```
-### Line 6058-6067
-```
-
-    return false;
-  };
-
-  var DefaultWhitelist = {
-    // Global attributes allowed on any supplied element below.
-    '*': ['class', 'dir', 'id', 'lang', 'role', ARIA_ATTRIBUTE_PATTERN],
-    a: ['target', 'href', 'title', 'rel'],
-    area: [],
-    b: [],
-```
-### Line 6249-6258
-```
-    } // Getters
-
-
-    var _proto = Tooltip.prototype;
-
-    // Public
-    _proto.enable = function enable() {
-      this._isEnabled = true;
-    };
+      EventHandler.one(target, Event.HIDDEN, function () {
 
 ```
-### Line 6362-6373
+### Line 804-809
 ```
-        }
+  }
 
-        EventHandler.trigger(this.element, this.constructor.Event.INSERTED);
-        this._popper = new Popper(this.element, tip, this._getPopperConfig(attachment));
-        tip.classList.add(ClassName$6.SHOW); // If this is a touch-enabled device we add extra
-        // empty mouseover listeners to the body's immediate children;
-        // only needed because of broken event delegation on iOS
-        // https://www.quirksmode.org/blog/archives/2014/02/mouse_event_bub.html
-
-        if ('ontouchstart' in document.documentElement) {
-          makeArray(document.body.children).forEach(function (element) {
-            EventHandler.on(element, 'mouseover', noop());
-```
-### Line 6422-6431
-```
-      if (hideEvent.defaultPrevented) {
-        return;
-      }
-
-      tip.classList.remove(ClassName$6.SHOW); // If this is a touch-enabled device we remove the extra
-      // empty mouseover listeners we added for iOS support
-
-      if ('ontouchstart' in document.documentElement) {
-        makeArray(document.body.children).forEach(function (element) {
-          return EventHandler.off(element, 'mouseover', noop);
-```
-### Line 6948-6957
-```
-      return _Tooltip.apply(this, arguments) || this;
-    }
-
-    var _proto = Popover.prototype;
-
-    // Overrides
-    _proto.isWithContent = function isWithContent() {
-      return this.getTitle() || this._getContent();
-    };
-
-```
-### Line 7023-7032
-```
-      return Data.getData(element, DATA_KEY$7);
-    };
-
-    _createClass(Popover, null, [{
-      key: "VERSION",
-      // Getters
-      get: function get() {
-        return VERSION$7;
-      }
-    }, {
-```
-### Line 7158-7167
-```
-    } // Getters
-
-
-    var _proto = ScrollSpy.prototype;
-
-    // Public
-    _proto.refresh = function refresh() {
-      var _this2 = this;
-
-      var autoMethod = this._scrollElement === this._scrollElement.window ? OffsetMethod.OFFSET : OffsetMethod.POSITION;
-```
-### Line 7296-7309
-```
-
-      if (link.classList.contains(ClassName$8.DROPDOWN_ITEM)) {
-        SelectorEngine.findOne(Selector$8.DROPDOWN_TOGGLE, SelectorEngine.closest(link, Selector$8.DROPDOWN)).classList.add(ClassName$8.ACTIVE);
-        link.classList.add(ClassName$8.ACTIVE);
-      } else {
-        // Set triggered link as active
-        link.classList.add(ClassName$8.ACTIVE);
-        SelectorEngine.parents(link, Selector$8.NAV_LIST_GROUP).forEach(function (listGroup) {
-          // Set triggered links parents as active
-          // With both <ul> and <nav> markup a parent is the previous sibling of any nav ancestor
-          SelectorEngine.prev(listGroup, Selector$8.NAV_LINKS + ", " + Selector$8.LIST_ITEMS).forEach(function (item) {
-            return item.classList.add(ClassName$8.ACTIVE);
-          }); // Handle special case when .nav-link is inside .nav-item
-
-```
-### Line 7448-7457
-```
-    } // Getters
-
-
-    var _proto = Tab.prototype;
-
-    // Public
-    _proto.show = function show() {
-      var _this = this;
-
-      if (this._element.parentNode && this._element.parentNode.nodeType === Node.ELEMENT_NODE && this._element.classList.contains(ClassName$9.ACTIVE) || this._element.classList.contains(ClassName$9.DISABLED)) {
-```
-### Line 7689-7698
-```
-    } // Getters
-
-
-    var _proto = Toast.prototype;
-
-    // Public
-    _proto.show = function show() {
-      var _this = this;
-
-      var showEvent = EventHandler.trigger(this._element, Event$b.SHOW);
-```
-### Line 7880-7885
-```
-  };
-
-  return index_umd;
+  return Modal;
 
 }));
-//# sourceMappingURL=bootstrap.bundle.js.map
-```
+//# sourceMappingURL=modal.js.map
 
-## _js_tests_helpers_fixture_js
+```
 
 ## _site_content_docs_4_3_examples_checkout_form_validation_js
 ### Line 1-12
@@ -5794,256 +3378,427 @@ export { Alert, Button, Carousel, Collapse, Dropdown, Modal, Popover, ScrollSpy,
     .forEach(function (form) {
       form.addEventListener('submit', function (event) {
         if (!form.checkValidity()) {
+
+```
+
+## _js_src_tooltip_js
+### Line 133-158
+```
+  constructor(element, config) {
+    if (typeof Popper === 'undefined') {
+      throw new TypeError('Bootstrap\'s tooltips require Popper.js (https://popper.js.org)')
+    }
+
+    // private
+    this._isEnabled = true
+    this._timeout = 0
+    this._hoverState = ''
+    this._activeTrigger = {}
+    this._popper = null
+
+    // Protected
+    this.element = element
+    this.config = this._getConfig(config)
+    this.tip = null
+
+    this._setListeners()
+    Data.setData(element, this.constructor.DATA_KEY, this)
+  }
+
+  // Getters
+
+  static get VERSION() {
+    return VERSION
+  }
+
+```
+### Line 179-188
+```
+
+  static get DefaultType() {
+    return DefaultType
+  }
+
+  // Public
+
+  enable() {
+    this._isEnabled = true
+  }
+
+```
+### Line 301-313
+```
+
+      this._popper = new Popper(this.element, tip, this._getPopperConfig(attachment))
+
+      tip.classList.add(ClassName.SHOW)
+
+      // If this is a touch-enabled device we add extra
+      // empty mouseover listeners to the body's immediate children;
+      // only needed because of broken event delegation on iOS
+      // https://www.quirksmode.org/blog/archives/2014/02/mouse_event_bub.html
+      if ('ontouchstart' in document.documentElement) {
+        makeArray(document.body.children).forEach(element => {
+          EventHandler.on(element, 'mouseover', noop())
+        })
+
+```
+### Line 356-366
+```
+      return
+    }
+
+    tip.classList.remove(ClassName.SHOW)
+
+    // If this is a touch-enabled device we remove the extra
+    // empty mouseover listeners we added for iOS support
+    if ('ontouchstart' in document.documentElement) {
+      makeArray(document.body.children)
+        .forEach(element => EventHandler.off(element, 'mouseover', noop))
+    }
+
+```
+### Line 385-394
+```
+    if (this._popper !== null) {
+      this._popper.scheduleUpdate()
+    }
+  }
+
+  // Protected
+
+  isWithContent() {
+    return Boolean(this.getTitle())
+  }
+
+```
+### Line 420-429
+```
+    if (typeof content === 'object' && isElement(content)) {
+      if (content.jquery) {
+        content = content[0]
+      }
+
+      // content is a DOM node or a jQuery
+      if (this.config.html) {
+        if (content.parentNode !== element) {
+          element.innerHTML = ''
+          element.appendChild(content)
+
+```
+### Line 456-465
+```
+    }
+
+    return title
+  }
+
+  // Private
+
+  _getPopperConfig(attachment) {
+    const defaultBsConfig = {
+      placement: attachment,
+
+```
+### Line 773-782
+```
+    this.hide()
+    this.show()
+    this.config.animation = initConfigAnimation
+  }
+
+  // Static
+
+  static jQueryInterface(config) {
+    return this.each(function () {
+      let data = Data.getData(this, DATA_KEY)
+
+```
+
+## _js_src_util_index_js
+### Line 7-16
+```
+
+const MAX_UID = 1000000
+const MILLISECONDS_MULTIPLIER = 1000
+const TRANSITION_END = 'transitionend'
+
+// Shoutout AngusCroll (https://goo.gl/pxwQGp)
+const toType = obj => ({}.toString.call(obj).match(/\s([a-z]+)/i)[1].toLowerCase())
+
+/**
+ * --------------------------------------------------------------------------
+
+```
+### Line 57-80
+```
+const getTransitionDurationFromElement = element => {
+  if (!element) {
+    return 0
+  }
+
+  // Get transition-duration of the element
+  let {
+    transitionDuration,
+    transitionDelay
+  } = window.getComputedStyle(element)
+
+  const floatTransitionDuration = parseFloat(transitionDuration)
+  const floatTransitionDelay = parseFloat(transitionDelay)
+
+  // Return 0 if element or transition duration is not found
+  if (!floatTransitionDuration && !floatTransitionDelay) {
+    return 0
+  }
+
+  // If multiple durations are defined, take the first
+  transitionDuration = transitionDuration.split(',')[0]
+  transitionDelay = transitionDelay.split(',')[0]
+
+  return (parseFloat(transitionDuration) + parseFloat(transitionDelay)) * MILLISECONDS_MULTIPLIER
+
+```
+### Line 152-161
+```
+const findShadowRoot = element => {
+  if (!document.documentElement.attachShadow) {
+    return null
+  }
+
+  // Can find the shadow root otherwise it'll return the document
+  if (typeof element.getRootNode === 'function') {
+    const root = element.getRootNode()
+    return root instanceof ShadowRoot ? root : null
+  }
+
+```
+### Line 162-171
+```
+
+  if (element instanceof ShadowRoot) {
+    return element
+  }
+
+  // when we don't find a shadow root
+  if (!element.parentNode) {
+    return null
+  }
+
+
+```
+
+## _js_src_scrollspy_js
+### Line 92-101
+```
+    this._process()
+
+    Data.setData(element, DATA_KEY, this)
+  }
+
+  // Getters
+
+  static get VERSION() {
+    return VERSION
+  }
+
+```
+### Line 102-111
+```
+
+  static get Default() {
+    return Default
+  }
+
+  // Public
+
+  refresh() {
+    const autoMethod = this._scrollElement === this._scrollElement.window ?
+      OffsetMethod.OFFSET :
+
+```
+### Line 167-176
+```
+    this._targets = null
+    this._activeTarget = null
+    this._scrollHeight = null
+  }
+
+  // Private
+
+  _getConfig(config) {
+    config = {
+      ...Default,
+
+```
+### Line 266-286
+```
+        .findOne(Selector.DROPDOWN_TOGGLE, SelectorEngine.closest(link, Selector.DROPDOWN))
+        .classList.add(ClassName.ACTIVE)
+
+      link.classList.add(ClassName.ACTIVE)
+    } else {
+      // Set triggered link as active
+      link.classList.add(ClassName.ACTIVE)
+
+      SelectorEngine
+        .parents(link, Selector.NAV_LIST_GROUP)
+        .forEach(listGroup => {
+          // Set triggered links parents as active
+          // With both <ul> and <nav> markup a parent is the previous sibling of any nav ancestor
+          SelectorEngine.prev(listGroup, `${Selector.NAV_LINKS}, ${Selector.LIST_ITEMS}`)
+            .forEach(item => item.classList.add(ClassName.ACTIVE))
+
+          // Handle special case when .nav-link is inside .nav-item
+          SelectorEngine.prev(listGroup, Selector.NAV_ITEMS)
+            .forEach(navItem => {
+              SelectorEngine.children(navItem, Selector.NAV_LINKS)
+                .forEach(item => item.classList.add(ClassName.ACTIVE))
+
+```
+### Line 297-306
+```
+    makeArray(SelectorEngine.find(this._selector))
+      .filter(node => node.classList.contains(ClassName.ACTIVE))
+      .forEach(node => node.classList.remove(ClassName.ACTIVE))
+  }
+
+  // Static
+
+  static jQueryInterface(config) {
+    return this.each(function () {
+      let data = Data.getData(this, DATA_KEY)
+
 ```
 
 # Issues
-## 25110
+## 2311
 Title:
 ```
 
-        Missing border radius on input group with validation feedback
+        forms margin
       
 ```
 Author:
 ```
-MoritzBru
+rikius
 ```
 Text:
 ```
 
-With new beta 3 and using the new input-group stuff, inputs inside input-groups with some validation feedback after them are missing the border-radius.
-
-red circle: without border-radius
-green circle: with border-radius
-This is an example from the bootstrap documentation
+There is different viewing in Firefox 10.0.2 and Chrome 17.0.963.56 m. In Firefox there are more space then in Chrome, Chrome do not have at all space HTML elements are:  between fieldset  label and item with div class="control-group"
+I am using Bootstrap 2.0.1 version.
 
 ```
 Author:
 ```
-mdo
+mainerror
 ```
 Text:
 ```
 
-Damn, I'm super disappointed in myself for not catching this during Beta 3. I thought I had this all locked up with that rewrite. This is going to be tough.
-/cc @ysds in case he has ideas having looked at some of this code recently
+Could you provide a screenshot showing the difference?
 
 ```
 Author:
 ```
-mdo
+rikius
 ```
 Text:
 ```
 
-I spent an hour on this last night and had nothing, but just had an idea to use the validation state.
-  .form-control,
-  .custom-select {
-    &:not(:last-child) { @include border-right-radius(0); }
-    &:not(:first-child) { @include border-left-radius(0); }
+Firefox :
 
-    &:not(:last-child):required,
-    &:not(:last-child).is-valid,
-    &:not(:last-child).is-invalid {
-      @include border-right-radius($input-border-radius);
-    }
-  }
-This works on the particular docs example, but I need to see if it doesn't work elsewhere.
+Chrome:
 
-```
-Author:
-```
-ysds
-```
-Text:
-```
+also providing the source code of that.
+<form class="form-horizontal" id="order-form" action="">        
+    <fieldset>
+        <legend>Order</legend>
+        <div class="control-group">
+            <label class="control-label required" for="Order_status">Status <span class="required">*</span></label>
+            <div class="controls">
+                <select class="span5" name="Order[status]" id="Order_status">
+                    <option value=""></option>
+                    <option value="200">New</option>
+                    <option value="150">Confirmed</option>
+                    <option value="100">Sent</option>
+                    <option value="1" selected="selected">Canceled</option>
+                </select><span class="help-inline" id="Order_status_em_" style="display: none"></span>
+            </div>
+        </div>            
+        <div class="control-group">
+            <label class="control-label" for="Order_create_time">Create Time</label>
+            <div class="controls">
+                <input class="span5" disabled="disabled" name="Order[create_time]" id="Order_create_time" type="text" value="2012-03-02 16:54:04" /><span class="help-inline" id="Order_create_time_em_" style="display: none"></span>
+            </div>
+        </div>            
+        <div class="control-group">
+            <label class="control-label" for="Order_product_code">Product Code</label>
+            <div class="controls">
+                <input class="span5" maxlength="20" disabled="disabled" name="Order[product_code]" id="Order_product_code" type="text" value="PRWJ16O26F1KTFV" /><span class="help-inline" id="Order_product_code_em_" style="display: none"></span>
+            </div>
+        </div>            
+        <div class="control-group">
+            <label class="control-label" for="Order_product_title">Product Title</label>
+            <div class="controls">
+                <input class="span5" maxlength="60" disabled="disabled" name="Order[product_title]" id="Order_product_title" type="text" value="asdfasdf" /><span class="help-inline" id="Order_product_title_em_" style="display: none"></span>
+            </div>
+        </div>            
+        <div class="control-group">
+            <label class="control-label" for="Order_product_price">Product Price</label>
+            <div class="controls">
+                <input class="span5" disabled="disabled" name="Order[product_price]" id="Order_product_price" type="text" value="33.00" /><span class="help-inline" id="Order_product_price_em_" style="display: none"></span>
+            </div>
+        </div>        
+    </fieldset>
 
-@mdo I am terribly sorry for the lack of confirmation. There is still a issue. e.g. appended addon:
-<div class="input-group mb-3">
-  <input type="text" class="form-control is-invalid" placeholder="Recipient's username">
-  <div class="input-group-append">
-    <span class="input-group-text">@example.com</span>
-  </div>
-  <div class="invalid-feedback">
-    Please provide a valid zip.
-  </div>
-</div>
-I created various test cases here. https://codepen.io/fellows3/pen/OzmMoz
-
-```
-Author:
-```
-mdo
-```
-Text:
-```
-
-Nice, thanks for the test case. I've forked your pen to:
-
-Add my latest built CSS from my local changes I included in my last comment. This fixes the main validation bug from the docs, as well as the rounding of our file inputs.
-Remove validation on multiple inputs—there's no way to do this, and we already explicitly do not support this.
-
-See https://codepen.io/emdeoh/pen/OzmNNw?editors=1100. Have to improve some custom select and custom file, as well as dealing with the appended as you noted.
-
-```
-Author:
-```
-ysds
-```
-Text:
-```
-
-We also have to suppose a .was-validated case like:
-https://getbootstrap.com/docs/4.0/components/forms/#custom-styles
-
-```
-Author:
-```
-mdo
-```
-Text:
-```
-
-@ysds That's where I'm hoping :required can help, which I've included in that snippet. Might need to sneak :optional in there, too.
-
-```
-Author:
-```
-ysds
-```
-Text:
-```
-
-I don't have any solution with only CSS3 selector to this issue. It would be impossible.
-I think we should move .invalid-feedback to outside of input group. And then, extend .input-group class (.has-valid/invalid) as many times proposed in #23454. That would solve most of the issues (validation feedback of multiple input and combination with custom file input etc.). The .has-valid/invalid class will be unnecessary in the future by :has selector of CSS4.
-
-```
-Author:
-```
-mdo
-```
-Text:
-```
-
-Hmm, that'd be a breaking change from the final beta. I'm pushing for no breaking changes, but we'll see. I agree there doesn't seem to be a solution. I was trying to use some :nth-last-child stuff, but that's a bit messy right now.
-
-```
-Author:
-```
-mdo
-```
-Text:
-```
-
-I have some real funky CSS for y'all in #25352 to address as much of this as I can. 😅
-
-```
-Author:
-```
-altbdoor
-```
-Text:
-```
-
-Just dropping my two cents. I'm using v4.0 at the moment, and I was able to get the rounded corners back on the appended button with:
-<div class="input-group">
-    <input type="text" class="form-control is-invalid" readonly required>
-    
-    <div class="input-group-append">
-        <button class="btn btn-outline-secondary rounded-right" type="button">
-            Hey
-        </button>
+    <div class="form-actions">
+        <button class="btn btn-primary" type="submit" name="yt0"><i class="icon-ok icon-white"></i> Save</button>            
+        <button class="btn" type="reset" name="yt1"><i class="icon-ban-circle"></i> Reset</button>        
     </div>
-    
-    <div class="invalid-feedback">
-        Error
-    </div>
-</div>
-It needs an extra declaration of .rounded-right on the element within the .input-group-append. Not the most elegant, but at least it works.
-
-```
-Author:
-```
-MoritzBru
-```
-Text:
-```
-
-
-Damn, I'm super disappointed in myself for not catching this during Beta 3. I thought I had this all locked up with that rewrite. This is going to be tough
-
-I guess thats what betas are for. 😉
-@altbdoor Jep generally this works.
-But when you change the $input-border-radius then you run into problems because the border utilities are based on the general $border-radius
-
-```
-Author:
-```
-cbossi
-```
-Text:
-```
-
-I found a solution to the problem using bootstrap's order classes:
-You can place the .invalid-feedback element in between the input and the input-group-append element and then append the order-1 class to it. This way the .invalid-feedback element is NOT the last child inside the input-group (which would cause the border radius problem), but nonetheless appears at the end of the input-group:
-<div class="form-group">
-    <label for="name">Name</label>
-    <div class="input-group">
-    <input type="text" class="form-control" id="name" required>
-    <div class="invalid-feedback order-1">
-        Please provide a name.
-    </div>
-    <div class="input-group-append">
-        <span class="input-group-text">
-        <i class="fas fa-envelope"></i>
-        </span>
-    </div>
-    </div>
-</div>
-
-```
-Author:
-```
-flachware
-```
-Text:
-```
-
-I ran into the same issue. How about generally using the :last-of-type selector instead of :last-child in _input-group.scss and switching div.invalid-feedback to p.invalid-feedback?
-
+</form>
 
 
 ```
 Author:
 ```
-claudioalmeiida
+rikius
 ```
 Text:
 ```
 
-I find another problem when it does not use .dropdown-toggle class, I do not know if it was a known problem
-https://codepen.io/anon/pen/BVZMVj
-
+Same is in bootstrap Demo forms section "Horizontal forms".
 
 ```
 Author:
 ```
-rushairer
+mainerror
 ```
 Text:
 ```
 
-So that????
+It seems like the images are not available. It would be nice if you could fix that. Try uploading them to http://imgur.com
 
 ```
 Author:
 ```
-kejodion
+rikius
 ```
 Text:
 ```
 
-March 2019 and issue still exists. Is there no pull request for a fix?
+updated.
+
+```
+Author:
+```
+mainerror
+```
+Text:
+```
+
+This seems to be bug in Webkit. Apparently it ignores the margin rules on legend elements when they are declared inside of a fieldset.
+Here is a fiddle demonstrating that it has nothing to do with Bootstrap. This is an example of a legend element abiding by the margin rules which is improperly used without a fieldset element.
 
 ```
 Author:
@@ -6053,142 +3808,63 @@ mdo
 Text:
 ```
 
-@kjjdion If you have a fix, we'd love a PR, but otherwise, the lack of a PR means that there is no fix (or that's rather difficult to do).
-
-```
-Author:
-```
-nibblesnbits
-```
-Text:
-```
-
-Forgive my ignorance, but why would it be more complicated than this?
-.input-group > .form-control:not(:first-child), .input-group > .custom-select:not(:first-child) {
-  border-radius: 0.25rem;
-  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-}
-.input-group > .input-group-prepend > .btn, .input-group > .input-group-prepend > .input-group-text, .input-group > .input-group-append:not(:last-child) > .btn, .input-group > .input-group-append:not(:last-child) > .input-group-text, .input-group > .input-group-append:last-child > .btn:not(:last-child):not(.dropdown-toggle), .input-group > .input-group-append:last-child > .input-group-text:not(:last-child) {
-  border-top-right-radius: 0.25rem;
-  border-bottom-right-radius: 0.25rem;
-  border-top-left-radius: 0;
-  border-bottom-left-radius: 0;
-}
-Obviously these are likely overly specific, but these rules seem to fix it in my app.
-
-
-```
-Author:
-```
-chrisbo
-```
-Text:
-```
-
-Although a sort of hack, adding the class rounded-right to my form inputs and textarea seems to have fixed my issue.
-
-```
-Author:
-```
-rushairer
-```
-Text:
-```
-
-Thanks all
+Yup, there is another issue related to this we closed awhile back. There's not too much we can do about it unfortunately :. We'll readdress in the future if at all possible.
 
 ```
 
-## 21851
+## 2358
 Title:
 ```
 
-        [Docs] Search functionality not obvious for keyboard/screenreader users
+        Carousel Cycle as standard
       
 ```
 Author:
 ```
-patrickhlauke
+ShaneSheppard
 ```
 Text:
 ```
 
-The current search functionality for docs relies on users typing in search terms and then selecting matches from the dropdown of results shown.
-Visually, the dropdown appears like options should be reachable with cursor up/down - but unintuitively, user has to TAB to them (as they're simply links).
-For screenreader users, no announcement is made that results are being dynamically shown.
-Lastly, submitting the form/hitting enter in the search field results in the page being reloaded, but no actual search being performed...this is confusing to all users.
+Is it possible you guys could make the carousel.js cycle as standard? By adding a div class for those who only want the one slide cycle?
 
 ```
 Author:
 ```
-craigstroman
+fat
 ```
 Text:
 ```
 
-Hi, is this issue being worked on?  If not I would be interested in working on it.
+the single cycle is a bug in 2.0.1 and will be fixed with the release of 2.0.2 (hopefully this week)
 
 ```
 Author:
 ```
-craigstroman
+tommls
 ```
 Text:
 ```
 
-Do you want me to create a pull request for this?
+Thank you!! I thought it was me!! :)
 
+```
+
+## 22201
+Title:
+```
+
+        Cover not working with bootstrap-theme.min.css
+      
 ```
 Author:
 ```
-Johann-S
+typical-h
 ```
 Text:
 ```
 
-Go ahead @craigstroman 👍 every opened​ issue are open for a PR, instead of the issue already have a PR
-
-```
-Author:
-```
-craigstroman
-```
-Text:
-```
-
-Hi, sorry for not responding sooner.  I will create a PR for this tomorrow then.
-
-```
-Author:
-```
-mdo
-```
-Text:
-```
-
-Should be good since #22715.
-
-```
-Author:
-```
-craigstroman
-```
-Text:
-```
-
-Hi,
-Glad this was fixed.
-I'm sorry for not completing this sooner like I said I would.  In the past 2 months I actually ended up getting a new job and moving to a new state.
-
-```
-Author:
-```
-mdo
-```
-Text:
-```
-
-No worries! We ended up in a good spot with DocSearch :).
+Cover is not working with bootstrap-theme.min.css I am using Chrome, with Windows.
 
 ```
 Author:
@@ -6198,27 +3874,7 @@ patrickhlauke
 Text:
 ```
 
-Confirming that this now works a lot better for keyboard/AT users
-
-```
-
-## 5035
-Title:
-```
-
-        IE8 input height too large with row-fluid
-      
-```
-Author:
-```
-jschr
-```
-Text:
-```
-
-Can't seem to figure this one out. In IE8, my inputs are much taller then IE9 or Chrome. I narrowed it down to only happening within a fluid layout.
-IE8: http://imgur.com/eHCVq
-IE9: http://imgur.com/sLSPD
+as per https://github.com/twbs/bootstrap/blob/master/CONTRIBUTING.md#using-the-issue-tracker please provide a reduced test case showing the problem.
 
 ```
 Author:
@@ -6228,154 +3884,60 @@ mdo
 Text:
 ```
 
-Dupe of an issue already open about this.
+Also, theme file is for v3, which we're not actively working on right now. Tagging and closing.
 
 ```
 
-## 26506
+## 23190
 Title:
 ```
 
-        .btn-outline-light can't really be seen on Bootstrap docs
+        $input-height-inner-lg is using $font-size-sm instead of $font-size-lg
       
 ```
 Author:
 ```
-sts-ryan-holton
+envolute
 ```
 Text:
 ```
 
-Hi!
-I've just noticed whilst browsing the Bootstrap 4.1.1 docs that you can't really see the text of the .btn-outline-light button.
-Could we consider some other text colour here? I don't think it's really legible and people who could be somewhat visually impaired might find it difficult to read?
-Take a look:
-
-(https://getbootstrap.com/docs/4.1/components/buttons/)
+This:
+$input-height-inner-lg: ($font-size-sm * $input-btn-line-height-lg) + ($input-btn-padding-y-lg * 2) !default;
+Must be like this:
+$input-height-inner-lg: ($font-size-lg * $input-btn-line-height-lg) + ($input-btn-padding-y-lg * 2) !default;
+ok??
 
 ```
 Author:
 ```
-bardiharborow
+envolute
 ```
 Text:
 ```
 
-.btn-outline-light really isn't supposed to be used on a white background, but there is no background colour that makes all colours accessible, and it's a pain to break it into it's own section with a black background for just one button.
-
-```
-Author:
-```
-sts-ryan-holton
-```
-Text:
-```
-
-@bardiharborow Completely understand, couldn't we just make the text a little darker for the docs for that particular button?
-
-```
-Author:
-```
-bardiharborow
-```
-Text:
-```
-
-I imagine that would confuse people more than it would help unfortunately.
-
-```
-Author:
-```
-patrickhlauke
-```
-Text:
-```
-
-
-couldn't we just make the text a little darker for the docs for that particular button?
-
-no because then (if just done for the docs) it wouldn't reflect the actual color you'd get when using the class
+Sorry, duplicate of #23150
 
 ```
 
-## 23545
+## 12856
 Title:
 ```
 
-        .navbar-inverse not in CSS file
+        docs navbar should be fixed-to-top
       
 ```
 Author:
 ```
-leecollings
+tkojemile
 ```
 Text:
 ```
 
-Using either the bootstrap.css or bootstrap.min.css, a search for navbar-inverse returns no results.
-Is there a list of all classes that are not included in the CSS files, to easily see what can and can't be used?
-
-```
-Author:
-```
-jipexu
-```
-Text:
-```
-
-Hi
-there is not list of changed classe alpha=>beta ..
-in the doc .."Theming the navbar has never been easier thanks to the combination of theming classes and background-color utilities. Choose from .navbar-light for use with light background colors, or .navbar-dark for dark background colors. Then, customize with .bg-* utilities."
-
-```
-Author:
-```
-leecollings
-```
-Text:
-```
-
-The v4 example of 'dashboard' shows the usage of navbar-inverse:
-https://v4-alpha.getbootstrap.com/examples/dashboard/
-
-```
-Author:
-```
-jipexu
-```
-Text:
-```
-
-yep unfortunatly  but this not up to date .. is not a BS 4 beta example ...
-
-```
-Author:
-```
-Johann-S
-```
-Text:
-```
-
-https://getbootstrap.com/docs/4.0/migration/#navbar
-thanks @jipexu
-
-```
-
-## 17784
-Title:
-```
-
-        input groups are broken when using flexbox 
-      
-```
-Author:
-```
-itised
-```
-Text:
-```
-
-If $enable-flex is set to true, input-group-addons shrink to their minimum size and content overflows out of them.
+INFO: this is related to getbootstrap.com main site
+Please make top menu fixed.
+I belive that many people use it as reference and read styling, components and other there, so when you need fast swwitch you need to scroll to top of page for change :)
+NHF :) 👍
 
 ```
 Author:
@@ -6385,63 +3947,45 @@ cvrebert
 Text:
 ```
 
-In which browser(s)?
+Duplicate of #12626.
 
+```
+
+## 25131
+Title:
+```
+
+        No Hand Cursor in button Boostrap 4 beta 3
+      
 ```
 Author:
 ```
-itised
+hamzahamidi
 ```
 Text:
 ```
 
-Safari 9.0 and Chrome 45, both on OS X 10.11.
-I also just checked Firefox 41, and it has the opposite problem. In Firefox, the addons are much wider than they should be. They are also shorter than the inputs they are attached to.
-Again, this is only when $enable-flex is set to true. If $enable-flex is false, all 3 browsers behave as expected.
+
+Operating system : Ubuntu 16.4
+Browser: Chrome 63, Firefox 58
+Bootstrap 4 beta 3
+
+I don't get the "hand" cursor when pointing on a button.
+
+Here's the code: <button type="button" class="btn btn-primary">Primary</button>
+And here's a bootsnipp to confirm that. Take a look please at the add user button.
+But in the official bootstrap beta 3 website it's working fine I see the hand cursor.
+https://getbootstrap.com/docs/4.0/components/buttons/
 
 ```
 Author:
 ```
-DanCouper
+browner12
 ```
 Text:
 ```
 
-+1 on this, specifically FireFox. This is the behavior I'm getting at the minute (the green dashed lines are where the edges of the a grid columns are) -
-In Firefox (42 and 44.0a2):
-
-In Chrome (47, correct behaviour):
-
-As above, it's a flex issue; if I turn off flex it works universally. I assume it's related to how FF interprets the Flexbox spec, I'll do more isolated testing
-Markup is this, I can't see any errors in structuring as per Bootstrap:
-<fieldset class="form-group">
-  <label class="sr-only" for="basket_lines_attributes_0_quantity">Quantity</label>
-  <div class="input-group">
-    <span class="input-group-btn">
-      <button name="button" type="submit" class="btn btn-primary"><i class="fa fa-minus"></i></button>
-    </span>
-    <input value="1" class="form-control" name="basket[lines_attributes][0][quantity]" id="basket_lines_attributes_0_quantity" type="text">
-    <span class="input-group-btn">
-      <button name="button" type="submit" class="btn btn-primary"><i class="fa fa-plus"></i></button>
-    </span>
-  </div>
-</fieldset>
-
-EDIT
-This is a very specific fix, I needed to apply it to a specific element, and I need to make a series of different usecases before I can think about PRing, but it's not a bug according to Mozillas bug tracker, Chrome et al just implement the spec incorrectly:
-https://bugzilla.mozilla.org/show_bug.cgi?id=1108514
-Applying min-width: 0 to my input fixes the problem immediately -
-
-
-```
-Author:
-```
-garlian
-```
-Text:
-```
-
-+1
+looks like they are still using the beta 2. give them a little time to update, services like this don't update immediately after release
 
 ```
 Author:
@@ -6451,49 +3995,121 @@ mdo
 Text:
 ```
 
-Should be fixed now that #17756 is merged. Holler if it's still broken though and we can re-open.
+Yup, closing per @browner12.
 
+```
+
+## 24517
+Title:
+```
+
+        Horizontal rule hard-coded margin introduced in Beta
+      
 ```
 Author:
 ```
-wnr
+ernestbofill
 ```
 Text:
 ```
 
-Seems to me that this issue is still around. I tried it with exampleInputAmount in the docs components/forms/ locally with flex turned on @ commit 0416f761dddae04a1b4d3ce70afece518330ca4d.
-Applying min-width: 0 seems to fix it indeed.
+Since the beta version of Bootstrap, the margin of the horizontal rule defined in _type.scss is a hard-coded making it difficult to customize.
+In latest alpha:
+// type.scss line 53:
+hr {
+  margin-top: $spacer-y;
+  margin-bottom: $spacer-y;
+  //...
+}
+
+In beta:
+// type.scss line 53:
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  //...
+}
+
+I would like this margin to use a variable so that it can be customized.
 
 ```
 Author:
 ```
-reisub-de
+andresgalante
 ```
 Text:
 ```
 
-This bug is still there in v4.0.0-alpha.4
+Hi @ernestbofill it was updated here: ed1de86
+I'll create a PR to add hr variables.
+
+```
+
+## 22583
+Title:
+```
+
+        npm ls
+      
+```
+Author:
+```
+beninflash
+```
+Text:
+```
+
+Before opening an issue:
+
+Search for duplicate or closed issues
+Validate and lint any HTML to avoid common problems
+Prepare a reduced test case for any bugs
+Read the contributing guidelines
+
+When asking general "how to" questions:
+
+Please do not open an issue here
+Instead, ask for help on StackOverflow, IRC, or Slack
+
+When reporting a bug, include:
+
+Operating system and version (Windows, Mac OS X, Android, iOS, Win10 Mobile)
+Browser and version (Chrome, Firefox, Safari, IE, MS Edge, Opera 15+, Android Browser)
+Reduced test cases and potential fixes using JS Bin
+
+When suggesting a feature, include:
+
+As much detail as possible for what we should add and why it's important to Bootstrap
+Relevant links to prior art, screenshots, or live demos whenever possible
+
+
+```
+
+## 4853
+Title:
+```
+
+        LESS Error
+      
+```
+Author:
+```
+arturgrigor
+```
+Text:
+```
+
+{"type":"Parse","message":"Syntax Error on line 278","index":8378,"filename":"bootstrap.css","line":278,"column":0,"extract":["@fluidGridGutterWidth768:      percentage(@gridGutterWidth768/@gridRowWidth768);","@iconSpritePath: ../../images/libs/bootstrapjs/glyphicons-halflings.png;","@iconWhiteSpritePath: ../../images/libs/bootstrapjs/glyphicons-halflings-white.png;"]}
 
 ```
 Author:
 ```
-tharunsaik
+Yohn
 ```
 Text:
 ```
 
-you can simply add this default bootstrap grid CSS
-.input-group { border-collapse: separate; display: table; } .input-group .form-control, .input-group-addon, .input-group-btn { display: table-cell; }
-
-```
-Author:
-```
-DanCouper
-```
-Text:
-```
-
-@tharunsaik removing flex isn't a solution the described problem, using display:table/table-cell simply [re]introduces a different set of problems (doing what you suggest immediately removes all the benefits of using flex just to solve a single specific issue). It happens due to Chrome's interpretation of the flex spec, and a possible solution is described above.
+I had that happen to me when I downloaded the docs and tried to build my own through the customize page..  It doesnt do that on the twitter.github.com/bootstrap customize page though
 
 ```
 Author:
@@ -6503,117 +4119,60 @@ mdo
 Text:
 ```
 
-This is fixed y'all :).
+Check syntax and try again. Also be sure to use only the hosted version of the builder—no guarantees on the local version.
 
 ```
 
-## 15963
+## 14929
 Title:
 ```
 
-        Inheriting Bootstrap classes doesn't inherit nested/psuedo selectors
+        Bootstrap CDN returning XML error
       
 ```
 Author:
 ```
-pauldotknopf
+georgesebastian
 ```
 Text:
 ```
 
-I have a input control framework that uses it's own classes. I would like to remove the vendor-provided theme and modify their classes to "extend/inherit" Bootstrap classes. That way, I don't have to change their rendered markup, and at the same time, I can use bootstrap styles without explicit styles, allowing future upgrades and bug fixes to Bootstrap to carry over to my vendor's theme.
-The problem is that, when inheriting classes, the classes inherit have to be coded (in less) a certain way so that derived types will also contain all contextual/pseudo selectors as well.
-Let me illustrate.
-The following less...
-.bootstrap-class {
-    background:red;
-}
-.bootstrap-class input {
-    background:blue;
-}
+The links for the latest bootstrap v3.3.0 as provided on the Twitter Bootstrap page (http://getbootstrap.com/getting-started/#download) are not working. Instead I get an Access Denied error.
+https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css
+https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap-theme.min.css
+https://netdna.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js
+Attaching the screenshots below :
 
-.vendor-control {
-    .bootstrap-class;
-}
 
-..will be rendered as...
-.bootstrap-class {
-  background: red;
-}
-.bootstrap-class input {
-  background: blue;
-}
-.vendor-control {
-  background: red;
-}
-
-See the problem? The nested input isn't styled for the derived .vendor-control class.
-However, if you write your less like this...
-.bootstrap-class {
-    background:red;
-    input {
-        background:blue;
-    }
-}
-
-.vendor-control {
-    .bootstrap-class;
-}
-
-..the rendered markup will be...
-.bootstrap-class {
-  background: red;
-}
-.bootstrap-class input {
-  background: blue;
-}
-.vendor-control {
-  background: red;
-}
-.vendor-control input {
-  background: blue;
-}
-
-This would greatly simplify the extension of vendor controls. For example, I can imagine a single "Kendo UI" less file that simply sets up inheritance, and the entire framework would, from then on, be entirely Bootstrap. Currently, Kendo UI provides a theme that looks like Bootstrap out-of-the-box, but imagine a less file that makes Kendo UI look like any customized Bootstrap layout, instantly, complete with all the "has-feedback" classes and what-not.
-With that said, would you guys entertain a PR with these changes? The changes would be similar to the following.
-This...
-.radio input[type="radio"],
-.radio-inline input[type="radio"],
-.checkbox input[type="checkbox"],
-.checkbox-inline input[type="checkbox"] {
-  position: absolute;
-  margin-left: -20px;
-  margin-top: 4px \9;
-}
-
-...would be changed to...
-.radio,
-.radio-inline {
-    input[type="radio"] {
-        position: absolute;
-        margin-left: -20px;
-        margin-top: 4px \9;
-    }
-}
-.checkbox,
-.checkbox-inline {
-    input[type="checkbox"] {
-        position: absolute;
-        margin-left: -20px;
-        margin-top: 4px \9;
-    }
-}
 
 
 ```
 Author:
 ```
-kkirsche
+hnrch02
 ```
 Text:
 ```
 
-This seems to me as though there would be a lot of code duplication or this would require a lot of mixins. I don't see this being put into V3 as its ending its life in prep for V4 but an admin would have to say for sure.
+Unfortunately Bootstrap CDN hasn't been updated yet. Please use jsDelivr in the meantime:
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.0/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.0/css/bootstrap-theme.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://cdn.jsdelivr.net/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+
+```
+Author:
+```
+georgesebastian
+```
+Text:
+```
+
+I have filed an issue with the Bootstrap CDN github repo. Thank you for the jsDelivr links.
 
 ```
 Author:
@@ -6623,260 +4182,28 @@ cvrebert
 Text:
 ```
 
-Have you tried @extend-ing the Bootstrap classes instead?
+X-Ref: MaxCDN/bootstrapcdn#401
 
+```
+
+## 4770
+Title:
+```
+
+        affix usability issue when sidebar's height highter available height
+      
 ```
 Author:
 ```
-pauldotknopf
+jycr
 ```
 Text:
 ```
 
-@cvrebert, Yes. The issue is the same, but the rendered markup is a little different.
-This...
-.bootstrap-class {
-    background:red;
-}
-.bootstrap-class input {
-    background:blue;
-}
-
-.vendor-control {
-    &:extend(.bootstrap-class);
-}
-
-..is rendered as...
-.bootstrap-class,
-.vendor-control {
-  background: red;
-}
-.bootstrap-class input {
-  background: blue;
-}
-
-
-```
-Author:
-```
-pauldotknopf
-```
-Text:
-```
-
-In addition, I don't think @extend works 100% as we intend here. In the following example, using the class as a mixin works, and @extend doesn't.
-.bootstrap-class {
-    background:red;
-    input {
-        background:blue;
-        &:hover {
-            background:green;
-        }
-    }
-}
-
-.vendor-control {
-    .bootstrap-class;
-}
-
-..transforms to...
-.bootstrap-class {
-  background: red;
-}
-.bootstrap-class input {
-  background: blue;
-}
-.bootstrap-class input:hover {
-  background: green;
-}
-.vendor-control {
-  background: red;
-}
-.vendor-control input {
-  background: blue;
-}
-.vendor-control input:hover {
-  background: green;
-}
-
-... which is correct. However, this...
-.bootstrap-class {
-    background:red;
-    input {
-        background:blue;
-        &:hover {
-            background:green;
-        }
-    }
-}
-
-.vendor-control {
-    &:extend(.bootstrap-class);
-}
-
-...renders to...
-.bootstrap-class,
-.vendor-control {
-  background: red;
-}
-.bootstrap-class input {
-  background: blue;
-}
-.bootstrap-class input:hover {
-  background: green;
-}
-
-which is not correct.
-I'm not seeing the purpose of @extend in general, compared to using the class as a mixin, but I don't know.
-
-```
-Author:
-```
-DaSchTour
-```
-Text:
-```
-
-Well I guess there is a general misconception about less. Maybe you should try this:
-.bootstrap-class {
-  background:red;
-    input {
-      background:blue;
-    }
-}
-
-.vendor-control {
-    .bootstrap-class();
-}
-which will become this:
-.bootstrap-class {
-  background: red;
-}
-.bootstrap-class input {
-  background: blue;
-}
-.vendor-control {
-  background: red;
-}
-.vendor-control input {
-  background: blue;
-}
-Using extend only adds a class to an existing part. This is the other way round. It works like extending an Object in a programming language.
-
-```
-Author:
-```
-pauldotknopf
-```
-Text:
-```
-
-Ya, I found that out.
-The problem still remains though. Throughout Bootstrap, they use...
-.class-name input {
-   display: block;
-}
-
-...instead of...
-.class-name {
-   input {
-      display: block;
-   }
-}
-
-
-```
-Author:
-```
-DaSchTour
-```
-Text:
-```
-
-Oh yes, I see.
-So I guess instead of:
-.radio,
-.checkbox {
-  position: relative;
-  display: block;
-  margin-top: 10px;
-  margin-bottom: 10px;
-
-  label {
-    min-height: @line-height-computed; // Ensure the input doesn't jump when there is no text
-    padding-left: 20px;
-    margin-bottom: 0;
-    font-weight: normal;
-    cursor: pointer;
-  }
-}
-.radio input[type="radio"],
-.radio-inline input[type="radio"],
-.checkbox input[type="checkbox"],
-.checkbox-inline input[type="checkbox"] {
-  position: absolute;
-  margin-left: -20px;
-  margin-top: 4px \9;
-}
-
-.radio + .radio,
-.checkbox + .checkbox {
-  margin-top: -5px; // Move up sibling radios or checkboxes for tighter spacing
-}
-
-// Radios and checkboxes on same line
-.radio-inline,
-.checkbox-inline {
-  position: relative;
-  display: inline-block;
-  padding-left: 20px;
-  margin-bottom: 0;
-  vertical-align: middle;
-  font-weight: normal;
-  cursor: pointer;
-}
-.radio-inline + .radio-inline,
-.checkbox-inline + .checkbox-inline {
-  margin-top: 0;
-  margin-left: 10px; // space out consecutive inline controls
-}
-we should have something like this
-.radio,
-.checkbox {
-  position: relative;
-  display: block;
-  margin-top: 10px;
-  margin-bottom: 10px;
- &-inline {
-  display: inline-block;
-  padding-left: 20px;
-  margin-bottom: 0;
-  vertical-align: middle;
-  font-weight: normal;
-  cursor: pointer;
- input[type="radio"], input[type="checkbox"] {
-   position: absolute;
-  margin-left: -20px;
-  margin-top: 4px \9;
- }
-+ .radio-inline, + .checkbox-inline {
-  margin-top: 0;
-  margin-left: 10px; // space out consecutive inline controls
- }
-}
-+ .radio, + .checkbox {
-margin-top: -5px; // Move up sibling radios or checkboxes for tighter spacing
-}
-
-  label {
-    min-height: @line-height-computed; // Ensure the input doesn't jump when there is no text
-    padding-left: 20px;
-    margin-bottom: 0;
-    font-weight: normal;
-    cursor: pointer;
-  }
-}
-But I guess you see the dilemma, as this will not result in the expected CSS.
+if the height of sidebar is greater than the available height of the window, it is impossible to see and reach last items.
+You can see this problem with 800x600 resolution and the URL http://twitter.github.com/bootstrap/javascript.html#affix
+A possible usability solution can be find on this page : https://www.bforbank.com/membre/souscription/livretWebFlow.action
+(buggy on Chrome, but work perfectly on firefox 14)
 
 ```
 Author:
@@ -6886,607 +4213,174 @@ mdo
 Text:
 ```
 
-We don't unnecessarily nest things, nor try to make them more friendly to a particular implementation. It'd take some work to redo this all in the current version, and we currently have no plans for that kind of refactor. In v4, there will be a larger focus on classes—though some nesting will still be required—to mitigate things like this. When doing that required nesting though, we can try to account for this type of approach to using Bootstrap.
+Yeah, there's nothing we can do about that. Use good judgement for what you're affixing and you'll be fine.
 
 ```
 
-## 8496
+## 524
 Title:
 ```
 
-        Custom Download not functioning
+        bootstrap-tabs.js should provide .activate function.
       
 ```
 Author:
 ```
-sangramfuture
+wildchild
 ```
 Text:
 ```
 
-http://twitter.github.io/bootstrap/customize.html clicked on the 'Customize and Download button.
-Its not responding.
-please provide alternative link for customize download if possible.
+Would be useful to activate desired tab using javascript.
 
 ```
 Author:
 ```
-SVANNER
+fat
 ```
 Text:
 ```
 
-I confirm it is not working for me too. Get busy about 8 to 10 seconds and nothings downloads...
-
-```
-Author:
-```
-cvrebert
-```
-Text:
-```
-
-Presumably a duplicate of #7922.
-
-```
-
-## 9348
-Title:
-```
-
-        variables.less
-      
-```
-Author:
-```
-JustinDrake
-```
-Text:
-```
-
-Inside variables.less
-@grid-gutter-width:         30px;
-@navbar-padding-horizontal:        floor(@grid-gutter-width / 2);  // ~15px
-
-
-
-If @grid-gutter-width is 30px then @navbar-padding-horizontal is exactly 15px (not "approximately 15px"; see comment)
-
-
-When @grid-gutter-width is 30px, the floor is superfluous.
-
-
-
-```
-Author:
-```
-cvrebert
-```
-Text:
-```
-
-Re (2): But Bootstrap is customizable, so it won't always be 30px.
-
-```
-
-## 29204
-Title:
-```
-
-        docs broken form examples
-      
-```
-Author:
-```
-XhmikosR
-```
-Text:
-```
-
-It seems we still have a fewbroken form examples
-
-the second one in https://twbs-bootstrap.netlify.com/docs/4.3/forms/layout/#auto-sizing
-a few more here https://twbs-bootstrap.netlify.com/docs/4.3/forms/validation/. Basically where input-group-prepend is used
-
-
-```
-Author:
-```
-XhmikosR
-```
-Text:
-```
-
-Some more details, this seems to happen only on Firefox (68.0.1)
-
-
-
-```
-Author:
-```
-ysds
-```
-Text:
-```
-
-This must be related https://stackoverflow.com/questions/36247140/why-dont-flex-items-shrink-past-content-size
-
-```
-
-## 26711
-Title:
-```
-
-        list-group inside card do not inherit card bg styles
-      
-```
-Author:
-```
-dangowans
-```
-Text:
-```
-
-The Bootstrap documentation talks about applying background colors to entire cards by setting the appropriate bg- and text- classes on the card div.  It also talks about using list-groups inside cards.
-The text color settings seem to apply to everything as expected, but the background color settings only apply to the card-header and card-body divs, and miss the list-groups.
-Maybe this is on purpose.  Don't know.
-JS Fiddle
-https://jsfiddle.net/aq9Laaew/34724/
-HTML
-<div class="m-3">
-  <div class="card bg-info text-white">
-    <div class="card-header">
-      List Group Demo
-    </div>
-    <div class="card-body">
-      Test Body
-    </div>
-    <ul class="list-group list-group-flush">
-      <li class="list-group-item">Item One</li>
-      <li class="list-group-item">Item Two</li>
-      <li class="list-group-item">Item Three</li>
-    </ul>
-  </div>
-</div>
-Screenshot
-
-
-```
-Author:
-```
-dangowans
-```
-Text:
-```
-
-As a "workaround", I added the list-group-item-info class to each list-group-item.  That's the behaviour I think should happen automatically if the list-group is inside a card with a background color set.
-
-```
-Author:
-```
-mdo
-```
-Text:
-```
-
-Closing as a won't fix—there should be no inheriting of background colors here. You can override with .bg-transparent or apply your own styles.
-
-```
-Author:
-```
-AndiLeni
-```
-Text:
-```
-
-I'm sorry to comment on a closed issue, but I think this fix is entirely justified. After all, Bootstrap consistently follows the concept of "styles are adopted". Just not at this point, which in my opinion means bad behavior for the developers. Furthermore, this behavior is not described in the docs and can also cause confusion in the future.
-Thank you for your time.
-
-```
-
-## 17943
-Title:
-```
-
-        HTML form <input type='number'> does not allow the letter 'e' as it should according to HTML spec
-      
-```
-Author:
-```
-bfrager
-```
-Text:
-```
-
-The Bootstrap form validation checker returns the warning "Please enter a number" if e is entered into an input field with type=number.
-The <a href'http://www.w3.org/TR/html-markup/input.number.html">HTML spec denotes that 'e' or 'E' is allowed in input fields with type=number as a mathematical symbol. From the spec:
-A floating-point number consists of the following parts, in exactly the following order:
-Optionally, the first character may be a "-" character.
-One or more characters in the range "0—9".
-Optionally, the following parts, in exactly the following order:
-a "." character
-one or more characters in the range "0—9"
-Optionally, the following parts, in exactly the following order:
-a "e" character or "E" character
-optionally, a "-" character or "+" character 3.One or more characters in the range "0—9".
-
-```
-Author:
-```
-cvrebert
-```
-Text:
-```
-
-
-The Bootstrap form validation checker
-
-There's no such thing. You're either referring to a third-party library such as https://github.com/1000hz/bootstrap-validator or to the HTML5 form field validation built into the web browser itself. Neither of which is controlled by Bootstrap.
-
-```
-
-## 18790
-Title:
-```
-
-        .dropdown-toggle::after causes offset alignment in a container when used with .pull-*-right
-      
-```
-Author:
-```
-kybishop
-```
-Text:
-```
-
-As of alpha2, .dropdown-toggle::after contains margin-right: .25rem, which causes offset alignment if the dropdown is the last element of a container where .pull-*right is used on the dropdown.
-Example within a navbar:
-https://jsfiddle.net/6twft72d/
-https://jsfiddle.net/6twft72d/12/
-This is admittedly a bit nitpicky, but it looks the slightest bit off when compared to how it used to look in alpha 1.
-
-```
-Author:
-```
-twbs-lmvtfy
-```
-Text:
-```
-
-Hi @kybishop!
-You appear to have posted a live example (https://fiddle.jshell.net/6twft72d/show/light/), which is always a good first step. However, according to the HTML5 validator, your example has some validation errors, which might potentially be causing your issue:
-
-line 67, column 9 thru column 56: Attribute disabled not allowed on element a at this point.
-line 66, column 7 thru column 79: The aria-labelledby attribute must point to an element in the same document.
-
-You'll need to fix these errors and post a revised example before we can proceed further.
-Thanks!
-(Please note that this is a fully automated comment.)
-
-```
-Author:
-```
-cvrebert
-```
-Text:
-```
-
-@kybishop Add the JavaScript to your example please. (And fix the above errors too.)
-
-```
-Author:
-```
-kybishop
-```
-Text:
-```
-
-Javascript added and errors fixed https://jsfiddle.net/6twft72d/4/
-
-```
-Author:
-```
-twbs-lmvtfy
-```
-Text:
-```
-
-Hi @kybishop!
-You appear to have posted a live example (https://fiddle.jshell.net/6twft72d/4/show/light/), which is always a good first step. However, according to Bootlint, your example has some Bootstrap usage errors, which might potentially be causing your issue:
-
-W005: Unable to locate jQuery, which is required for Bootstrap's JavaScript plugins to work
-line 62, column 3: W012: .navbar's first child element should always be either .container or .container-fluid
-
-You'll need to fix these errors and post a revised example before we can proceed further.
-Thanks!
-(Please note that this is a fully automated comment.)
-
-```
-Author:
-```
-kybishop
-```
-Text:
-```
-
-For real this time ;) https://jsfiddle.net/6twft72d/5/
-
-```
-Author:
-```
-cvrebert
-```
-Text:
-```
-
-W012 doesn't apply to v4, so we can ignore that one.
-
-```
-Author:
-```
-cvrebert
-```
-Text:
-```
-
-jQuery needs to come before bootstrap.js. Read the JS console error message.
-
-```
-Author:
-```
-kybishop
-```
-Text:
-```
-
-That's what I get for trying to submit an issue on mobile. Fixed now https://jsfiddle.net/6twft72d/12/
-
-```
-Author:
-```
-twbs-lmvtfy
-```
-Text:
-```
-
-Hi @kybishop!
-You appear to have posted a live example (https://fiddle.jshell.net/6twft72d/12/show/light/), which is always a good first step. However, according to Bootlint, your example has some Bootstrap usage errors, which might potentially be causing your issue:
-
-line 70, column 3: W012: .navbar's first child element should always be either .container or .container-fluid
-
-You'll need to fix these errors and post a revised example before we can proceed further.
-Thanks!
-(Please note that this is a fully automated comment.)
-
-```
-Author:
-```
-mdo
-```
-Text:
-```
-
-This is because of #17137. I need to undo that.
-
-```
-Author:
-```
-mdo
-```
-Text:
-```
-
-Fix coming in #18807.
+just trigger click on the tab you want to activate... $('#myTab').click()
 
 ```
 
 # Pull
-## 12909
+## 29562
 Title:
 ```
 
-        Added support for AMD/CommonJS/Globals.
+        Update hugo-bin to v0.47.0 (Hugo 0.59.0)
       
 ```
 Author:
 ```
-raulferras
+XhmikosR
 ```
 Text:
 ```
 
-Pull request related to #12783
+
+No description provided.
+
+
+```
+
+## 27614
+Title:
+```
+
+        Docs: Improve accessibility of disabled link example
+      
+```
+Author:
+```
+ysds
+```
+Text:
+```
+
+Add tabindex="-1" and aria-disabled="true" to each disabled link.
+
+```
+
+## 28989
+Title:
+```
+
+        Remove text align from body
+      
+```
+Author:
+```
+MartijnCuppens
+```
+Text:
+```
+
+This was causing issues for RTL, see #28238.
+The text align didn't needed to be set to fix (#22858), adding th{ text-align: inherit; } was enough (see https://codepen.io/MartijnCuppens/pen/zVLZbG)
+Fixes #28238
 
 ```
 Author:
 ```
-VirtueMe
+ysds
 ```
 Text:
 ```
 
-Lots of linting exception.
+looks good, but I'm not sure this can be safely backported to v4.
 
 ```
 Author:
 ```
-cvrebert
+MartijnCuppens
 ```
 Text:
 ```
 
-@raulferras Per the contribution guidelines, please use 2-space indents instead of tabs.
+
+I'm not sure this can be safely backported to v4.
+
+It could start aligning things to the right in rtl-layouts indeed, maybe we should only apply it to v5, just to be sure?
 
 ```
 Author:
 ```
-raulferras
+XhmikosR
 ```
 Text:
 ```
 
-Sure.
+Maybe this should be configurable and not set in reboot?
 
 ```
 Author:
 ```
-jenssimon
+MartijnCuppens
 ```
 Text:
 ```
 
-The "transition" dependencies won't work. The dependencies must not end with ".js".
-So
-(function (factory) {
-  if (typeof define === 'function' && define.amd) {
-    define(['jquery', './transition.js'], factory)
-  } else if (typeof exports === 'object') {
-    var jQuery = require('jquery')
-    require('./transition.js')
-    factory(jQuery)
-  } else {
-    factory(this.jQuery)
-  }
-}(function ($) {
 
-should be replaced by
-(function (factory) {
-  if (typeof define === 'function' && define.amd) {
-    define(['jquery', './transition'], factory)
-  } else if (typeof exports === 'object') {
-    var jQuery = require('jquery')
-    require('./transition')
-    factory(jQuery)
-  } else {
-    factory(this.jQuery)
-  }
-}(function ($) {
+Maybe this should be configurable
 
-in
+Done
 
-alert.js
-carousel.js
-collapse.js
-modal.js
-tab.js
-tooltip.js
+and not set in reboot?
 
+We already set other font related things in the body, so I guess that's the right spot.
 
 ```
 Author:
 ```
-raulferras
+XhmikosR
 ```
 Text:
 ```
 
-Ok, fixed.
-It worked to me under CommonJS as webpack allows it.
+Yeah, but since reboot can be used standalone, you know.
 
+```
+
+## 10386
+Title:
+```
+
+        Added ability to specify buttons text hover-color in variables.less
+      
 ```
 Author:
 ```
-mokkabonna
+nathan-muir
 ```
 Text:
 ```
 
-Hope this finally is going to make it in. Right now I can't even use jquery with AMD (with noconflict) because of:
 
+No description provided.
 
-
-bootstrap/Gruntfile.js
-
-
-         Line 35
-      in
-      73ad81d
-
-
-
-
-
-
- jqueryCheck: 'if (typeof jQuery === \'undefined\') { throw new Error(\'Bootstrap\\\'s JavaScript requires jQuery\') }\n\n', 
-
-
-
-
-
-
-```
-Author:
-```
-raulferras
-```
-Text:
-```
-
-I don't know of AMD, but with CommonJS (webpack) I'm currently doing this:
-var $ = require('jquery');
-window.jQuery = $;
-require('bootstrap');
-This does it for me.
-
-```
-Author:
-```
-zdroid
-```
-Text:
-```
-
-@raulferras You should use jQuery = $, without the window..
-
-```
-Author:
-```
-raulferras
-```
-Text:
-```
-
-That's true for bootstrap specifically, but other jQuery plugins require explicitly to overwrite window.jQuery, it all depends of the plugins/libs you're going to use.
-
-```
-Author:
-```
-cvrebert
-```
-Text:
-```
-
-Running cross-browser tests on Travis... https://travis-ci.org/twbs/bootstrap/builds/20557300
-
-```
-Author:
-```
-cvrebert
-```
-Text:
-```
-
-Browser tests pass!: https://travis-ci.org/twbs/bootstrap/jobs/20557303 😄
-
-```
-Author:
-```
-cvrebert
-```
-Text:
-```
-
-We should also add moduleType to bower.json after merging this. (Ref: bower/bower#934)
-
-```
-Author:
-```
-cvrebert
-```
-Text:
-```
-
-@twbs/team: So, aside from needing to test this manually/interactively in a few browsers beforehand, are there any objections to merging this PR?
 
 ```
 Author:
@@ -7496,179 +4390,16 @@ mdo
 Text:
 ```
 
-I have zero objections as I know nothing about this. We'll need @fat to weigh in.
-
-```
-Author:
-```
-fat
-```
-Text:
-```
-
-yes. i object
-
-```
-Author:
-```
-fat
-```
-Text:
-```
-
-this stuff should be added at build time… dont think we should put it on the raw plugins
-
-```
-Author:
-```
-fat
-```
-Text:
-```
-
-i think ryan florence wrote a really complete version of this at one point… maybe we could use that to add at compile time?
-
-```
-Author:
-```
-cvrebert
-```
-Text:
-```
-
-Some possible options:
-
-https://github.com/alexlawrence/grunt-umd
-https://github.com/aearly/grunt-urequire
-
-
-```
-Author:
-```
-raulferras
-```
-Text:
-```
-
-If this is added at build time, will we be allowed to build the different plugins indepently?
-
-```
-Author:
-```
-cvrebert
-```
-Text:
-```
-
-@raulferras It'd produce individual per-plugin "module-ized" JS files, if that's what you mean.
-
-```
-Author:
-```
-raulferras
-```
-Text:
-```
-
-yes, great then.
-
-```
-Author:
-```
-fat
-```
-Text:
-```
-
-the more i think about this… the more I think that getting into the business of being other projects build systems seems like a bad idea.
-I think as a guiding rule, it's generally safer to lean towards raw components, then trying to include all the hardware to connect to every 3rd party lib under the sun.
-thoughts?
-
-```
-Author:
-```
-zdroid
-```
-Text:
-```
-
-Agree.
-2014-03-23 2:51 GMT+01:00 Jacob notifications@github.com:
-
-the more i think about this… the more I think that getting into the
-business of being other projects build systems seems like a bad idea.
-I think as a guiding rule, it's generally safer to lean towards raw
-components, then trying to include all the hardware to connect to every 3rd
-party lib under the sun.
-thoughts?
-—
-Reply to this email directly or view it on GitHubhttps://github.com//pull/12909#issuecomment-38370499
-.
-
-
-Zlatan Vasović - ZDroid
-
-```
-Author:
-```
-enricostano
-```
-Text:
-```
-
-status? guide lines? any example out there? thanks!
-
-```
-Author:
-```
-fat
-```
-Text:
-```
-
-closing in favor of #13772
+The slightly annoying part about this is that it adds the same color declaration to every button. I understand the benefit, but I think I prefer the consolidation.
 
 ```
 
-## 22401
+## 28094
 Title:
 ```
 
-        Remove incorrect role="tabpanel" from navs docs
+        Update devDependencies and gems.
       
-```
-Author:
-```
-patrickhlauke
-```
-Text:
-```
-
-role="tabpanel" is not appropriate as role for the overall container - it only applies to the individual content parts of each tab
-Closes #22284
-(note that there are still some fundamental problems with the tabs in both docs and their actual JS - this is only a quick fix to an obvious markup error in the docs)
-
-```
-
-## 13095
-Title:
-```
-
-        Generate Translations list from YAML
-      
-```
-Author:
-```
-juthilo
-```
-Text:
-```
-
-Also adds hreflang attribute to the links.
-This might help with #13094.
-@mdo Now that we split up the docs into includes, the difference in terms of contribution difficulty is not as high as before, I think.
-/cc @cvrebert @XhmikosR
-
 ```
 Author:
 ```
@@ -7677,22 +4408,27 @@ XhmikosR
 Text:
 ```
 
-I definitely like this approach! I will check this out closer later and let you know if I have any comments :)
 
+No description provided.
+
+
+```
+
+## 10423
+Title:
+```
+
+        CSS docs - Grid section: two dots are missing before 'col-md-8'
+      
 ```
 Author:
 ```
-XhmikosR
+hustlzp
 ```
 Text:
 ```
 
-@juthilo: what do you think about this order?
-- language: German
-  code: de
-  description: Bootstrap auf Deutsch
-  url: http://holdirbootstrap.de/
-This way it should be also more clear that the language order is based on the language name.
+Add the two missing docs
 
 ```
 Author:
@@ -7702,235 +4438,55 @@ juthilo
 Text:
 ```
 
-Implemented the changes proposed by @XhmikosR.
+@hustlzp: Hi! Do you give your permission to change Bootstrap's license to the MIT license? You can simply reply here on this thread (or by replying to the notification email you might be getting). Thanks in advance for saving us a lot of work!
 
 ```
 Author:
 ```
-XhmikosR
+hustlzp
 ```
 Text:
 ```
 
-LGTM 👍
+@juthilo Year!
 
 ```
 
-## 25123
+## 17625
 Title:
 ```
 
-        Darken $gray-600 by 10% for AA contrast
+        Documentation clean up and consistency.
       
 ```
 Author:
 ```
-mdo
+bhamodi
 ```
 Text:
 ```
 
-Closes #23319. Both .text-muted and .btn-outline-secondary (and indeed all secondary items) make use of $gray-600. New value provides a contrast ratio of 4.69.
+@mdo - just some general clean up of your .md files. 👍
 
 ```
 Author:
 ```
-patrickhlauke
+bhamodi
 ```
 Text:
 ```
 
-for reference, see #25126
+Addressed your feedback @cvrebert.
 
 ```
 Author:
 ```
-patrickhlauke
+bhamodi
 ```
 Text:
 ```
 
-While this addresses the most egregious (and widely used) color, note that there are still many combinations in use that fail AA 4.5:1 ratio.
-
-```
-
-## 17689
-Title:
-```
-
-        Docs: Clarify [hidden] & .hidden
-      
-```
-Author:
-```
-cvrebert
-```
-Text:
-```
-
-CC: @mdo for review
-
-```
-
-## 3073
-Title:
-```
-
-        Updated Glyphicons to use v1.6, as well as added a 'grey' coloured set of glyphicons
-      
-```
-Author:
-```
-sashamor
-```
-Text:
-```
-
-Updated the glyphicons set to use v1.6, and added a variable to the LESS sheets.
-Also added a 'grey', shadowed version of the glyphicons (as well as normal and white), and added an example of it to the docs.
-Fixed a small typo in variables.css (which is why the previous pull request was cancelled).
-From the Glyphicons changelog to v1.6:
-11.04.2012 (All PNG files have been optimized by ImageOptim - http://imageoptim.pornel.net/)
-GLYPHICONS 1.6
-New Glyphicons:
-filter
-gamepad
-playing_dices
-sampler
-web_browser
-share
-piano
-candle
-turtle
-rabbit
-blog
-dashboard
-certificate
-calculator
-book_open
-iphone_shake
-pin_classic
-pin_flag
-tie
-wallet
-globe
-briefcase
-suitcase
-thumbs_up
-thumbs_down
-hand_right
-hand_left
-hand_up
-hand_down
-fullscreen
-shopping_bag
-hdd
-nameplate
-nameplate_alt
-vases
-announcement
-dumbbell
-file_import
-file_export
-bell
-pinterest
-dropbox
-google+_alt
-jolicloud
-yahoo
-blogger
-picasa
-amazon
-tumblr
-wordpress
-New Halflings:
-hdd
-announcement
-bell
-certificate
-thumbs_up
-thumbs_down
-hand_right
-hand_left
-hand_up
-hand_down
-circle_arrow_right
-circle_arrow_left
-circle_arrow_top
-circle_arrow_down
-globe
-wrench
-tasks_progress
-filter
-briefcase
-fullscreen
-
-Changed/fixed icons:
-circle_arrow_left
-circle_arrow_right
-circle_arrow_top
-circle_arrow_down
-settings
-fire
-table
-message_flag
-message_lock
-message_new
-folder_lock
-folder_flag
-folder_new
-tree_conifer
-
-```
-Author:
-```
-MGaetan89
-```
-Text:
-```
-
-The icon set has already been updated in d5063e5
-Make a PR againt 2.0.3-wip and you'll see it. But the grey icon set would be new.
-
-```
-Author:
-```
-sashamor
-```
-Text:
-```
-
-Also, does that commit actually update the CSS files (and docs) to use/display the new icons?
-Sasha
-Edit: nevermind, I can see it now. But yeah, the grey icons are new.
-
-```
-Author:
-```
-mdo
-```
-Text:
-```
-
-We've already updated to 1.6 in 2.0.3-wip.
-
-```
-
-## 18463
-Title:
-```
-
-        Introduce $nav-item-margin variable
-      
-```
-Author:
-```
-cvrebert
-```
-Text:
-```
-
-In the name of less hardcoding.
+Ping @cvrebert and @mdo, any update on this?
 
 ```
 Author:
@@ -7940,7 +4496,7 @@ cvrebert
 Text:
 ```
 
-CC: @mdo for review
+Merged with a couple tweaks. Thanks!
 
 ```
 

@@ -5,31 +5,19 @@
 
 [- Markdown](#Markdown)
 
-* [_github_ISSUE_TEMPLATE_bug_report_for_v_md](#_github_ISSUE_TEMPLATE_bug_report_for_v_md)
-
 * [_CHANGELOG_md](#_CHANGELOG_md)
-
-* [_examples_tetris_README_md](#_examples_tetris_README_md)
 
 * [_vlib_ui_examples_users_gui_README_md](#_vlib_ui_examples_users_gui_README_md)
 
 * [_examples_word_counter_README_md](#_examples_word_counter_README_md)
 
-* [_vlib_compiler_tests_repl_README_md](#_vlib_compiler_tests_repl_README_md)
+* [_vlib_vweb_README_md](#_vlib_vweb_README_md)
 
 * [_examples_vcasino_README_md](#_examples_vcasino_README_md)
 
 * [_examples_game_of_life_README_md](#_examples_game_of_life_README_md)
 
-* [_vlib_vweb_README_md](#_vlib_vweb_README_md)
-
 * [_github_ISSUE_TEMPLATE_bug_report_md](#_github_ISSUE_TEMPLATE_bug_report_md)
-
-* [_CONTRIBUTING_md](#_CONTRIBUTING_md)
-
-* [_CODE_OF_CONDUCT_md](#_CODE_OF_CONDUCT_md)
-
-* [_vlib_ui_README_md](#_vlib_ui_README_md)
 
 * [_vlib_gg_README_md](#_vlib_gg_README_md)
 
@@ -37,61 +25,73 @@
 
 * [_README_md](#_README_md)
 
+* [_CONTRIBUTING_md](#_CONTRIBUTING_md)
+
+* [_vlib_ui_README_md](#_vlib_ui_README_md)
+
+* [_CODE_OF_CONDUCT_md](#_CODE_OF_CONDUCT_md)
+
+* [_github_ISSUE_TEMPLATE_bug_report_for_v_md](#_github_ISSUE_TEMPLATE_bug_report_for_v_md)
+
+* [_vlib_compiler_tests_repl_README_md](#_vlib_compiler_tests_repl_README_md)
+
+* [_examples_tetris_README_md](#_examples_tetris_README_md)
+
 [- Inline](#Inline)
-
-* [_vlib_compiler_tests_bench_val_vs_ptr_c](#_vlib_compiler_tests_bench_val_vs_ptr_c)
-
-* [_thirdparty_zip_zip_c](#_thirdparty_zip_zip_c)
 
 * [_thirdparty_cJSON_cJSON_c](#_thirdparty_cJSON_cJSON_c)
 
-* [_thirdparty_glad_glad_c](#_thirdparty_glad_glad_c)
+* [_thirdparty_zip_zip_c](#_thirdparty_zip_zip_c)
+
+* [_vlib_compiler_tests_bench_val_vs_ptr_c](#_vlib_compiler_tests_bench_val_vs_ptr_c)
 
 * [_thirdparty_vschannel_vschannel_c](#_thirdparty_vschannel_vschannel_c)
 
+* [_thirdparty_glad_glad_c](#_thirdparty_glad_glad_c)
+
 [- Issues](#Issues)
 
-* [743](#743)
+* [2465](#2465)
 
-* [543](#543)
+* [158](#158)
 
-* [400](#400)
+* [1451](#1451)
 
-* [2367](#2367)
+* [253](#253)
 
-* [1350](#1350)
+* [136](#136)
 
-* [2415](#2415)
+* [1169](#1169)
 
-* [2423](#2423)
+* [2164](#2164)
 
-* [1993](#1993)
+* [145](#145)
 
 [- Pull](#Pull)
 
-* [1870](#1870)
-
-* [1955](#1955)
-
-* [2205](#2205)
-
-* [1772](#1772)
-
-* [967](#967)
-
-* [1291](#1291)
-
-* [2013](#2013)
-
-* [1747](#1747)
-
-* [808](#808)
-
-* [945](#945)
+* [1251](#1251)
 
 * [429](#429)
 
-* [1984](#1984)
+* [2236](#2236)
+
+* [1135](#1135)
+
+* [2346](#2346)
+
+* [1916](#1916)
+
+* [475](#475)
+
+* [2108](#2108)
+
+* [1572](#1572)
+
+* [2496](#2496)
+
+* [1499](#1499)
+
+* [1477](#1477)
 
 <!-- toc -->
 
@@ -100,33 +100,6 @@
 Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero dependencies. 1.0 release in December 2019. https://vlang.io
 
 # Markdown
-## _github_ISSUE_TEMPLATE_bug_report_for_v_md
-```---
-name: Bug report for V
-about: Please use the apropriate label when submitting an issue: bug/feature request/question.
-title: "New issue"
-labels: ''
-assignees: ''
-
----
-
-#### V version:
-
-
-#### OS:
-
-
-#### C Compiler:
-
-
-## What did you do?
-
-
-### What did you expect to see?
-
-
-### What did you see instead?
-```
 ## _CHANGELOG_md
 ```## V 0.1.21
 *30 Sep 2019*
@@ -361,23 +334,6 @@ this backend.
 - The home page has 3 more examples next to 'hello world' that show the features of the language.
 - Lots of bugs and issues fixed.
 ```
-## _examples_tetris_README_md
-```<img src='https://raw.githubusercontent.com/vlang/v/master/examples/tetris/screenshot.png' width=300>
-
-Tetris has a temporary dependency on GLFW. 
-
-## macOS
-`brew install glfw` 
- 
-## Ubuntu 
-`sudo apt install libglfw3 libglfw3-dev`
-
-## Arch (and Manjaro)
-`sudo pacman -S glfw-x11` 
-
-## Windows 
-Copy `thirdparty/glfw/glfw3.dll` to this directory. 
-```
 ## _vlib_ui_examples_users_gui_README_md
 ```<img src='https://raw.githubusercontent.com/vlang/v/master/vlib/ui/examples/users_gui/screenshot.png' width=612>
 ```
@@ -407,66 +363,6 @@ any => 1
 anyone => 2
 ...
 '''
-```
-## _vlib_compiler_tests_repl_README_md
-```# V REPL Tests Script
-
-### How to write a new test
-  - Create a new file named `*.repl`
-  - Write the input to be given to REPL
-  - Add `===output===`
-  - Write the output expected
-  
-### Notes
-Keep in mind, that the way V repl works for now, every non empty line
-would cause a new recompilation of the entire repl content that was
-collected so far. 
-
-*Longer REPL files would cause measurably*
-*longer recompilation/testing times.*
-
-Also, longer repl files would be slower to debug when they fail,
-*It is better to have several smaller files vs one huge REPL file.*
-
-### Example :
-'''
-a := 1
-println(a)
-===output===
-1
-```
-## _examples_vcasino_README_md
-```# VCasino
-VCasino is a very simple game made to learn V.
-
-# Compile and Run
-
-Use this to generate a binary and then launch the game.
-'''bash
-v VCasino.v
-./VCasino
-'''
-
-And this to compile and launch the game directly.
-'''bash
-v run VCasino.v
-'''
-
-Created by Thomas Senechal : https://github.com/thomas-senechal/VCasino
-```
-## _examples_game_of_life_README_md
-```# Conway's Game of Life
-
-![](https://github.com/fuyutarow/Conways-Game-of-Life-with-Vlang/raw/master/v-gun.gif)
-
-
-'''v
-v run life.v
-'''
-
-Created by fuyutarow: https://github.com/fuyutarow/Conways-Game-of-Life-with-Vlang
-
-
 ```
 ## _vlib_vweb_README_md
 ```This is pre-alpha software.
@@ -525,6 +421,39 @@ That means that the template automatically has access to that action's entire en
 Everything, including HTML templates, is in one binary file. That's all you need to deploy.
 
 ```
+## _examples_vcasino_README_md
+```# VCasino
+VCasino is a very simple game made to learn V.
+
+# Compile and Run
+
+Use this to generate a binary and then launch the game.
+'''bash
+v VCasino.v
+./VCasino
+'''
+
+And this to compile and launch the game directly.
+'''bash
+v run VCasino.v
+'''
+
+Created by Thomas Senechal : https://github.com/thomas-senechal/VCasino
+```
+## _examples_game_of_life_README_md
+```# Conway's Game of Life
+
+![](https://github.com/fuyutarow/Conways-Game-of-Life-with-Vlang/raw/master/v-gun.gif)
+
+
+'''v
+v run life.v
+'''
+
+Created by fuyutarow: https://github.com/fuyutarow/Conways-Game-of-Life-with-Vlang
+
+
+```
 ## _github_ISSUE_TEMPLATE_bug_report_md
 ```---
 name: Bug report
@@ -545,85 +474,6 @@ assignees: ''
 
  
 **What did you see instead?**
-```
-## _CONTRIBUTING_md
-```## Code Structure
-
-I tried making the code of the compiler and vlib as simple and readable as possible. One of V's goals is to be open to developers with different levels of experience in compiler development. Compilers don't need to be black boxes full of magic that only few people understand.
-
-The compiler itself is located in `vlib/compiler/`. It's a module that can be used by other
-applications.
-
-The main files are:
-
-1. `v.v` and `vlib/compiler/main.v`. The entry point.
-
-- V figures out the build mode.
-- Constructs the compiler object (`struct V`).
-- Creates a list of .v files that need to be parsed.
-- Creates a parser object for each file and runs `parse()` on them (this should work concurrently in the future). The parser emits C or x64 code directly. For performance reasons, there are no intermediate steps (no AST or Assembly code generation).
-- If the parsing is successful, a single C file is generated by merging the output from the parsers and carefully arranging all definitions (C is a single pass language).
-- Finally, a C compiler is called to compile this C file and generate an executable or a library.
-
-2. `parser.v` The core of the compiler. This is the largest file (~3.5k loc). `parse()` method asks the scanner to generate a list of tokens for the file it needs to parse. Then it simply goes through all the tokens one by one.
-
-   In V, objects can be used before declaration, so there are 2 passes. During the first pass, it only looks at declarations and skips function bodies. It memorizes all function signatures, types, consts, etc. During the second pass it looks at function bodies and generates C (e.g. `cgen('if ($expr) {'`) or machine code (e.g. `gen.mov(EDI, 1)`).
-
-   The formatter is embedded in the parser. Correctly formatted tokens are emitted as they are parsed. This allowed us to simplify the compiler and avoid duplication, but slowed it down a bit. In the future, this will be fixed with build flags and separate binaries for C generation, machine code generation, and formatting. This way there will be no unnecessary branching and function calls.
-
-3. `scanner.v` The scanner's job is to parse a list of characters and convert them to tokens. It also takes care of string interpolation, which is a mess at the moment.
-
-4. `token.v` This is simply a list of all tokens, their string values, and a couple of helper functions.
-
-5. `table.v` V creates one table object that is shared by all parsers. It contains all types, consts, and functions, as well as several helpers to search for objects by name, register new objects, modify types' fields, etc.
-
-6. `cgen.v` The small `Cgen` struct helps generate C code. It's also shared by all parsers. It has a couple of functions that allow to go back and set something that was previously unknown (like with `a := 0` => `int a = 0;`). Some of these functions are hacky and need improvements and simplifications.
-
-7. `fn.v` Handles declaring and calling normal and async functions and methods. This file is about 1000 lines of code, and has some complex logic. It needs to be cleaned up and simplified a bit.
-
-8. `json.v` defines the json code generation. This file will be removed once V supports comptime code generation, and it will be possible to do this using the language's tools.
-
-9. `x64/` is the directory with all the machine code generation logic. It's not released yet. Obviously this is the most complex part of the compiler. It defines a set of functions that translates assembly instructions to machine code, it builds complicated binaries from scratch byte by byte. It manually builds all headers, segments, sections, symtable, relocations, etc. Right now it only has basic support of the x64 platform/Mach-O format, and it can only generate `.o` files, which then have to be linked with `lld`.
-
-The rest of the directories are vlib modules: `builtin/` (strings, arrays, maps), `time/`, `os/`, etc. Their documentation is pretty clear.
-
-## Example Workflow for Contributing
-##### (provided by [@spytheman](https://github.com/spytheman))
-
-(If you don't already have a Github account, please create one. Your Github username will be referred to later as 'YOUR_GITHUB_USERNAME'. Change it accordingly in the steps below.)
-
-1. Clone https://github.com/vlang/v in a folder, say nv (`git clone https://github.com/vlang/v nv`)
-1. `cd nv`
-1. `git remote add pullrequest git@github.com:YOUR_GITHUB_USERNAME/v.git`  # (NOTE: this is your own forked repo of: https://github.com/vlang/v - After this, we just do normal git operations such as: `git pull` and so on.)
-1. When finished with a feature/bugfix, you can: `git checkout -b fix_alabala`
-1. `git push pullrequest`  # (NOTE: the pullrequest remote was setup on step 3)
-1. On Github's web interface, I go to: https://github.com/vlang/v/pulls  Here the UI shows a nice dialog with a button to make a new pull request based on the new pushed branch. (Example dialogue: https://url4e.com/gyazo/images/364edc04.png)
-1. After making your pullrequest (aka, PR), you can continue to work on the branch... just do step #5 when you have more commits.
-1. If there are merge conflicts, or a branch lags too much behind V's master, you can do the following:
-   1. `git checkout master`
-   1. `git pull`
-   1. `git checkout fix_alabala`
-   1. `git rebase master`  # solve conflicts and do git rebase --continue
-   1. `git push pullrequest -f`
-
-The point of doing the above steps to never directly push to the main V repository, only to your own fork. Since your local master branch tracks the main V repository's master, then `git checkout master; git pull --rebase origin master` work as expected (this is actually used by `v up`) and it can always do so cleanly. Git is very flexible, so there may be simpler/easier ways to accomplish the same thing.
-```
-## _CODE_OF_CONDUCT_md
-```# Code of Conduct
-
-Be nice and respectful.
-
-```
-## _vlib_ui_README_md
-```# V UI
-
-V UI is a cross-platform UI toolkit for Windows, macOS, Linux, Android, and iOS. It uses native widgets on each platform.
-
-V UI is licensed under GPL3. A commercial license will be available.
-
-Open-source projects will have access to the commercial license for free. That means that if you have an open-source non-GPL project, you won't have to relicense it under GPL to use V UI.
-
-Every single feature will be open-sourced right away and available under both licenses.
 ```
 ## _vlib_gg_README_md
 ````gg` will be moved to its own repository:
@@ -822,10 +672,343 @@ If you introduce a breaking change and rebuild V, you will no longer be able to 
 
 
 ```
-# Inline
-## _vlib_compiler_tests_bench_val_vs_ptr_c
-### Line 1-20
+## _CONTRIBUTING_md
+```## Code Structure
+
+I tried making the code of the compiler and vlib as simple and readable as possible. One of V's goals is to be open to developers with different levels of experience in compiler development. Compilers don't need to be black boxes full of magic that only few people understand.
+
+The compiler itself is located in `vlib/compiler/`. It's a module that can be used by other
+applications.
+
+The main files are:
+
+1. `v.v` and `vlib/compiler/main.v`. The entry point.
+
+- V figures out the build mode.
+- Constructs the compiler object (`struct V`).
+- Creates a list of .v files that need to be parsed.
+- Creates a parser object for each file and runs `parse()` on them (this should work concurrently in the future). The parser emits C or x64 code directly. For performance reasons, there are no intermediate steps (no AST or Assembly code generation).
+- If the parsing is successful, a single C file is generated by merging the output from the parsers and carefully arranging all definitions (C is a single pass language).
+- Finally, a C compiler is called to compile this C file and generate an executable or a library.
+
+2. `parser.v` The core of the compiler. This is the largest file (~3.5k loc). `parse()` method asks the scanner to generate a list of tokens for the file it needs to parse. Then it simply goes through all the tokens one by one.
+
+   In V, objects can be used before declaration, so there are 2 passes. During the first pass, it only looks at declarations and skips function bodies. It memorizes all function signatures, types, consts, etc. During the second pass it looks at function bodies and generates C (e.g. `cgen('if ($expr) {'`) or machine code (e.g. `gen.mov(EDI, 1)`).
+
+   The formatter is embedded in the parser. Correctly formatted tokens are emitted as they are parsed. This allowed us to simplify the compiler and avoid duplication, but slowed it down a bit. In the future, this will be fixed with build flags and separate binaries for C generation, machine code generation, and formatting. This way there will be no unnecessary branching and function calls.
+
+3. `scanner.v` The scanner's job is to parse a list of characters and convert them to tokens. It also takes care of string interpolation, which is a mess at the moment.
+
+4. `token.v` This is simply a list of all tokens, their string values, and a couple of helper functions.
+
+5. `table.v` V creates one table object that is shared by all parsers. It contains all types, consts, and functions, as well as several helpers to search for objects by name, register new objects, modify types' fields, etc.
+
+6. `cgen.v` The small `Cgen` struct helps generate C code. It's also shared by all parsers. It has a couple of functions that allow to go back and set something that was previously unknown (like with `a := 0` => `int a = 0;`). Some of these functions are hacky and need improvements and simplifications.
+
+7. `fn.v` Handles declaring and calling normal and async functions and methods. This file is about 1000 lines of code, and has some complex logic. It needs to be cleaned up and simplified a bit.
+
+8. `json.v` defines the json code generation. This file will be removed once V supports comptime code generation, and it will be possible to do this using the language's tools.
+
+9. `x64/` is the directory with all the machine code generation logic. It's not released yet. Obviously this is the most complex part of the compiler. It defines a set of functions that translates assembly instructions to machine code, it builds complicated binaries from scratch byte by byte. It manually builds all headers, segments, sections, symtable, relocations, etc. Right now it only has basic support of the x64 platform/Mach-O format, and it can only generate `.o` files, which then have to be linked with `lld`.
+
+The rest of the directories are vlib modules: `builtin/` (strings, arrays, maps), `time/`, `os/`, etc. Their documentation is pretty clear.
+
+## Example Workflow for Contributing
+##### (provided by [@spytheman](https://github.com/spytheman))
+
+(If you don't already have a Github account, please create one. Your Github username will be referred to later as 'YOUR_GITHUB_USERNAME'. Change it accordingly in the steps below.)
+
+1. Clone https://github.com/vlang/v in a folder, say nv (`git clone https://github.com/vlang/v nv`)
+1. `cd nv`
+1. `git remote add pullrequest git@github.com:YOUR_GITHUB_USERNAME/v.git`  # (NOTE: this is your own forked repo of: https://github.com/vlang/v - After this, we just do normal git operations such as: `git pull` and so on.)
+1. When finished with a feature/bugfix, you can: `git checkout -b fix_alabala`
+1. `git push pullrequest`  # (NOTE: the pullrequest remote was setup on step 3)
+1. On Github's web interface, I go to: https://github.com/vlang/v/pulls  Here the UI shows a nice dialog with a button to make a new pull request based on the new pushed branch. (Example dialogue: https://url4e.com/gyazo/images/364edc04.png)
+1. After making your pullrequest (aka, PR), you can continue to work on the branch... just do step #5 when you have more commits.
+1. If there are merge conflicts, or a branch lags too much behind V's master, you can do the following:
+   1. `git checkout master`
+   1. `git pull`
+   1. `git checkout fix_alabala`
+   1. `git rebase master`  # solve conflicts and do git rebase --continue
+   1. `git push pullrequest -f`
+
+The point of doing the above steps to never directly push to the main V repository, only to your own fork. Since your local master branch tracks the main V repository's master, then `git checkout master; git pull --rebase origin master` work as expected (this is actually used by `v up`) and it can always do so cleanly. Git is very flexible, so there may be simpler/easier ways to accomplish the same thing.
 ```
+## _vlib_ui_README_md
+```# V UI
+
+V UI is a cross-platform UI toolkit for Windows, macOS, Linux, Android, and iOS. It uses native widgets on each platform.
+
+V UI is licensed under GPL3. A commercial license will be available.
+
+Open-source projects will have access to the commercial license for free. That means that if you have an open-source non-GPL project, you won't have to relicense it under GPL to use V UI.
+
+Every single feature will be open-sourced right away and available under both licenses.
+```
+## _CODE_OF_CONDUCT_md
+```# Code of Conduct
+
+Be nice and respectful.
+
+```
+## _github_ISSUE_TEMPLATE_bug_report_for_v_md
+```---
+name: Bug report for V
+about: Please use the apropriate label when submitting an issue: bug/feature request/question.
+title: "New issue"
+labels: ''
+assignees: ''
+
+---
+
+#### V version:
+
+
+#### OS:
+
+
+#### C Compiler:
+
+
+## What did you do?
+
+
+### What did you expect to see?
+
+
+### What did you see instead?
+```
+## _vlib_compiler_tests_repl_README_md
+```# V REPL Tests Script
+
+### How to write a new test
+  - Create a new file named `*.repl`
+  - Write the input to be given to REPL
+  - Add `===output===`
+  - Write the output expected
+  
+### Notes
+Keep in mind, that the way V repl works for now, every non empty line
+would cause a new recompilation of the entire repl content that was
+collected so far. 
+
+*Longer REPL files would cause measurably*
+*longer recompilation/testing times.*
+
+Also, longer repl files would be slower to debug when they fail,
+*It is better to have several smaller files vs one huge REPL file.*
+
+### Example :
+'''
+a := 1
+println(a)
+===output===
+1
+```
+## _examples_tetris_README_md
+```<img src='https://raw.githubusercontent.com/vlang/v/master/examples/tetris/screenshot.png' width=300>
+
+Tetris has a temporary dependency on GLFW. 
+
+## macOS
+`brew install glfw` 
+ 
+## Ubuntu 
+`sudo apt install libglfw3 libglfw3-dev`
+
+## Arch (and Manjaro)
+`sudo pacman -S glfw-x11` 
+
+## Windows 
+Copy `thirdparty/glfw/glfw3.dll` to this directory. 
+```
+# Inline
+## _thirdparty_cJSON_cJSON_c
+### Line 22-73
+```
+
+/* cJSON */
+/* JSON parser in C. */
+
+/* disable warnings about old C89 functions in MSVC */
+#if !defined(_CRT_SECURE_NO_DEPRECATE) && defined(_MSC_VER)
+#define _CRT_SECURE_NO_DEPRECATE
+#endif
+
+#ifdef __GNUC__
+#pragma GCC visibility push(default)
+#endif
+#if defined(_MSC_VER)
+#pragma warning (push)
+/* disable warning about single line comments in system headers */
+#pragma warning (disable : 4001)
+#endif
+
+#include <string.h>
+#include <stdio.h>
+#include <math.h>
+#include <stdlib.h>
+#include <limits.h>
+#include <ctype.h>
+
+#ifdef ENABLE_LOCALES
+#include <locale.h>
+#endif
+
+#if defined(_MSC_VER)
+#pragma warning (pop)
+#endif
+#ifdef __GNUC__
+#pragma GCC visibility pop
+#endif
+
+#include "cJSON.h"
+
+/* define our own boolean type */
+#ifdef true
+#undef true
+#endif
+#define true ((cJSON_bool)1)
+
+#ifdef false
+#undef false
+#endif
+#define false ((cJSON_bool)0)
+
+typedef struct {
+    const unsigned char *json;
+    size_t position;
+
+```
+### Line 86-97
+```
+
+    return item->valuestring;
+}
+
+/* This is a safeguard to prevent copy-pasters from using incompatible C and header files */
+#if (CJSON_VERSION_MAJOR != 1) || (CJSON_VERSION_MINOR != 7) || (CJSON_VERSION_PATCH != 12)
+    #error cJSON.h and cJSON.c have different versions. Make sure that both have the same.
+#endif
+
+CJSON_PUBLIC(const char*) cJSON_Version(void)
+{
+    static char version[15];
+
+```
+### Line 129-138
+```
+    void *(CJSON_CDECL *allocate)(size_t size);
+    void (CJSON_CDECL *deallocate)(void *pointer);
+    void *(CJSON_CDECL *reallocate)(void *pointer, size_t size);
+} internal_hooks;
+
+#if defined(_MSC_VER)
+/* work around MSVC error C2322: '...' address of dillimport '...' is not static */
+static void * CJSON_CDECL internal_malloc(size_t size)
+{
+    return malloc(size);
+
+```
+### Line 143-159
+```
+}
+static void * CJSON_CDECL internal_realloc(void *pointer, size_t size)
+{
+    return realloc(pointer, size);
+}
+#else
+#define internal_malloc malloc
+#define internal_free free
+#define internal_realloc realloc
+#endif
+
+/* strlen of character literals resolved at compile time */
+#define static_strlen(string_literal) (sizeof(string_literal) - sizeof(""))
+
+static internal_hooks global_hooks = { internal_malloc, internal_free, internal_realloc };
+
+static unsigned char* cJSON_strdup(const unsigned char* string, const internal_hooks * const hooks)
+
+```
+### Line 245-259
+```
+}
+
+/* get the decimal point character of the current locale */
+static unsigned char get_decimal_point(void)
+{
+#ifdef ENABLE_LOCALES
+    struct lconv *lconv = localeconv();
+    return (unsigned char) lconv->decimal_point[0];
+#else
+    return '.';
+#endif
+}
+
+typedef struct
+{
+
+```
+### Line 263-277
+```
+    size_t depth; /* How deeply nested (in arrays/objects) is the input at the current offset. */
+    internal_hooks hooks;
+} parse_buffer;
+
+/* check if the given size is left to read in a given parse buffer (starting with 1) */
+#define can_read(buffer, size) ((buffer != NULL) && (((buffer)->offset + size) <= (buffer)->length))
+/* check if the buffer can be accessed at the given index (starting with 0) */
+#define can_access_at_index(buffer, index) ((buffer != NULL) && (((buffer)->offset + index) < (buffer)->length))
+#define cannot_access_at_index(buffer, index) (!can_access_at_index(buffer, index))
+/* get a pointer to the buffer at the position */
+#define buffer_at_offset(buffer) ((buffer)->content + (buffer)->offset)
+
+/* Parse the input text to generate a number, and populate the result into item. */
+static cJSON_bool parse_number(cJSON * const item, parse_buffer * const input_buffer)
+{
+
+```
+### Line 1090-1099
+```
+CJSON_PUBLIC(cJSON *) cJSON_Parse(const char *value)
+{
+    return cJSON_ParseWithOpts(value, 0, 0);
+}
+
+#define cjson_min(a, b) ((a < b) ? a : b)
+
+static unsigned char *print(const cJSON * const item, cJSON_bool format, const internal_hooks * const hooks)
+{
+    static const size_t default_buffer_size = 256;
+
+```
+### Line 1888-1910
+```
+CJSON_PUBLIC(void) cJSON_AddItemToArray(cJSON *array, cJSON *item)
+{
+    add_item_to_array(array, item);
+}
+
+#if defined(__clang__) || (defined(__GNUC__)  && ((__GNUC__ > 4) || ((__GNUC__ == 4) && (__GNUC_MINOR__ > 5))))
+    #pragma GCC diagnostic push
+#endif
+#ifdef __GNUC__
+#pragma GCC diagnostic ignored "-Wcast-qual"
+#endif
+/* helper function to cast away const */
+static void* cast_away_const(const void* string)
+{
+    return (void*)string;
+}
+#if defined(__clang__) || (defined(__GNUC__)  && ((__GNUC__ > 4) || ((__GNUC__ == 4) && (__GNUC_MINOR__ > 5))))
+    #pragma GCC diagnostic pop
+#endif
+
+
+static cJSON_bool add_item_to_object(cJSON * const object, const char * const string, cJSON * const item, const internal_hooks * const hooks, const cJSON_bool constant_key)
+{
+
 ```
 
 ## _thirdparty_zip_zip_c
@@ -884,6 +1067,7 @@ int symlink(const char *target, const char *linkpath); // needed on Linux
     if (ptr) {                                                                 \
       free((void *)ptr);                                                       \
       ptr = NULL;                                                              \
+
 ```
 ### Line 83-105
 ```
@@ -910,6 +1094,7 @@ int symlink(const char *target, const char *linkpath); // needed on Linux
       if (MKDIR(npath) == -1) {
         if (errno != EEXIST) {
           return -1;
+
 ```
 ### Line 154-171
 ```
@@ -931,6 +1116,7 @@ struct zip_t *zip_open(const char *zipname, int level, char mode) {
     goto cleanup;
   }
 
+
 ```
 ### Line 175-184
 ```
@@ -944,6 +1130,7 @@ struct zip_t *zip_open(const char *zipname, int level, char mode) {
       printf("%s", "Cannot initialize zip_archive writer");
       goto cleanup;
     }
+
 ```
 ### Line 187-197
 ```
@@ -958,6 +1145,7 @@ struct zip_t *zip_open(const char *zipname, int level, char mode) {
     }
     if (mode == 'a' &&
         !mz_zip_writer_init_from_reader(&(zip->archive), zipname)) {
+
 ```
 ### Line 212-222
 ```
@@ -972,6 +1160,7 @@ void zip_close(struct zip_t *zip) {
 
     mz_zip_writer_end(&(zip->archive));
     mz_zip_reader_end(&(zip->archive));
+
 ```
 ### Line 251-260
 ```
@@ -985,6 +1174,7 @@ void zip_close(struct zip_t *zip) {
   }
 
   pzip = &(zip->archive);
+
 ```
 ### Line 288-327
 ```
@@ -1028,6 +1218,7 @@ void zip_close(struct zip_t *zip) {
   }
 
   zip->entry.header_offset += num_alignment_padding_bytes;
+
 ```
 ### Line 331-340
 ```
@@ -1041,6 +1232,7 @@ void zip_close(struct zip_t *zip) {
   }
 
   zip->entry.offset += entrylen;
+
 ```
 ### Line 347-356
 ```
@@ -1053,6 +1245,7 @@ void zip_close(struct zip_t *zip) {
       goto cleanup;
     }
   }
+
 
 ```
 ### Line 369-397
@@ -1086,6 +1279,7 @@ void zip_close(struct zip_t *zip) {
   }
 
   namelen = MZ_READ_LE16(pHeader + MZ_ZIP_CDH_FILENAME_LEN_OFS);
+
 ```
 ### Line 408-417
 ```
@@ -1099,6 +1293,7 @@ void zip_close(struct zip_t *zip) {
   }
 
   if (!mz_zip_reader_file_stat(pZip, (mz_uint)index, &stats)) {
+
 ```
 ### Line 438-447
 ```
@@ -1112,6 +1307,7 @@ void zip_close(struct zip_t *zip) {
   }
 
   pzip = &(zip->archive);
+
 ```
 ### Line 452-497
 ```
@@ -1161,6 +1357,7 @@ void zip_close(struct zip_t *zip) {
   }
 
   pzip->m_total_files++;
+
 ```
 ### Line 506-538
 ```
@@ -1197,6 +1394,7 @@ int zip_entry_isdir(struct zip_t *zip) {
   }
 
   return (int)mz_zip_reader_is_file_a_directory(&zip->archive,
+
 ```
 ### Line 551-560
 ```
@@ -1210,6 +1408,7 @@ int zip_entry_isdir(struct zip_t *zip) {
   }
 
   pzip = &(zip->archive);
+
 ```
 ### Line 565-583
 ```
@@ -1232,6 +1431,7 @@ int zip_entry_isdir(struct zip_t *zip) {
       }
     }
   }
+
 ```
 ### Line 591-624
 ```
@@ -1269,6 +1469,7 @@ int zip_entry_isdir(struct zip_t *zip) {
   }
 
   while ((n = fread(buf, sizeof(mz_uint8), MZ_ZIP_MAX_IO_BUF_SIZE, stream)) >
+
 ```
 ### Line 637-658
 ```
@@ -1294,6 +1495,7 @@ int zip_entry_isdir(struct zip_t *zip) {
   }
 
   *buf = mz_zip_reader_extract_to_heap(pzip, idx, &size, 0);
+
 ```
 ### Line 664-679
 ```
@@ -1313,6 +1515,7 @@ ssize_t zip_entry_noallocread(struct zip_t *zip, void *buf, size_t bufsize) {
   }
 
   if (!mz_zip_reader_extract_to_mem_no_alloc(pzip, (mz_uint)zip->entry.index,
+
 ```
 ### Line 689-722
 ```
@@ -1350,6 +1553,7 @@ ssize_t zip_entry_noallocread(struct zip_t *zip, void *buf, size_t bufsize) {
   }
 
   xattr = (info.m_external_attr >> 16) & 0xFFFF;
+
 ```
 ### Line 723-732
 ```
@@ -1362,6 +1566,7 @@ ssize_t zip_entry_noallocread(struct zip_t *zip, void *buf, size_t bufsize) {
 
   return 0;
 }
+
 
 ```
 ### Line 736-751
@@ -1382,6 +1587,7 @@ ssize_t zip_entry_noallocread(struct zip_t *zip, void *buf, size_t bufsize) {
   }
 
   idx = (mz_uint)zip->entry.index;
+
 ```
 ### Line 754-763
 ```
@@ -1395,6 +1601,7 @@ int zip_total_entries(struct zip_t *zip) {
   }
 
   return (int)zip->archive.m_total_files;
+
 ```
 ### Line 769-789
 ```
@@ -1419,6 +1626,7 @@ int zip_total_entries(struct zip_t *zip) {
   }
 
   memset((void *)&file_stat, 0, sizeof(struct MZ_FILE_STAT_STRUCT));
+
 ```
 ### Line 794-816
 ```
@@ -1445,6 +1653,7 @@ int zip_total_entries(struct zip_t *zip) {
       break;
     }
   }
+
 ```
 ### Line 832-905
 ```
@@ -1522,6 +1731,7 @@ int zip_total_entries(struct zip_t *zip) {
           !mz_zip_reader_extract_to_mem_no_alloc(&zip_archive, i, symlink_to,
                                                  MAX_PATH, 0, NULL, 0)) {
         goto out;
+
 ```
 ### Line 906-932
 ```
@@ -1552,6 +1762,7 @@ int zip_total_entries(struct zip_t *zip) {
 
     if (on_extract) {
       if (on_extract(path, arg) < 0) {
+
 ```
 ### Line 935-946
 ```
@@ -1567,382 +1778,236 @@ out:
   }
 
   return status;
+
 ```
 
-## _thirdparty_cJSON_cJSON_c
-### Line 22-73
+## _vlib_compiler_tests_bench_val_vs_ptr_c
+### Line 1-20
 ```
 
-/* cJSON */
-/* JSON parser in C. */
-
-/* disable warnings about old C89 functions in MSVC */
-#if !defined(_CRT_SECURE_NO_DEPRECATE) && defined(_MSC_VER)
-#define _CRT_SECURE_NO_DEPRECATE
-#endif
-
-#ifdef __GNUC__
-#pragma GCC visibility push(default)
-#endif
-#if defined(_MSC_VER)
-#pragma warning (push)
-/* disable warning about single line comments in system headers */
-#pragma warning (disable : 4001)
-#endif
-
-#include <string.h>
-#include <stdio.h>
-#include <math.h>
-#include <stdlib.h>
-#include <limits.h>
-#include <ctype.h>
-
-#ifdef ENABLE_LOCALES
-#include <locale.h>
-#endif
-
-#if defined(_MSC_VER)
-#pragma warning (pop)
-#endif
-#ifdef __GNUC__
-#pragma GCC visibility pop
-#endif
-
-#include "cJSON.h"
-
-/* define our own boolean type */
-#ifdef true
-#undef true
-#endif
-#define true ((cJSON_bool)1)
-
-#ifdef false
-#undef false
-#endif
-#define false ((cJSON_bool)0)
-
-typedef struct {
-    const unsigned char *json;
-    size_t position;
-```
-### Line 86-97
-```
-
-    return item->valuestring;
-}
-
-/* This is a safeguard to prevent copy-pasters from using incompatible C and header files */
-#if (CJSON_VERSION_MAJOR != 1) || (CJSON_VERSION_MINOR != 7) || (CJSON_VERSION_PATCH != 12)
-    #error cJSON.h and cJSON.c have different versions. Make sure that both have the same.
-#endif
-
-CJSON_PUBLIC(const char*) cJSON_Version(void)
-{
-    static char version[15];
-```
-### Line 129-138
-```
-    void *(CJSON_CDECL *allocate)(size_t size);
-    void (CJSON_CDECL *deallocate)(void *pointer);
-    void *(CJSON_CDECL *reallocate)(void *pointer, size_t size);
-} internal_hooks;
-
-#if defined(_MSC_VER)
-/* work around MSVC error C2322: '...' address of dillimport '...' is not static */
-static void * CJSON_CDECL internal_malloc(size_t size)
-{
-    return malloc(size);
-```
-### Line 143-159
-```
-}
-static void * CJSON_CDECL internal_realloc(void *pointer, size_t size)
-{
-    return realloc(pointer, size);
-}
-#else
-#define internal_malloc malloc
-#define internal_free free
-#define internal_realloc realloc
-#endif
-
-/* strlen of character literals resolved at compile time */
-#define static_strlen(string_literal) (sizeof(string_literal) - sizeof(""))
-
-static internal_hooks global_hooks = { internal_malloc, internal_free, internal_realloc };
-
-static unsigned char* cJSON_strdup(const unsigned char* string, const internal_hooks * const hooks)
-```
-### Line 245-259
-```
-}
-
-/* get the decimal point character of the current locale */
-static unsigned char get_decimal_point(void)
-{
-#ifdef ENABLE_LOCALES
-    struct lconv *lconv = localeconv();
-    return (unsigned char) lconv->decimal_point[0];
-#else
-    return '.';
-#endif
-}
-
-typedef struct
-{
-```
-### Line 263-277
-```
-    size_t depth; /* How deeply nested (in arrays/objects) is the input at the current offset. */
-    internal_hooks hooks;
-} parse_buffer;
-
-/* check if the given size is left to read in a given parse buffer (starting with 1) */
-#define can_read(buffer, size) ((buffer != NULL) && (((buffer)->offset + size) <= (buffer)->length))
-/* check if the buffer can be accessed at the given index (starting with 0) */
-#define can_access_at_index(buffer, index) ((buffer != NULL) && (((buffer)->offset + index) < (buffer)->length))
-#define cannot_access_at_index(buffer, index) (!can_access_at_index(buffer, index))
-/* get a pointer to the buffer at the position */
-#define buffer_at_offset(buffer) ((buffer)->content + (buffer)->offset)
-
-/* Parse the input text to generate a number, and populate the result into item. */
-static cJSON_bool parse_number(cJSON * const item, parse_buffer * const input_buffer)
-{
-```
-### Line 1090-1099
-```
-CJSON_PUBLIC(cJSON *) cJSON_Parse(const char *value)
-{
-    return cJSON_ParseWithOpts(value, 0, 0);
-}
-
-#define cjson_min(a, b) ((a < b) ? a : b)
-
-static unsigned char *print(const cJSON * const item, cJSON_bool format, const internal_hooks * const hooks)
-{
-    static const size_t default_buffer_size = 256;
-```
-### Line 1888-1910
-```
-CJSON_PUBLIC(void) cJSON_AddItemToArray(cJSON *array, cJSON *item)
-{
-    add_item_to_array(array, item);
-}
-
-#if defined(__clang__) || (defined(__GNUC__)  && ((__GNUC__ > 4) || ((__GNUC__ == 4) && (__GNUC_MINOR__ > 5))))
-    #pragma GCC diagnostic push
-#endif
-#ifdef __GNUC__
-#pragma GCC diagnostic ignored "-Wcast-qual"
-#endif
-/* helper function to cast away const */
-static void* cast_away_const(const void* string)
-{
-    return (void*)string;
-}
-#if defined(__clang__) || (defined(__GNUC__)  && ((__GNUC__ > 4) || ((__GNUC__ == 4) && (__GNUC_MINOR__ > 5))))
-    #pragma GCC diagnostic pop
-#endif
-
-
-static cJSON_bool add_item_to_object(cJSON * const object, const char * const string, cJSON * const item, const internal_hooks * const hooks, const cJSON_bool constant_key)
-{
-```
-
-## _thirdparty_glad_glad_c
-### Line 16-67
-```
-```
-### Line 70-112
-```
-```
-### Line 117-143
-```
-```
-### Line 153-164
-```
-```
-### Line 165-178
-```
-```
-### Line 194-203
-```
-```
-### Line 210-221
-```
-```
-### Line 234-243
-```
-```
-### Line 246-255
-```
-```
-### Line 1664-1677
-```
 ```
 
 ## _thirdparty_vschannel_vschannel_c
 ### Line 1-26
 ```
+
 ```
 ### Line 37-69
 ```
+
 ```
 ### Line 75-84
 ```
+
 ```
 ### Line 98-124
 ```
+
 ```
 ### Line 125-160
 ```
+
 ```
 ### Line 173-183
 ```
+
 ```
 ### Line 185-197
 ```
+
 ```
 ### Line 214-232
 ```
+
 ```
 ### Line 242-251
 ```
+
 ```
 ### Line 291-322
 ```
+
 ```
 ### Line 335-344
 ```
+
 ```
 ### Line 354-363
 ```
+
 ```
 ### Line 383-392
 ```
+
 ```
 ### Line 393-412
 ```
+
 ```
 ### Line 426-437
 ```
+
 ```
 ### Line 458-467
 ```
+
 ```
 ### Line 469-478
 ```
+
 ```
 ### Line 501-512
 ```
+
 ```
 ### Line 516-535
 ```
+
 ```
 ### Line 551-563
 ```
+
 ```
 ### Line 568-579
 ```
+
 ```
 ### Line 580-597
 ```
+
 ```
 ### Line 606-633
 ```
+
 ```
 ### Line 642-692
 ```
+
 ```
 ### Line 697-706
 ```
+
 ```
 ### Line 727-768
 ```
+
 ```
 ### Line 785-815
 ```
+
 ```
 ### Line 821-830
 ```
+
 ```
 ### Line 837-852
 ```
+
 ```
 ### Line 856-880
 ```
+
 ```
 ### Line 882-895
 ```
+
 ```
 ### Line 897-912
 ```
+
 ```
 ### Line 943-952
 ```
+
 ```
 ### Line 957-966
 ```
+
 ```
 ### Line 1010-1026
 ```
+
 ```
 ### Line 1030-1039
 ```
+
 ```
 ### Line 1042-1054
 ```
+
 ```
 ### Line 1065-1094
 ```
+
+```
+
+## _thirdparty_glad_glad_c
+### Line 16-67
+```
+
+```
+### Line 70-112
+```
+
+```
+### Line 117-143
+```
+
+```
+### Line 153-164
+```
+
+```
+### Line 165-178
+```
+
+```
+### Line 194-203
+```
+
+```
+### Line 210-221
+```
+
+```
+### Line 234-243
+```
+
+```
+### Line 246-255
+```
+
+```
+### Line 1664-1677
+```
+
 ```
 
 # Issues
-## 743
+## 2465
 Title:
 ```
 
-        Concurrency with process for non-thread-safe scenarios
+        error : ft2build.h 
       
 ```
 Author:
 ```
-andreabravetti
+hunylee
 ```
 Text:
 ```
 
-It wuold be usefull to have process concurrency like python multiprocessing or ProcessPoolExecutor, in addition to thread concurrency, for non-thread-safe scenarios.
-
-```
-
-## 543
-Title:
-```
-
-        Add some topic labels for V
-      
-```
-Author:
-```
-SleepyRoy
-```
-Text:
-```
-
-Many languages have their topic labels. For example,
-
-Labels may facilitate people finding and knowing V.
-
-```
-Author:
-```
-AurelienFT
-```
-Text:
-```
-
-#513 duplicate
+V version:
+** V 0.1.21 dfc654f
+OS:
+** mac os
+What did you do?
+** v/examples/tetris/tetris.tmp.c:167:10: fatal error: 'ft2build.h' file not found
+What did you expect to see?
+** I won't  ft2build.h'
+What did you see instead?
+** ft2build.h is add
 
 ```
 Author:
@@ -1952,444 +2017,150 @@ medvednikov
 Text:
 ```
 
-Done. Can't add tag "V" :(
+it's mentioned in the readme: brew install freetype
 
 ```
 
-## 400
+## 158
 Title:
 ```
 
-        Linux being misidentified as macOS
+        It's probably a bug.
       
 ```
 Author:
 ```
-elimisteve
+xywf221
 ```
 Text:
 ```
 
-When running
-$ ./vc -o v .
-
-on Linux, I get the error:
-cc: error: unrecognized command line option ‘-mmacosx-version-min=10.7’
-
-In main.v I see
-        if c.os == MAC {
-                a << '-mmacosx-version-min=10.7'
-        }
-
-which indicates that my Linux machine is being misidentified as macOS.
-(It also assumes that I'm compiling with clang but that's another issue.)
-EDIT: the solution is to run
-$ ./vc -os linux -o v .
-
-to compile on Linux... which solves OS "detection" -- thank you to @superwhiskers for figuring this out! 👍 -- but I personally can't compile on Linux yet.
-
-```
-Author:
-```
-superwhiskers
-```
-Text:
-```
-
-ok so here's what i've deduced so far, @elimisteve
-c.os is deduced using the a set of compile-time if expressions
-here's the code that does that
-	mut _os := MAC
-	// No OS specifed? Use current system
-	if target_os == '' {
-		$if linux {
-			_os = LINUX
-		}
-		$if mac {
-			_os = MAC
-		}
-		$if windows {
-			_os = WINDOWS
-		}
-	}
-	else {
-		switch target_os {
-		case 'linux': _os = LINUX
-		case 'windows': _os = WINDOWS
-		case 'mac': _os = MAC
-		}
-	}
-
-i'm still working on deducing what conditions are used to figure out the operating system. i'll update you if i find anything out
-
-```
-Author:
-```
-elimisteve
-```
-Text:
-```
-
-@superwhiskers Thanks 👍 . I've reached similar conclusions and can say that even compiling with clang does not help with the OS misindentification:
-$ clang -std=c11 v.c -w -o vc && ./vc -o v .
-cc: error: unrecognized command line option ‘-mmacosx-version-min=10.7’
-V panic: clang error
-
-
-```
-Author:
-```
-superwhiskers
-```
-Text:
-```
-
-yeah. clang wouldn't have anything to do with it though. it's probably some funky os detection stuff
-
-```
-Author:
-```
-elimisteve
-```
-Text:
-```
-
-I wouldn't be surprised if different compilers used different criteria to determine the OS they are running on at compile time, but I don't know how clang does it versus gcc; maybe they're the same.
-
-```
-Author:
-```
-superwhiskers
-```
-Text:
-```
-
-ah ok. so it relies on the c compiler to do the os checking.
-l2517-2530
-		name := p.check_name()
-		if name in SupportedPlatforms {
-			if not {
-				p.genln('#ifndef $name')
-			}
-			else {
-				p.genln('#ifdef $name')
-			}
-			p.check(LCBR)
-			p.statements_no_curly_end()
-			if ! (p.tok == DOLLAR && p.peek() == ELSE) {
-				p.genln('#endif')
-			}
-		}
-
-so basically, your c compiler thinks you're on macos, or your c compiler doesn't think you're on macos, windows or linux and so it falls back to the default, macos
-
-```
-Author:
-```
-superwhiskers
-```
-Text:
-```
-
-i'm not quite sure how you could fix this, but what exactly are you running
-
-```
-Author:
-```
-superwhiskers
-```
-Text:
-```
-
-there's one quick hack you could do though which involves passing -os linux to the compiler which will override the os checking part
-
-```
-Author:
-```
-elimisteve
-```
-Text:
-```
-
-
-there's one quick hack you could do though which involves passing -os linux to the compiler which will override the os checking part
-
-Any idea how to do that? Literally adding -os linux to clang or gcc doesn't work for me.
-I see https://stackoverflow.com/a/8249232 ... Maybe <= that is how the OS detection logic should be implemented in the first place?
-
-```
-Author:
-```
-superwhiskers
-```
-Text:
-```
-
-to the v compiler, not the c compiler
-
-```
-Author:
-```
-elimisteve
-```
-Text:
-```
-
-Ah. Well I get:
-$ ./vc -os linux -o v .
-cc: error: x86_64-linux-gnu: No such file or directory
-cc: error: unrecognized command line option ‘-target’
-V panic: clang error
-
-
-```
-Author:
-```
-elimisteve
-```
-Text:
-```
-
-You're right though -- that fixed OS "detection"! 🎉 Thank you; well done.
-
-```
-Author:
-```
-superwhiskers
-```
-Text:
-```
-
-you can now manually compile the v binary by running
-clang -o v ~/.vlang*/compiler.c
-
-(i think)
-
-```
-Author:
-```
-superwhiskers
-```
-Text:
-```
-
-ah ok. np
-
-```
-Author:
-```
-elimisteve
-```
-Text:
-```
-
-        // Cross compiling linux
-        sysroot := '/Users/alex/tmp/lld/linuxroot/'
-
-Jeez, more terrible hardcoding...
-
-```
-Author:
-```
-superwhiskers
-```
-Text:
-```
-
-oh yeah. there's a lot more than just that though :)
-
-```
-Author:
-```
-superwhiskers
-```
-Text:
-```
-
-i've been working on fixing some of that but i decided to take a break to work on some of the issues in the issue tracker
-
-```
-Author:
-```
-spytheman
-```
-Text:
-```
-
-On Linux, you can also compile v.c with:
-gcc -Dlinux -g -std=c11 -w -o vc v.c
-
-```
-Author:
-```
-lutherwenxu
-```
-Text:
-```
-
-Should be fixed now by 0.1.0 . It now depends on C macros instead of random defines in the code.
-
-```
-
-## 2367
-Title:
-```
-
-        multi-dimensional map support
-      
-```
-Author:
-```
-netmute
-```
-Text:
-```
-
-mut m := map[string]int
-works for normal maps.
-mut m := map[string]map[string]int
-for maps inside of maps would be useful too.
-
-```
-
-## 1350
-Title:
-```
-
-        no error when using return in a function of void return type
-      
-```
-Author:
-```
-mvlootman
-```
-Text:
-```
-
-V version: 0.1.16
-OS: Mac
-What did you do?
-use return in a function that has no return value (void)
-reproduction code:
-fn no_return_value(line string){
-        // x := 'some_value'
-        return 'some_value'      // returning number constant (e.g. return 123) gives: function `no_return_value` does not return a value
-                                                // when returning a string constant there is no error/warning
-                                                // when returning a variable (e.g. return x) constant there is no error/warning
-}
-
-no_return_value('line input')
-
-What did you expect to see?
-compiler error stating that function does not return a value.
-What did you see instead?
-no errors/warnings
-
-```
-
-## 2415
-Title:
-```
-
-        `v` creates "a.out.tmp.c" and doesn't remove it if specified build target don't exist
-      
-```
-Author:
-```
-popzxc
-```
-Text:
-```
-
-V version: V 0.1.21 6890034
-OS: Linux Mint 19
-What did you do?
-Tried to compile a non-existent target (discovered by entering a valid name with an accidental typo, so it's not a hypothetical problem).
-v some_nonexistent_target
-What did you expect to see?
-Error and no files created
-What did you see instead?
-Error and "a.out.tmp.c" file created
-
-```
-
-## 2423
-Title:
-```
-
-        os.getenv returns type byte* instead of type string
-      
-```
-Author:
-```
-b2nil
-```
-Text:
-```
-
-V version: v0.1.21 b51b885
-OS: windows 10
-What did you do?
-Tried to play with shell script using v, and wrote the following code:
-# demo.vsh
+I'm trying to run the following code
 fn main() {
-  println('[+] change directory to temp folder....') 
-  chdir(getenv('TEMP'))
-  //println(getenv('TEMP'))
+        str := '123'
+	println()
 }
-Error occured when running it with the following command:
-$ v run demo.vsh
 
-What did you expect to see?
-os.getenv returns the environment variable as type string, rather than type byte*.
-What did you see instead?
-os.getenv obviously returns byte* instead of string .
-demo.vsh:6:23: cannot use type `byte*` as type `string` in first argument to `os.chdir()`
-    5|   chdir(getenv('TEMP'))
+output : test.v:3. Unexpected token: ') ',I think he should have given me the error. The function parameter is empty
 
-                         ^
-    6|   println(getenv('TEMP'))
+```
+Author:
+```
+ntrel
+```
+Text:
+```
 
-    7|
+That is the error ;-)
+I think it's planned for println to accept multiple arguments. If so probably no arguments could be supported too. (So this would hopefully be a new language feature: variadic function arguments. And println would be a standard library function).
+
+```
+Author:
+```
+ntrel
+```
+Text:
+```
+
+But yes, it would be better for V to print the function signature when the argument types or argument count do not match the function parameter(s).
+
+```
+Author:
+```
+medvednikov
+```
+Text:
+```
+
+Fixed:
+not enough arguments in call to `println` 
+
+
+```
+Author:
+```
+medvednikov
+```
+Text:
+```
+
+
+So this would hopefully be a new language feature: variadic function arguments
+
+Yes, varargs will be supported.
 
 ```
 
-## 1993
+## 1451
 Title:
 ```
 
-        Release 0.1.19 builds but fails to compile trivial program due to implicit declaration of function 'array_repeat_old'
+        Line number of compile error missing
       
 ```
 Author:
 ```
-lobotony
+l8atnight
 ```
 Text:
 ```
 
-V version: 0.1.19
-OS: MacOS 10.14.16
+V version: lastest
+OS: win64
 What did you do?
-Downloaded 0.1.19.zip, make, ./main.v
-in main.v
+compile with error
+What did you expect to see?
+line number of error
+What did you see instead?
+F:\v\mylib>..\v test.v
+unexpected token: ]
+
+```
+Author:
+```
+joe-conigliaro
+```
+Text:
+```
+
+This will be updated so line number is always shown
+
+```
+Author:
+```
+medvednikov
+```
+Text:
+```
+
+Please paste the code that results in this.
+I get
+k.v:3 panic: unexpected token: `}`
+
+
+```
+Author:
+```
+l8atnight
+```
+Text:
+```
+
 fn main() {
-    v := 3
-assert v > 0
-println(v)
+
+   mut matrix := [0.0,0.0][0.5,0.5]
+   matrix[0] = 0.5
+   matrix[40] = 0.5   //F:\v\mylib>test
+                               //  V panic: array index out of range: 40 / 2
+                              //without the below line!
+
+  matrix[0][0] = 0.5  //F:\v\mylib>..\v test.v
+                               //Cant [] non-array/string/map. Got type "f32"
+                               //no line number!!
+
+	println(matrix[40])
 }
 
-What did you expect to see?
-successful compilation
-What did you see instead?
-warning: Downloads/v-0.1.19/vlib/builtin/string.v:360: `[0 ; len]` syntax was removed. Use `[0].repeat(len)` instead
-warning: Downloads/v-0.1.19/vlib/builtin/string.v:877: `[0 ; len]` syntax was removed. Use `[0].repeat(len)` instead
-warning: Downloads/v-0.1.19/vlib/builtin/int.v:216: `[0 ; len]` syntax was removed. Use `[0].repeat(len)` instead
-warning: Downloads/v-0.1.19/vlib/builtin/map.v:172: `[0 ; len]` syntax was removed. Use `[0].repeat(len)` instead
-warning: Downloads/v-0.1.19/vlib/strings/similarity.v:6: `[0 ; len]` syntax was removed. Use `[0].repeat(len)` instead
-main.tmp.c:1270:19: error: implicit declaration of function 'array_repeat_old' is invalid in C99 [-Werror,-Wimplicit-function-declaration]
-array_int prefix= array_repeat_old(& (int[]){  0 },  p .len ,...
-
 
 ```
 Author:
@@ -2399,70 +2170,131 @@ medvednikov
 Text:
 ```
 
-V is on a rolled release right now, it should always be compiled from master until 0.2.
+Strange, I just tested on macOS and Windows, and I get error lines.
+You need [[0.0,0.0], [0.5,0.5]], and [0][0] syntax doesn't work yet.
 
 ```
 Author:
 ```
-N8python
+l8atnight
 ```
 Text:
 ```
 
-I tried running the same program, and got a different error:
-/Users/natebreslow/v/vlib/strings/similarity.v:7:3: bad token#(embedding C code is no longer supported)
-
-```
-Author:
-```
-medvednikov
-```
-Text:
-```
-
-@N8python are you following instructions from the readme?
-git clone ...
-cd v
+I thought so too. I update always with:
+git pull origin master
 make
+could that be a reason?
 
 ```
 Author:
 ```
-N8python
+joe-conigliaro
 ```
 Text:
 ```
 
-I ran `v up` to update to version 0.1.19. Do I need to reinstall V entirely?
-…
-On Mon, Sep 16, 2019 at 11:40 AM Alexander Medvednikov < ***@***.***> wrote:
- @N8python <https://github.com/N8python> are you following instructions
- from the readme?
+yes can you also try:
+git pull origin master
+make
+v -o v1 compiler
+mv v1 v
 
- git clone ...
- cd v
- make
+```
+Author:
+```
+l8atnight
+```
+Text:
+```
 
- —
- You are receiving this because you were mentioned.
- Reply to this email directly, view it on GitHub
- <#1993?email_source=notifications&email_token=AKKMMKHMK6TLK2EIIAUJD2DQJ6SIXA5CNFSM4IW3BQZ2YY3PNVWWK3TUL52HS4DFVREXG43VMVBW63LNMVXHJKTDN5WW2ZLOORPWSZGOD6ZSLLY#issuecomment-531834287>,
- or mute the thread
- <https://github.com/notifications/unsubscribe-auth/AKKMMKH5PM72JS2ALKLIXXTQJ6SIXANCNFSM4IW3BQZQ>
- .
+@joe-conigliaro  i did that
+F:\v\mylib>..\v1 test.v
+pass=2 fn=main
+test.v:10 panic: Cant [] non-array/string/map. Got type "f32"
+and it works.
+
+```
+
+## 253
+Title:
+```
+
+        V compiles in 0.6s?
+      
+```
+Author:
+```
+mr-del
+```
+Text:
+```
+
+How could V compiles in 0.6s if the code generate an error syntax? Was it 0.6s because of an error?
+https://vlang.io/compilation_speed
 
 
+
+v/website/compilation_speed_test_gen.v
+
+
+         Line 69
+      in
+      e2a19cc
+
+
+
+
+
+
+ fn gen_v() { 
+
+
+
+
+
+test.v:2
+unexpected token: ;
+fn main() { mut a := 0 
+a = 0; println(a);
+a = 1; println(a);
+a = 2; println(a);
+a = 3; println(a);
+.
+.
+.
+}
 
 
 ```
 Author:
 ```
-N8python
+MaxUNof
 ```
 Text:
 ```
 
-Never mind, it's a problem with my computer.
+Vlang doesn't support ;
+Correct gen_v():
+fn gen_v() {
+	println('fn main() { mut a := 0 ')
+	for i := 0; i < N * 1000; i++ {
+		println('a = $i\nprintln(a)')
+	}
+	println('}')
+}
+
+Fix it and check time of compilation ;-)
+
+```
+Author:
+```
+mr-del
+```
+Text:
+```
+
+I knew removing the semicolon fix it. The concern is how long does it took to compile in 200K println (not the time to generate 200K of V code) and what is your machine specification?
 
 ```
 Author:
@@ -2472,26 +2304,381 @@ medvednikov
 Text:
 ```
 
-Fixed in 0.1.20
+As discussed here the test is not very good and useful: #126
+I'll update it as soon as the language is open-sourced.
+
+```
+
+## 136
+Title:
+```
+
+        bug of stack size check
+      
+```
+Author:
+```
+bronze1man
+```
+Text:
+```
+
+Put follow code into https://vlang.io/play
+fn fib(n int) int {
+	if n <= 1 {
+		return 1
+	}
+	return fib(n - 1) * 3 + 1
+}
+
+fn main() {
+	println(fib(1000000))
+}
+
+Then I got nothing.
+But When I change the 1000000 to 100000, it will output some overflowed int result.
+Follow code will get time out error like Your program was running for too long (> 1 sec):
+fn main() {
+	for i := 0; i < 1000000000; i++ {
+	}
+	println(1)
+}
+
+I think there may be process crash or other bad stuff happened. The playground just can not handle it.
+
+```
+
+## 1169
+Title:
+```
+
+        V 0.1.15 with *BSD support, hot code reloading, fixed VROOT, defer statement, and more!
+      
+```
+Author:
+```
+medvednikov
+```
+Text:
+```
+
+V 0.1.15
+15 Jul 2019
+
+FreeBSD, OpenBSD, NetBSD, DragonFly support.
+Hot code reloading now works with graphical applications:  bounce.v
+VROOT was removed, the installation process is now much simpler.
+defer statement.
+map.v was re-written. It's now much faster.
+for key, val in map syntax.
+flag module for parsing command line arguments.
+zip module.
+crypto/sha1 module.
+Submodules and module aliases (import encoding.base64 as b64).
+
+
+```
+Author:
+```
+changrui
+```
+Text:
+```
+
+Panic：  os_win.v:5， redefination of os.PathSeparator, please fix it.
+
+```
+Author:
+```
+medvednikov
+```
+Text:
+```
+
+@changrui make sure you run git pull and make
+
+```
+Author:
+```
+lhmwzy
+```
+Text:
+```
+
+git pull;make
+rm -f v.c v vprod
+curl -Os https://raw.githubusercontent.com/vlang/vc/master/v.c
+cc -std=gnu11 -w -o v v.c -lm
+./v -o v compiler
+*** Signal 11
+Stop.
+make: stopped in /home/lhm/v
+./v examples/hello_world.v
+fish: './v examples/hello_world.v' terminated by signal SIGSEGV (Address boundary error)
+uname -a:
+DragonFly gxdb 5.6-RELEASE DragonFly v5.6.0.1.g3d5034-RELEASE #0: Tue Jun 18 09:09:55 CST 2019
+
+```
+Author:
+```
+medvednikov
+```
+Text:
+```
+
+I tested on FreeBSD and OpenBSD only. I assumed it would just work.
+I'll install DragonFly and test it there.
+
+```
+Author:
+```
+lhmwzy
+```
+Text:
+```
+
+the core file is here:
+https://github.com/lhmwzy/v_error
+
+```
+Author:
+```
+kingofoz
+```
+Text:
+```
+
+Hi @medvednikov Did you fix #1004?
+
+```
+Author:
+```
+medvednikov
+```
+Text:
+```
+
+@lhmwzy can you try again please?
+
+```
+Author:
+```
+ernierasta
+```
+Text:
+```
+
+Hi Alex,
+thank You for implementing sane (POSIG/GNU) flags! In golang I always have to use non standard library pflag library.
+
+```
+Author:
+```
+Chiiruno
+```
+Text:
+```
+
+Great work!
+Do you plan on adding this release to the releases page on this repo?
+
+```
+Author:
+```
+medvednikov
+```
+Text:
+```
+
+@Chiiruno done
+There are no pre-built binaries right now, they have to built from source. But it's very easy to do (git clone + make).
+
+```
+Author:
+```
+JohnAZoidberg
+```
+Text:
+```
+
+Could you please add the notes to the releases in the future?
+
+```
+Author:
+```
+elimisteve
+```
+Text:
+```
+
+@JohnAZoidberg Great idea; seconded 👍
+EDIT: @medvednikov Then the release notes would appear at https://github.com/vlang/v/releases/tag/0.1.15
+
+```
+Author:
+```
+lhmwzy
+```
+Text:
+```
+
+
+@lhmwzy can you try again please?
+
+OK now.thks @medvednikov
+
+```
+Author:
+```
+medvednikov
+```
+Text:
+```
+
+
+Then the release notes would appear at https://github.com/vlang/v/releases/tag/0.1.15
+
+Ok, will do @elimisteve @JohnAZoidberg
+
+```
+
+## 2164
+Title:
+```
+
+        Cannot compile empty filenames
+      
+```
+Author:
+```
+radare
+```
+Text:
+```
+
+V version: V 0.1.20 e72fe25
+OS: macOS 10.14
+What did you do?
+$ v .v
+ld: can't open output file for writing: , errno=2 for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+V error: C error. This should never happen. Please create a GitHub issue: https://github.com/vlang/v/issues/new/choose
+
+What did you expect to see?
+Maybe an a.out or main? or a more meaningful error message
+What did you see instead?
+
+```
+Author:
+```
+nsauzede
+```
+Text:
+```
+
+trying to compile some equivalently named ".c" file gives this :
+$ cat .c
+int main() {
+	return 0;
+}
+$ gcc .c
+/usr/bin/ld:.c: file format not recognized; treating as linker script
+/usr/bin/ld:.c:1: syntax error
+collect2: error: ld returned 1 exit status
+
+So I would say that it should not be an issue if V also refuses such kind of bogus file name
+But I agree that the error message could be more explicit (ie: V compiler forbidding empty file radix)
+
+```
+Author:
+```
+radare
+```
+Text:
+```
+
+Works perfectly fine with clang
+$ cat .c
+main() {}
+$ clang .c
+.c:1:1: warning: type specifier missing, defaults to 'int' [-Wimplicit-int]
+main() {}
+^
+1 warning generated.
+$
+
+
+```
+
+## 145
+Title:
+```
+
+        bug of type check 5
+      
+```
+Author:
+```
+bronze1man
+```
+Text:
+```
+
+may relative to #133
+fn main() {
+	test_hello()
+	println(1)
+}
+
+// hello.v
+fn hello() string {
+	return 'Hello world'
+}
+
+// hello_test.v
+fn test_hello() {
+	assert hello() 
+}
+
+Then I got
+You just found a bug. V can't compile this program, but it should. Please create a GitHub issue.
+
+
+```
+Author:
+```
+medvednikov
+```
+Text:
+```
+
+Fixed.
+expected type `bool`, but got `string`
+
 
 ```
 
 # Pull
-## 1870
+## 1251
 Title:
 ```
 
-        Update PULL_REQUEST_TEMPLATE
+        vlib/os: fix memory leaks in write, exec and more
       
 ```
 Author:
 ```
-spytheman
+Rendims
 ```
 Text:
 ```
 
-Politely ask people to delete the PR boilerplate text, thus hopefully making issue/PR search more useful in the future by reducing the noise.
+This fixes some of the memory leaks in the os module but not all.
+Calling functions with internal leakage in a loop as in issue #1004 can quickly exhaust all available memory.
+''.clone() might look odd but it is to make sure the return string owns the allocated data. It's required so that a caller of exec can call free() on the return value without the risk of freeing a slice or something that wasn't allocated with malloc.
+I tested this on Android and can't test it on windows so I skipped closing the process in exec on windows since I don't want to introduce errors.
+The compiler can still compile itself and make test tests pass (some examples fail to build on Android).
+Also ran the compiler with valgrind and got no errors except more leaks.
 
 ```
 Author:
@@ -2501,44 +2688,8 @@ medvednikov
 Text:
 ```
 
-I'll be asking people to delete it from now on in the comments :)
-
-```
-
-## 1955
-Title:
-```
-
-        compiler: remove testing printf in typo check & clean few things
-      
-```
-Author:
-```
-joe-conigliaro
-```
-Text:
-```
-
-compiler: remove testing printf in typo check & clean few things
-also changed to f32 was no need for f64
-
-```
-
-## 2205
-Title:
-```
-
-        JS : fix js backend build
-      
-```
-Author:
-```
-Delta456
-```
-Text:
-```
-
-Fixes #2198
+Thanks. All of these (except for .clone()) are going to be inserted by the compiler automatically.
+I'm hoping to release this tomorrow.
 
 ```
 Author:
@@ -2548,176 +2699,7 @@ medvednikov
 Text:
 ```
 
-Thanks :)
-I'm surprised the CI didn't catch that error, will investigate.
-
-```
-
-## 1772
-Title:
-```
-
-        fix building v on alpine with musl libc
-      
-```
-Author:
-```
-spytheman
-```
-Text:
-```
-
-Alpine linux uses musl as its libc.
-musl does not have backtrace nor backtrace_symbols_fd.
-This leads to the following error:
-/v # make
-rm -rf vc/
-git clone --depth 1 --quiet https://github.com/vlang/vc
-cc -std=gnu11 -w -o v vc/v.c -lm
-cc -/usr/lib/gcc/x86_64-alpine-linux-musl/8.3.0/../../../../x86_64-alpine-linux-musl/bin/ld: /tmp/cceKAeaM.o: in function `print_backtrace_skipping_top_frames':
-v.c:(.text+0x38c3): undefined reference to `backtrace'
-/usr/lib/gcc/x86_64-alpine-linux-musl/8.3.0/../../../../x86_64-alpine-linux-musl/bin/ld: v.c:(.text+0x390c): undefined reference to `backtrace_symbols_fd'
-collect2: error: ld returned 1 exit status
-make: *** [Makefile:6: all] Error 1
-/v #
-
-With this PR, v can build again, and print_backtrace_skipping_top_frames will print:
-backtrace_symbols_fd is missing, so printing backtraces is not available.
-Some libc implementations like musl simply do not provide it.
-
-
-```
-
-## 967
-Title:
-```
-
-        Added true permission bits.
-      
-```
-Author:
-```
-0x9ef
-```
-Text:
-```
-
-
-No description provided.
-
-
-```
-Author:
-```
-0x9ef
-```
-Text:
-```
-
-Worked.
-
-```
-
-## 1291
-Title:
-```
-
-        Update make.bat
-      
-```
-Author:
-```
-vitalyster
-```
-Text:
-```
-
-Fix for latest v.c
-Travis workaround will be not needed after this patch
-
-```
-Author:
-```
-medvednikov
-```
-Text:
-```
-
-Thanks, it works now.
-
-```
-
-## 2013
-Title:
-```
-
-        testing: turn on showing the timing information by default
-      
-```
-Author:
-```
-spytheman
-```
-Text:
-```
-
-Turns on timing info when doing v test v, without --verbose needed.
-The benchmark.run function is now private.
-
-```
-
-## 1747
-Title:
-```
-
-        builtin.string: make trim_left/right() behave correctly
-      
-```
-Author:
-```
-joe-conigliaro
-```
-Text:
-```
-
-builtin.string: make trim_left/right() behave correctly
-
-```
-
-## 808
-Title:
-```
-
-        vlib: update and cleanup tests + fix PR template
-      
-```
-Author:
-```
-garf
-```
-Text:
-```
-
-This PR improves tests + cleanups some of them
-Makes more readable and also covers a bit more cases
-
-```
-
-## 945
-Title:
-```
-
-        net: added listen_backlog to enable custom backlog
-      
-```
-Author:
-```
-archanpatkar
-```
-Text:
-```
-
-This PR adds a new method in the Socket struct namely listen_backlog enabling the user to listen with custom backlog
+All of these are now cleaned up by the compiler.
 
 ```
 
@@ -2741,11 +2723,239 @@ No description provided.
 
 ```
 
-## 1984
+## 2236
 Title:
 ```
 
-        compiler: pass -lXXX flags without space to C backend (needed for tcc)
+        Grammar fix on readme.md file
+      
+```
+Author:
+```
+ybaruchel
+```
+Text:
+```
+
+Grammar fix on readme.md file
+
+```
+
+## 1135
+Title:
+```
+
+        Fix clang build for windows.
+      
+```
+Author:
+```
+0x9ef
+```
+Text:
+```
+
+Fixed:
+C:\Users\C182~1\AppData\Local\Temp\ccb5oFDP.o: In function `os__fork':
+C:/Users/─рэ //.vlang//v2.exe.c:4831: undefined reference to `fork'
+C:\Users\C182~1\AppData\Local\Temp\ccb5oFDP.o: In function `os__wait':
+C:/Users/─рэ //.vlang//v2.exe.c:4840: undefined reference to `wait'
+collect2.exe: error: ld returned 1 exit status
+
+
+```
+
+## 2346
+Title:
+```
+
+        Add getters for complex numbers
+      
+```
+Author:
+```
+shsr04
+```
+Text:
+```
+
+Added getters for re/im part of complex numbers. (Fixes #2344)
+c := cmplx.complex(5,2)
+re := c.real()
+im := c.imag()
+
+```
+Author:
+```
+lppedd
+```
+Text:
+```
+
+Hi! Out of curiosity, can I ask why not just publishing the im and re fields?
+I'd have simply renamed them to imag and real, just that it's still in 0.1.*.
+I feel getters are mostly redundant.
+
+```
+Author:
+```
+avitkauskas
+```
+Text:
+```
+
+Yes, I also think we should just make the fields public, without changing their names. So just:
+struct Complex {
+pub:
+	re f64
+	im f64
+}
+
+```
+Author:
+```
+medvednikov
+```
+Text:
+```
+
+Yes, V doesn't need getters because of the immutable struct fields.
+
+```
+Author:
+```
+lppedd
+```
+Text:
+```
+
+Morning everyone. @avitkauskas yes, you're right, since math uses Im and Re. My bad.
+
+```
+
+## 1916
+Title:
+```
+
+        compiler: add vmft() to reduce complexity
+      
+```
+Author:
+```
+vbrazo
+```
+Text:
+```
+
+Isolate responsibility to reduce complexity in the main method.
+Similar PR: #1910
+
+```
+Author:
+```
+dumblob
+```
+Text:
+```
+
+This is IMHO unnecessary (I don't find it complex at all and second, the function is used just on one place).
+
+```
+Author:
+```
+dumblob
+```
+Text:
+```
+
+What is the new binary file examples/database/pg/customer good for?
+
+```
+Author:
+```
+vbrazo
+```
+Text:
+```
+
+I pushed examples/database/pg/customer by mistake.
+Since this is unnecessary, we're closing this PR.
+
+```
+Author:
+```
+medvednikov
+```
+Text:
+```
+
+I think it's fine @vbrazo
+You can bring it back, just call the function fn vfmt
+
+```
+Author:
+```
+vbrazo
+```
+Text:
+```
+
+@medvednikov done!
+
+```
+
+## 475
+Title:
+```
+
+        update rand.v to produce more guaranteed random results
+      
+```
+Author:
+```
+alyx
+```
+Text:
+```
+
+Per RFC 1194.5, the statically returned random number from vlang's rand.next() function should not be 0.
+The standard, IEEE-vetted and approved random number is 4.
+
+```
+Author:
+```
+LouCle
+```
+Text:
+```
+
+I know you're joking, but just to make sure, the function actually produces a random number as the # specifier allows for the inclusion of C code. Thus the last return doesn't actually do anything.
+
+```
+
+## 2108
+Title:
+```
+
+        compiler: small fixes with blank identifier
+      
+```
+Author:
+```
+joe-conigliaro
+```
+Text:
+```
+
+compiler: small fixes with blank identifier
+
+```
+
+## 1572
+Title:
+```
+
+        v install: fix installing a single module
       
 ```
 Author:
@@ -2755,7 +2965,94 @@ spytheman
 Text:
 ```
 
-tcc does not understand -l flags with space after them (for example -l glfw leads to compilation error about a missing library with tcc, while -lglfw is ok).
+Fixes 'v install singlemodule', while avoiding changing the behavior of v, that always rebuilds vget (PR #1570).
+
+```
+
+## 2496
+Title:
+```
+
+        tetris.v: minor User Interface improvements
+      
+```
+Author:
+```
+Sag-Dev
+```
+Text:
+```
+
+I've improved the user interface of the tetris example. These are the changes I've done:
+
+I've added a gray (almost white, but less saturated) background to make it less eye straining. This also allows to differentiate the play area from the rest of the window when the user resizes it.
+I've added an upper bar that shows where the limit is, the player can see when he's going to lose clearer.
+I've added a background color to the pause and gameover texts.
+
+This image resumes all the changes:
+
+
+```
+Author:
+```
+medvednikov
+```
+Text:
+```
+
+Thoughts on the gray background?
+I prefer white to be honest.
+
+```
+Author:
+```
+Sag-Dev
+```
+Text:
+```
+
+I thought an almost white gray would be less tiring for the eyes and still get the same feeling. But I see why you prefer white, it looks cleaner indeed. Its other purpose was to make the play area stand out from the rest of the window.
+I think the best solution could be just in the middle. I can set the play area background to white and the rest of the window to gray. Would you like that better?
+
+```
+
+## 1499
+Title:
+```
+
+        flag: allow to define flags with abbreviation
+      
+```
+Author:
+```
+spacesinmotion
+```
+Text:
+```
+
+flag: allow to define flags with abbreviation
+flags could be defined to use a single char as abbreviation like
+'--output' or '-o'
+'--help' or '-h'
+the usage output is adapted as well
+
+```
+
+## 1477
+Title:
+```
+
+        compiler: cleanup module, rename pkg to mod. auto save file import table after import parse
+      
+```
+Author:
+```
+joe-conigliaro
+```
+Text:
+```
+
+file import tables automatically added to table.file_imports no need to manually add any more after parse
 
 ```
 

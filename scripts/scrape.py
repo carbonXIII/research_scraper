@@ -16,7 +16,8 @@ import requests
 
 from myutils import onerror, choose_subset, run_proc, clone, slurp, write_as_bytes
 
-code_extensions = ['cpp','c','cxx','py','sh','js']
+code_extensions = ['cpp','c','cxx','py','sh','js','java','glsl','hlsl']
+markdown_extensions = ['md','rst']
 comment_starters = ['//','#']
 to_clean = ['.','/','-']
 
@@ -24,6 +25,8 @@ comment_merge_distance = 5
 max_issues = 20
 max_inline = 20
 max_markdown = 20
+
+force_readme = True
 
 def parse_inline(qualified):
     with open(qualified, 'r') as g:
@@ -91,6 +94,13 @@ def extract_from_repo(repo, out):
         merged = parse_inline(qualified)
         out["inline"][cleaned_path] = merged
 
+    if force_readme:
+        readme_names = ['/./README.' + ext for ext in markdown_extensions]
+        for i,npath in enumerate(candidates["markdown"]):
+            if npath in readme_names:
+                if i not in markdown_:
+                    markdown_ += [i]
+
     for i in markdown_:
         npath = candidates["markdown"][i]
         print('Scraping',npath)
@@ -114,7 +124,7 @@ def _extract_from_repo(repo, out, path='/.'):
 
         if os.path.isdir(qualified):
             _extract_from_repo(repo, out, npath)
-        elif extension == 'md':
+        elif extension in markdown_extensions:
             out["markdown"] += [npath]
         elif extension in code_extensions:
             out["inline"] += [npath]
